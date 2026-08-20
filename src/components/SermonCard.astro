@@ -1,0 +1,30 @@
+---
+import { formatSermonDate } from "../lib/sermons";
+
+interface Props {
+  entry: {
+    id: string;
+    data: {
+      sermonDate: string;
+      title: string;
+      preacher: string;
+      theme: string | null;
+      scriptureReference: string | null;
+    };
+  };
+}
+
+const { entry } = Astro.props;
+const { sermonDate, title, preacher, theme, scriptureReference } = entry.data;
+---
+
+<article class="border-b border-pine/15 py-8 first:pt-0">
+  <p class="text-sm font-semibold tracking-wide text-gold">{formatSermonDate(sermonDate)}</p>
+  <h2 class="mt-2 text-2xl font-semibold leading-tight text-pine sm:text-3xl">
+    <a class="no-underline hover:underline" href={`/sermons/${entry.id}/`}>{title}</a>
+  </h2>
+  <p class="mt-3 text-base text-ink/75">{preacher}</p>
+  {theme && <p class="mt-3 max-w-3xl leading-7 text-ink/80">{theme}</p>}
+  {scriptureReference && <p class="mt-3 text-sm italic text-ink/65">{scriptureReference}</p>}
+</article>
+

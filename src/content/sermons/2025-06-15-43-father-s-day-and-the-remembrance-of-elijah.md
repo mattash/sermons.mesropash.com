@@ -1,0 +1,65 @@
+---
+archiveId: 43
+sermonDate: "2025-06-15"
+title: "Father's Day and the Remembrance of Elijah"
+preacher: "Unknown preacher"
+language: "Armenian and English"
+theme: "On Father's Day and the Remembrance of Elijah, the preacher delivers two sermons. In Armenian, he reflects on the role of fathers, noting that the Church is our mother and the Bible is our father—the greatest educational means for Christian life. In English, he explains the unique Elysian Fast (Fast of Elijah) following Pentecost, its seasonal and cultural significance, and its connection to the Holy Spirit. He then unpacks the Gospel reading about Christ referencing Elijah's mission to the widow of Zarephath, showing how Elijah's life prefigures Christ. The sermon calls the faithful to recognize that welcoming God into our lives brings expectations and obligations, but also sustaining blessings."
+scriptureReference: "Luke 4:25-26; James 5:16-17; John 1:1-18"
+liturgicalDay: "Remembrance of Elijah (Elysian Fast Sunday, post-Pentecost); Father's Day"
+sermonType: "Sunday homily"
+startSeconds: 4620
+endSeconds: 6780
+sourceVideoId: "Ys9_LHLZEu4"
+sourceVideoUrl: "https://www.youtube.com/watch?v=Ys9_LHLZEu4"
+sourceVideoTitle: "June 15, 2025 - Divine Liturgy"
+tags:
+  - "Baal"
+  - "blessings through obedience"
+  - "Church as mother and Bible as father"
+  - "Elijah"
+  - "Elysian Fast"
+  - "faithfulness and unfaithfulness"
+  - "Father's Day"
+  - "Holy Spirit"
+  - "Israel"
+  - "James"
+  - "James 5:16-17"
+  - "Jesus Christ"
+  - "John 1:1-18"
+  - "Luke 4:25-26"
+  - "Pentecost"
+  - "prophetic prefiguration of Christ"
+  - "Remembrance of Elijah"
+  - "repentance and fasting"
+  - "seasonal fasts in the Armenian Church"
+  - "Sidon"
+  - "St. John Armenian Church"
+  - "widow of Zarephath"
+  - "Zarephath"
+---
+[Armenian sermon]
+
+Ինչպես բոլորս գիտենք, այսօր հայրերի օրն է։ Օրն է, որ նվիրված է մեր հայրերին։ Լավ եմ հիշում, որ մեկ-երկու շաբաթ առաջ ընտանիքիս հետ մենք մի խանութի մեջ էինք՝ նվերների խանութ էր, և փնտրում էինք նվեր մամայի համար։ Եվ այնտեղ շատ հայրերի համար նվերներ կգտնվեին և քարտեր և այդպիսի բաներ։ Եվ ես տեսա, որ երեխաներս քովս էին, և ասացի կատակ անելով, որ դուք գիտեք, որ հայրերի օրը մոտենում է, և սա լավագույն առիթն է, որ դուք կատարյալ նվերներ ընտրեք ինձ համար, քանի որ արժանի եմ։ Եվ տղաս ինձ դարձավ, ասաց՝ «Ի՞նչ ես ասում»։ Ասացի՝ «Հայրերի օրը սենց սենց օր կա»։ «Ինչո՞ւ»։ «Ի՞նչ տեսակ տոն է»։ Ասացի՝ «Ես եմ քո հայրը, առանց ինձ դու գոյություն չունես։ Պիտի ինձ շնորհակալություն հայտնես, որ քո հայրն եմ»։ Սա հայր-մայրերի օր հասկանում է, ասաց՝ «Բայց չեմ հասկանում այս հայրերի օրը»։ Ուրեմն սենց պայքար կա մեր կյանքի մեջ խեղճ հայրերը, չէ՞։ Իրենք երբեք արժանի չեն մեր երախտագիտության համար, մեր շնորհակալության համար։ Սակայն ասիկա, եթե լավ հայրեր ենք, ասիկա բնական է, որովհետև լավ հայրը, իսկական հայրը ինքը չի ծառայում իր ընտանիքին, որ ճանաչվի, բայց ընդհակառակը՝ զոհողությամբ ինքը գնում է ամեն ինչ անելու իր ընտանիքի համար, որ է իր կյանքը և աշխարհը։ Եվ այդ սահմանից դուրս պետք չի ունենա որևէ ուրիշ ավելի կարևոր կամ մեծ մտահոգություն։
+
+Մեր ազգը ունի ասելիք, որ այսօր լավ եմ հիշում, որ եկեղեցին մեր մայրն է և Աստվածաշունչը մեր հայրն է։ Ուրեմն եկեղեցին մեր մայրն է, որովհետև ինքն է այդ հաստատությունը, որու միջոցով մենք Աստծո սերը կգտնենք, Աստծո խնամակալությունը, հոգածությունը կգտնենք եկեղեցվո կյանքի ներս։ Մենք կմեծանանք եկեղեցվո ծոցերում, որովհետև այս է միջոցը, որ մենք զգում ենք Աստծո ներկայությունը մեր կյանքի մեջ։ Բայց հայրը ինչո՞ւ Աստվածաշունչն է։ Ինչո՞ւ Աստվածաշունչը մեր հայրն է։ Որովհետև հայրը դաստիարակիչ է, և Աստվածաշունչը ամենամեծ դաստիարակչական միջոց, որ ունենք, է մեր կյանքի ներս։ Որովհետև եթե ծանոթ չենք Աստվածաշնչին, եթե չենք կարդացել, եթե իր դասերը մենք չենք ընդունել, չենք դաստիարակված որպես քրիստոնյաներ, որպես տղամարդիկ։ Ասիկա էական է, չի կարող երկրորդական լինել, որովհետև այն մարդ, որ Աստծո խոսքը գիտի, այն մարդն է, որ գիտի ինչպես ծառայել իր ընտանիքին, ճանաչում է արդարություն, ճանաչում է ճշմարտություն։ Ինքը կարող է զատել սխալը և ճիշտը, չարը և բարին։ Ուրեմն մեր բոլոր ներկա հայրերի համար ես առաջարկում եմ, որ ինձ հետ դուք ծանոթ դառնաք Աստվածաշնչին, որովհետև նվիրված է մեզ համար։ Ինքը նվեր է Աստծուց, նամակ է, սիրո նամակ է Աստծուց մեզ համար, որ մենք հասկանանք ինչպես դուրսավորվենք այս կյանքի ներս, այս աշխարհում, որպես մենք դառնանք այդ պատկեր Աստծո սիրո, որ ինքը ցանկանում է մեզ համար, որ այդպես ծառայենք մեր ընտանիքներին և մեր համայնքներին։
+
+[English sermon]
+
+Today is a day in the Armenian Church known as the Remembrance of Elijah. If anybody was following us on our Fast and Pray app, we've spent Monday through Friday participating in something known as the Fast of Elijah. This is an interesting and unique fasting period in Christianity. Other churches, our sister churches, have a period of time after Pentecost. Pentecost was last Sunday. After Pentecost, most traditional churches, our sister churches, have some kind of fast. But it's only in the Armenian Church that the fast following Pentecost is known as the Fast of Elijah. In fact, it's more appropriately translated as the Elysian Fast. The Elysian Fast.
+
+This is very interesting, and it's extremely unique that a prophet or a saint's remembrance day is on a Sunday. We sometimes get confused because saints' days happen in the middle of the week, on Saturdays, and we don't see each other, so then we come to church on Sunday, and we say Saint Sarkis or Saint Vartan or Saint James or whatever. But all of those feast days, all those celebrations happen during the week, not on Sunday, because Sunday is the Lord's day. But it's very unique that today is a day where, yes, it is the Lord's day, but we also remember the prophet Elijah after having just passed through this period of fasting, which is associated with Elijah.
+
+Now, a little bit of side tidbits. I always like sharing factoids as we deep dive in fasting at St. John, things you may or may not know. We're all learning these things for the first time. In the Armenian Church, they are called seasonal fasts. Every season has a fast associated with it. The Fast of Elijah is the summer season fast. And it is also associated with all of the things that are culturally relevant in our lives. For example, during the summer season, we're praying for the harvest to ripen. We're praying for God's bountiful gifts to be spread across the land. Culturally speaking, like in the fifteenth, sixteenth, seventeenth century, they would call the Fast of Elijah the Caterpillar Fast. It was the Caterpillar Fast because everybody was fasting and praying during this time that the caterpillars wouldn't come and eat all of their crops while they were growing. So we know it's important to fast while we're asking for something, for God's providence and his blessings in our life. However, it happens at the same time as Pentecost because all of these things have to do with the Holy Spirit. This is a time when we reflect on the Holy Spirit having some power and some role to play in our lives. If we don't give a place for the Holy Spirit to thrive in our lives—and fasting is a great opportunity to create that space for the Holy Spirit because we remove all of these other distractions and desires from our daily life, so we can encounter the Holy Spirit in our daily life—then it's not going to be there. The Holy Spirit is the sort of thing that you have to cultivate a relationship with by altering our lifestyle and our mindset. And another word for that, by the way, is repentance.
+
+So the Fast of Elijah leads us into this day known as the Remembrance of Elijah, and we have a gospel reading today where Christ is talking to us about—well, we're reading about Christ in another moment where he is reveling in the opportunity to make everybody really mad. He was really good at this. He would say things to provoke people to make them think. He would say things to offend them so that they would wonder, "Why is he saying this thing?" Very provocational in his own way. And the way that he's provoking people in his audience at this time is he says, "Therefore, confess your sins to each other and pray for each other so that you may be healed." We're praying for healing after Badarak today. The prayer of a righteous person is powerful and effective. Elijah was a human being. Oh, this is a reading from James, sorry. But yes, we remember James, the reading of James today, which speaks to us about Elijah too. Reading from the Gospel of Luke, it says, "In truth, I tell you, there were many widows in Israel in the days of Elijah when the heaven was shut up for three years and six months, when there came a great famine over all the land, and Elijah was sent to none of them, but only to Zarephath in the land of Sidon, to a woman who was a widow." And do you know what? He said this, and they wanted to throw him off a cliff for that. Literally, that's what it says. At the end of the message, they said that they were so mad that they led him to the brow of the hill on which their city was built that they might throw him off because he said this.
+
+Why? Why were they so upset? It's a very important question. Because what he's implying here is that God sent the prophet Elijah to somebody who wasn't one of them, who didn't belong to their group. Now, what was going on at that time was there was a great famine, a multi-year-long famine, and people—this was because people were unfaithful to God. They had rejected God. They had adopted another god. Foreign influence on their cultural and traditional lives won over, and they forgot the one true God, and they started worshiping this pagan god named Baal, as a side note. And so they were being punished, and there was a great famine, and everybody was suffering. And the prophet Elijah went to somebody who was not one of them. And what did he do for her? He cared for her. He fed her during a time when nobody was eating. He made her flour to multiply. This is a prefiguration of the miracle of the loaves and the fish. He gave her everything that she needed, and when her child died, he resurrected her child—the first resurrection in the Bible.
+
+The reason we remember Elijah today, by the way, is because his life is this great mirror, this reminder or prefiguration or type of Jesus Christ. He did all of these things for somebody who wasn't one of them. And they understood that Christ's message was, "When the Messiah comes, I am the Messiah. He won't come for all of you who forgot who he was. He's going to come for those who will receive him." And they understood the subtext of what Christ was trying to say, and they resented that deeply, which is why they wanted to punish him. They, of course, couldn't understand who Christ was and truly what it was he was offering them.
+
+So now we understand a little bit of the context, and what I want to say is this: Christ has told us already how awesome it is that this one widow, this pious widow, who was outcast from society and all alone, received the Prophet Elijah and all of the gifts associated with it. How wonderful is that? But when you read the account of the Prophet Elijah, you realize the widow, she was not too ready to receive him herself, because she said, "You are a man of God." And she understood that inviting him into her house would mean that there would be a lot of expectations. He was not an easy guy to be around. He was a difficult person to be around. He spoke the truth, and he spoke it plainly, and he expected the people around him to accept it and to act accordingly. He had high standards and expectations, which is why he was a prophet of God. In the Bible, he's called the man of God. And when he came to the widow bringing blessings, she said, "Wait, wait, wait, wait. I understand it's going to be really difficult having you in my house. This is not going to be easy, and this is not going to be fun." He wasn't there to crack jokes. He was there to help her live a righteous life.
+
+It's coming to the point of today's message. It's not easy being a man or a woman of God. It's not easy letting a man or a woman of God in our life. It's not easy letting Christ into our life when we realize that that comes along with expectations and obligations, with lessons that we are meant to learn and apply in our lives. But when we do accept them, and when we submit ourselves to them, when we form and manifest our life around this message, this presence in our life, then truly it does come with blessings. As in the case of Zarephath, it comes with the bread of life. It comes with whatever is needed for us to be sustained. We receive that same blessing that Christ is talking about today that drove the people that he was around at that time crazy, because they wanted it so bad, and they realized that they couldn't have it because they were unfaithful. But it remains for the faithful.
+
+On a day like today, on Father's Day, it's an opportunity for us to recommit ourselves in humility to being able to follow that example so that we can invite those blessings into the lives of our families. [The sermon concludes with a Trinitarian blessing in Armenian, largely unintelligible in the transcript: "…Հայր և Որդի և Հոգի Սուրբ։ Ամեն։"]

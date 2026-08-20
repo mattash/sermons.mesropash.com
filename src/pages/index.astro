@@ -1,0 +1,35 @@
+---
+import { getCollection } from "astro:content";
+import SermonCard from "../components/SermonCard.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const sermons = (await getCollection("sermons")).sort((a, b) =>
+  b.data.sermonDate.localeCompare(a.data.sermonDate)
+);
+---
+
+<BaseLayout>
+  <section class="mx-auto max-w-5xl px-6 pb-12 pt-16 sm:px-8 sm:pt-24">
+    <p class="text-sm font-semibold tracking-[0.18em] text-gold uppercase">Sermon Archive</p>
+    <h1 class="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-pine sm:text-6xl">
+      Homilies for reflection, prayer, and return.
+    </h1>
+    <p class="mt-6 max-w-2xl text-lg leading-8 text-ink/75">
+      A growing collection of finalized sermons by Fr. Mesrop Ash and guest preachers at St. John Armenian Church.
+    </p>
+    <p class="mt-6 text-sm text-ink/60">{sermons.length} finalized sermons</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 sm:px-8">
+    {sermons.length > 0 ? (
+      <div>
+        {sermons.map((entry) => <SermonCard entry={entry} />)}
+      </div>
+    ) : (
+      <p class="rounded-sm border border-pine/15 bg-white/60 p-6 text-ink/70">
+        Finalized sermons will appear here soon.
+      </p>
+    )}
+  </section>
+</BaseLayout>
+

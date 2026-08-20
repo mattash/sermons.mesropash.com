@@ -1,0 +1,60 @@
+---
+archiveId: 72
+sermonDate: "2025-03-30"
+title: "Fifth Sunday of Lent: The Sunday of the Judge"
+preacher: "Unknown preacher"
+language: "English"
+theme: "On the fifth Sunday of Lent (Sunday of the Judge), the preacher encourages the congregation to persevere in their Lenten disciplines even if they have stumbled, then expounds the parable of the unjust judge and the widow. He draws two lessons: persistence in prayer and confidence in Christ as the perfect judge. He connects this to the previous Sunday's parable of the unjust steward, identifying the rhetorical pattern of arguing 'from the stronger' — if even flawed people do good things, how much more will God, who is perfect, act for our benefit. He illustrates this with examples from Matthew 6, parental love, and human sacrifice, culminating in God's sacrifice of his Son and the promise of resurrection."
+scriptureReference: "Luke 18:1-8; Luke 16:1-13; Matthew 6:25-30"
+liturgicalDay: "Fifth Sunday of Lent (Sunday of the Judge)"
+sermonType: "Sunday homily"
+startSeconds: 5220
+endSeconds: 7380
+sourceVideoId: "hNqnzZDIm_I"
+sourceVideoUrl: "https://www.youtube.com/watch?v=hNqnzZDIm_I"
+sourceVideoTitle: "March 30, 2025 - Divine Liturgy"
+tags:
+  - "Artsakh"
+  - "God as perfect and merciful judge"
+  - "Gussig"
+  - "KZV"
+  - "Lenten discipline and perseverance"
+  - "Luke 16:1–13"
+  - "Luke 18:1–8"
+  - "Mane"
+  - "Matthew 6:25-30"
+  - "Mellie"
+  - "negative exemplars in parables"
+  - "persistence in prayer"
+  - "Resurrection and new life"
+  - "rhetorical pattern of 'from the stronger'"
+  - "sacrifice"
+  - "San Francisco"
+---
+Now I'm going to come back to why those two scenarios are somewhat similar and what that means for us. But we're here now in the fifth week of Lent. We're past the midpoint of Lent. We passed Mee Chink last week. And I want to take this opportunity to encourage you to double down on your Lenten promises, however it is that you are participating in Lent, and I hope that it is through serious reflection, fasting, and prayer. And I hope that you're using Fast and Pray, the tool which we built for you to help support that journey. It's not too late.
+
+I will let him remain unnamed, but I asked recently a young person how Lent was going for them, and they said, well, I already messed up, so it's over. It's not like a survival of the fittest scenario, where you just get to kind of bow out when you mess up. You mess up because in life you mess up all the time. And it's okay for us to try and try and try again. In fact, that's the number one lesson of Lent is we just have to keep trying even though it's hard. That's why we make it hard. Right, guys?
+
+Mellie, how is your Lent going? Yeah? What was your Lenten promise? You're praying more? That's a fantastic Lenten promise. I love it. And do you feel good when you pray? Are you praying for your little brother? Bravo. God bless Gussig. Can we call him Gussig? Okay, Gussig. God bless Gussig.
+
+Well, we all, God willing, have our Lenten promises, and I just want to take this opportunity to encourage you to go deeper into your Lenten promise, because we're past the halfway point. We've gotten to the top of the hill, and now we're on the down slope of the hill, okay? And it's going to accelerate and then it's going to be Holy Week and you're going to be like, what happened to the past couple weeks? It's going to come sooner than you realize it. But remember, this is a blessed time for all of us, which was designed for us and for our benefit by our Lord and Savior Jesus Christ through his example and through his teachings.
+
+And so we find ourselves here in this Sunday, which is known as the Sunday of the Judge. On the Sunday of the Judge, we read a parable, as I mentioned, about something which seems a little bit familiar to us until last week, and I'll get into how.
+
+So in the parable today, we're told about a widow who had a request, which she needed to have decided by the judge in her favor, but the judge was an unjust judge, meaning he wasn't motivated by the right things. Now, this might be hard to believe, but human beings that are judges in this world are not all, in fact, perfectly impartial people. And some of them might have their own self-interest in mind when they make decisions about things that affect other people. That happens today, and that happens then as well. So this man, the gospel tells us, feared neither God nor man, and he did what he wanted for the reasons that he wanted to do it. He wasn't interested in righteousness. And so even though she had a just cause, the judge wouldn't hear her case because he had nothing to gain from it. He had nothing to benefit from it. She was a poor woman who had no standing in the community. Why stick his neck out judging in favor of this woman? But she was persistent. She was persistent. And persistence has its own quality in this life, to be sure. And so because of her persistence, eventually the bottom line is this judge who was not great at his job was just so tired of her bugging him that he decided to listen to her request and eventually sided in her favor.
+
+Now, the lesson here is ultimately two things. One is in our own prayer life, we have to be persistent. Not that we have to bug God, but we have to not feel like there's a limit to how much time — Mellie, right? Because you're praying more in this Lenten season. There's not a limit to how many times we should ask for something, okay? If we believe that God is going to hear our prayers, then we should just feel like we can pray to him any time that we want, all right? And that he's going to hear us. And there's no limit to how much we should be praying to him. So the first lesson is persistence.
+
+But the second lesson is a lesson about this judge who was unjust eventually doing the right thing for the wrong reasons, okay? And Christ tells us, if this judge who was a bad guy did the right thing for the wrong reasons, then how much better will be the judgment of Jesus Christ, who is going to be our judge, but does everything always for the right reasons, decides everything correctly out of mercy, compassion, and love for our benefit, understands everything about us in our lives perfectly, and has already sacrificed himself for the sake of our salvation, okay? So if a bad judge can do the right thing for the wrong reasons, then how great and how thankful and lucky and grateful should we be that we have a perfect judge who's always going to do everything for the right reasons.
+
+Now, how does this compare to last week's message? Well, there is a similarity here. If we remember the parable of the steward, once again, we're given as an example, a bad guy. We're given what is called a negative exemplar. We're given this person who is held up to us to teach us a lesson who's not a good person. You guys weren't in church last week — I'll sum it up real quick. The unjust steward was a guy who was worried about what was going to happen to him. So he did a bunch of naughty things. He did a bunch of underhanded things. He lied and in a way stole. And eventually, he's okay in the end. The thing that he wanted to avoid happening, it doesn't happen to him. It works out, all right? Because he was very clever about doing things to protect himself. And the lesson there was, hey, here's a bad guy who eventually protected his own future because he was very opportunistic, clever, and organized, all right? Well, what about you, who's a Christian, all right, who has a great future in store for you, a future in the heavenly kingdom, right? Shouldn't we be doing everything we can to be organized and intentional and purposeful to protect our own future by being good people and by following Jesus Christ and being a part of the church and talking to him in prayer and doing things that he says we should do? Yeah, we should.
+
+So I thought this is an interesting pattern. We're given this example of something that's kind of negative and we're told, well, this positive thing is greater. We should go after that. Turns out that this is a rhetorical pattern, which is called "from the stronger." Which goes like this: if an elephant can't fit in a room, then it can't fit through the door. That's the same logic. And this is actually applied in another part of the gospel. If you remember from Matthew 6, Jesus says, look at how the birds are adorned and how beautiful their feathers are, right? And he says, and look at the field with all of its flowers decorating it and how luscious and fruitful and beautiful it is. And this is some grass and a bird, all right? But you are the best thing that God ever created. If he took care of those things that way, then how much more is he going to take care of you?
+
+Let's look at it another way. Let's come up with a few of our own examples. Do we have a mom or dad that loves us very much? Yeah? I love you very much, Mane. And I know your moms and dads, and they love you guys very much. All right? These are your moms and dads here on earth. But imagine how much more God loves you. He loves you perfectly. And he knows everything about you. Everything that ever has happened and everything that will ever happen, and he loves you perfectly, okay?
+
+Have you guys ever given something up for somebody else, maybe given a bit of your lunch to somebody else because they were hungry? Have you guys ever done that? Maybe, or maybe you gave a donation to somebody, like they were fundraising for something at school, and you brought like a dollar from your piggy bank or something like that to give them some money to help with a thing like that. I know we do that at KZV for Artsakh and for other things all the time, right? And that's a bit of a sacrifice. Giving something that's ours for somebody else is giving something up. Sometimes it can be really hard to sacrifice. All right, but if you can do that, imagine what God can sacrifice for us because he knows how to perfectly sacrifice. And do you know what he perfectly sacrificed for us? His son, Jesus Christ.
+
+So this is a powerful way for us to understand God. These little things in our lives can give us examples of how much more powerful something can be if we understand it the right way. And as we're getting ready for Easter, I want us to understand that there is something very powerful waiting for us. And that power is the resurrection. That power is new life, okay? If you love your life, that's great. But guess what? The new life through the resurrection is even better. It's something much greater than that. If this life is great, that's good. But guess what the other one is? A thousand times better, right?
+
+So everything that we're learning about during Great Lent is helping us get ready for that moment, to be thankful for that. As we continue in Fast and Pray this week in our daily devotionals, we're going to be talking about sacrifice and transformation, and I hope that you guys will follow us online with all of the lessons that we'll be offering there. And next week as I mentioned I'll be away from the parish, but we're so grateful to have all of our devoted altar servers who are going to lead us in morning prayers next week, so please be sure to join us. Amen.

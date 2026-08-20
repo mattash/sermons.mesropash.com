@@ -1,0 +1,47 @@
+---
+archiveId: 24
+sermonDate: "2025-11-02"
+title: "Jesus Invites Us to Be His Children"
+preacher: "Unknown preacher"
+language: "English and Armenian"
+theme: "A children's sermon using relatable examples (video games, dinner time, a hypothetical billionaire's offer) to illustrate that Jesus invites us to be his children and inherit everything. The preacher explains that Jesus, as creator of all, offers us the greatest deal: do what he says and be part of God's family. Children suggest examples of Jesus' commands—avoiding sin, helping the poor, loving one another—and the preacher emphasizes obedience without excuses, even when it costs us something. A brief Armenian reflection follows, reinforcing that the Gospel's deepest truths are often simplest, and that the Church's role is to help one another live out our Christian calling."
+scriptureReference: null
+liturgicalDay: null
+sermonType: "Children's sermon / homily"
+startSeconds: 7012.085271
+endSeconds: 8212.085271
+sourceVideoId: "_Dnum007V8U"
+sourceVideoUrl: "https://www.youtube.com/watch?v=_Dnum007V8U"
+sourceVideoTitle: "November 2, 2025 - Divine Liturgy"
+tags:
+  - "Avoiding excuses"
+  - "Church as community of mutual help"
+  - "Cost of discipleship"
+  - "Forgiveness"
+  - "Gevorg"
+  - "Helping the poor"
+  - "Igor"
+  - "Inheritance in God's family"
+  - "Lena"
+  - "Loving one another"
+  - "Obedience to Christ"
+  - "Rafi"
+  - "Sako"
+  - "Simplicity of the Gospel"
+  - "Sophia"
+---
+[English sermon]
+...20 minutes, and then you ask for 20 more minutes. Meanwhile, dinner is frozen already. So mom says, "It's time for dinner." You say, "Just give me 20 minutes to finish my game." 20 minutes go by, and then you ask for 20 more. Man, dinner time is a rough one, right? Eat your food, sit down normal, those sorts of things. I think I got enough examples, Sophia, but I bet yours is really great. Last one. I can't say no to you. So for example, if you play a game and then your friend — hmm. That would definitely make them feel very frustrated and not respected.
+
+Now, let me ask you this. What if the richest person in the world came to you and said, "If I tell you to do this thing that I want you to do" — let's assume it's a good thing, too, for this example — "Okay, I want you to go and help this person, okay? I want you to go be with this person because they're sad. Okay? This friend of mine is really sad. Can you please go sit with that person and just... you don't even have to say anything. Just go spend time with them. And if you do that, you can be my inheritor. Whatever I have, I'm gonna give it to you. You can be the richest person in the world. Okay? I've got $10 billion, and if you do what I tell you to do, then I'm gonna put you in my will, and you can have whatever I have." Would you guys listen to that person? Yes. No. No? Yes. Why no? I would. Yeah. No. Definitely. Definitely. Why not? No, I would not listen. Why, Rafi? I think I would listen to him. Ah, you would do the right thing one way or the other, right? Yeah. With the right thing — no. Me too. Would you do it, would you do it if it cost you something? Yes. Depending. What would it cost? I don't want it. Huh? What would it cost? Let's see. What would it cost? It would cost you time. Okay. That's okay if it costs you time. What if it costs you money? And it costs you something — um, I would say one. Yeah. Like one dollar. I don't mind. You don't mind? I would say one. So you would not spend the money you have in order to one day get $10 billion? No. Oh, yeah. Definitely. Okay. "It's all about strategy," says Lena. It's all about strategy.
+
+Well, I want to tell you guys about a good strategy, okay? Jesus is making a really great deal here. All right? So listen up. Jesus is the creator of heaven and earth, and of everything that has ever existed and ever will exist, and everything that you can see and everything that you can't see, and all of it belongs to him, and he says, "You can be my inheritor. I will give you everything that I can give you." All right? "All you have to do is do the things I'm telling you to do, and you can be part of my family." Would you listen to that? Yes. Yeah. That seems like a pretty good deal. It seems like a pretty... You don't have to leave your family — oh — in this scenario, Gevorg. In this part, your family gets to do it with you, and you all get to be part of God's family together.
+
+Now, this is what Jesus is telling us in the passage today. He's making a really great deal. He's saying, "Just do what I tell you to do. Listen to what I'm saying and do it, and you can have everything." Okay? Now, the funny thing about this is a lot of people hear this offer, and then they don't do it. Why? I don't know why. I don't know why they wouldn't do it. It's such a great offer. Not only is Jesus offering that to us, but he also said, "In order for me to make this offer good, I have to die, and I'm willing to do it for you." Yeah. He gave everything, and he's willing to give even more, but all we gotta do is listen to what he says and then do it. And sometimes it can be hard, and sometimes it can cost us something. But it's never gonna cost us more than what we're being given. That makes sense, right? It's a good strategy.
+
+Can somebody think of a time... let's think of something that maybe we can remember that Jesus told us that we should do. What would be an example of that? Igor? Um, uh, um, try not to sin and you accidentally do. Jesus told us to try not to sin, and sometimes we accidentally do. Okay. That's a good example. Sako? To help the poor. That's a very good example, Sako. Thank you very much for giving me that example. So you can give the poor something that they need because Jesus has asked us to do that. It doesn't have to make sense for you, just like it doesn't make sense sometimes why your mom tells you to put your clothes away or to wash the dishes. Why do I have to do that? There's a lot of other people that can wash dishes in the world. Why is it my job? Because that's what she told you to do. And Jesus told us to help the poor. Doesn't have to make sense to us. We just have to do it. What else? Love each other. Yeah. That's right. Jesus said that we have to love each other and that can be very hard sometimes. That can be the hardest thing to do sometimes. But then we have to remember, oh, what was the deal? I just have to do it. We don't have to make it complicated. I'm just going to do it because Jesus told me to. Yeah. Uh, in what sense? Hmm, like wine? Where I try to make excuses to not do the thing that you don't want to do? Yes, making excuses is not good. Jesus doesn't want to hear that. When he says you've got to love one another and then you say, "Yeah, but Jesus, that person is really stinky." Do you think he likes it when you make an excuse like that? No. No, he doesn't want to hear excuses. He said, I just told you to love this person. Go ahead and do it. And then you get everything.
+
+So guys, here's the lesson I want you to remember from the passage today, which is that Jesus every day is inviting us to be his children, part of his family in the most intimate way possible. And that's the thing that we want to be. We want to be part of his family because being part of his family is a huge blessing and it brings wonderful things into our lives now and especially in the future. And all we have to do is learn about the things that he's telling us to do and do our best to do them. Even though sometimes we can't do it as well as we think we should, we just have to try our best. Okay? And God will honor his part of the deal. God bless you guys.
+
+[Armenian sermon]
+Իսկ ալ այս մեր հավատքի ամենախորք մասերը ավելի հասկանալի են մեր երեխաների համար, քան մեզ երբեմն, որովհետև շատ պարզ ձևով խոսում է մեր Տերը երբեմն, և մոր մենք մտածում ենք, որ Աստվածաշունչը, Ավետարանը անհասկանալի է, անկարելի է մեզի համար արգելու, ըստ այդմ ապրելու։ Պիտի հիշենք, որ ժամանակ առ ժամանակ Հիսուս կհայտնե ամենապարզ ձևով՝ ինչպես կարելի է իր ճանապարհով քայլել։ Պիտի լսենք իր խոսքը և պիտի կատարենք զայն։ Եվ եթե չենք հասկանար՝ ինչպես կարող ենք կատարել, պարզապես պետք է այս հարցումները հայտնենք իրար։ Տեր Հայր, ես չեմ հասկանար՝ ինչպես Հիսուս սպասում է, որ սենց անեմ, որ ես, օրինակի համար, ներեմ եղբորս, և որ ինձի համար աններելի մի բան կատարեց։ Պիտի ներենք։ Շատ պարզ է։ Ավետարանը ասում է, որ պիտի ներենք։ Հարց չկա, եթե պետք է կամ ոչ։ Պետք է։ Բայց կատարման մեջ դժվարություններ կան։ Դա չի նշանակեր, որ կարող ենք պատճառաբանել։ Ընդհակառակը, ինչպես մեր սիրելի երեխաները հասկացան, պետք է ձևը գտնենք։ Դա կամ մնաց մեզ, բայց այդ օր համար իրարու պետք է օգնենք։ Եկեղեցվո պաշտոնը մեր կյանքի է ներս, և գործը այդ է՝ իրարու օգնել, որ իրարում են ժամանակի մենք իրականացնենք մեր քրիստոնեական կոչումը։ Ի փառս Ամենասուրբ Երրորդության՝ Անուն Հոր և Որդվո և Հոգվույն Սրբո, ամեն։

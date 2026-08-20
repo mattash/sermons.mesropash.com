@@ -1,0 +1,74 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { formatSermonDate, videoStartUrl } from "../../lib/sermons";
+
+export async function getStaticPaths() {
+  const sermons = await getCollection("sermons");
+  return sermons.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry }
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const sermon = entry.data;
+const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
+---
+
+<BaseLayout title={`${sermon.title} | Sermons | Fr. Mesrop Ash`} description={sermon.theme ?? sermon.title}>
+  <article class="mx-auto max-w-3xl px-6 pb-12 pt-14 sm:px-8 sm:pt-20">
+    <a class="text-sm font-semibold text-pine underline decoration-gold decoration-2" href="/">← All sermons</a>
+    <p class="mt-10 text-sm font-semibold tracking-wide text-gold">{formatSermonDate(sermon.sermonDate)}</p>
+    <h1 class="mt-3 text-4xl font-semibold leading-tight text-pine sm:text-5xl">{sermon.title}</h1>
+    <p class="mt-5 text-lg text-ink/75">{sermon.preacher}</p>
+    {sermon.scriptureReference && <p class="mt-3 text-sm italic text-ink/65">{sermon.scriptureReference}</p>}
+
+    <div class="mt-8 border-l-4 border-gold bg-white/55 px-5 py-4 text-base leading-7 text-ink/75">
+      <p>{sermon.theme}</p>
+    </div>
+
+    <a
+      class="mt-8 inline-flex rounded-sm bg-pine px-5 py-3 text-sm font-semibold text-white no-underline transition hover:bg-pine/90"
+      href={videoUrl}
+      target="_blank"
+      rel="noreferrer"
+    >
+      Watch on YouTube
+    </a>
+
+    <div class="sermon-text mt-12 text-[1.08rem] leading-8 text-ink/90">
+      <Content />
+    </div>
+
+    {sermon.tags.length > 0 && (
+      <section class="mt-12 border-t border-pine/15 pt-6">
+        <h2 class="text-sm font-semibold tracking-wide text-pine uppercase">Topics</h2>
+        <ul class="mt-3 flex flex-wrap gap-2 p-0">
+          {sermon.tags.map((tag) => <li class="list-none rounded-full bg-pine/8 px-3 py-1 text-sm text-pine">{tag}</li>)}
+        </ul>
+      </section>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .sermon-text :global(p) {
+    margin: 1.25rem 0;
+  }
+
+  .sermon-text :global(h2),
+  .sermon-text :global(h3) {
+    color: var(--color-pine);
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 2.5rem 0 1rem;
+  }
+
+  .sermon-text :global(a) {
+    color: var(--color-pine);
+    text-decoration: underline;
+  }
+</style>
+

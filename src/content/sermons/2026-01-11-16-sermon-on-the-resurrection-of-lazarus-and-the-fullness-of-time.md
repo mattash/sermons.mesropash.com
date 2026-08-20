@@ -1,0 +1,54 @@
+---
+archiveId: 16
+sermonDate: "2026-01-11"
+title: "Sermon on the Resurrection of Lazarus and the Fullness of Time"
+preacher: "Unknown preacher"
+language: "Armenian and English"
+theme: "Within the octave of Theophany, the preacher reflects on the Gospel reading of Lazarus's death and resurrection (John 11), highlighting Christ's striking statement that he was glad he was not present to heal Lazarus before he died. The sermon connects this to God's timing—prayers may go unanswered in the moment not because they are contrary to God's will, but because God waits for the fullness of time to reveal His glory. The preacher also draws on the Nativity-period reading of the Holy Family's flight to Egypt as refugees, reminding the congregation that we too live as refugees in this world, awaiting our true home in the kingdom of heaven."
+scriptureReference: "John 11:1-43; Matthew 2:13-18 (implied — Herod's massacre and flight to Egypt)"
+liturgicalDay: "Theophany / Epiphany octave (Blessing of Water Sunday)"
+sermonType: "Sunday homily (within Theophany octave)"
+startSeconds: 5820
+endSeconds: 7980
+sourceVideoId: "MV5LHHd-6Jc"
+sourceVideoUrl: "https://www.youtube.com/watch?v=MV5LHHd-6Jc"
+sourceVideoTitle: "January 11, 2026 - Divine Liturgy"
+tags:
+  - "Christ's humanity and grief"
+  - "Egypt"
+  - "Faith through delay"
+  - "Glory of the Holy Trinity"
+  - "God's timing and the fullness of time"
+  - "Israel"
+  - "Jesus Christ"
+  - "John 11:1-43"
+  - "King Herod"
+  - "Kingdom of Heaven"
+  - "Lazarus"
+  - "Lazarus resurrection as sign of Christ's power"
+  - "Martha"
+  - "Mary"
+  - "Matthew 2:13-18 (implied — Herod's massacre and flight to Egypt)"
+  - "Nativity and Theophany"
+  - "Refugeehood and exile in this world"
+  - "Saint Joseph"
+  - "Saint Mary (Virgin Mary)"
+  - "Unanswered prayers and divine will"
+---
+[Armenian sermon]
+
+Let us consider the resurrection of Jesus Christ. And during this period of resurrection, we know that Jesus was not present when Lazarus died. And naturally, because he was a close and beloved friend not only to Jesus but to all the disciples, they were in mourning and grief when the news reached them that he had died. And Jesus clearly says that he must plainly tell them that he has died. And he says: "I am glad that this happened," meaning, when I was not there, so that you may see and believe in me. What an interesting question, what words these are: "I am glad that my friend died, and that I was not there to save him, to heal him, so that you may believe in me." These are the words we should focus on today.
+
+[English sermon]
+
+To catch you all up in English on what I just mentioned in Armenian: during this period of the eight days of the Nativity, we have a series of Bible readings which you can follow in the lectionary of the Armenian Church, using our calendars. There are new calendars, by the way, that you can take home with you for 2026 that include readings from the church. They're in the vestibule. But of course, you have access to the church's lectionary online from many sources. There's an app called Daily Worship, and then there's the app which our parish has produced, which is called Fast and Pray. And every day you can find the readings according to the tradition of the Armenian Church. And all of these readings are connected somehow, of course, to the Nativity and Theophany of our Lord and Savior Jesus Christ. And they're very challenging sometimes, in order for us to understand how they're applicable both to the Nativity and also to our own lives.
+
+I reflected how there was a series of requiem services and funerals that took place over this past week that we participated in. And on one of those days, the reading, according to the day, spoke about the events after Jesus Christ's birth, when by the order of King Herod, the soldiers went out into the land and they were ordered to kill all the firstborn sons, lest they should become a threat. Because King Herod was aware of the prophecy that the new king of Israel was born. And so he sought to remove this threat by killing these newborn children. And hearing this news, Saint Mary with Saint Joseph and the newly born Savior Jesus Christ were forced to leave and go into the land of Egypt, as refugees for a period of time. And on that day, at that funeral, we made an interesting connection there, that this is a reminder for all of us that we're all refugees in this life. Everything that Jesus Christ did was an example for us. Nothing was done that doesn't serve as a lesson for us. And even in the first days of his life, as he became a refugee, along with his parents living in the land—the last place that a person, that a child of Israel would want to go, the land of Egypt, from which they had escaped, the land which was considered the land of death and slavery—but he went into that land because this is where we are today in our lives. We live as refugees in this world, in this life, in this world which values death more than life itself, and whose teachings contradict his own teachings. And so this period of refugeehood that we all live in is temporary. As Christ came out of it, so too will we come out of it when we are embraced in that place which we belong, which is the kingdom of heaven.
+
+The passage that we read about today is an interesting passage from the Gospel of John, chapter eleven. You can feel free to read along in your pew books in the Gospel of John, chapter eleven, verses one to forty-three, I believe. And they're, of course, also found in your Sunday bulletins. Now, in this passage, we read about the events associated with the death and resurrection of Lazarus, the brother of Martha and Mary, and a dear friend to Jesus Christ and the disciples. News reached them of his illness and of his imminent death. And Christ, because his first and of course most vital priority was always to do the will of his Father, was where he needed to be, and where he needed to be in that moment was not at the side of one of his closest friends, who, of course, he had the ability to heal, with all righteousness and in accordance with the Lord's will. But that was not where he belonged. He was instead where he needed to be. And so he was delayed. And then the news reached them of Lazarus's death. And it was said that the disciples were very saddened by this news.
+
+Now, how does Christ respond to this? You and I both know the story of Lazarus, Lazarus's resurrection, that Christ eventually would make his way to Lazarus' side and he would raise him from the dead. We celebrate this also very notably in the week prior to the feast of the resurrection, on the Saturday before Easter, the day before Palm Sunday. However, how does Christ respond to this? He says, "I am glad that I was not there, so this should happen and so that you should understand my power." He said that he was glad that his closest friend had died in that moment. And that's a very striking phrase for us to wrestle with as Christians today. We know how deeply he was touched by this event, how saddened he was in his humanity. In fact, we know that as he came and he saw the corpse of one of his closest friends, Lazarus, that he wept there for him, that he grieved. That he knew grief like you and I know grief in this life when we lose somebody who is very close to us. Yet in the days prior to that, when he couldn't be at his side to heal him, when certainly he could absolutely heal him, he said, "I am glad that this happened." He knew ultimately that he was meant to resurrect Lazarus as a sign of the first fruits, as a sign of what is possible by our Lord and Savior Jesus Christ.
+
+But if we look deeper into that and what that means for you and I, then we have to understand that there are times and seasons in our life, even in the midst of this period of nativity, when we have to understand that when our prayers are not immediately answered by Jesus Christ, it is not because what we are asking for is against His will, but it's because He is waiting for our prayers to be answered in the fullness of time so that His glory can be revealed. And such was the case with the resurrection of his friend Lazarus. He was glad because, yes, he could have saved him when Martha and Mary and the disciples wanted to save him before he died. But that was not God's will, and that was not what would ultimately bring them and all of us to a deeper understanding of the nature of our Savior, of His love and the extent of His power. Instead, it was righteous that he should wait till after he was dead for that which God willed to be done.
+
+So today, whether it's in our personal lives or whether it's in the tribulations that we face as a people, as a nation, we have to understand that there are things that from the depths of our hearts that we are calling for from our Lord so that He should enter in and intercede, and He should heal, and He should make whole, and His glory should be revealed. But there are times when we struggle, and when we doubt, and when we feel lost, and we wonder why our prayers aren't being answered, where just as Christ said to the disciples at that time, He is saying, "How glad I am that I had not intervened sooner, because soon they will know the extent of my power by virtue of God's will being done in the fullness of time for the glory of the all Holy Trinity." In the name of the Father and the Son and the Holy Spirit. Amen.

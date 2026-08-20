@@ -1,0 +1,89 @@
+---
+archiveId: 4
+sermonDate: "2026-05-31"
+title: "Remembrance of the Prophet Elijah: False Idols, the Fire of God, and the Still Small Voice"
+preacher: "Unknown preacher"
+language: "Armenian and English"
+theme: "On the Sunday commemorating the Prophet Elijah, the preacher connects Pentecost and the descent of the Holy Spirit as fire with Elijah's showdown on Mount Carmel, where God's fire consumed the sacrifice. The homily warns against modern false idols—social media, wealth, status—and calls the faithful to root them out through confession and devotion. A children's message recounts Elijah hearing God not in the storm or wind, but in the still small voice, teaching that God is encountered in quietness and peace."
+scriptureReference: "1 Kings 18 (Elijah on Mount Carmel); 1 Kings 19 (Elijah hears God in the still small voice); Acts 2 (Pentecost); Matthew 6:24 (No one can serve two masters)"
+liturgicalDay: "Second Sunday after Pentecost; Remembrance of the Prophet Elijah"
+sermonType: "Sunday homily with children's message"
+startSeconds: 8820
+endSeconds: 10980
+sourceVideoId: "9bgaEZG0QJY"
+sourceVideoUrl: "https://www.youtube.com/watch?v=9bgaEZG0QJY"
+sourceVideoTitle: "May 31, 2026 - Divine Liturgy"
+tags:
+  - "1 Kings 18 (Elijah on Mount Carmel)"
+  - "1 Kings 19 (Elijah hears God in the still small voice)"
+  - "1 Kings 19 (Elijah in the cave, the still small voice)"
+  - "2 Kings (Elijah's ascension)"
+  - "Acts 2 (Pentecost)"
+  - "Ani Bazikyan"
+  - "Anoush Maghdissian"
+  - "Arani Arabatian"
+  - "Asherah"
+  - "Baal"
+  - "Bradley Klein"
+  - "confession"
+  - "Craig Bazikyan"
+  - "Elijah"
+  - "Eucharist"
+  - "false idols"
+  - "False idols and idolatry in modern life"
+  - "Fire as symbol of God's power and presence"
+  - "fire of God"
+  - "first commandment"
+  - "Gayane Arabatian"
+  - "God's still small voice"
+  - "Holy Spirit"
+  - "Humility and sincere prayer"
+  - "humility in prayer"
+  - "Jesus Christ"
+  - "KZV Armenian School"
+  - "Leslie Bazikyan Kissick"
+  - "Levon Baghdasarian"
+  - "Matthew 6:24 (No one can serve two masters)"
+  - "Millie"
+  - "Millie (Sunday school student)"
+  - "Mount Carmel"
+  - "Mount Carmel"
+  - "Mount Carmel showdown"
+  - "Nairi Arabatian"
+  - "Pentecost"
+  - "Pentecost and the Holy Spirit"
+  - "Prophet Elijah"
+  - "Prophet Elijah"
+  - "Prophet Elijah as a type of Christ"
+  - "Rafi Arabatian"
+  - "Rafi Ohanian"
+  - "Requiem and remembrance of the departed"
+  - "revelation of God"
+  - "Rose Misakian"
+  - "Sekharak Maghdissian"
+  - "Sevag Artun"
+  - "Sidan Sarkissian"
+  - "still small voice"
+  - "Tamar Artun"
+  - "The Eucharist and Holy Communion"
+  - "Tina Klein"
+  - "Upper room"
+  - "Upper Room (Vernatun)"
+  - "Zara Baghdasarian"
+  - "Zareh Arabatian"
+---
+Եկեղեցական տոներին տարվա ընթացքին և այս մեկը յուրահատուկ է, որովհետև անունով նվիրված է Եղիա մարգարեին, սակայն փաստորեն մեր շաբաթական պակերը այդպես ձևավորված չեն հիշելու սրբեր մեր եկեղեցական մեր կյանքի ավաշխարհության համար են, ուղղակի կհամընկնի այս առիթին, բայց մենք կհիշենք կապը, որ կա, որովհետև ճիշտ Հոգեգալուստից հետո մենք կմտնենք այս պահին։ Եվ ասիկա առիթ է, որ մենք անդրադառնանք, թե ինչ է նշանակում Հոգեգալուստը մեր եկեղեցու համար յուրաքանչյուրիս համար, որովհետև անցյալ շաբաթ մենք հիշեցինք այդ կարևոր, շատ կարևոր, աննման գերավոր պատմական դեպքը, որ եղավ Վերնատան մեջ Հիսուսի իր համբարձումից հետո տասը օրից հետո, որ եղավ հարությունից հիսուն օրից հետո։ Եվ դա կոչվում է Հոգեգալուստը, որովհետև Հիսուս անընդհատ մարգարեում էր, մարգարեում էր, խոստանում էր, որ մխիթարիչը պիտի գա, որ հոգին պիտի գա, որ այն, ինչ որ իրենք պետք ունեին շարունակել առանց Հիսուսի իր ֆիզիկական ներկայության պիտի գա և եկավ, եկավ այդ առիթին որպես օրհնություն, մնայուն օրհնություն, որ եկեղեցին, որ քրիստոնյա եկեղեցին ծնվի և ծնավ։ Եվ մինչև այսօր այդ ծնունդը կշարունակվի յուրաքանչյուրովս։ Ուրեմն Սուրբ Հոգին եկավ, իջավ, և մենք կարդանք առաքելական ընթերցումների մեջ Գործոց գրքում, որ եկավ, ինչպես երևացավ, ո՞վ կհիշի։ Կրակի պես երևացավ, չէ՞։ Կրակով լեզուներ առաքյալների վրա։ Այդ ի՞նչ նշան էր։ Կա բազմաթիվ սխալ ուսուցմունքներ այդ փաստի մասին։ Բայց ճշմարտությունը այն է, որ երբ որ կրակ ենք տեսնում, դա մեզ հիշեցնում է Աստծո զորությունը։ Կրակը վախնալիք բան չէ։ Եթե դուք գիտեք և հասկանում եք ինչ է, ուրեմն երեխան, որ չի հասկանում ինչ է կամ կենդանին, որ չի հասկանում ինչ է կրակից վախանում է, բայց մենք հարգում ենք կրակին, որովհետև առանց այդ կրակի ուժը կյանք կարելի չէ մարդկության համար։ Հոգեպես նույնն է մեզի համար, որովհետև առանց Աստծո ուժը, զորությունը կյանք կարելի չէ։ Եվ դա խորհրդապես ներկայացվում է մեզ որպես կրակ։ Այդ պահին, երբ որ Սուրբ Հոգին իջավ իրենց վրա։ Ուրեմն այստեղ կրնանք գիծերը քաշել Հոգեգալուստի և Եղիա մարգարեի պատմության հետ, որովհետև ովքեր իմանում են Եղիա մարգարեի պատմությունը, պիտի հիշեն ամենամեծ դեպքը ինչ էր իր կյանքում։ Շատ կարևոր և նշելի դեպքեր եղած են Եղիա մարգարեի կյանքում Հին Կտակարանում, բայց նրանց մեջ ամենամեծ է այդ պայքարը, որ եղավ Եղիայի և հեթանոսական քահանաների հետ Կարմել լեռան վրա։ Եվ այնտեղ իրենք ասում էին, որ իրենց աստվածները ավելի ուժեղ էին։ Եվ Եղիան ասում էր. «Ո՛չ»։ Եվ ասաց, որ ձեզ կապացույց եմ և չերկարանալով ամբողջ պատմությունը պատմելով, որ դուք կարող եք գտնել թարգմանած գրքերի մեջ, ասում եմ ձեզ, որ սիկա կարևոր է, որովհետև իրենք փորձեցին աղոթել, որ իրենց զոհը իրենց աստվածների համար ընդունվի, որ կրակով սկսելով, որ իրենք ընդունվեն օտար աստվածների կողմից։ Բայց Եղիա մարգարեն կարճ, համեստ, խոնարհ և պարզ աղոթքով ժամերով իրենք կփորձեին իր ուզածը կատարել և չստացվեց։ Շատ բան էր, խայտառակ էր, բայց մարգարեն իր կարճ, համեստ, խոնարհ աղոթքով կարողացավ այդքան մեծ կրակ բերել այդ զոհի վրա, որ փամփ չմնաց այդ զոհից։ Եվ այդ կրակը ի՞նչ է նշանակում։ Նույնը Սուրբ Հոգին է, որ եկավ և ապացույցեց և՛ Այն ատեն, և՛ Հոգեգալուստի ատեն Աստծո սերը մեզ համար, Աստծո նվիրվածությունը մեզի համար մեր շեղված ժողովրդի համար։ Բայց սիրելի՛ ժողովուրդը, այսօրվա հետ կկապենք այս պատմությունը, որովհետև ասիկա միայն պատմական դեպք չէ, որովհետև այսօր մեր աղոթքներով նույն կրակը իջավ այս սուրբ տաճարը, երբ որ մենք կաղոթեինք, որ Սուրբ Հոգին իջնի և կերպը փոխե հացը և գինին Աստծո մարմնին և արյուն և հրաշք կատարեց այդ նույն կրակով, այդ նույն զորությամբ մեր ներկայությամբ կատարվեցավ որպես ապացույց նրանից, որ Աստծո ներկայությունը իրական է, իրական է և այսօր կա մեր մեջը։ Սիրելինե՛րս, այսօր կհիշենք Եղիա մարգարեն, որովհետև ինքը նախատիպ եղավ Հիսուսի, այո՛, բայց նույնիսկ մեզ, երբ որ մենք կարող ենք Սուրբ Հոգին ունենալ մեր սրտերում, որովհետև Եղիա մարգարեն մարդ էր մեզ պես։ Ի՞նչ է տարբերությունը։ Ի՞նչ է տարբերությունը։ Ուրեմն այսօր բոլորս այսօր այդ կոչը պետք է զգան, զգանք մեր մեջը, որ ընդունենք, վկա լինենք, ճանաչենք այդ զորությունը մեր կյանքներում։ Ոչ միայն այդ, բայց համեստորեն, խոնարհաբար մենք ընդունենք և մեր մեջ պահենք։
+
+Today, I have a scene for you from the Old Testament. Throughout the past three months, we've been studying in catechesis here our faith in more deep ways. I'm really excited about this. Next week will be our final session of Foundations. We've all learned so much, but we had, I remember, one session where we talked about the Bible and the Old and the New Testament, and people were so sincere in expressing to me that they find the Old Testament so difficult to read, so hard to understand, so inaccessible. And I'm sure that many of you here in this church can relate to that, perhaps. You know, I've heard that before. I've had people in the parish tell me, "Ah, I don't believe in the Old Testament. That's old times. That's things that happened in the past. What's that got to do with us today? Those are stories and lessons and commandments that belong to other people," which is not what our church teaches, of course. I've had people tell me, "That's history that we wanna hear about today. Tell us about what's going on today and the challenges that we have today. Don't tell us about what happened thousands of years ago." People say this. But today, whether we like it or not, that's just what we're gonna talk about because today is the remembrance of the Prophet Elijah on the second Sunday following the Feast of Pentecost. And it's so interesting and unique in our church that we dedicate a Sunday to remember Elijah. How fascinating. There's no other church that does this. Elijah, of course, being one of the more prominent prophets in the Old Testament, whose story we can read in First and Second Kings, and has a great deal, I'm gonna share with you, to do with our life today in ways that you might find surprising, in ways that we can't even cover in one sermon, in ways that would take us a very long time to understand.
+
+But the Prophet Elijah is deeply important for us to understand as Christians. Here's one of the most important things you need to know about Elijah. Elijah the prophet lived in a time, one of many, not just one, but he lived in a particular time when people, the people of Israel, were falling away from God and worshiping false idols. Okay? They saw the attraction of foreign faiths and false promises, and they were pulled away from the faith of their forefathers. And the prophet told the king, "Hey, this doesn't work. Basically, we've got an agreement here. As long as we stay faithful to God, then we're going to be okay. But as soon as we lose that faith and we move away from him, well, then we're not gonna be okay. We've gotta change our ways." And of course, the people didn't, and there were consequences. There were famine, and people suffered because of this.
+
+However, in a showdown of true importance, the Prophet Elijah called out the pagan priests and he said, "You who worship Baal and Asherah, your gods are not real. They're not true, and I can prove it to you. We're gonna meet at a place called Mount Carmel, and there we're gonna prepare two sacrifices. And on this mountain, we're going to show everybody that our God is true and your gods are false." Now, why was this necessary, before we find out what happens? Why were the people worshiping Baal and Asherah? Why was this even happening? These, the Jewish people, the people of Israel, right? Who are they if they're not the people of the one true God in the Bible, in the Old Testament at that time? It's because those false gods promised them things like prosperity, fertility, protection, in a physical sense. They made all sorts of false promises. Materialistic wealth, stature. These gods, or the priests of these gods said, "If you follow these, this is what you're gonna get. Your stores are gonna be full of food, and your wealth is gonna be unimaginable, and you're gonna have ten kids, and all of these things. You're gonna be so respected." And of course, the people, they heard these things, and they were simple of mind and of heart, and they were not faithful, and they were not dedicated, and they fell away from the true covenant, and they started worshiping these false gods.
+
+And Elijah said, "Okay, I'll show you how this works because I know the truth." And what he did was he had them come... I see our Sunday school is waiting out there. I'm guessing they need to come in for the sermon, right? We can have them come in. Let's have them hear the preaching. I don't want them to wait outside. So they set up two altars of sacrifice. He said, "You build your altar. You put as much wood as you wanted. You put as much fuel as you wanted. You do whatever you need to do, and you pray to your God to light that fire. And then we'll see what happens when I do it." And they did, and they prayed for hours, and they prayed for hours, and they did everything. Nothing happened. It was all for naught. It was all a show. And then Elijah sets up his simple little altar, and he says a prayer from his heart of humility and of deep faith, and a pillar of fire comes down from heaven and consumes the sacrifice so that nothing remains.
+
+You're asking me, what does this have to do with today? What does this have to do with the lives these little kids lead who are coming into church? What does it have to do with any of this? Who today is not struggling against false idols? We've been building confession in this parish as a sacrament that we're supposed to participate in individually as something that is good and righteous for our people to participate in. And when we teach people how to confess, we remind them there are commandments and teachings in the Bible that we have to think about to understand whether or not we've been faithful. And what's the first commandment? Can anybody tell me? Raise your hand. Can anybody tell me what the first commandment is? Does anybody wanna tell me? I know there are people who know. Go ahead. I think everybody needs to join me for confession. We got practicing to do. Millie? Don't worship anybody else but the true God. Thank you. I love that. Good job. Sunday school in action. And you won't believe it, but when people truly think about what this commandment means in their lives, they will spend an entire confession session talking about how they have failed that commandment. Because every single one of us is guilty of letting false idols enter into our lives and take away the time, the devotion, and the love that God deserves to give to them. And we're talking about social media, we're talking about games, we're talking about work, we're talking about the recognition of our peers, we're talking about stature, society, wealth, prosperity, money, all of these things. And Christ says, "You can't have two masters." He's talking about it's me or it doesn't work. We are all living in the same time that Elijah did, and we all have that struggle. And he's reminding us today, don't settle for false idols, because what you have in our God is something that is incomparable and cannot be replaced.
+
+And just like the people were called to witness the miracle on Mount Carmel to see what the value and the power of true God is, that's what we have here in this liturgy. That as the pillar of fire came and exhibited the power and the presence of God, so too through the Holy Spirit today on this, during the period of Pentecost, did the Holy Spirit descend as a flame, as a spiritual flame of love into this sanctuary, and to do something that no man could do, to change the simple gifts that were made by human hands of bread and wine into the true presence of the body and blood of our Lord and Savior, Jesus Christ, so that we can all be forgiven and be brought into communion with the Eucharist, the life and love of thanksgiving that we have through the sacrifice and salvation of our Lord and Savior, Jesus Christ. So today, for many reasons, and this among them, and I say this for us all today, this is not a historic story. This is a reminder. We should look inwardly, and we should understand how we have let false idols take root in our heart today so that we can weed them out to create spiritual space in our hearts for true devotion to God that brings us health and peace and divine love. For the glory of our Lord and Savior, Jesus Christ. Amen.
+
+Hi, guys. I hope that you had a good Sunday school session today. I just wanna say, I know you guys walked in in the middle of that lesson, but you missed the beginning part of it today. And I'm gonna say, today we were talking about a man named the prophet Elijah, who lived a very long time ago, but was somebody who loved God very much and was very devoted to Him. And his life serves as an example for us of all of the ways that if we try really hard as human beings, that we too could have a very close relationship with God. Now, one of the things that the prophet Elijah experienced that's very important for us to know is called a revelation of God. Can you guys say revelation? Revelation. Okay? Or when God tells us something really important about Himself. And God told something to Elijah that was very important. Elijah was sitting in a cave, okay? And he was repentant, and he was struggling. And in that cave, he heard God's voice, and he said, "Wait for me to come, and then come out of the cave." All right? Now, somebody like Elijah, who's really close with God, he can hear God's voice like that, super clear when he says, "Hey, wait for me to come, and then come out of the cave." And then what happens? There's a big storm outside. And what do you think Elijah's thinking? "Should I come out? Is that God?" Right? If God said, "Hey, come outside when I come," and then you see this big storm happening, wouldn't you maybe... I don't know. Maybe that's what he's talking about. And God said, "Stop. It's not time yet. You need to wait." And there was this gigantic wind that came, like a tornado. And Elijah's saying, "Maybe I should go on that." "Nope. Wait." All this crazy stuff happening outside, and he's saying, "Wait." And then when it was calm, and it was silent, God said to Elijah, "It's okay now. I'm here. I'm in the still smallness and the peace of this moment." So sometimes we think in order to be with God, like God being with us means there's gotta be something crazy and amazing, and it's like, oh my gosh, these big, gigantic events in our lives. Or maybe if we think, oh, something bad has happened, and maybe that's God trying to tell me something. But what God revealed to Elijah is that we can encounter God when things are very still and very quiet and very peaceful and safe too. In fact, that's when he calls us to come to him, like when we are in church, right?

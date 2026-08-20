@@ -1,0 +1,41 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Sermons | Fr. Mesrop Ash",
+  description = "An archive of homilies and sermons by Fr. Mesrop Ash."
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <title>{title}</title>
+  </head>
+  <body class="bg-paper text-ink antialiased">
+    <header class="border-b border-pine/15">
+      <div class="mx-auto flex max-w-5xl items-center justify-between px-6 py-5 sm:px-8">
+        <a class="text-base font-semibold tracking-wide text-pine no-underline" href="/">Fr. Mesrop Ash</a>
+        <a class="text-sm text-pine underline decoration-gold decoration-2" href="/">Sermon Archive</a>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="mt-16 border-t border-pine/15">
+      <div class="mx-auto max-w-5xl px-6 py-8 text-sm text-ink/65 sm:px-8">
+        Sermons are published from the finalized St. John Armenian Church archive.
+      </div>
+    </footer>
+  </body>
+</html>
+

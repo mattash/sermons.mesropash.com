@@ -1,0 +1,72 @@
+---
+archiveId: 34
+sermonDate: "2026-02-22"
+title: "Sunday of the Expulsion – Called to Perfection"
+preacher: "Unidentified (parish priest of St. John)"
+language: "Armenian and English"
+theme: "On the Sunday of the Expulsion (second Sunday of Great Lent), the preacher delivers a bilingual homily. In Armenian, he reflects on the Isaiah reading where God is disappointed with Israel for trusting political powers over divine providence, draws a parallel to the Armenian national church, and warns that the pains of this world are consequences of sin beginning with Adam and Eve's expulsion—yet Christ has opened the door of hope. In English, he explores the day's Gospel reading from the Sermon on the Mount, focusing on Christ's call to perfection through the antitheses. Using an anecdote about a reluctant young confessor who insisted he was \"a good guy,\" the preacher explains that Christ's hyperbolic commandments show us we can never simply be \"good enough\"—we must continually strive to emulate Christ, hold ourselves to His standard, and use this Lenten season to repent and heal."
+scriptureReference: "Isaiah (prophetic reading for the day); Romans (epistle reading); Matthew 5 (Sermon on the Mount, antitheses, \"be perfect as your heavenly Father is perfect\"); Genesis (Adam and Eve, expulsion from paradise)"
+liturgicalDay: "Sunday of the Expulsion (Արտաքսման Կիրակի), second Sunday of Great Lent"
+sermonType: "Sunday homily (bilingual)"
+startSeconds: 5220
+endSeconds: 7317.211438
+sourceVideoId: "Y_2TinN976Q"
+sourceVideoUrl: "https://www.youtube.com/watch?v=Y_2TinN976Q"
+sourceVideoTitle: "February 22, 2026 - Divine Lenten Liturgy"
+tags:
+  - "Adam"
+  - "Armenian national church and identity"
+  - "Call to perfection (Matthew 5:48)"
+  - "Eve"
+  - "Faithfulness vs. trusting worldly powers"
+  - "Fallen world and consequences of sin"
+  - "Father Avetis"
+  - "Father Krikor"
+  - "Father Revond"
+  - "Father Vazgen"
+  - "Father Yerishay"
+  - "Genesis (Adam and Eve, expulsion from paradise)"
+  - "Hope through Christ's resurrection"
+  - "Isaiah (prophetic reading for the day)"
+  - "Israel"
+  - "Jesus Christ"
+  - "Mane (preacher's daughter)"
+  - "Matthew 5 (Sermon on the Mount, antitheses, \"be perfect as your heavenly Father is perfect\")"
+  - "Paradise"
+  - "Repentance and confession"
+  - "Romans (epistle reading)"
+  - "Sermon on the Mount / antitheses"
+  - "St. John (parish)"
+  - "St. Paul"
+  - "Striving to emulate Christ"
+  - "Sunday of the Expulsion / Great Lent"
+---
+[Armenian sermon]
+
+Այսօր, ինչպես մենք սկսած ենք կատարելու այս պատարագի ընթացքին մարգարեական գրությունը կարդալ, այսօր մենք Եսայի գրքից կարդացինք։ Եվ դժվար հատված մըն էր կարդալու, որովհետեւ մենք այդ ընթերցման ընթացքին կտեսնենք Աստված մը, Տեր մը, որ իր ժողովուրդով հիասթափված է, իր ժողովուրդով չխայնացած է։ Ինչո՞ւ։ Որովհետեւ ինքը վստահեց Իսրայելին, որ իրենք լինեն իր ազգը, իր ժողովուրդը, եւ իրենք ավելի վստահեցին քաղաքական ուժերին, քան Աստծո նախախնամությունը։ Եվ ասիկա դարձավ այն ժամանակ Իսրայելի համար մեծ դաս, եւ ոչ որպես առաջին անգամ, եւ ոչ որպես վերջին անգամ։ Եվ պետք է ծառայի մեզի համար այսօր նույն դաս, որովհետեւ մեր եկեղեցին ծուխ չէ, շենք չէ, համայնք չէ, մեր եկեղեցին ազգային եկեղեցի է։ Մեր ազգային դրսեւորումն է մեր ազգի հավատքը։ Եվ այդպես կներգրավե, մաս կկազմե ամենքս, յուրաքանչյուրս, թե՛ սփյուռքի մեջը, թե՛ հայրենիքի մեջը։ Եվ այսպես մենք կդառնանք մեկ մարմին Քրիստոսի եւ պատասխանատու ենք որպես ազգ հավատարիմ մնալ Աստծուն, որովհետեւ երբ որ հավատարիմ չենք, հետեւանքներ կան։ Եվ Իսրայելը հանդիպեց այդ հետեւանքներին իր փորձառություններու մեջ։
+
+Այսօր արտաքսման կիրակի է՝ Մեծ Պահքի կիրակիների շարքին մեջը երկրորդ կիրակին։ Եվ այսօր մենք կոչված ենք առջեւ կանգնելու դժվար ճշմարտությունների առջեւ, որովհետեւ մենք ինչ որ կտեսնենք այս կյանքի մեջ՝ մեր ցավը, մեր տառնությունը, մեր սուգը, մեր մահը այս աշխարհում, այս ամեն ինչը հետեւանք մըն է մեղքին։ Եվ ասիկա դժվար է ընդունել, շատ դժվար է մարդկանց համար ընդունել սկիզբեն մինչեւ այսօր, որովհետեւ մենք չենք ուզում մեղավոր գտնվելու այս աշխարհում։ Ձեւով մը մեր ներկային կյանքը պայքարման մեջ է, երբ որ մենք մեղավոր ենք կոչվում իրականության մեջ։ Բայց այդ մեղավոր իրավիճակը ինքը ենթարկում է մեզ հետեւանքներուն։ Եվ ասիկա սկսավ առաջին օրերեն Ադամի եւ Եվայի արտաքսումով եւ կշարունակե մինչեւ այսօր։
+
+Սակայն հույսն է մեր յուրաքանչյուրիս համար, մեր աշխարհի համար, մեր ազգի համար, որ ասիկա չմնայ, որովհետեւ հարության շնորհը այն է, որ մենք կարող ենք հույս ունենալ այս վիճակից դուրս գալ։ Հիսուս մեզի դուռը բացեց։ Միայն ինքը կսպասե, որ մենք իրեն վստահենք։ Ինքը միայն կսպասե, որ մենք կըսենք, որ դուն ես մեր Տերը, դուն ես մեր Թագավորը, դուն ես մեր Փրկիչը եւ քեզի վստահում ենք՝ քու խրատդ, քու ուսուցմունքդ, քու ներկայությունդ, քու օրհնությունդ, քու շնորհքները, քու խորհուրդներդ միջոցով։ Եվ եթե անոնցից հեռանանք, ուրեմն ինչպե՞ս Ադամի եւ Եվայի պարագային, հետեւանքներ կան։
+
+Սիրելի հավատացյալներ, այսօր ասիկա զգուշության կոչումն է, որ եւ՛ Մեծ Պահքի ընթացքին, եւ՛ ընդհանրապես, որպես ժողովուրդ, մենք միշտ ջանք թափենք, որ չհեռանանք Հիսուսից, որ մենք հավատարիմ կգտնվենք իր հայացքում։ Այո՛, մենք պակաս պիտի գտնվենք, մեղավոր պիտի գտնվենք։ Ամեն ձեւով չպիտի կատարենք, կատարելացնենք, իրականացնենք այն հրամանը, որ կա Ավետարանի ներս այսօր, որ կատարյալ եղիր քու երկնային Հորդ պես, անկարելի է։ Բայց ի՞նչ կուզե մեզմե։ Ինքը գործ կուզե տեսնել, այդքան ջանք կուզե տեսնել։ Ինքը կուզե տեսնել, որ կփորձենք։ Այդքանը նվազագույնն է կբավե։ Այդ փորձելը իրեն համար ամեն ինչն է։ Եվ եկեք որպես եկեղեցի, որպես ծուխ, որպես ազգ ավելի ուժեղ ձեւով քիչ մը փորձենք։
+
+[English sermon]
+
+The passages that we encounter today on the Sunday of the Expulsion, the second Sunday of Great Lent — and I hope, by the way, that all of you are following along with us on Fast and Pray. The reflections over the past week on this app have been amazing, and I'm so thankful for my brothers in Christ for their participation. We've heard messages from Father Avetis and Father Krikor and Father Yerishay and Father Revond and Father Vazgen, and we even had a special appearance yesterday from my daughter Mane on the app. It's an amazing experience. I'm so grateful that you can be a part of this, and it's preparing us to understand better what we're supposed to be experiencing during Great Lent.
+
+Today, we take another step on that journey, and that step is moving from the state of paradise that we were found in at the state of creation into the state of expulsion. This is the Sunday of expulsion. When we remember how we got into this mess to begin with, right? Why is it that, especially as we grow older, we realize this world has a lot of problems, and it really isn't working the way that it's supposed to. It doesn't seem that way today, and it hasn't seemed that way for a very, very long time. This is what we call a fallen world, a fallen world that you and I live in.
+
+So when we read about the expulsion, we're exposed to some very difficult truths that are hard for us to reconcile ourselves to. When we look at our Bible readings for today, we see a reading from Isaiah, which God through his prophet is speaking in very harsh terms about a people that have fallen away from him and have trusted more the politics of the world around them than being faithful in the providence of God. And he shares with us what the consequences of that are. And then we read from Romans some very challenging messages from St. Paul. And the hardest messages of all are the words from Jesus Christ, right? He's supposed to be the good guy. He's supposed to be the nice one, right? We hear Isaiah, we say, "Oh, that sounds harsh." But then Jesus comes in today in the Sermon on the Mount, and He's giving us a message that is so hard to process. How do we even deal with this?
+
+And that's what we're talking about today. In the wake of expulsion, what is the framework that has been set up for us to understand who we are and how we can return to that paradise state that we came from? In Christ's message today, He shares with us what are known as the antitheses. Now, we can't get into all of that today. We had a Bible study about this last year, and I think we spent a few hours talking about the antitheses because they're some of the hardest lessons from Jesus Christ for us to internalize. However, at the essence of these lessons from Jesus Christ at the Sermon on the Mount is a call to perfection. And our reading today concludes with that very same literal message saying, "I am calling you to be perfect like your Father in heaven." This is what He's asking of us.
+
+Now, I've encouraged confession here in our parish life because as a church, really, we've lost track of a very important practice, which is private confession, which we really have to work hard to restore. Many of you have taken advantage of that. I remember one time when I was with a confessor who didn't really wanna be there, if I'm being honest with you. He was a young man, and I think his mom made him do it. And you're not supposed to have to do it like that. I knew what the thing was, right? You can't be made to go and confess. It doesn't work like that. So it was a very gentle experience, and he came in, and we talked about what that would look like. And he tried to think of some things that he might need to confess. He was having a very, very hard time thinking about what it is that he would need to confess.
+
+Now, I'll take his statements as genuine. The reality of it is that maybe this individual could have just been very withdrawn, and he didn't wanna open up, and I completely understand that. But I remember we got to a certain point where I said, "Well, listen, we can just talk, but it's not really a confession if you don't feel like you ever did anything wrong." And he said, "But..." He looked at me, and I get it, and you might think the same thing. He said, "But I'm a good guy. What do I have to confess?"
+
+Now, here's the thing. I look out at all of you. You're all good guys. You're all good girls. I hope I'm a good guy. I would like to think that I can be if I tried. But that doesn't mean that we can't fall short. That doesn't mean that we don't sin. That doesn't mean that we're not called to something greater. And Christ drops the mic in today's message because He tells us exactly how great the thing is that we're being called to. We're being called to perfection. He says that we can't hate or feel anger. He says that we always have to love and forgive our enemies, no matter what they do to us. He says that we always have to be honest all the time, such that nobody would ever doubt anything that we would have to say. He says that we should be faithful and committed in every single relationship and never for a second consider betraying or letting another person down. He says all of these things, and who among us could say that we could possibly achieve these expectations in our lifetime?
+
+But this is what He's calling us to. He sets up these massive hyperbolic commandments for us to follow so that you and I can understand that it's not good enough for us to say that we're good enough. We need to always strive for more because that's what we were created for. That's what we're called to. Because if we don't, then we end up being the sorts of people that act one way and feel another way, and that's not who Christ is calling to His kingdom. He's not calling people who would act like they love somebody else but secretly hate them in their heart. He's not calling people who would say that they commit themselves to someone but secretly want other people besides them in their lives. He's not calling people who would say yes or no and not follow through with that. He's calling people who are willing to emulate Him in their life, and that's why He came to us as an example.
+
+So today, on this Sunday of expulsion, we have to remember that we're not sitting in judgment of Adam and Eve. We're not sitting in judgment of others that have come before us or in our lives right now. We're looking in the mirror and we're saying, "How much more can I be like the person that Christ has called me to be today?" And that's enough. That's what we're being called to, no matter how hard that might be. And we have to hold ourselves to that standard, not our standard. Our standard isn't gonna get us there. His standard is gonna get us there. And by His standard, we all have something on our hearts that we need to let go of. We need to submit to Him, and we need to use this time to repent and to heal our souls for the glory of our Lord and Savior, Jesus Christ. Amen.

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #1c2620;
+  --color-paper: #fbfaf6;
+  --color-pine: #285348;
+  --color-gold: #b58a3f;
+  --font-serif: Georgia, Cambria, "Times New Roman", serif;
+}
+
+:root {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 20rem;
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+

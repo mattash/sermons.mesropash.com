@@ -1,0 +1,58 @@
+---
+archiveId: 19
+sermonDate: "2025-12-21"
+title: "The Pharisee and the Tax Collector: On Humility and Pride"
+preacher: "Unknown preacher"
+language: "English"
+theme: "The preacher reflects on Luke 18:9-14, the parable of the Pharisee and the tax collector, warning that pride can nullify even our God-pleasing works. He encourages cultivating humility through prayer for those we might consider beneath us. He then recounts the story of St. Abgar the King of Edessa, the first Christian king, who humbled himself before Christ by writing a letter seeking healing, and connects Abgar's humility to the Gospel's call that those who humble themselves will be exalted."
+scriptureReference: "Luke 18:9-14"
+liturgicalDay: "Sunday of the Pharisee and the Tax Collector (approximate); Feast of St. Abgar the King (December 20)"
+sermonType: "Sunday homily"
+startSeconds: 5460
+endSeconds: 7620
+sourceVideoId: "TkV9O-UUlfw"
+sourceVideoUrl: "https://www.youtube.com/watch?v=TkV9O-UUlfw"
+sourceVideoTitle: "December 21, 2025 - Divine Liturgy"
+tags:
+  - "Anatolia"
+  - "Christian living"
+  - "Edessa"
+  - "good works"
+  - "Humility"
+  - "Israel"
+  - "Judea"
+  - "Luke 18:9-14"
+  - "Palestine"
+  - "prayer"
+  - "pride"
+  - "repentance"
+  - "self-exaltation"
+  - "St. Abgar the King"
+  - "St. Abgar the King"
+  - "St. Basil the Great"
+  - "St. Thaddeus (St. Jude)"
+  - "Western Armenia"
+---
+Just as a way to mark this delivery of these beautiful Bibles that you find in your pews now, which we're so happy to have made available to our parish, and there are more Bibles also, if anybody would like one, that we are happy to provide for you. So as we're preparing to hear the Word of God and to learn from it, let's open our Bibles to the appropriate page today. Our message is from the Gospel of Luke, chapter 18, verses 9 through 14. Page 62 in the New Testament section of your Bibles.
+
+This passage today continues us in a similar vein, thematically speaking, from where we proceeded last week. Last week, we learned about cautionary tales of those who consider themselves faithful, yet how we can often misapply our zealousness in terms of the judgment of others. Last week, we spoke about how Christ was speaking not to the unrepentant masses who are outside of His body or who are not amongst His flock, but instead to us, those who are the members of His body, those who consider themselves to be part of His flock. And today too, Christ gives us a very pertinent message about the dangers of pride. In this parable which Christ is telling the faithful, the Gospel tells us is delivered for the sake of those who were confident of their own righteousness, of those who were very proud of their faithfulness and their devoutness, as I hope we can all be at some level. But yet He says that in that confidence and in that zealousness, there is an area where we all have to be very careful.
+
+And He proceeds to tell us of a parable of two men, one being a Pharisee and the other being a publican or a tax collector. These two people are often depicted throughout the Gospel because they represent two very, at that time, well-recognized archetypes of society, that people, upon hearing the group to which they belong, would immediately understand what sort of people they were, and they would have well-established attitudes about them. The Pharisee being one who was very observant, to the extreme, and very vocal about their observation of Jewish laws at that time. And Christ tells us about this observant Jew, about this Pharisee, as he enters into the temple, and he begins to prayerfully and proudly proclaim his own zealousness, his own devoutness. And he talks of his qualities as one who is prayerful, as one who keeps all of the fasts, as one who is generous in his tithing, in his giving to the temple, all of which is in accordance with the law.
+
+Then he tells us of another man, a man who enters into the very same temple and is a tax collector, a person who would have been reviled at that time in society, a person who was considered a traitor to his people, a person who was considered to have put his own profits above all else. Generally, the tax collectors were guilty of extortion and of putting their loyalties to their nation behind their obedience to the emperor. And this man comes forward, and what does he say? The passage tells us very clearly that his message is as simple as it could be. He says, "God, have mercy on me, a sinner." And this is the full extent of his prayer.
+
+And Christ very simply wraps up this message as He says, "I tell you, it was this man, the second, rather than the other, who went home justified before God. For all those who exalt themselves will be humbled, and all of those who humble themselves will be exalted." Of course, Christ's message is very clear on the surface of it. But it's very important for us to be mindful of one truth so that we do not misunderstand what Christ is telling us here through this parable. He is not saying that all of the God-pleasing works of the Pharisee were worthless. He's not saying this. He's not saying it doesn't matter whether or not you fast. He's not saying it doesn't matter whether or not you worship or pray in accordance with the law. He's not saying it doesn't matter that you be generous and that you give to the poor and to the church. He's not saying these things don't matter. But He's saying that if we do all of these good things which God wishes to reward us for in the heavenly kingdom, but we are proud about them, that we exalt ourselves in them, then we have taken our good works and our sacrifice, and we have voided them. We have nullified them. We have turned them into something that is not pleasing to God, but is in fact against His wishes.
+
+So here we have to be careful to walk that line, to commit ourselves to live the utmost Christian lifestyle, while at the same time not succumbing to the temptation to be prideful in that lifestyle. Truly, this is the most difficult path for any Christian. St. Basil the Great tells us in his teachings on this passage that no Christian should hold himself above even a great sinner, because it's in that moment when we do that we begin to fall into that same temptation that the Pharisee is guilty of in the passage that we read today.
+
+And so how do we address this in our life? How do we cultivate that humility so that we know that in moments when pride begins to pull us away from our humility before God? In your prayers, find people to pray for. Prayer mirrors our life. What we do in our prayer shapes our soul and our perspective in this world. Find the people that you think are sinners. Find the people that you think you would be tempted to think are below you, and hold them up before God in your prayer. Find qualities in them even that may be God-pleasing, and give thanks for them. Humble yourself before God in your own prayerfulness, and you will inoculate yourself against the sin of self-exaltation, which is something that we all feel tempted by, especially those of us who consider ourselves part of the Church, part of the flock, part of the body of Christ.
+
+Yesterday, we marked the feast of St. Abgar the King. How many have heard of St. Abgar the King? Many of us have heard of the name Abgar. How many of us know the story of St. Abgar the King? Slightly less, and definitely a minority of those of us who are in the church today. St. Abgar is a very important and widely venerated saint in the Armenian Church, and he's a very important saint for us, for all of Christianity, and for us as Armenians. King Abgar was a king at the time of Jesus Christ. During the very same time that Christ was alive and preaching, and all the stories that we read about in the Gospel were taking place, King Abgar was the king of a city known as Edessa. And he was a wise king. He was not a king that knew or heard Christ in his life personally. He was never anywhere near Palestine or Israel during the days of the Gospel. However, King Abgar was a very sick king, and he suffered greatly by affliction in his life.
+
+And one day, a merchant came to his city from very far away and said, "I have brought you news that there is a man in Israel who can heal even the most infirmed if they believe in him. And I believe that if you were to reach out to this man, whose name is Jesus, that he could heal you." And so St. Abgar the King, the first Christian king, writes a letter to Jesus Christ. St. Abgar proceeds to write a letter and sends it via way of caravan to Jesus Christ, and we have this extant letter in our tradition which says the following: "I have heard about you, Jesus Christ, and about your healings. I believe that you are God or the Son of God. Please come to my city of Edessa and heal me. I heard that there are people trying to harm you in Judea. I have a small city here, but it is clean and is good enough for the both of us. You can live here safely."
+
+This is a letter of St. Abgar. It's a very nice letter, right? How loving. He doesn't know anything about Jesus Christ except that He's willing to heal him, and he proclaims He's the Son of God, and he says, "Come here. You could be safe here. I will keep you safe." And Jesus responded to that letter. And so in our tradition, we have His response as well. And Jesus responded thusly: "Blessed are you who believed in me without seeing me. I cannot come to you now because I have work to finish here. But I will send one of my disciples to heal you and give life to you and to all of your people." And He encloses in this letter that He sends to King Abgar a very special gift. He takes a cloth, and He wipes His face with that cloth, and He gives it to His messenger.
+
+Now, who knows who the messenger was? Anybody know? Thaddeus. So, Saint Jude, Saint Thaddeus is entrusted with this message. As he proceeds on his mission into Anatolia, into Western Armenia, how does Saint Thaddeus reach Armenia to become one of our apostles? He was moving in that direction to visit St. Abgar the King, and he delivers to him this blessed cloth, and that cloth then has a depiction of Jesus Christ etched upon it, which is traditionally how we believe we know what the face of Jesus Christ looked like.
+
+Now, why do I bring up this story of St. Abgar the King right now? First of all, we celebrated and venerated him yesterday. But I want to point out he was a king. He was a king, and he humbled himself before Jesus Christ, the first king to have done so, and recognized His power, His power which was above the world. So today, as we hear this passage from the Gospel of St. Luke, let us remind ourselves that if kings are not above bowing their heads before the Lord, then what right do we have? Let alone before the Lord, but indeed before one another, for this is what He has called us to do so that we may glorify Him along with His Father in heaven and the Holy Spirit. Amen.
