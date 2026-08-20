@@ -17,30 +17,20 @@ tags:
   - "Carrying one’s cross"
   - "Christ’s mercy from the cross"
   - "Christian love"
-  - "Elia"
   - "Eternal life"
   - "Exaltation of the Holy Cross"
   - "Forgiveness and being forgiven"
-  - "God the Father"
   - "Healing and restoration"
-  - "Holy Spirit"
-  - "Jesus Christ"
-  - "Kingdom of Heaven"
   - "Luke 23:34"
   - "Matthew 16:24"
   - "Matthew 6:12"
   - "Repentance and confession"
-  - "Yeretsgin Ani"
 ---
-[Armenian sermon]
-
 Բոլորդ, սիրելի քույրեր ու եղբայրներ…
 
 Եվ կարծենք, թե չափահաս ըլլալով, մեծցած ըլլալով, մենք սորված ենք, ինչպես ուրիշ մարդկանց ներել։
 
 Եվ որ այսօր կ’օրհնեմ ձեզ՝ թե՛ «Պահպանիչ» ըսելով, թե՛ բժշկության աղոթք ըսելով, պիտի ըսեմ. «Պահեա, պահպանեա, օրհնեա, փրկեա, ազատեա, բժշկեա… սուրբ պատվական խաչիւդ, Քրիստոս»։ [Uncertain transcription.]
-
-[English sermon]
 
 I often speak about family life in my sermons. It is a main focus of my life because I have a beautiful family. I am so blessed to be a father, together with my wife, Yeretsgin Ani. They present me with so many beautiful challenges on a daily basis and so many opportunities to learn and to grow.
 

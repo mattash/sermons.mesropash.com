@@ -14,19 +14,14 @@ sourceVideoId: "WVR9zvT6vDw"
 sourceVideoUrl: "https://www.youtube.com/watch?v=WVR9zvT6vDw"
 sourceVideoTitle: "Feb. 11, 2024 - Divine Liturgy"
 tags:
-  - "Aaron"
   - "Closing the distance between the mundane and the holy"
   - "Exodus 25–30 (tabernacle, Ark of the Covenant, and priestly vestments)"
   - "Honest self-revelation and repentance"
   - "Intimacy with God through the Lord’s Prayer"
-  - "Jesus Christ"
   - "Matthew 6:5–13"
-  - "Moses"
   - "Poon Paregentan and the entrance into Great Lent"
   - "Protecting and sanctifying what is holy"
   - "Sincere prayer versus hypocrisy"
-  - "St. Gregory of Narek"
-  - "St. John Armenian Church"
   - "Symbolism of the altar curtain"
   - "The tabernacle, Ark of the Covenant, and Eucharistic New Covenant"
 ---
@@ -36,11 +31,7 @@ Good morning, everybody, and welcome. God bless all of you on this beautiful Sun
 
 Today is the Sunday called Poon Paregentan. Poon Paregentan is the gateway to Great Lent. It is the equivalent of what is called Carnival in the Western Church and of other celebrations found in Orthodoxy as we enter the Lenten period. Poon Paregentan is translated as the Feast of Good Living: pari meaning “good,” and gentan referring to gyank—life or living. Today is the true celebration of good living. It is the gateway leading us into the Great Lenten period, and we will consider why the curtain was closed this morning as we celebrated the Divine Liturgy.
 
-[Armenian sermon — partial transcript]
-
 Եւ հասկնալ եւ ընդունիլ։ Եւ դժուար է ատիկա հաշտեցնել մեր եկեղեցական, հաւաքական կեանքին մէջը։ Որովհետեւ մենք ի՞նչ կ’ըսենք. «Եկէք այստեղ, միասին աղօթենք, որ ամէն մարդ տեսնէ»։
-
-[English sermon]
 
 Today, on this day known as Poon Paregentan, we closed the curtain—the varakur—on the Holy Altar. The curtain is a fascinating element of the worship life of the Armenian Church. It is not found today in most Orthodox churches. There is instead something called an iconostasis, a more permanent structure separating the inner altar space from the outer altar space, perhaps with smaller curtains as part of it. Very few churches today, like ours, continue to use the curtain. For us, however, it is absolutely essential to our Christian identity.
 

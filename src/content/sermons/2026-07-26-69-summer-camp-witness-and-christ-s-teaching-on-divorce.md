@@ -14,31 +14,18 @@ sourceVideoId: "0lkDGKg8KTY"
 sourceVideoUrl: "https://www.youtube.com/watch?v=0lkDGKg8KTY"
 sourceVideoTitle: "July 26, 2026 - Divine Liturgy"
 tags:
-  - "Armenia"
-  - "Bay Area"
   - "Christ's teaching on divorce"
   - "Church teachings on abortion and the sanctity of life"
   - "Community support for struggling families"
-  - "Fresno"
   - "Honest questioning and faith formation"
-  - "Jeremiah (prophet, cited)"
   - "Jeremiah 31:33 (I will write my law upon your heart)"
   - "John 1:1-14"
-  - "Los Angeles"
   - "Love versus legalism in Christian teaching"
   - "Matthew 19:3-9 (implied, Pharisees questioning Jesus about divorce)"
-  - "Pharisees (in Gospel context)"
-  - "Portland"
   - "Sacrificial love as the foundation of Christian commitment"
-  - "St. John Armenian Church (parish)"
   - "Summer camp ministry and youth engagement"
-  - "Western Diocese"
   - "Year of families at St. John"
 ---
-[Armenian sermon]
-[Note: The Armenian-language sermon portion is largely unintelligible in the transcript due to severe ASR errors. Fragments include references to a concept, a busy time, friends, family, and a main experience, but no coherent continuous text can be reliably reconstructed. The preacher later references this Armenian sermon in the English portion.]
-
-[English sermon]
 Well, I was explaining at the beginning of my message, if I came off a little scatterbrained today, I feel that way. I'm having a hard time concentrating. I'm suffering from a very special and unique condition which is known as summer camp brain, because I just returned from our Western Diocese summer camp where I had the blessing to serve as the primary chaplain of the kids of week two of our four-week-long diocesan summer camp program. And I not only serve as a chaplain for the week, but I serve as the main chaplain, the pastor, the spiritual director of the summer camp program for the entire Western Diocese, during which 500 to 600 children and young people come to our camp over the course of four weeks, being served by close to 200 volunteers and very few paid staff, if you want to know, to bring the love and the hope of the message of the gospel of our Lord and Savior Jesus Christ and the holy traditions of our church into their lives.
 
 And we just returned late last night with a big group of children from the Bay Area. We took a bus from St. John, and we had over 30 campers on the bus with us that were a part of this program, joining their brothers and sisters from throughout the Western Diocese, as far north as Portland as well as the other Western states, and of course many joining us from Fresno and Los Angeles. I love camp so much. I really do. We talk a lot about it here at St. John. Camp has been formative for so many of the faithful of this church and for me as well, a place where I attended as a camper, where I served as a volunteer for many years, and for over 20 years have had the opportunity to serve as a chaplain. It is certainly one of the great joys and prides of my life. But as I get older, it seems to demand of me more than it used to, and I think that that's not — well, who knows why it is, but I'm getting older, so let's just leave it at that.

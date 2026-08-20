@@ -15,31 +15,17 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=MV5LHHd-6Jc"
 sourceVideoTitle: "January 11, 2026 - Divine Liturgy"
 tags:
   - "Christ's humanity and grief"
-  - "Egypt"
   - "Faith through delay"
   - "Glory of the Holy Trinity"
   - "God's timing and the fullness of time"
-  - "Israel"
-  - "Jesus Christ"
   - "John 11:1-43"
-  - "King Herod"
-  - "Kingdom of Heaven"
-  - "Lazarus"
   - "Lazarus resurrection as sign of Christ's power"
-  - "Martha"
-  - "Mary"
   - "Matthew 2:13-18 (implied — Herod's massacre and flight to Egypt)"
   - "Nativity and Theophany"
   - "Refugeehood and exile in this world"
-  - "Saint Joseph"
-  - "Saint Mary (Virgin Mary)"
   - "Unanswered prayers and divine will"
 ---
-[Armenian sermon]
-
 Let us consider the resurrection of Jesus Christ. And during this period of resurrection, we know that Jesus was not present when Lazarus died. And naturally, because he was a close and beloved friend not only to Jesus but to all the disciples, they were in mourning and grief when the news reached them that he had died. And Jesus clearly says that he must plainly tell them that he has died. And he says: "I am glad that this happened," meaning, when I was not there, so that you may see and believe in me. What an interesting question, what words these are: "I am glad that my friend died, and that I was not there to save him, to heal him, so that you may believe in me." These are the words we should focus on today.
-
-[English sermon]
 
 To catch you all up in English on what I just mentioned in Armenian: during this period of the eight days of the Nativity, we have a series of Bible readings which you can follow in the lectionary of the Armenian Church, using our calendars. There are new calendars, by the way, that you can take home with you for 2026 that include readings from the church. They're in the vestibule. But of course, you have access to the church's lectionary online from many sources. There's an app called Daily Worship, and then there's the app which our parish has produced, which is called Fast and Pray. And every day you can find the readings according to the tradition of the Armenian Church. And all of these readings are connected somehow, of course, to the Nativity and Theophany of our Lord and Savior Jesus Christ. And they're very challenging sometimes, in order for us to understand how they're applicable both to the Nativity and also to our own lives.
 

@@ -23,18 +23,12 @@ tags:
   - "Great Lent preparation"
   - "John 2:1-11"
   - "John 6:16–21"
-  - "Lazarus"
   - "Overcoming loneliness"
   - "Peace of Christ"
   - "prayer"
   - "Scripture reading"
-  - "Sea of Galilee"
 ---
-[Armenian sermon]
-
 Վստահ եմ, ովքեր, մանավանդ այս վերջին տարվա ընթացքին հաճախում են եկեղեցի, նկատի պիտի ունենան, որքան ենք շեշտել պահքի պահեցողությունը։ Մենք անընդհատ դրա մասին խոսում ենք՝ հույս ունենալով, որ ի վերջո այդ հատիկը, այդ սերմը պիտի սերմվի մեր հոգիների մեջ՝ ցանկությամբ, որ մենք ավելի մասնակից դառնանք մեր եկեղեցվո պահքի ավանդության։ Եվ ուրախ ենք, որովհետև վաղը պիտի սկսի միշաբաթական պահք, որ կոչվում է Առաջավորաց պահքը։ Առաջավորաց պահքը յուրահատուկ է, որովհետև գոնե անունով աննման ավանդություն կա, աննման է, կարող եմ ըսել ուղղափառ եկեղեցիների մեջ որպես պահքի շրջան։ Սակայն ընդհանուր գաղափարը յուրահատուկ չէ, որովհետև բոլոր ավանդական եկեղեցիներ ունենում են այս ժամանակի մեջ, երբ որ մենք պատրաստվում ենք մեծ պահքի սկզբի համար, այսպես նախապատրաստություն կա շաբաթական պահքով, ինչպես մենք անում ենք։ Ուրեմն ինչ որ պիտի սկսի վաղվանից, այս անգամ մինչև հինգշաբթի, որովհետև ուրբաթ Տյառնդառաջն է, որ մեծ տոն է, և այդ օրը պահք չենք պահել։ Ուրեմն պիտի լինի շաբաթ, երբ որ մենք փորձի պես պատրաստվում ենք մեծ պահքի համար, որ պիտի սկսի մոտ երեք շաբաթից։ Ուրեմն, այսպես մենք առիթ պիտի ունենանք տեսնել՝ ինչպես կարող ենք մեծ պահքը լիարժեք կերպով պահել այս կարճ չորս օրով, չորս օրվա պահքով։ Եթե դուք չգիտեք՝ ինչպես պահք պահել, սա կարևոր է և էական սովորություն է։ Եվ հոգևոր եկեղեցում, ուր որ դառնում ես, մենք շեշտում ենք պահքի կարևորությունը։ Եվ իմ նպատակն է համեստորեն մի ձևով վերականգնել այս սովորությունը մեր ժողովրդի մեջ, որ իրապես արժեքավոր մեզի համար, յուրաքանչյուրիս համար արժեքավոր գործնեություն է, որովհետև պահքը աղոթքի հետ և Սուրբ Գրության ընթերցման հետ մեր երեք սյուներն են, որի վրա մեր հոգևոր կյանքը հիմնավորված է։ Եվ անկայուն կդառնա, երբ որ մեկը հանում ես, երբ որ չես աղոթում, երբ որ Աստվածաշունչը չեք կարդում, և երբ որ պահք չեք պահում։ Գոնե եթե այդ երեքից մեկը չեք հանում առնվազն, ուրեմն արդեն անկայուն և անշարունակական կդառնա մեր հոգևոր կյանքը։ Երեքը, ըստ մեր կարողության, պետք է փորձենք անդադար պահել մեր առօրյական կյանքի մեջ։
-
-[English sermon]
 
 Beloved faithful, the passage today that we encounter from the Gospel of John is remarkable. It's remarkable for, on one level, for us as Christians who are familiar with the stories of the Gospel. It's remarkable for its mundanity. There are a handful of miracles that are essential in the life of Jesus Christ that somehow for us, in their expression on the surface of them, seem to be less majestic or grand than others. There's no doubt Christ himself being resurrected or resurrecting Lazarus is an awe-inspiring miracle that is done as he causes the blind man to see or the paralyzed man to walk. Undoubtedly, if you were to witness these things, you would say this is the work of somebody who was truly spiritually powerful. There are other miracles that have an underlying and essential importance for us to understand the nature of God and our relationship with him, that when we witness them or we read about them in the Gospel, we say, "Okay, that's interesting." But if we don't understand why it really matters, then somehow we're missing the story.
 

@@ -17,7 +17,6 @@ tags:
   - "Bun Barekendan (Poon Paregantain)"
   - "Gratitude and appreciation"
   - "Honesty about imperfections"
-  - "Jesus"
   - "Lent and fasting"
   - "Matthew 6 (Sermon on the Mount — almsgiving, prayer, fasting, Lord's Prayer)"
   - "Repentance and restoration"
@@ -48,11 +47,7 @@ Now, when we're fasting at Lent, sometimes like when I was a kid, I thought I ha
 
 Now, you guys all got a copy of this calendar, right? So we're going to take this home and we're going to show this calendar to our parents. Every day during Lent has a special thought or prayer that we can pray together with our family so that Lent is something that's going to be really wonderful for us and make us all stronger. So when we get to Easter on the other end of Lent, we can really celebrate and give thanks to God for the gift of our lives because we appreciate it. I love you guys so much. Thank you for being part of Sunday school today. God bless you. And next time you come into church for the next first Sunday, church is going to be a little bit different because it's going to be in the middle of Lent. And I'm going to check in with you then and see how your Lent is going, to see how you challenged yourselves to become a little bit stronger in your faith.
 
-[Armenian sermon]
-
 Այսօր խոսել ենք մեծ պահքի մասին մեր երեխաներին հետ, բայց մեծերի հետ ուզում եմ անդրադառնալ այսօրվա Ավետարանի բովանդակության մասին, որը խոսում է կեղծավորության մասին, կեղծավորության մասին, որովհետև ինքը ասում է մեզ՝ ինչպես պետք է չլինենք կեղծավորներ։ Կեղծավորության հակառակը ի՞նչ է։ Անկեղծություն է։ Հայերենի մեջ դա դյուրին է հասկանալ՝ ինչ է նշանակում կեղծավոր, ինչ է նշանակում, նշանակում է այն մարդ, որ կեղծ ինքն իրեն կներկայացնում է աշխարհին, և անկեղծ ինքն իրեն արդեն մեզ բացատրում է՝ ինչ է նշանակում, որ առանց կեղծին մենք մեզ ներկայացնում ենք աշխարհին։ Սա էական դաս է բոլորիս համար, մանավանդ, մանավանդ մեծ պահքի ընթացքում, որովհետև եթե մենք անկեղծ չենք մեծ պահքի ընթացքին, եթե լուրջ և բարեպաշտ չենք մեծ պահքի ընթացքին, չենք կարող այդ դասը սովորել, որ պետք է սովորենք այս ժամանակի մեջ։ Կեղծավորությամբ ամեն ինչ ծածկվում է, և ճշմարտությունը չի հայտնվում, բայց անկեղծ մարդը ճշմարտությունը հայտնում է։ Եվ անկեղծ ի՞նչ է նշանակում, պիտի բացատրեմ սկզբաշյուտով անգլերենով, բայց հունարենի մեջ, որ օգտագործվում է Ավետարանի մեջ, այս բառը, որ օգտագործվեց Ավետարանի մեջ, նշանակում է հետևյալը՝ առանց մոմի։ Ինչու՞։ Առանց մոմի նշանակում է, որովհետև այն ժամանակ, եթե ասենք թե կարաս կամ մի բան կար, որ կավով սարքված էր և կոտրված էր, դա դնելու համար մոմ դնում էին և այդ մոմը սահունացնում էին և այդպես ներկայացնում էին, որ ինքը կոտրված չէր։ Եվ որ մենք առանց մոմի ենք, նշանակում է, որ մենք մեր ջարդված, կոտրված մասերով ներկայացնում ենք մեզ մեր մասին աշխարհին։ Այդպես ընդունելով մեր թերությունները, մեր տկարությունները և մեղքերը, պետք է քայլենք մեծ պահքի մեջ։
-
-[English sermon]
 
 Our reflection for our adults who are here with us today — though I hope we had the opportunity to learn something about fasting in our midst, hearing the Sunday school's lesson — is about the content of today's Bible passage from the Gospel of Matthew, which leads us into the Lord's Prayer. It is an introduction that guides us into the most foundational prayer in the life of Christianity. Christ is teaching us how to pray. But his prologue to teaching us that prayer is a call to those who are penitent, prayerful, and fasting to not be hypocritical, to not be hypocritical. He's warning us so very clearly: do not be a hypocrite.
 

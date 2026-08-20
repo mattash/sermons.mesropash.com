@@ -16,7 +16,6 @@ sourceVideoTitle: "March 15, 2026 - Divine Lenten Liturgy"
 tags:
   - "Great Lent as a season for self-examination"
   - "Humility vs. self-righteousness"
-  - "Jesus Christ"
   - "John 12:24 ('Unless a grain of wheat falls into the earth and dies' - referenced in requiem)"
   - "Leaving vengeance/justice to God"
   - "Luke 17 (Judgment at the Second Coming, referenced)"
@@ -24,19 +23,11 @@ tags:
   - "Luke 18:9-14 (Parable of the Pharisee and the tax collector)"
   - "persistence in prayer"
   - "Repentance and inner transformation"
-  - "St. John Armenian Church (parish context)"
-  - "St. Vartan Oakland (referenced in announcements)"
   - "The inward work of prayer"
-  - "The Pharisee"
-  - "The tax collector"
-  - "The unjust judge"
-  - "The widow in the parable"
   - "Trusting God's timing and justice"
 ---
-[Armenian sermon]
 Սիրելիներս, այսօրվա ընթերցումը, իհարկե, մեր մեծ պահքի ընթերցումների շարքին կպատկանի, և ամենը իրենց բանին կծառայեն մեծ պահքի ոսկե շղթայի այդ ճանապարհորդությանը, որի վրա բոլորս քալում ենք այս ժամանակի մեջ։ Երբ որ հասնենք այս շաբաթ, բնականաբար, կկարդանք այս արագի մեջ այն իմաստը, թե ինչպես բոլորս պետք է ըմբռնենք որպես հավատացյալներ մեր աղոթքական կյանքը, մեր հարաբերությունը Հիսուսի հետ։ Այդպես հարատև, շարունակական և անդադար պիտի ըլլա, որ մենք այդ կնոջ պես լինենք, որ նույնիսկ երբ հուսահատվենք և թվա, թե մեր աղոթքները չեն լսվում, եւս շարունակենք, շարունակենք, շարունակենք, որովհետև մեր հավատարմությունը, մեր հավատքի ուժը կցույցադրվի այդ գործի մեջ, այդ շարժման մեջ։ Երբ որ մեր ուզածը չենք տեսներ այս աշխարհում, ընդհակառակը, երբ որ մեր հավատքը դնենք Աստծո վրա՝ չնայած որ դժգոհ ենք աշխարհի այս իրավիճակից, երբ որ այդպիսի դիրք որդեգրենք մեր կյանքում, ուրեմն կարտահայտվի մեր հավատքի ուժը։ Ուրեմն բնականաբար, երբ որ հասնենք այս պահը Մեծ Պահքի մեջ, արդեն կեսն անցանք, Մեծ Պահքի կեսը արդեն լրացավ, երբ որ հասնենք այս ապաշխարհական ժամանակին, մենք պիտի հիշենք, որ այն փոփոխությունը, որ մենք կուզենք տեսնել, թե՛ մեր անձնական կյանքում, թե՛ այս աշխարհում, այդ փոփոխությունը Աստծո կամքով և իր ժամանակով պիտի իրականացվի։ Եվ չենք կարող իրավունք ունենալ հուսահատվելու կամ այդ աստիճանին հիասթափվելու, որ մոռանանք, որ պետք է շարունակենք մեր աղոթքները։ Այս աղոթքները որու՞ համար են։ Հիսուսը պիտի ըլլի, Աստված պիտի ըլլի արդարը։ Չի կարող չըլնել արդարը, բայց այդ աղոթելը ինքն իրեն կփոխի մեր կյանքը, մեր հոգին, այդպես կհամաստեղծվի մեր հոգեկան կյանքը Աստծո կամքի հետ։ Ուրեմն շարունակեցեք, երբ որ դուք անարդարություն տեսնեք ձեր անձնական կյանքներում, ազգային կյանքում, աշխարհում, ինչ որ մենք կտեսնենք, որ անընդունելի կգտնենք, ինչ որ մենք կհանդիպենք, որ մեզ համար այն չէ, ինչ որ մենք կհավատանք, որ պետք է ըլլա այս աշխարհի մեջ։ Այս արագի ներքին իմաստն այն է, որ մենք այդ ուժը, այդ կամքը, այդ պարտականությունը մեր վրա չդնենք արդարացնելու համար, որովհետև այդ իրավունքը կպատկանի Աստծուն։ Ուրեմն մեր գործը այն է, որ հավատարիմ մնանք, աղոթող մնանք, որ նույնիսկ երբ անհույս ենք և մեր հույսը կտրված է, այդպիսի նվիրվածություն ցույց տանք, որ վստահենք և հավատանք, որ արդարությունը կպատկանի Աստծուն, որ չկարծենք, թե արդարության գործակալներ ենք, որովհետև այդպես չէ։ Չենք կարող մեզ վստահել այդպիսի պարտականությամբ։ Այդ ինքը կմնա Աստծո ձեռքում։ Բայց ինքը, որովհետև ողորմած է և համբերատար, ժամանակ է տալիս այս կյանքում, որ մենք, ի վերջո, ցույց տանք, որ խոնարհ աղոթողի պես կենտրոնանանք մեր հոգևոր կյանքի, մեր մեղքերի, մեր ապաշխարության վրա՝ չմտածելով աշխարհի մեղավոր իրավիճակի մասին։
 
-[English sermon]
 The fact of the matter is, and this is proven time and time again, it doesn't need to be exemplified or justified. I think all of us understand what it means to realize that we live in an unfair world. We live in an unjust world. You know, that begins from the youngest age, especially when you have siblings, right? The older sibling gets to do something that the younger sibling can't do. And from that moment forward, you live in an unfair world, okay? If everything was fair, then everything would be equal in the way that we want it to be equal, and everything would be right, and everything would be just. And that mentality we begin to cultivate from a young age. And it's that sense of unfairness and unjustness that can build within us a resentment or a despair or a disconnect with others in the world around us.
 
 We have this innate drive within us to seek out righteousness. It's one of the ways that God calls us more closely to him. And when we see unrighteousness in the world around us, it causes upheaval within us, anger, frustration, disappointment, impatience, hatred even, and all sorts of negative emotions. So we have this mechanism within us that drives us to seek out fairness, and when we do not find it, we respond negatively to it.

@@ -14,32 +14,17 @@ sourceVideoId: "KmKXdshjhIA"
 sourceVideoUrl: "https://www.youtube.com/watch?v=KmKXdshjhIA"
 sourceVideoTitle: "September 29, 2024 - Divine Liturgy"
 tags:
-  - "Armenia"
   - "Armenian Apostolic tradition"
   - "Christ’s promised return"
   - "Continuity of faith across generations"
-  - "Dothik the Ascetic"
   - "Exodus (alluded to through the tradition of Holy Muron)"
   - "Feast of the Holy Cross of Varak"
-  - "Historic Armenia"
   - "Holy Muron and baptism"
-  - "Jesus Christ"
   - "Matthew 24:30"
-  - "Monastery of Varak"
-  - "Moses"
-  - "Mount Varak"
   - "Nearness to Jesus Christ"
-  - "Republic of Armenia"
-  - "St. Gregory the Illuminator"
-  - "St. Hripsime"
-  - "St. Nerses the Builder"
-  - "St. Thaddeus"
   - "The Cross, Gospel, and Holy Spirit as means of blessing"
   - "The True Cross"
-  - "Vagharshapat"
 ---
-[Armenian sermon]
-
 Այսօր, ինչպես պատմեցի, մենք պետք է նկատի ունենանք, որ երեկ շատ կարևոր բան մը տեղի ունեցավ՝ Սուրբ Մյուռոնի օրհնությունը։ Ատիկա չենք կրնար պատահական նկատել, ուստի այսօր անդրադարձանք այդ մասին։ Սուրբ Մյուռոնի օրհնությունը շատ կարևոր նշանակություն ունի բոլորիս համար՝ Հայ Եկեղեցու զավակներուն համար։
 
 Այսօր, ինչպես կը պատմեի առաջ, Վարագա Խաչն է։ Վարագա Խաչը այն տոնն է, երբ մենք կը հիշենք Թոդիկ անունով ճգնավոր մը։ Ինքը աստվածային տեսիլքով հասկցավ, թե ուր էր Խաչի բուն մասունքը, որ կը գտնվեր Վարագ լեռան վրա և բերվեր էր Սուրբ Հռիփսիմեի կողմե։ Սուրբ Հռիփսիմեն իր հետ բերավ Խաչին մասունքը և զայն հոն պահեց, ապա շարունակեց դեպի Վաղարշապատ՝ այսօրվա Հայաստան, ուր նահատակվեցավ։
@@ -53,8 +38,6 @@ tags:
 Երբ մենք այսօր կը կարդանք Մատթեոսի Ավետարանը, կը լսենք մարգարեություն մը՝ Հիսուսի խոսքը, երբ ինքը կը խոստանա, որ պիտի վերադառնա։ Այդ Ավետարանի հատվածին մեջ ինքը կսե, որ Մարդու Որդին երկնքին մեջ պիտի երևի, երբ վերադառնա։ Ասիկա անփոփոխելի, անշրջելի խոստում մըն է. ինքը պիտի վերադառնա և պիտի մեզի հետ ըլլա։
 
 Ուրեմն Հիսուսի նպատակն է, որ մենք մեր կյանքի ընթացքին պատրաստ ըլլանք այդ պահին համար, որ մոտենանք իրեն և մոտիկ հարաբերության մեջ ըլլանք իրեն հետ։ Իր խոսքը, իր Սուրբ Խաչը և Սուրբ Հոգին, որ մենք կը ստանանք մկրտության ընթացքին և որ կը դրոշմվի Սուրբ Մյուռոնով, մեզի կուտան գործիքները, որպեսզի մեր կյանքերու ընթացքին մոտենանք իրեն։ Ասիկա է պահը, որ մենք վայելենք այդ մոտիկությունը, որ ի վերջո հավիտենական պիտի ըլլա բոլորիս համար։
-
-[English sermon]
 
 As I mentioned previously, today is the feast known as the Feast of the Holy Cross of Varak. We find ourselves in the season of the Holy Cross, a whole season that takes us essentially until we begin preparing for Christmas during the season known as Hisnag. So this time is very firmly in the middle of “cross time.”
 

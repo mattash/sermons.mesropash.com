@@ -15,29 +15,18 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=9RNJYks0zOw"
 sourceVideoTitle: "January 25, 2026 - Divine Liturgy"
 tags:
   - "Armenian Church tradition and distinctiveness"
-  - "Capernaum"
   - "Catechesis and Christian formation"
   - "Christ as medicine and peace"
   - "Christ's presence in suffering"
-  - "Council of Nicaea"
-  - "Daron"
-  - "Deacon Mikhail Markarian"
   - "Faith amid tribulation"
-  - "Father Garabed Telfayan"
   - "Feast of the Catechumens"
   - "John 11 (Lazarus, referenced)"
   - "John 2 (wedding at Cana, referenced)"
   - "John 6:15-21"
   - "Pre-Lenten preparation"
-  - "Saint Gregory the Illuminator"
-  - "Sarah"
   - "Scripture and Church authority in early Armenian Christianity"
-  - "Sea of Galilee"
-  - "St. James Armenian Church, Los Angeles"
-  - "St. John Armenian Church"
   - "Trust in God during grief and loss"
 ---
-[English sermon]
 Beloved faithful, we welcome you here this morning to St. John Armenian Church as we celebrate Divine Liturgy. And before we proceed, we would like to welcome Father Garabed Telfayan, who is with us once again. We're so happy to have him back. For those of you who were here then, you'll recall that he was also with us throughout Holy Week this past year, and he has promised that he will join us once again this Holy Week.
 
 Today is the Paregentan or the eve of the Feast of the Catechumens, which I'd like to talk about for a few minutes. The Feast of the Catechumens is a fasting week which is unique to the Armenian tradition. It is by name not a tradition that you will find, a custom that you will find, in any other Orthodox church. And its roots go back to the earliest days of the Armenian Apostolic Church. According to our tradition, it was founded during the establishment of the Armenian Apostolic Church under the direction of Saint Gregory the Illuminator. Now, the word catechumen refers to people who are new to the faith. So in this case, our tradition says, having converted an entire nation to Christianity, Saint Gregory established this fast saying, "We're all new to Christianity, so let's all fast this week in repentance and prepare to become Christians." Now, it takes place prior to the beginning of Great Lent, and it is similar to other Orthodox churches because other Orthodox churches like us have a pre-Lenten fasting period. This is your prep week. This is the week where you get your things together, and you pull out all of your vegan recipes, and you make sure that your storage and your refrigerator is in order because Lent is going to begin in a few weeks. So this is a pre-Lenten fast to prepare for Lent to begin, which is just around the corner.
@@ -46,10 +35,8 @@ One unique aspect of the Fast of the Catechumens is every day throughout the cal
 
 The last note that I'll say about this is that we're going to be announcing a course here at St. John, which is a catechesis class. You can see the same root as catechumen. This is a class or course that's meant for people who are new to the faith or feel like they need to begin from the beginning, because this is essential — the ABCs of what it means to be Armenian Orthodox, that our forefathers had to introduce to the Armenian nation seventeen hundred years ago, and it wouldn't be a bad idea for us to understand as well. So I invite you to download Fast and Pray, join us for the Fast of the Catechumens, and keep an eye out for the catechesis class, which is going to be beginning soon.
 
-[Armenian sermon]
 Մոտանալով, քայլելով ծովու վրա՝ այս գեղեցիկ հրաշքը, որ տեղի ունեցավ, խորհրդավորս մեզի կներկայացնե ճշմարտությունը, որ բոլորիս համար ծանոթ պետք է ըլլա, վստահ եմ, եթե քիչ մը ապրած ենք այս մոլորակի վրա, որ երբեմն մեր մենության մեջ վախ կզգանք, կզգանք, որ լքված ենք այս աշխարհում, որ ոչ մի մարդ չկա այս աշխարհում, որ մեզի սիրում է, և նույնիսկ մեր երկնային Հայրը անտեսած էր մեզ։ Այս փորձառությունը, այս զգացողությունը հանդիպել եմ վերջերս։ Ընտանիքի հետ էի, և իրենց սիրելին, իրենց հայրը հիվանդացավ և մահամերձ էր, կմեռներ, և իր դուստրը ինձի դարձավ և կըսե՝ «Տեր հայր, ո՞ւր է Աստված, ո՞ւր է։ Ինչո՞ւ հայրիկս պետք է այսպես չարչարվի։ Ինչո՞ւ մեզմե պետք է հեռանա։ Իր ժամանակը չէ, երիտասարդ է։ Ինչո՞ւ այսպես պետք է հիվանդանար։ Ո՞ւր է Աստվածը»։ Ասե։ Պատասխան ունի՞մ այդ վայրկյանին։ Դուք պատասխան կունենայիք, եթե իմ տեղը ըլլայիք։ Ես եղած եմ այդ վիճակի մեջ վեց ամիս առաջ, եղբայրս կմեռներ։ Ո՞ւր է Աստված։ Ասիկա արդար չէ։ Ինչո՞ւ ուրիշներուն չի պատահեր, բայց մեզի կպատահի։ Սա մարդկային մտածողություն է ասիկա, և մենք մարդ ենք։ Եվ պատասխանը, երբ որ մենք պատրաստ ենք ընդունելու, կգտնվի այս հրաշքի մեջը, կգտնվի Ավետարանի մեջը, երբ որ մենք աչքեր ունենք և ականջներ ունենք տեսնելու և լսելու, որովհետև մեր Տերը այդպիսի Տեր չէ, որ կգետցնե դժվար բաներ այս կյանքի մեջը, այս կյանքի ընթացին։ Ինքը Տերը չէ, որ կըսե, որ դուք միշտ հանգիստ, հարմար և ապահով պիտի ապրեք, մի մտահոգվիք։ Մեր Տերն է, որ երբեք անտարբեր չէ։ Եվ երբ որ մենք դժվարություններուն կհանդիպենք, պիտի երևնա մեր ցավի մեջ և բուժե մեզի։ Ինչո՞ւ։ Որովհետև Աստվածաշնչի սկիզբեն մինչև վերջը մենք կհասկանանք, որ մենք կապրենք այս կյանքը ոչ թե որ մենք անփորձանք մնանք կամ միշտ անապահով, կյանքիստ հարմար, այլ որ մենք պատրաստվենք հաջորդ կյանքի համար։ Եվ մեր տկար էությունները չեն կրնար պատրաստվիլ հավերժական կյանքի համար առանց փորձանքի, առանց դժվարության, որովհետև կստիպե մեր տկարության մեջ, որ մենք ավելի խորն այինք այս կյանքի իմաստին։
 
-[English sermon continued]
 The passage which I'd like to invite you to join me in reading today, by the way, if we can put the reading up on the screen, you've got your pew Bibles, is from the Gospel of John, chapter six. And this is a telling of the events on the Sea of Galilee when the storm breaks out and Christ appears to the disciples. Beginning from verse fifteen. And I invite you, as you have your pew Bibles with you, to explore not only these verses, but the chapter in general, which is a very essential and important chapter and has to do with Christ feeding the multitudes and proclaiming himself the bread of life. But in this chapter, we hear John's account of the events that took place on the Sea of Galilee.
 
 Jesus, knowing that they intended to come and make him king by force, withdrew again to a mountain by himself. Now who came? These were the people who were listening to him preach and who were amazed by his profound works and his miracles, and they glorified him so much that they wanted to enthrone him in that moment and embroil him in rebellious behavior in the kingdom. But that wasn't the time for it. He knew, of course, and so he withdrew again to a mountain by himself. When evening came, his disciples went down to the lake, where they got into a boat and set off across the lake for Capernaum. By now it was dark and Jesus had not yet joined them. A strong wind was blowing and the waters grew rough. When they had rowed three or four miles out, they saw Jesus approaching the boat, walking on the water, and they were terrified. But he said to them, "It is I. Don't be afraid." Then they were willing to take him into the boat, and immediately the boat reached the shore where they were heading.

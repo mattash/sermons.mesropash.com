@@ -15,21 +15,14 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=zWY1l6CvZk8"
 sourceVideoTitle: "April 19, 2025 - Easter Eve Divine Liturgy"
 tags:
   - "Accepting help from others"
-  - "Armenia"
   - "Christ's sacrifice on the cross"
   - "Easter / Resurrection"
   - "Good Samaritan / Christian charity"
-  - "His Holiness Karekin II (Catholicos, referenced as Վեհափառը)"
   - "Humility"
   - "Kingdom of Heaven"
-  - "Los Angeles"
   - "Pride versus dependence on God"
   - "Salvation as gift not achievement"
-  - "San Francisco"
-  - "Unnamed lost Armenian man from Armenia"
 ---
-[English sermon]
-
 I'm going to speak to you about a very quick and important story for me about something that happened recently in this community. I mentioned as I gave a preface to this message in Armenian that I have to say this in English because the person about whom the story is might be listening online, I don't know, and I don't want them to understand. But recently an event took place here in our parish that really had an impact on me, and I find myself thinking about it often. There are some folks who are here in the sanctuary that know what this story is about, and I'm going to leave out some crucial details and names, but I'm going to tell you why this story was important to me.
 
 Several weeks ago, there was a phone call that came into our office, and it was from a man who found an elderly person on a train and said, "I think this old man is lost, and I can't understand what he's saying. Can you please help me, help this man? I think he's Armenian." And so I got on the phone, and I spoke to the man, and he told me about his situation. He came from Armenia, and he came to the United States hoping to find what he was looking for. But he got here and couldn't find it, and he didn't know where to go, and he got on a train to come to San Francisco. Who knows why? And he wasn't sure what to do. This very kind Good Samaritan found this man and said, "I've got to help this guy because he seems lost." And thank God that he did, 'cause the man that he found didn't have a phone or any money or anywhere to go or any place to sleep. So I asked this kind man, I said, "Can you please take care of this man for the night, and then tomorrow we'll meet and we'll find out more about how we could help?" So he came, and he told me a story, and at the end of the day, I said, "You have to go back to Armenia because I can't find any opportunities for you here." And he said, "No, I'm not gonna go back." I said, "You gotta go." He said, "No." Okay. Well, this has to get figured out because this is not an easy place to be if you don't have any means of living or any plan or anybody that you know.
@@ -38,11 +31,7 @@ Fast-forward a little while later, while we're trying to help him, he finds hims
 
 And I want to say this — this is the reason I'm telling this story. This is pastoral, and I tried to tell the minimum amount of it that was necessary, but this story had a very important lesson for me that I needed to share with you. Everything that happened around this individual, who was rather stubborn and unwilling to take advice and often relying on the help of people that he found — just in the story that I told, I mentioned about five individuals, and there were many more than that that were involved in the process — is somebody who I actually love very deeply. Because he exemplified one of the most important lessons that we have to learn during this Easter season.
 
-[Armenian sermon]
-
 Ինքը օրինակ ծառայեց, թե ինչպես մենք պետք է ըստ մեզ պատրաստ ենք այս Հարության տոնի համար, որովհետև ինքը, ինքը, ի վերջո, ընդունում էր ուրիշների օգնությունը, որովհետև ինքը այնպիսի մարդ էր, որ չկարողացավ ինքն իրեն օգնել։ Եվ մենք նույնն ենք։ Չենք կարող այս կյանքի մեջ հպարտ լինենք, որովհետև որքան հաջող ենք, որքան հաստատված ենք, ճանչված ենք, որքան վստահ ենք, որքան ապահովված ենք, ի վերջո, երկնային արքայության համար մենք ըստ մեզ չենք կարող օգնել։ Եվ Տիրոջ օգնությունը անհրաժեշտ է։ Եվ այդ հոգին, որ պատրաստ չէ ընդունել այդ օգնությունը, չի կարող ստանալ այդ փրկությունը։
-
-[English sermon continues]
 
 The lesson that I learned from this individual was the example of what it takes for somebody to receive the help of others. This is important, okay? We find in our lives, especially those of us that are blessed with skills and capabilities and opportunities, etc., that we are very comfortable doing for ourselves. We are very comfortable working hard and establishing our lives. But in the end, no matter how capable we are, no matter how smart we are, no matter how strong we are, no matter how loved in this world we are — no, it doesn't matter. Whatever it is, whatever we have to bring forth in this world, however safe and established and successful we think we are, none of it will help us get to the Kingdom of Heaven. Not one ounce. We have to have the humility in our hearts to be able to accept the help of someone outside of us.
 

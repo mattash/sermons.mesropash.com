@@ -14,35 +14,20 @@ sourceVideoId: "Y_2TinN976Q"
 sourceVideoUrl: "https://www.youtube.com/watch?v=Y_2TinN976Q"
 sourceVideoTitle: "February 22, 2026 - Divine Lenten Liturgy"
 tags:
-  - "Adam"
   - "Armenian national church and identity"
   - "Call to perfection (Matthew 5:48)"
-  - "Eve"
   - "Faithfulness vs. trusting worldly powers"
   - "Fallen world and consequences of sin"
-  - "Father Avetis"
-  - "Father Krikor"
-  - "Father Revond"
-  - "Father Vazgen"
-  - "Father Yerishay"
   - "Genesis (Adam and Eve, expulsion from paradise)"
   - "Hope through Christ's resurrection"
   - "Isaiah (prophetic reading for the day)"
-  - "Israel"
-  - "Jesus Christ"
-  - "Mane (preacher's daughter)"
   - "Matthew 5 (Sermon on the Mount, antitheses, \"be perfect as your heavenly Father is perfect\")"
-  - "Paradise"
   - "Repentance and confession"
   - "Romans (epistle reading)"
   - "Sermon on the Mount / antitheses"
-  - "St. John (parish)"
-  - "St. Paul"
   - "Striving to emulate Christ"
   - "Sunday of the Expulsion / Great Lent"
 ---
-[Armenian sermon]
-
 Այսօր, ինչպես մենք սկսած ենք կատարելու այս պատարագի ընթացքին մարգարեական գրությունը կարդալ, այսօր մենք Եսայի գրքից կարդացինք։ Եվ դժվար հատված մըն էր կարդալու, որովհետեւ մենք այդ ընթերցման ընթացքին կտեսնենք Աստված մը, Տեր մը, որ իր ժողովուրդով հիասթափված է, իր ժողովուրդով չխայնացած է։ Ինչո՞ւ։ Որովհետեւ ինքը վստահեց Իսրայելին, որ իրենք լինեն իր ազգը, իր ժողովուրդը, եւ իրենք ավելի վստահեցին քաղաքական ուժերին, քան Աստծո նախախնամությունը։ Եվ ասիկա դարձավ այն ժամանակ Իսրայելի համար մեծ դաս, եւ ոչ որպես առաջին անգամ, եւ ոչ որպես վերջին անգամ։ Եվ պետք է ծառայի մեզի համար այսօր նույն դաս, որովհետեւ մեր եկեղեցին ծուխ չէ, շենք չէ, համայնք չէ, մեր եկեղեցին ազգային եկեղեցի է։ Մեր ազգային դրսեւորումն է մեր ազգի հավատքը։ Եվ այդպես կներգրավե, մաս կկազմե ամենքս, յուրաքանչյուրս, թե՛ սփյուռքի մեջը, թե՛ հայրենիքի մեջը։ Եվ այսպես մենք կդառնանք մեկ մարմին Քրիստոսի եւ պատասխանատու ենք որպես ազգ հավատարիմ մնալ Աստծուն, որովհետեւ երբ որ հավատարիմ չենք, հետեւանքներ կան։ Եվ Իսրայելը հանդիպեց այդ հետեւանքներին իր փորձառություններու մեջ։
 
 Այսօր արտաքսման կիրակի է՝ Մեծ Պահքի կիրակիների շարքին մեջը երկրորդ կիրակին։ Եվ այսօր մենք կոչված ենք առջեւ կանգնելու դժվար ճշմարտությունների առջեւ, որովհետեւ մենք ինչ որ կտեսնենք այս կյանքի մեջ՝ մեր ցավը, մեր տառնությունը, մեր սուգը, մեր մահը այս աշխարհում, այս ամեն ինչը հետեւանք մըն է մեղքին։ Եվ ասիկա դժվար է ընդունել, շատ դժվար է մարդկանց համար ընդունել սկիզբեն մինչեւ այսօր, որովհետեւ մենք չենք ուզում մեղավոր գտնվելու այս աշխարհում։ Ձեւով մը մեր ներկային կյանքը պայքարման մեջ է, երբ որ մենք մեղավոր ենք կոչվում իրականության մեջ։ Բայց այդ մեղավոր իրավիճակը ինքը ենթարկում է մեզ հետեւանքներուն։ Եվ ասիկա սկսավ առաջին օրերեն Ադամի եւ Եվայի արտաքսումով եւ կշարունակե մինչեւ այսօր։
@@ -50,8 +35,6 @@ tags:
 Սակայն հույսն է մեր յուրաքանչյուրիս համար, մեր աշխարհի համար, մեր ազգի համար, որ ասիկա չմնայ, որովհետեւ հարության շնորհը այն է, որ մենք կարող ենք հույս ունենալ այս վիճակից դուրս գալ։ Հիսուս մեզի դուռը բացեց։ Միայն ինքը կսպասե, որ մենք իրեն վստահենք։ Ինքը միայն կսպասե, որ մենք կըսենք, որ դուն ես մեր Տերը, դուն ես մեր Թագավորը, դուն ես մեր Փրկիչը եւ քեզի վստահում ենք՝ քու խրատդ, քու ուսուցմունքդ, քու ներկայությունդ, քու օրհնությունդ, քու շնորհքները, քու խորհուրդներդ միջոցով։ Եվ եթե անոնցից հեռանանք, ուրեմն ինչպե՞ս Ադամի եւ Եվայի պարագային, հետեւանքներ կան։
 
 Սիրելի հավատացյալներ, այսօր ասիկա զգուշության կոչումն է, որ եւ՛ Մեծ Պահքի ընթացքին, եւ՛ ընդհանրապես, որպես ժողովուրդ, մենք միշտ ջանք թափենք, որ չհեռանանք Հիսուսից, որ մենք հավատարիմ կգտնվենք իր հայացքում։ Այո՛, մենք պակաս պիտի գտնվենք, մեղավոր պիտի գտնվենք։ Ամեն ձեւով չպիտի կատարենք, կատարելացնենք, իրականացնենք այն հրամանը, որ կա Ավետարանի ներս այսօր, որ կատարյալ եղիր քու երկնային Հորդ պես, անկարելի է։ Բայց ի՞նչ կուզե մեզմե։ Ինքը գործ կուզե տեսնել, այդքան ջանք կուզե տեսնել։ Ինքը կուզե տեսնել, որ կփորձենք։ Այդքանը նվազագույնն է կբավե։ Այդ փորձելը իրեն համար ամեն ինչն է։ Եվ եկեք որպես եկեղեցի, որպես ծուխ, որպես ազգ ավելի ուժեղ ձեւով քիչ մը փորձենք։
-
-[English sermon]
 
 The passages that we encounter today on the Sunday of the Expulsion, the second Sunday of Great Lent — and I hope, by the way, that all of you are following along with us on Fast and Pray. The reflections over the past week on this app have been amazing, and I'm so thankful for my brothers in Christ for their participation. We've heard messages from Father Avetis and Father Krikor and Father Yerishay and Father Revond and Father Vazgen, and we even had a special appearance yesterday from my daughter Mane on the app. It's an amazing experience. I'm so grateful that you can be a part of this, and it's preparing us to understand better what we're supposed to be experiencing during Great Lent.
 

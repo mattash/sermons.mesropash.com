@@ -14,37 +14,18 @@ sourceVideoId: "hguWIkFJ8UM"
 sourceVideoUrl: "https://www.youtube.com/watch?v=hguWIkFJ8UM"
 sourceVideoTitle: "June 29, 2025 - Divine Liturgy"
 tags:
-  - "Anahid"
-  - "Archbishop Mikael Ajapahyan"
-  - "Archbishop Parkert Galstanyan"
-  - "Armenia"
   - "Church and state relations in Armenia"
   - "Compassion and tolerance in church life"
-  - "Deacon Nishan"
-  - "Der Shnorhok Demirchyan"
-  - "East Coast (United States)"
   - "Economia in Orthodox tradition"
-  - "His Holiness Karekin II"
   - "Hosea 6:6 (referenced via 'I desire mercy, not sacrifice')"
-  - "Jerusalem"
-  - "Jesus Christ"
-  - "King Arshak II"
-  - "Los Angeles"
   - "Martyrdom for moral witness"
   - "Matthew 12:1-8"
   - "Mercy over sacrifice"
   - "Moral duty of the church to speak truth"
   - "Prayer and fasting for the Armenian Church"
-  - "Saint Gregory the Illuminator"
-  - "Saint Nerses the Graceful (Shnorhali)"
-  - "Saint Nerses the Great"
   - "Saint Nerses the Great as model of prophetic witness"
   - "Spiritual growth at different stages"
-  - "United States"
-  - "Van Nuys"
 ---
-[Armenian sermon]
-
 Այսօրվա Ավետարանի մեջը, Մատթեոսի Ավետարանի մեջը կարդում ենք մի հատված, որ ինձի համար նշելի է, որովհետև առաջին անգամ, առաջին Ավետարանի հատված է, որի մասին ես քարոզած եմ եկեղեցվո ներս, եկեղեցվո տաճարը ներս: Հրավիրված էի Տեր Շնորհք Դեմիրճյանի կողմից, որ Սուրբ Պետրոսի Հայաստանյայց առաքելական եկեղեցի ծխական հովիվն է Լոս Անջելեսի մեջ՝ Վենայս, և քարոզեցի այս Ավետարանի հատվածի մասին: Եվ ինձի համար, չգիտեմ ինչու, բայց շատ ազդիչ հատված է Ավետարանի, Մատթեոսի Ավետարանի, որովհետև ինքը, ինչպես Հիսուս միշտ անում է, և ինչպես մենք շատ ենք խոսում մեր Աստվածաշնչի սերտողության մեջ, որը սկսավ անցյալ շաբաթ, Հիսուս շատ մասնավոր մոտեցում ունի մեզի ուսուցանել այդ համեմատելու բաներ, որոնք մեզի համար կարծենք, թե մեկը մյուսին որևէ կապ չունի, բայց կոնֆլիկտ չկա: Եվ ինքը համեմատում է, որ մենք ավելի խորապես մտածենք այդ գաղափարների մասին, այդ հատկանիշների մասին և ինչպես մենք գործածում մեր առօրյան կյանքի մեջ:
 
 Եվ այստեղ ինքը գրում է. «Երբ որ ինքը իր ուսանողներին հետ, աշակերտներին հետ գտնված էր մի դաշտի մեջ և իրենք քաղում էին հատիկները ուտելու, որովհետև սոված էին, փարիսեցիները գտել են նրանց և սկսած են քննադատել աշակերտներին՝ ասելով, որ իրենք սրբացրեցին շաբաթը»: Եվ Հիսուս պատասխանելով ասեց, որ եթե դուք իմանայիք, ի՞նչ է նշանակում, որ ես ցանկանում եմ կարեկցություն և ոչ զոհողություն, չպիտի անմեղին մեղադրեք: Ուրեմն, այսպես ասելով՝ կմտածենք, ի՞նչ է տարբերությունը կարեկցություն և զոհողություն: Ինչո՞ւ այդպես ինքն իրեն կհամեմատե: Այսինքն՝ մարգարեական մեջ բերում է, որ ինքը բերում է Հին Կտակարանից և Սուրբ Գրությունից, և ինքը վերաներկայացնում է փարիսեցիներին: Արդ, ինքը արդեն պիտի ծանոթ գտնե այդ խոսքը, բայց context-ը հայտնի չէր, քանի որ մարգարեությունից էր: Ինքը context-ը բերում է: Հենց այս context-ի մեջ պիտի հասկանանք՝ մարգարեն ի՞նչ էր ասում, երբ որ ասեց, որ ես ցանկանում եմ կարեկցություն և ոչ զոհողություն:
@@ -56,8 +37,6 @@ tags:
 Ուրեմն, այս կարեկցությունը շատ կարևոր է և ներկա է մեր եկեղեցվո կյանքի մեջ առաջին օրերից: Երբ որ մենք կարդում ենք, ինչպես առաքյալները Երուսաղեմի մեջ որոշեցին, որ նոր քրիստոնյաներ պետք չէին ենթարկվել հրեական հին օրենքներին, այսինքն՝ մեզի նշան է տալիս, որ իրենք հասկացան, որ շատ դժվար պիտի լիներ այդ հույների համար, ոչ հրեաներու համար ենթարկվելու այդ կանոններին:
 
 Ուրեմն ինչու՞ պատմում եմ սա, որովհետև այսինքն՝ շատ կարևոր դաս է քրիստոնյաներիս համար, որ այս է՝ մենք շատ հանդուրժող պետք է լինենք եկեղեցվո կյանքի մեջ ընդհանրապես՝ հասկացող, համբերատար և հանդուրժող: Ուր որ ես եմ իմ հոգևոր ճանապարհի վրա, շատ տարբեր է, և երևի դուք ավելի հաճարաճացած եք ինձանից: Եվ հավատում եմ դա, որ այս հոտի մեջ կա մարդիկ, որ ինձանից ավելի Աստվածամոտ են, և փառք եմ տալիս, որ դուք կարող եք ինձի ճիշտ ճանապարհ ցույց տաք, ինչպես ես փորձում եմ ամբողջ համայնքին նույն օգնություն տալու համար: Բայց կան մարդիկ, որոնք նոր են սկսում այս ճանապարհի վրա, և մենք իսկապես սիրով, սիրով օգտակար և համբերատար պետք է լինենք և յուրաքանչյուրին ըստ իր կարիքին կարեկցություն և ողորմություն և համբերություն ցույց տալ, որ մեր առաքելությունը Աստվածահաճող լինի:
-
-[English sermon]
 
 In my Armenian message I spoke somewhat at length about the passage from today in the Gospel of Matthew that speaks about Christ in a certain circumstance challenging the Pharisees, saying if they understood the difference between what it means that I say that I desire mercy and not sacrifice, that the innocent would not be judged, and how that is relevant in our church life with regard to the amount of leniency or tolerance that we show one another. It's very important that in our spiritual journey we understand that we're all in different places on our path that leads us to Christ. And in the life of Orthodoxy, we don't demand that everybody be subjected to the same scrutiny so that we all have the opportunity to be treated first as children of God, as young ones, or catechumens, as is referred to in an Orthodox context, who need a little bit more patience, a little bit more leniency, a little bit more understanding until they grow into the fullness of their faith and can be subjected to the entirety of our standards of Christian behavior, conduct, and Orthodox belief. And it can be hard sometimes to deal with peers that spiritually speaking may be less developed and may be held to a different standard. But this is what it means for us to exhibit compassion and mercy and tolerance in the life of the church.
 

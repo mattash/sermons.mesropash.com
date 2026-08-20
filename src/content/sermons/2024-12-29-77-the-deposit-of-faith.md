@@ -17,19 +17,12 @@ tags:
   - "Examination of the past year"
   - "Faith as a deposit or investment"
   - "Hope in God’s mercy"
-  - "Jesus Christ"
   - "Luke 19:11–27"
   - "Prayer and participation in the Divine Liturgy"
   - "Seasonal sadness and spiritual discouragement"
   - "Spiritual growth through the Holy Spirit"
   - "Stewardship of God’s gifts"
 ---
-[Armenian sermon]
-
-[The Armenian sermon is present, but most of it is too severely corrupted by ASR to transcribe reliably.]
-
-[English sermon]
-
 It is very natural at this moment in time to experience something called SAD—seasonal affective disorder. It is a well-documented phenomenon that happens in the wintertime, when a sizable number of people feel their moods shift dramatically. It can be something like a temporary depression, or a feeling of ennui, frustration, or indifference.
 
 It comes during the holiday season, when we are supposed to be most cheerful, joyful, and celebratory. People often feel an inner sense of cognitive dissonance because what they are feeling is not aligned with what they see in society or in their community. Understandably, this can happen even in the Church. This is a joyful and festive time in the Church. We come and say that we should be grateful, and we celebrate the gift of the Nativity and Theophany of our Lord and Savior Jesus Christ. For people who feel this way, it can be even more overwhelming: “I want to be part of this happy atmosphere, but I feel disconnected because of the way I feel inside.”

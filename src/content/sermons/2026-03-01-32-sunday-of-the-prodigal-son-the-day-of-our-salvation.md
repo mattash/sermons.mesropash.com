@@ -19,17 +19,13 @@ tags:
   - "Forgiveness"
   - "God's mercy"
   - "Humility"
-  - "Jesus Christ"
   - "Lent"
   - "Luke 15:11–32"
   - "Parable of the Prodigal Son"
   - "repentance"
   - "Responsibility"
   - "salvation"
-  - "St. Paul"
 ---
-[English sermon — children's homily]
-
 Can I ask the Sunday school to please come here? I want to just get in close with you guys. Let's come to the tas or the chancel area of the church because I have to tell you about today's story. It's very important.
 
 During Lent, every Sunday has a very special story associated with it. Last Sunday's story was a story about how Adam and Eve had to leave paradise. I'm sure you guys have heard that story before. And today is a different story. Today is the story of the prodigal son. Have you guys heard this story before? Some of you have, some of you haven't? Okay. Well, I'm going to go over it again. If you've heard the story, maybe you'll hear something new when I tell it to you, if you've heard it before. And then we can talk about what we learned from it.
@@ -70,10 +66,6 @@ Here's the thing, guys, and this is the lesson that I want you guys to take from
 
 So next time when you — I want you to think of the prodigal son, and I want you to think about what he went through to get to the place where he could say, "I sinned against God and against you." Because that's what our Heavenly Father is waiting for us to do when we walk through these doors. God bless you guys. Please go back to your seats. We're going to conclude in a short moment as I recap things for the grown-ups.
 
-[Armenian sermon]
-
 Մեր երկրորդ Կորնթացիների նամակի մեջ այսօր, երբ կարդում էինք Սուրբ Պողոսի նամակը՝ ուղղված Կորնթացիներին, այնտեղ առաջին նախադասությունների մեջ ինքը շտապականորեն կշեշտում է, որ այս է օրը մեր փրկության, այս է օրը, այսօր, և երեկ էր, և վաղը։ Այս պահին, այս վայրկյան, այս երկվայրկյանը այդ առիթն է, երբ հնարավորություն ունինք փրկություն ստանալու։ Երբ ես կպատմեի անարատ որդու պատմությունը մեր երիտասարդներուն ու երեխաներուն, ուրեմն անարատ որդու համար անհրաժեշտ էր հասնել այդ իրավիճակին, որ հասկանա, որ այդ վայրկյանը, երբ ինքը որոշեց խոստովանել, որ այդ էր իր պահը փրկության համար և գործ կատարեց։ Ինքը այդ վայրկյանին գործադրեց այդ որոշումը, այդ հասկացողությունը։ Բայց յուրաքանչյուրիս համար նույնն է։ Այս է պահը, այս վայրկյանը, այս երկվայրկյանը անմիջապես առիթ է մեզի համար փրկվելու, եթե պատրաստ ենք ապաշխարհելու։ Եվ դժվար է, համարձակ պետք է լինենք և հավատարիմ և պատրաստ ընդունել այդ փրկությանը, երբ մենք կկարծենք, թե արժանի չենք։
-
-[English sermon — conclusion]
 
 As I conclude our services today, I just hope that we all were able to once again refresh our relationship with the story of the prodigal son, the most powerful story of repentance and forgiveness that we can find in the living testimony of our Lord through the Gospels. And a reminder that as St. Paul has spoken to us through the lessons in the epistle reading for today, that it took so much for the prodigal son to get to that point where he realized that his salvation was at hand, and he was the only reason that he was not receiving it. It was right in front of him, but all he had to do was humble himself before his father to receive that which he needed. It was right there. Our salvation is at hand. Today is the day of our salvation. So we ask that God soften our hearts such that in that moment when we are ready, we can turn to Him on bended knee, confessing and being received into the heavenly kingdom for His glory. In the name of the Father and the Son and the Holy Spirit.

@@ -15,32 +15,19 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=Mg_uvmUmIEg"
 sourceVideoTitle: "March 10, 2024 - Lenten Divine Liturgy"
 tags:
   - "2 Timothy 2:15"
-  - "Armenia"
   - "Christian vocation and stewardship"
-  - "Der Grigor Grigoryan"
   - "Divine judgment"
-  - "Europe"
   - "Fear of God"
-  - "Jesus Christ"
   - "Lenten repentance"
   - "Luke 18:1–8"
   - "Mercy and justice"
-  - "Monte"
   - "Personal accountability"
   - "Proverbs 9:10"
   - "Psalm 111:10"
-  - "Russia"
   - "Service to vulnerable children and families"
-  - "St. Paul"
-  - "St. Zoravor Armenian Apostolic Church"
   - "Wise choices"
-  - "Yerevan"
 ---
-[Armenian sermon]
-
 [The Armenian portion of the sermon is not intelligible in the supplied ASR transcript.]
-
-[English sermon]
 
 Fr. Grigor Grigoryan is the parish priest of St. Zoravor Armenian Apostolic Church in Yerevan. We are closely affiliated with his mission, known as the Arev Children’s Center, and we wanted him to share with members of our community about the work he is doing.
 

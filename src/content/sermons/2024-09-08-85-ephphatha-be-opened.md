@@ -19,16 +19,11 @@ tags:
   - "Healing through compassionate touch"
   - "Hearing and proclaiming the Gospel"
   - "Human dignity and care for the isolated"
-  - "Jesus Christ"
   - "Mark 7:31–37"
   - "Openness to God’s will"
-  - "San Francisco"
-  - "St. Ambrose"
   - "The Divine Liturgy as participation in salvation"
   - "Vocation and service"
 ---
-[Armenian sermon]
-
 «Բացուի՛ր», կ’ըսէ Յիսուս Քրիստոս՝ մեր Տէրը։ Երկու հազար տարի առաջ եւ այսօր ալ կ’ըսէ՝ «Բացուի՛ր»։
 
 Այս անգամ Մարկոսի Աւետարանի եօթներորդ գլուխին մէջ կը կարդանք, թէ ինչպէս ժողովուրդը հիւանդ մարդ մը բերաւ Յիսուսի առջեւ եւ խնդրեց, որ Յիսուս բուժէ զինք։ Ինչպէս գիտենք, մեր Տէրը բժիշկ է. ինք կը բուժէ մեզ եւ կը բուժէր այն մարդիկը, որոնք հաւատքով եւ սիրով իր առջեւ կու գային՝ խնդրելով բժշկութիւն։
@@ -38,8 +33,6 @@ tags:
 Եկեղեցւոյ հայրերը հասկցած են, որ այս հրաշքը միայն բժշկութեան մասին չէ, այլ աւելի խոր խորհուրդ ունի։ Սուրբ Ամբրոսիոս կ’ըսէ, որ երբ կիրակի օրերը եկեղեցի կու գանք, Յիսուս մեզ կը բանայ, եւ դուռը մեզի համար կը բացուի։ Այս բացումը տեղի կ’ունենայ Պատարագի ընթացքին՝ նոյն այն հրաշքով, որ տեղի ունեցաւ Սուրբ Աւետարանին մէջ։ Այս կոչով ան նաեւ մեզի կ’ըսէ, որ ինչ որ կը լսենք, պէտք է ուրիշներուն քարոզենք իր Աւետարանը։
 
 Ամէն կիրակի այս կոչը կու գայ մեզի։ Երբ հոս կու գանք, մեր սիրտը կը բացուի իրեն հանդէպ։ Յիշենք, որ այս կոչը մեր մէջ կը մնայ։ Յիշենք, որ ինչ որ լսեցինք, մեր մէջ մնայ։ Աստուած մեզի տուաւ այս առիթը, որ Սուրբ Խօսքը լսենք։ Սուրբ Ամբրոսիոս կ’ըսէ, որ ան այսօր բացաւ ձեր ականջները, որպէսզի այս պատգամը լսէք։ Իր կամքն է, որ այսօր լսենք եւ հասկնանք։
-
-[English sermon]
 
 I remember, as a young man, like many of the young men you see before you today, there was a time when I had to begin serving on the altar. For my kids, if I tell them there was a time when I wasn’t a priest or didn’t serve on the altar, it is impossible for them to imagine. They think of me as a baby who came out of the womb wearing a shabig or something like that.
 

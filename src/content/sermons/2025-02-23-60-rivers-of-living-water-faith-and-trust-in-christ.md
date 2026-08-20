@@ -14,34 +14,17 @@ sourceVideoId: "2tGicxOA0Ec"
 sourceVideoUrl: "https://www.youtube.com/watch?v=2tGicxOA0Ec"
 sourceVideoTitle: "February 23, 2025 - Divine Liturgy"
 tags:
-  - "Avarayr"
   - "baptismal gifts"
-  - "Daron"
   - "faith and trust in Christ"
   - "Feast of Tabernacles"
-  - "Grand Canyon"
   - "Great Lent preparation"
   - "Holy Spirit as living water"
-  - "Hoover Dam"
-  - "Jesus Christ"
   - "John 7:37-38"
   - "John 7:39"
-  - "John the Evangelist"
-  - "Las Vegas"
-  - "Mount Ararat"
-  - "Niagara Falls"
-  - "Saint Vartan Mamigonian"
   - "spiritual potential of Christians"
-  - "St. John, San Francisco"
   - "St. Vartan Mamigonian and Vartanants"
-  - "Yerevan"
-  - "Yosemite"
 ---
-[Armenian sermon]
-
 Aysor, Hovhannes' k'nerakitsin mej e. Ayo, Hovhannes' avedaranin mej e, Hesus shat hamartsak khosq uni mezi hamar. Ksesé, "Ov ker tsarav en, xogh inzi khan yev xmen." Yev ksesé, irens xoren piti phxi ket kenats ch'ri. Asiga gheghuts'ik yev xork umec'o mejberumne Hesusi qoghmen mezi hamar: "Ov ker tsarav en, xogh inzi khan yev xmen." Asiga k'k'rkthe, k'k'rkne yev k'amrabnthe nuyn tasin, vor menk k'sorveink grete ays ampogh arden ants'ats amsva antats'kin. Ays khosq'e havatki masin e. Ananthat mer hayrer ays kirakineru antats'kin mintsev vor hasnink Poun Paregant'an, mek tas k'sheshsten. Yev tasa hetevyatn e. Petq e havadank. Petq e havadank. Ayp havatkin het amen inch yev qalis e yev qarili e. Bays arants havatki, voch' inch qarili che. Asiga himnakarne, vor vora himnavorvats e voch miayn mer havatk', mer kor-koronakan gyank', bays mer ampogh gyank', mer haverzhakan gyank'. Amen inch e ayp himnakari vra k'nsti. Vorkan uzheghe mer havatk'. Vorkan k'vstahink Hesusin. Yete k'vstahink, yev vor zavare-zaraven k'tarnank Hesusin yev i xmenk. Yev inch k'sesé piti patahi? Mer xoren, xore inch e? Ayn jamanak zhoghovurth k'madats'ayn, vor xor ayndeg ner, ur vor hokin k'pnaker. Hokien piti ka ketm e. Vzdik, vzdik, ch'uri tesak pam che. Ketm e, uzhegh, sharjvogh. Srp Hokin, kenats ch'urin, henc me. Yev ur piti ertha ays ket e? Ur piti ertha? Ashkharin, yev ashkhar piti lec'vi mer havatkov, Srp Hoku nvernerov. Bays yete ayp havatk' e ch'unenk, zarav piti mernink.
-
-[English sermon]
 
 I remember visiting Las Vegas once for perfectly innocent reasons. And when you go to Las Vegas, at some point, if you've ever been, it's important to visit the Hoover Dam. Who's been to the Hoover Dam before? It's a remarkable place, right? You've seen pictures of it. It's one of those things like the Grand Canyon or Yosemite. If you see a picture of it, you're like, "Oh, that looks interesting." And then when you show up and you put it in perspective, you're like, "This is unbelievable." Or Niagara Falls. Who's been to Niagara Falls before? My grandfather was born there. You can't imagine this thing until you see it with your own two eyes. I remember visiting Armenia for the first time and being in Yerevan and seeing Mount Ararat in the distance, which at that point, when I was young, I didn't realize the geography of it all. I thought if you're in Yerevan, like you would have to drive far away to see Mount Ararat because it's not that close. Okay? It's hours and hours and hours away from Yerevan. But if you're standing in Yerevan, you can see it massive on the horizon. How huge must this thing be that from here I can see it so clearly? When I'm at the Hoover Dam, I'm sure like you, I'm imagining what sort of engineering is necessary to hold back this flow of water, to keep this in check in a way that is safe and consistent. It puts in stark contrast the latent and potential energy that is in that river, that is in that water, waiting to break free. It's almost terrifying to imagine what would happen if the full extent of the power of that water would be let loose on the world. It would be devastating, right? Well, we're putting our faith in that dam, that it's gonna hold it back, and so far so good. But we forget, we forget the power of the natural world. We forget the power that is held in these things that work according to their nature as they should. But for all of these things to function in that harmonious way, there is a latent and truly awe-inspiring amount of power present that consistently lets it go. We think of the wind. The wind seems such like an innocent and everyday thing. A powerful wind is devastating. It can clear the landscape.
 

@@ -15,7 +15,6 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=jI3enJcSCmI"
 sourceVideoTitle: "July 19, 2026 - Deacon's Service"
 tags:
   - "1 John 1:9"
-  - "Apostle John"
   - "Armenian Church Fathers"
   - "Ephesians 4:32"
   - "Forgiveness"
@@ -25,9 +24,6 @@ tags:
   - "Renewal"
   - "repentance"
   - "Self-forgiveness"
-  - "St. Gregory of Narek"
-  - "St. Nerses Shnorhali"
-  - "St. Paul"
   - "transformation"
 ---
 Good morning, everybody. In the name of the Father, the Son, and the Holy Spirit.

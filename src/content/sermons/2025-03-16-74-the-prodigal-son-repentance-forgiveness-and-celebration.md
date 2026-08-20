@@ -17,21 +17,12 @@ tags:
   - "Celebrating the salvation of others"
   - "God’s unconditional forgiveness and restoration"
   - "Great Lent as preparation for resurrection and redemption"
-  - "Jesus Christ"
   - "Luke 15 (Parable of the Prodigal Son)"
   - "Repentance as a concrete return to God"
   - "Resentment of mercy shown to others"
   - "Sin as turning away from God’s will"
-  - "St. John"
-  - "The older brother"
-  - "The prodigal son"
-  - "The prodigal son’s father"
 ---
-[Armenian sermon — recoverable fragment]
-
 Ես այստեղ գրասենյակ ունեմ ոչ միայն, որ իմեյլներին պատասխանեմ, բայց որ ձեզի հետ հանդիպեմ և լսեմ ձեր մարտահրավերների մասին և ձեր դժվարությունների մասին, և ինչպես ուզում եք սրտով, հոգով վերադառնալ…
-
-[English sermon]
 
 The third Sunday of Great Lent. We already are beginning the third week of Great Lent now, and I hope that many of you have been following us on Fast and Pray as we’ve been learning more and more about all of the steps that bring us closer to a full and unadulterated appreciation of not just the Resurrection—not just the miracle or the salvation that we’re celebrating on the Feast of the Resurrection, on Easter itself—but everything that led up to it.
 

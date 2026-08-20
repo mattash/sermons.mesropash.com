@@ -18,19 +18,12 @@ tags:
   - "God's faithfulness and promises"
   - "Hosanna"
   - "Hypocrisy vs. integrity"
-  - "Israel"
-  - "Jacques"
-  - "Jerusalem"
-  - "Jesus Christ"
   - "Matthew 21:1-11"
   - "Palm Sunday"
   - "Prophecy fulfilled"
-  - "Sophia"
   - "Triumphal entry into Jerusalem"
   - "Zechariah 9:9"
 ---
-[Armenian sermon]
-
 Now allow me to speak to our children, and I'll begin in Armenian, because there are things I need to say to you and to the adults as well. Today is Palm Sunday. We Armenians call it Tsaghkazard, because we remember how, when we celebrate this important church feast, the church is decorated with flowers and the participants with garlands and so forth. This is part of our celebration today, but naturally today we remember when Jesus entered triumphantly into the city of Jerusalem. And at that time, when he entered the city with palms, what did the people say, what did they cry out — who remembers? Hosanna, Hosanna, right? Hosanna — and I recall we learned this last year on this day — means in Hebrew, in ancient Hebrew, "save us." So it was a plea, because the people were waiting for their savior, who would come to save them all — the people of Israel and the world. And they were waiting for that savior.
 
 But I want to note this today: that word, Hosanna — "Hosanna in the highest" — was used only inside the temple. It was a liturgical thing, a liturgical word. Just as we come to church and the deacons say, "And again in peace let us beseech the Lord and receive and have mercy" — have you ever heard such a thing outside church, that you go to a shop and someone next to you says, "And again in peace let us beseech the Lord"? No, because such expressions, such language, are heard only inside the temple. Likewise the word Hosanna was not said among the people, in their daily lives; it was used only in a liturgical context.
@@ -38,8 +31,6 @@ But I want to note this today: that word, Hosanna — "Hosanna in the highest" �
 But this did not happen inside the temple. When the people said Hosanna, crying out "Hosanna, Hosanna" — where were they? They were in the city, in the streets. So Christ came, and they received him and pleaded: "Hosanna, save us, save us, O King."
 
 So this is what we want to emphasize to you today: that that same feeling — our hope, our faith, our devotion — should be felt not only inside the temple, but outside the temple. When we leave church today and return to our daily lives, that same Hosanna should be on our tongues. That same feeling we have as the people of Jesus Christ inside the temple should also be expressed in the world, so that people know we are Christ's people, that we have hope in our hearts. So today we pray, today we will say, "Hosanna, hosanna" — but that same feeling, if not in word, then in the same spirit, with that same sentiment, I want to encounter you in the social hall and in our daily lives.
-
-[English sermon]
 
 Good morning, guys. Welcome back, Jacques. Love you, buddy. How are you guys all doing? How was Sunday school today? Good. Are we ready to celebrate Palm Sunday? You guys all have your palms? Yes. I can see there's a lot of palms to be blessed and for us to process with today so we can reenact that event that happened in Jerusalem a long time ago.
 

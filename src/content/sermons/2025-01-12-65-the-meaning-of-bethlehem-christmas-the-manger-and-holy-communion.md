@@ -14,36 +14,16 @@ sourceVideoId: "R5puCnVv6kI"
 sourceVideoUrl: "https://www.youtube.com/watch?v=R5puCnVv6kI"
 sourceVideoTitle: "January 12, 2025 - Divine Liturgy"
 tags:
-  - "Armenia"
-  - "Arnie (Sunday school student)"
   - "Baptism and the Blessing of Water"
-  - "Bethlehem"
   - "Bethlehem as the house of bread"
   - "Displacement and hope in God"
-  - "Egypt"
   - "Holy Communion as spiritual nourishment"
-  - "Jesus Christ"
-  - "King Herod"
-  - "Los Angeles"
   - "Luke (Nativity narrative, referenced as the day's Gospel reading)"
-  - "Mellie (Sunday school student)"
   - "Nativity and Incarnation of Christ"
-  - "Nazareth"
   - "Octave of Nativity"
-  - "River Jordan"
-  - "Saint John (church)"
-  - "Saint Joseph"
-  - "Saint Mary"
-  - "Sako (Sunday school student)"
-  - "St. John the Baptist"
   - "Theophany"
-  - "Torrance"
 ---
-[Armenian sermon]
-
 Սիրելի հավատացյալներ, այսօր բոլորիդ դարձյալ կսենք, քանի որ Սուրբ Ծննդյան յոթ օրերի մեջ ենք՝ Քրիստոս ծնավ և հայտնեցավ: Ամենալույն հայտնությունն Քրիստոսի, և դարձյալ կշնորհավորենք բոլորիդ Նոր Տարվա առիթով, սա և հարգանք Սուրբ Ծնունդը: Ձեր ներկայությունը այսօր դարձյալ նշան է ձեր հարգանքի Քրիստոսի մարդեղության նկատմամբ: Գիտեմ, որպես հայեր, մեր տոնախմբությունը Քրիստոսի Ծնունդին համար կշարունակի և շարունակվող երևույթ է մեր եկեղեցվո կյանքի ներսում, մեր համայնքի կյանքի ներսում: Ինչպես այսօր բոլորս դեռ այստեղ ենք և գրեթե հունվարի կեսը հասած ենք և դեռ Սուրբ Ծնունդը կտոնախմբենք: Սակայն սա է նշան մեր եկեղեցվո նվիրվածությանը Քրիստոսի նկատմամբ:
-
-[English sermon]
 
 Beloved faithful, even though we find ourselves already deep into the month of January, January 12th, we are still proclaiming to one another the glory and the beauty and the blessing that is the incarnation of Jesus Christ and wishing one another a Merry Christmas. The rest of the world perhaps has moved on, but in this sanctuary today, we are still celebrating Christmas. And as you know, the Christmas holiday, the Feast of Nativity and Theophany in the Armenian Apostolic Church was celebrated this past Tuesday. However, we continue to mark that as we find ourselves in what is called the Octave of Nativity. That is the eight days that follow the Feast of Nativity and Theophany, a continuation of the celebration of Christmas. And we're still in that period right now. In fact, today is the seventh day, and we will be performing the special blessing service which is done on the occasion of Christmas, the blessing of the water.
 

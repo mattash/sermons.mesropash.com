@@ -14,46 +14,28 @@ sourceVideoId: "EaybUkkXPj0"
 sourceVideoUrl: "https://www.youtube.com/watch?v=EaybUkkXPj0"
 sourceVideoTitle: "Divine Liturgy"
 tags:
-  - "Armenia"
   - "Church as Christ's garment"
   - "community and healing"
   - "divine light"
-  - "Elijah"
   - "Genesis 1:3"
   - "Holy Trinity"
-  - "James"
-  - "John"
   - "John 1:1-14"
   - "law and prophecy"
   - "Luke 9:28-36"
   - "Mark 9:2-10"
   - "Matthew 17:1-9"
-  - "Moses"
-  - "Mount Tabor"
-  - "Peter"
-  - "River Jordan"
   - "salvation history"
-  - "San Francisco"
-  - "Seattle"
-  - "Southern California"
-  - "St. Augustine of Hippo"
-  - "St. Gaiane"
-  - "St. John Chrysostom"
-  - "St. Sarkis"
   - "Transfiguration"
   - "Vardavar"
 ---
-[Armenian sermon]
 Ինչպես արդեն մաղթեցի բոլորիդ, այսօր կմաղթենք բոլորդ ուրախ Վարդավառ մը, Պայծառակերգության տոնը՝ ուրիշ անունով, որովհետև ասիկա, ինչպես մենք պետք է միշտ հիշենք, մեր եկեղեցվո հիմնական տոներեն մեկն է:
 
-[English sermon]
 Good morning, beloved faithful, and God bless you, and we wish you a beautiful Sunday morning, for God is good. Today is the feast of the Transfiguration of our Lord and Savior Jesus Christ, one of the main feast days in the life of the Armenian Church. We mark different feast days in different ways. We celebrate Christmas in so many beautiful traditions and customs. We celebrate Easter. I'm sure all of us who are here are familiar with the customs that we have in our families and in our community and in our church surrounding Easter. On the feast of Astvadzadzin, or the Assumption of the Holy Virgin Mary, we have blessing of the grapes. So many customs associated with these major feast days in the life of the church. What do we do on this day? On Vardavar, on the feast of the Transfiguration? Well, if you were in Armenia right now, you would find it very hard to stay dry because it's on this particular feast day that people have taken it to the extreme in the sense that they take every opportunity to throw water on one another. And why not? Because in Armenia, on a hot July day, how refreshing and exciting would it be to throw water on one another? Here in San Francisco, that would be cause for an assault charge, but also it would be unhealthy, as I checked my thermometer on the way in and it was fifty-nine degrees on this July seventh morning. So we do not get to celebrate the feast of the Transfiguration or Vardavar in this city in our traditional ways, unfortunately. I was driving back from Southern California yesterday, and within the span of about an hour in my car, the temperature, the exterior temperature dropped forty degrees. So unfortunately, I have to say we get the short end of the stick when it comes to celebrating Vardavar here in San Francisco.
 
 Բայց դուք ներկա եք այսօր, այսօր Վարդավառն է և ներկա եք, և չնայած որ հաճելի է իրար ու չերել այդպես, ինչպես մենք կ'ընենք Հայաստանում, այսօր մենք կրնանք հիշել տոնին բուն իմաստը՝ այն է, երբ որ պայծառակերգությունը տեղի ունեցավ, և այդ օրվա մասին պիտի խոսենք։
 
 We'll talk about in our message today the true meaning of Vardavar, or the feast known as the Transfiguration, in our message today.
 
-[Armenian sermon continued]
 Սուրբ երկրի մեջ լեռ մը կա, Թաբորի լեռն է, և այս լեռն է, ուր որ Հիսուս հրավիրեց երեք իր աշակերտներեն, որոնք իրեն հետ բարձրացան լեռը և այնտեղ հրավիրված էին Հիսուսին հետ քիչ մը հանգստանալ, քիչ մը հանգստանալ։ Սակայն այնտեղ տեղի ունեցավ հրաշք մը, որ իրենք չէին սպասեր։ Եվ Հիսուս այդ պահին, երբ որ ինքը խորհրդածություն կ'ըներ և աղոթքի մեջ էր, սկսավ պայծառակերպվիլ, այսինքն՝ ինչպես կարդանք Ավետարաններու ներս, իր արտաքին տեսքը փոխվեցավ այդ ձևով, որ այնքան պայծառ դարձավ, որ աշակերտներուն համար դժվար էր իրեն նայել։ Այսինքն՝ նայելու իրեն համար իրենց համար նույնիսկ ցավալի էր, որովհետև այդքան պայծառ դարձավ Հիսուսը, պայծառակերպվեցավ։ Իր հագուստները այդքան ձևով լուսավորվեցան, որ անտանելի էր իրեն տեսնելը։
 
 Եվ հաջորդաբար իրենք տեսան, որ Հիսուսին կողքը երկու անձեր կան։ Մեկը Մովսեսն է, մարգարեն, մյուսը Եղիան է։ Այս երկուսը իրենքովն էին։ Եվ ապշած էին, բնականաբար, ինչպե՞ս պիտի ըլլային այսպիսի երևույթին առջև։ Եվ վախցան, ինչպես շատ անգամներ իրենք կըվախնան, երբ որ կտեսնեն ինչ-որ բան չեն կրնար հասկնալ։ Եվ մոտեցան, և Պետրոսը կըսե Հիսուսին. «Քանի որ երեքդ միասին եք»՝ այսպիսի մի հարցում կուտա, որ խեղճ մարդը կըսե. «Ձեզի համար երեք վրաններ սարքեմ, որ հանգստանաք, արևին տակ չըլլաք»։ Իբր թե իրենց համար էին, չհասկցավ՝ Մովսեսը ուր տեղեն եկավ, Եղիան ուր տեղեն եկավ, երեքը միասին են։
@@ -62,7 +44,6 @@ We'll talk about in our message today the true meaning of Vardavar, or the feast
 
 Եվ այստեղ պայծառակերպությունը տեղի ունեցավ, և տեսանք ներկայությունը Սուրբ Երրորդության՝ և՛ Սուրբ Հոգին, և՛ Հայրը, և՛ Որդին, երեքը միասին։ Եվ այս հրաշքը մեզի համար մեր բուն տոներու դեպքերեն մեկն է, որովհետև այնտեղ տեղի ունեցավ մեծ ամփոփումը ամբողջ փրկագործության պատմության, որ եկավ օրենքը, եկավ մարգարեությունը, այս երկուքով մենք ապրած էինք, մինչև Հիսուս եկավ և մեզի համար դուռը բացավ, որ մոտենանք մեր Տիրոջը, Հայրը և Սուրբ Երրորդությունը միասին կ'աշխատին մեր փրկության համար։ Եվ Պետրոսին պես, աշակերտներուն պես մենք կրնանք ներկա ըլլալ իրենց միջև, չնայած որ արժանի չենք, չնայած որ ապուշ ենք, չնայած որ կսխալվենք և կմեղավորենք, բայց երբ որ հավատարիմ ենք Աստծուն, կրնանք իրենց հետ ներկա ըլլալ։
 
-[English sermon continued]
 Today being the Feast of the Transfiguration, we look back at the events of that occasion that we celebrate until today that took place on Mount Tabor during the life of Jesus Christ. Of the events surrounding or the themes surrounding all of the major feast days of the Armenian Church, I'm sure for some the Feast of the Transfiguration is the least familiar. If you recall the story that took place, Christ brings his disciples, three of his disciples with him to an isolated place on top of a mountain called Mount Tabor, and there he invites them to rest with him. Why just these three, by the way? Peter, James, and John. Why does he bring these three alone? Well, the church fathers tell us he brought these three because they had proven themselves to be exceptional even amongst the disciples. And so as to show them to both the disciples and to us as examples of followers of Jesus Christ, he sets these examples up for us as those who could be counted amongst the witnesses of something very, very special that's about to take place.
 
 And so, they go to the top of this mountain to rest for a few days, Mount Tabor. And there at the top of this mountain, after a time of rest and reflection and prayer, something miraculous happens. This is the Transfiguration, or in Armenian, the Baidzarager Butun, which in English would be translated to the taking on of a luminescent form or of a bright form. That's literally what takes place to Jesus Christ. They witness him becoming so bright, so splendorous, so dazzling. Specifically, the word white is used, a white which is beyond any white that can be achieved by bleaching. This white, this splendorous, luminescent white is the form that Jesus Christ takes on to the degree that it is hard for them to witness. They can't perceive him anymore because so bright is it. And then after that, they see that in the presence of Jesus Christ are two what would be superstar figures to the disciples of Jesus Christ at that time. One of them was Moses and the other was Elijah. And Moses and Elijah, they recognized them immediately, though they would have never seen them during their lifetimes because they had lived centuries and centuries before the disciples. But somehow they knew that's Moses and that's Elijah. And all of a sudden, they're hanging out with Jesus Christ.

@@ -14,29 +14,19 @@ sourceVideoId: "tLXAY1kS4NI"
 sourceVideoUrl: "https://www.youtube.com/watch?v=tLXAY1kS4NI"
 sourceVideoTitle: "March 9, 2025 - Divine Liturgy"
 tags:
-  - "Adam"
   - "Consequences and accountability"
   - "Divine discipline"
-  - "Eve"
   - "Expulsion of Adam and Eve from Paradise"
   - "Genesis 2–3"
   - "God as loving Father"
-  - "God the Father"
-  - "heaven"
   - "Humility and obedience"
-  - "Jesus Christ"
   - "Matthew 5:48"
   - "Matthew 6:9–13"
-  - "Paradise / Garden of Eden"
   - "Parenthood as an image of God’s care"
   - "Sin as missing the mark"
   - "Theosis and growth into God’s likeness"
 ---
-[Armenian sermon]
-
 Բայց ինքը գիտէ, եթէ ճիշդ պատիժ չկարգադրէ այդ երեխային, իր ապագան փճացած պիտի դառնայ։ Ասիկա արուեստ մըն է, եւ վարպետը Աստուածն է։
-
-[English sermon]
 
 I haven’t done this in a little while, but I like to go back to parenthood as this wonderful analogy for us to understand our relationship with God.
 

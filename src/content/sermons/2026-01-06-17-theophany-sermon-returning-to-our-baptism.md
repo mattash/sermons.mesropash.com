@@ -17,27 +17,14 @@ tags:
   - "Armenian Christmas tradition of combining Nativity and Baptism"
   - "Baptism as the foundation of spiritual life"
   - "Christ as the light of the world"
-  - "Galilee"
-  - "God the Father"
-  - "Jesus Christ"
   - "John 8:12"
-  - "Jordan"
-  - "Los Angeles"
   - "Matthew 3:13-17"
-  - "Saint John the Baptist"
-  - "San Francisco"
   - "Spiritual navigation and returning to God"
-  - "Sutro Tower"
-  - "the Holy Spirit"
   - "The Holy Trinity revealed at baptism"
-  - "the preacher's father"
-  - "the preacher's mother"
   - "Theophany and the baptism of Christ"
 ---
-[Armenian sermon]
 Մենք պետք է վերադառնանք այդ պահին։ Մենք պետք է վերադառնանք մեր մկրտության, որովհետև դա հիմքն է մեր հոգևոր կյանքին, որովհետև ինչ որ արած ենք այս կյանքում, և կարծեմ, որ բոլորս մկրտված ենք այս տաճարի ներս այսօր, ինչ որ արած ենք, ուր որ գացինք, ուր որ հասանք այդ ճանապարհի վրա, կար մի օր, որ Հիսուսի վկայությամբ և օրինակով գիտեք, որ երկինքը բացվեցավ, պատռվեցավ, և Հայրը դուրս ելավ Սուրբ Հոգու հետ և մեզի յուրաքանչյուրիս մեկ-մեկ նայեցավ և ասավ՝ սա է իմ սիրելի զավակ։ Բոլորս ունեցած ենք այս դեպքը մեր կյանքի մեջ։ Եթե կարող ենք գտնել այդ զգացողությունը որպես կենտրոն մեր հոգևոր կյանքին, ուր որ ենք և ուր որ հասած ենք, մենք պիտի կարողանանք մեզ գտնել և վերադառնալ ճիշտ ճանապարհին դեպի հավիտենական կյանքին։
 
-[English sermon]
 Today's message, which we read about in the Gospel of Matthew, and which we're going to celebrate in a short moment during the blessing of the water, is the baptism of our Lord and Savior, Jesus Christ. This is a very crucial moment. Now, I know that in American tradition, in Western tradition, they do celebrate, of course, the baptism of Jesus Christ. Of course, they do. This has its own separate feast day. Why wouldn't they? This is a very important moment for all of Christianity. But you could go through the entirety of the Christmas season in Western culture and not once hear about the baptism of Jesus Christ in our celebration of Christmas. It becomes kind of a secondary or obscure observation for all but the most devout of Christians in Western Christianity. But for us, we hold this event to be of equal importance to the birth of our Lord and Savior, Jesus Christ, such that we celebrate these events on the same day, and we make sure that we uphold both of these narratives with equal importance. Because for us, they're not separate events, but they're all part of the same movement, which brings about the fullness of the realization that is the Holy Trinity that we have experienced through the revelation of our Lord and Savior, Jesus Christ, through His birth, His incarnation, and ultimately His baptism.
 
 Now, what does it say up here on top of this altar? Can anybody read it for me? Yes. "I am the light of the world." This is what it says on top of this altar. We have to remember that there is a light in this world which we are always meant to follow. I love that this is the passage from John which is on top of this altar space. I don't often get to look at it during the liturgy because I'm the one on the altar. But I hope that you all take time to appreciate this passage that we can ponder on throughout every liturgy in the sanctuary. There is a light in this world which is guiding us at all times. A light that is guiding us through the darkest moments of this life. Those moments when we feel like we are most apt to get lost in the world. It's in the darkness that we get lost.

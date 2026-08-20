@@ -17,33 +17,18 @@ tags:
   - "1 Corinthians 6:20"
   - "Christ’s sacrifice and redemption"
   - "Christian identity and self-knowledge"
-  - "Garden of Gethsemane"
   - "Genesis 39:7-12"
-  - "Golgotha"
   - "Human worth in Christ"
-  - "Jesus Christ"
   - "John 18:11"
   - "John 3:16"
   - "John 8:25, 32"
-  - "Joseph"
-  - "Judas Iscariot"
   - "Matthew 26:14-16"
   - "Purpose and life’s ultimate destination"
   - "Resisting sin and worldly validation"
   - "Resurrection and the victory of life over death"
-  - "Saint John Armenian Church"
-  - "Saint Paul"
   - "Spiritual, emotional, and generational healing"
-  - "The disciples"
-  - "the Pharisees"
 ---
-[Armenian sermon]
-
 Երբ երեխայ էի, չէի կրնար հասկնալ, որովհետեւ դեռ չէի գիտեր՝ «նոր» ի՞նչ կը նշանակէ։
-
-[The remainder of the Armenian sermon is not reliably recoverable from the provided transcript.]
-
-[English sermon]
 
 In the name of the Father, and of the Son, and of the Holy Spirit.
 

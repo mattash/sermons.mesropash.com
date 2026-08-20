@@ -20,24 +20,12 @@ tags:
   - "Christ's sacrifice on the cross"
   - "Circumcision vs. baptism as covenant sign"
   - "Early church and the law"
-  - "Greece"
-  - "Hovhanna (baby, parishioner)"
-  - "Jerusalem"
-  - "Jesus Christ"
   - "John 1:1-14 (Gospel reading referenced)"
-  - "Maria (baby, parishioner)"
   - "Old and New Testament continuity"
-  - "Saint Cyril of Jerusalem"
   - "Saint Cyril of Jerusalem as witness"
-  - "Saint Paul"
-  - "St. John Armenian Church"
   - "Urgency of Christ's call to salvation"
 ---
-[Armenian sermon]
-
 Այսօր, երբ մենք կկարդանք Հովհաննու Ավետարանը, դարձյալ առիթ կունենանք մտածելու օրենքի մասին, որովհետև օրենքը շատ կարևոր է։ Ես մեր ծխական խորհրդի հետ քիչ առաջ, երբ ժողովի մեջ էինք, անդրադարձա, երբ դեպքը եղավ Հիսուսի համբարձումեն վերջը, երբ Սուրբ Պողոսը պտտվում էր Հունաստանի մեջ, և այն ժամանակ նրանք հարց ունեցան՝ այս հույները պետք է թլփատվեին կամ ոչ, որովհետև հրեաները մինչև այն ատեն այդ օրենք ունեցած էին, որ պետք է անեին։ Բայց նրանք հասկացան, որ եթե ասիկա պահանջենք այս հույներեն, արդյոք նրանք պիտի թլփատվեն, ամաչեն, դժվար պիտի ըլլա համոզելու այս օտարներին ընդունելու այդ օրենքը, բայց նրանք ունեցած էին առաջնահերթային նպատակը, որ նրանք Քրիստոս ստանան, որ մկրտվեն և իսկապես քրիստոնյա եկեղեցվո առաջին անդամներ դառնան։ Ուրեմն ասիկա եղավ շատ վաղ եկեղեցվո մեջ։ Եվ երբ նրանք հավաքվեցան՝ առաքյալները, աշակերտները, երեցները, բոլորը միասին Սուրբ Պողոսի հետ, որոշում նրանք հասան, որ ասիկա այլևս անհրաժեշտ չպիտի լինի նոր հավատացյալների համար, որովհետև մկրտությունն է նոր թլփատությունը։ Ասիկա կարևոր է, որ մենք հիշենք, որ ասիկա ձևափոխումն է, ասիկա առաջադիմությունն էր եկեղեցվո կյանքին մեջ։ Ոչ թե օրենքը թողեցինք անցյալին, բայց օրենքը Հիսուսի իր ուսուցմամբ և Աստծո կամքով ինքը դարձավ այն օրենք, որ ընդունելի կլինի ամբողջ մարդկության համար, որ եկեղեցին տարածվի մինչև այսօր։ Ուրեմն մենք չենք կրնար մտածել, որ Աստվածաշունչը այդպես բաժնված է երկու կտորներով՝ Հին Կտակարանը և Նոր Կտակարանը, և Հին Կտակարանը կապ չունի մեզ հետ, և Նոր Կտակարանը միայն կարևոր է մեզ համար։ Ընդհակառակը, առանց Հին Կտակարանի Նոր Կտակարան չկա։ Մենք այդ Հին Կտակարանի իր պատմության, իր օրենքների, իր մարգարեության և ի վերջո իր պատգամի ժառանգորդներ ենք։ Պետք է դա արժեքավորենք և ընդունենք, որ ոչ թե կձգենք և նոր մարդիկ ենք, ընդհակառակը, այդ ամեն ինչ կժառանգենք և կհասկանանք Հիսուսի իր վարդապետության հայացքով։
-
-[English sermon]
 
 In Armenian just now I gave the message I was preparing to give, which was about the message from the Gospel of John that had to do with some early arguments in the early church, in the Orthodox Church, having to do with circumcision and the law. However, during our badarak today, I was inspired to give a different message, which I'll share with you in English, and it has to do with the apparition of the Holy Cross, which we're also celebrating today. We're celebrating one of the feast days that follows the celebration of the feast of the resurrection in a specific order of the various Sundays following the resurrection. And this is known as Khach yerevman donk, or the Feast of the Apparition or the Appearance of the Holy Cross, when the Holy Cross was revealed in the air for the entire people of Jerusalem to perceive in the fourth century, during this period of time of advanced growth in the life of the church.
 

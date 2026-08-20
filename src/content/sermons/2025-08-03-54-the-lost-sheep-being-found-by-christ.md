@@ -14,32 +14,21 @@ sourceVideoId: "2Olyjagzew8"
 sourceVideoUrl: "https://www.youtube.com/watch?v=2Olyjagzew8"
 sourceVideoTitle: "August 3, 2025 - Diving Liturgy"
 tags:
-  - "Annie"
   - "Being lost and found"
   - "Christ's invitation: \"Do you love me?\""
-  - "Disneyland"
   - "Family and belonging"
   - "God's love for the lost"
-  - "Japantown"
   - "John 21:15-17"
   - "John 4:1-42"
-  - "Los Angeles"
   - "Luke 19:1-10"
-  - "Manny"
   - "Matthew 16:16-18"
   - "Matthew 18:12-14"
   - "Matthew 18:6"
-  - "Nick"
-  - "Peter"
   - "Repentance and restoration"
   - "Responsibility for the vulnerable"
-  - "Samaritan woman at the well"
   - "Spiritual awareness of one's state"
   - "The Good Shepherd"
-  - "Zacchaeus"
 ---
-[Armenian sermon]
-
 In the name of the Father and the Son and the Holy Spirit. Ամեն։ Անուն Հոր և Որդվո և Հոգվույն Սուրբո, ամեն։
 
 Ես լավ եմ հիշում տարիներ առաջ գնացել եմ Disneyland ծնողքիս հետ։ Ես վստահ չեմ՝ քանի տարեկան էի։ Ենթադրում եմ, որ հինգ-վեց տարեկան էի, և գնացել ենք։ Արդյոք մենք գնացել ենք ընտանիքով դրանից առաջ, որովհետև մենք Լոս Անջելեսից ենք, և հեռու չէր մեզ համար, բայց առաջին անգամ, որ հիշում եմ, որ մենք ընտանիքով գնացել ենք Disneyland, երկար օր եղավ։ Հասել ենք մի պահ, երբ կարծեմ թե պարադը պիտի սկսեր հրապարակից։ Եթե տեսել եք, պարադ մը կա։ Պարադը պիտի սկսեր, և ձանվեցա, էսի մեջ ընկա և հանվեց ուշադրությունս կորսնցուցի շրջակայքիս, չգիտցա որտեղ էի, այսինքն երազի պես մի բան տեսա և սկսա հայրիկիս հետևել, որովհետև ինքը քայլում էր էս կողմով, և նրա հետևից սկսա քայլել։ Պարադը վերջացավ, և դարձա հայրիկիս երեսին ասելու, որ ինչ լավ էր, և տեսա, որ այն մարդը, որի հետևեցի, իմ հայրը չէր։ Եվ կորսված էի, չգիտցա որտեղ էին ծնողքս, և այդ տարիքին պիտի երևակայեք ինչպես հուզվեցա այդ պահին, որովհետև բազմությունը իմ շուրջն էր, և փոքրիկ էի, չկարողացա նրանց գտնել։
@@ -51,8 +40,6 @@ In the name of the Father and the Son and the Holy Spirit. Ամեն։ Անուն
 Այսօր մեր Ավետարանի մեջ, Մատթեոսի Ավետարանի մեջ, հետևելով մի ուրիշ հատվածի, երբ որ Հիսուս բացատրում է մեզ, որ որքան արժեքավոր են փոքրիկները, և փոքրիկներ ասելով՝ զարգացման մեջ մարդիկ, նրանք, որոնք հասունացած չեն, նրանք, որոնք անապահով են, որքան կարևոր են, և որքան բոլորս պատասխանատու ենք ուշադիր լինել նրանց հար կամ նկատմամբ և հարգել, արժեքավորել։ Եվ ասում է. «Հանկարծ մեկը, որ ինքը մեղքի պատճառ դառնա այս փոքրիկներից մեկի համար, ավելի լավ է, որ ծանր քարը իր վիզին շուրջը կապվի, և ինքը օվկիանոսին նետվի»։ Այսինքն՝ այդքան կարևոր է, որ մենք իրարու համար պատասխանատու լինենք, և մանավանդ փոքրերի և ոչ հասունացած մարդկանց համար։
 
 Հետևելով այդ հատվածը, ինքը խոսում է հարյուր ոչխարների մասին, որը այսօրվա ընթերցումն է։ Եվ երբ որ այդ հարյուր ոչխար ունի հովիվը, և այդ բարի հովիվը կորցնի այդ մեկ ոչխարը, պիտի թողնի ինքնականը և պիտի գտնի կորցված ոչխարը։ Ուրեմն, ասիկա ինչպես Հիսուսի քարոզելու ձևը զայրահեղություն, զայրահեղ օրինակ է, որովհետև ինքը փորձում է մեզ շշտել երկու կարևոր կետեր՝ մեկը, որ մենք չենք կարող որպես քրիստոնյաներ, որպես Քրիստոսի հետևորդներ անտարբեր լինել կորցվածների նկատմամբ։ Լինի մեր փոքրիկների մասին, մեր ձուխի, մեր քաղաքի, մեր հասարակության փոքրիկները, ասենք, այսինքն՝ անապահովներ, նրանք, որոնք զարգացման մեջ են և միջոց չունեն իրենք իրենց պահելու համար։ Պետք է պատասխանատու լինենք, պետք է զգույշ լինենք, ուշադիր պետք է լինենք միշտ, և նաև հոգեպես պետք է այդ հայացքը դարձնենք մեզ, և պետք է այդպես վերլուծենք մեր կյանքը՝ իմանալով, եթե դուք ինձի պես այդ պահին կորսված եք։ Կորսված ենք արդյոք այսօր։ Արդյոք Հիսուս մեզ փնտրում է, կամ մենք սպասում ենք, որ Աստված մեզ գտնի, որովհետև այդ պահը կյանքիս մեջ, որովհետև երբ որ հասկացա, որ ծնողքս չկային, միանգամից արժեքավորեցի նրանց գործը, ներկայությունը կյանքիս մեջ։ Կորսված անձը պիտի հասկանա, որ առանց Հիսուսի իսկապես չի կարա ապրի, ինքը հույս չունի։ Այս է հարցը այսօր, որ պետք է վերլուծենք, անդրադառնանք մեր կյանքների նկատմամբ։
-
-[English sermon]
 
 A few weeks ago—no, I'm sorry, longer than that, let's say some time ago, several months ago—I was in Japantown with my family, and we had to be separated for a little while. I think I got a very urgent parish phone call. So I said to Yeretzgin and the kids, "You guys go ahead." We, I think, had gone there for a movie and dinner or something like this. I said, "You guys go ahead. I'm gonna take this call, and I'll catch up with you." And probably the call took longer than I expected it would. But after some time had passed, I walked into the mall at Japantown and was walking towards where I think they were on the second floor. And as I was making my way there, I looked over for some reason, and I saw two policemen, and with those two policemen was my son. And he was, at the time, younger than he is now. He's almost about to turn seven, so he was probably six or five at the time. I was like, "What is this?" And so my heart started racing, and I ran up to him. He was very calm when I saw him. So I walked up, pretending like I thought everything was okay: "Hi, officers. How you doing? I see you found my son here." And they're speaking very calmly, and they turn to me, and they're like, "Oh, yeah, we did. We happened to have come across your son here." And so we're trying to make it seem like everything is normal because apparently they were handling this situation, which we figured out was he got separated from Yeretzgin and from his sister, and he was on his own trying to find his way in the mall.
 

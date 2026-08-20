@@ -14,43 +14,22 @@ sourceVideoId: "CFieH5xu6MM"
 sourceVideoUrl: "https://www.youtube.com/watch?v=CFieH5xu6MM"
 sourceVideoTitle: "July 12, 2026 - Divine Liturgy for the Feast of Transfiguration"
 tags:
-  - "Anahid"
-  - "Bane"
   - "Children's faith formation and summer camp"
   - "Christian community and continuity through the saints"
-  - "David"
-  - "Elijah"
   - "Encountering Christ through Scripture and prayer"
   - "God the Father's testimony at the Transfiguration and at the Baptism"
-  - "Grigor"
-  - "James"
-  - "Jasmine"
-  - "John"
   - "John 1:1-14"
-  - "Karin"
   - "Listening to Jesus"
   - "Luke 9:28-36"
-  - "Mane"
   - "Mark 9:2-10"
   - "Matthew 17:1-9"
   - "Matthew 3:17"
-  - "Moses"
-  - "Mount Tabor"
-  - "Peter"
   - "Revelation of divine glory"
-  - "Sophia"
-  - "St. John Armenian Church"
   - "The role of Moses and Elijah at the Transfiguration"
   - "Transfiguration of Christ"
   - "Transformation through encountering Christ"
   - "Vartavar tradition and water blessing"
 ---
-[Armenian sermon]
-
-[The Armenian-language sermon portion was largely unintelligible in the transcript due to severe ASR corruption. The preacher later references having spoken in Armenian about the Transfiguration and the confession of Christ as Savior. No reliable reconstruction of the Armenian sermon text is possible from the provided transcript.]
-
-[English sermon]
-
 We're joined here by a beautiful representation of our culminating group of our first ever summer camp here at St. John. I have to say it was an exceptionally beautiful experience for us all over the past seven days, as this program did begin last Sunday, to watch the journey that we were all on from day one until today. There were many of our children who could not be here today, unfortunately, but I have to say that by the blessings of the Holy Spirit, we saw some amazing things happen over this past week, and I want to encourage you all to speak to our children and our counselors and staff and find out more about how you can support this program in the future.
 
 However, kids, today is our culmination day, and it brings us to the thing that we're celebrating today. Can somebody tell me what it is that we're celebrating today? Does anybody remember? We are celebrating the Transfiguration today. Now that's such a really long word, even in English. The Feast of the Transfiguration. That's right. Thank you, Mane. It was when Jesus went up on a mountain with three of his disciples, Peter, James, and John, and he revealed his full self to them.

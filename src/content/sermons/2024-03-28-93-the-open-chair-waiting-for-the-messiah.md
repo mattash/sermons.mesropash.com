@@ -17,10 +17,8 @@ tags:
   - "1 Corinthians 16:22"
   - "Christ’s Second Coming"
   - "Christian community and belonging"
-  - "Elijah"
   - "Elijah and St. John the Baptist as forerunners"
   - "Expectation of the Messiah"
-  - "Jesus Christ"
   - "Luke 22:7–23"
   - "Malachi 4:5–6"
   - "Maranatha"
@@ -28,7 +26,6 @@ tags:
   - "Matthew 26:17–30"
   - "Passover and the Divine Liturgy"
   - "Redemption through Christ"
-  - "St. John the Baptist"
   - "The Last Supper"
 ---
 As we all know, this morning’s Maundy Thursday Divine Liturgy is dedicated to the commemoration of the Last Supper. As I mentioned this previous Sunday, every single Divine Liturgy that we celebrate is, in fact, a commemoration of the Last Supper. But, as I was trying to explain to my kids this morning, this particular Thursday is a “specialer” commemoration of the Last Supper because it happened on the Thursday before Easter.

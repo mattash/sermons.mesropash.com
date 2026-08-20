@@ -23,16 +23,9 @@ tags:
   - "Holy Resurrection"
   - "Joy and hope of Easter"
   - "Matthew 28 (resurrection and Ascension account)"
-  - "Myrrh-bearing women"
   - "Romans 6:4 (referenced in pontifical message: 'As Christ was raised from the dead by the glory of the Father, so we too may walk in newness of life')"
-  - "The disciples/apostles"
-  - "Thomas (doubting Thomas)"
 ---
-[Armenian sermon]
-
 Խոստացա կարճ պիտի պահեմ, բայց իրավունք տվեք, որ այսօր ես բոլորիդ հետ առիթը ունենամ ասելու, որ Քրիստոս հարյավ ի մեռելոց, որովհետև բոլորս սպասել էինք Բարեկենդանից մինչև այսօր։ Եվ այս սպասողական վիճակի մեջ լինելով՝ ավելի քաղցր է այս պահը, երբ որ կհասնենք ճրագալույց պատարագը Հարության տոնի նախօրեակի առիթով, որ իրարու այդպես ուրախությամբ, սիրով, զվարճությամբ, խաղաղությամբ, եղբայրասիրությամբ այս ճշմարտությունը մեկ անգամ ևս ընդունենք մեր կյանքների մեջ։ Ես շատ ուրախ եմ ոչ միայն այդ պատճառով, որ անմիջապես պատարագից հետո գնալու եմ, բայց նաև որովհետև ես տեսել եմ, որ այս Մեծ Պասի ժամանակաշրջանի ընթացքին տեսել եմ, որ Սուրբ Հոգու ներկայությունը զգալի դարձավ մեր մեջ։ Ես տեսա, որ եկեղեցին իրապես գործում է որպես Հիսուսի մարմինը այս աշխարհում։ Եվ որ դա շոշափելի կդառնա մեր կյանքների մեջ, կարող ենք հանգիստ լինել, կարող ենք մեր սրտերով, մեր հոգիներով խաղաղությամբ լինել, որ իսկապես եկեղեցին ճիշտ տեղն է, ուր որ մենք պետք է հանդիպենք հարուցած մեր Տիրոջը։ Երբ որ ժողովուրդը հանդիպեցին՝ յուղաբեր կիները, առաքյալները և այլ ժողովուրդ, երբ որ իրենք առիթ ունեցան վկայելու, ականատես դառնալու հարուցած Հիսուս Քրիստոսին, ամեն մարդ տարբեր ձևով արձագանք ունեցավ։ Ինչպես մենք կարդացինք Մատթեոսի Ավետարանի մեջ, Ավետարաններս այսօր կարդացինք, որ յուղաբեր կիները, երբ որ տեսան Հիսուս Քրիստոսը, այդ պահին ծնկի եկան և բռնեցին Հիսուսի ոտքերը և լալով և սիրով փառք տվեցին Աստծուն, որ հարություն առավ։ Եվ առաքյալները, ինչպես մենք գիտենք, ոմանք ուրախացան և, ինչպես Ավետարանը կասի, ոմանք երկմտեցան։ Ատիկա շատ հետաքրքիր բառ է։ Ինչո՞ւ ոմանք ուրախությամբ ընդունեցին Քրիստոսը և ոմանք երկմտությամբ։ Շատ հետաքրքիր է, չէ՞
-
-[English sermon]
 
 Today we encounter the resurrected Christ in this parish, and I give glory to God that throughout the period of Great Lent we've been blessed with the presence of the Holy Spirit guiding us, shaping that experience as individuals and collectively as a parish. I truly feel that God is working through this church and that this is the very place this evening that you have all come to encounter the resurrected Christ. And here he is met by all of us.
 

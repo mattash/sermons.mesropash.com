@@ -17,28 +17,16 @@ tags:
   - "Apostolic tradition and witness"
   - "Assumption of St. Mary"
   - "Being poor in spirit (Beatitudes)"
-  - "Deacon Alex"
-  - "Deacon Charles Cherejian"
   - "Humility as the foundation of virtue"
   - "Intercessory prayer to St. Mary"
-  - "Jerusalem"
-  - "Jesus Christ"
   - "John 15:1-8 (Gospel of the day – I am the true vine, read liturgically but not expounded in sermon)"
-  - "Los Angeles"
   - "Matthew 5:3 (Beatitudes – poor in spirit, referenced in English sermon)"
   - "Resurrection as promise for all humanity"
-  - "St. Gregory of Tatev (Datev)"
-  - "St. Mary (Mother of God / Theotokos)"
   - "St. Mary as vessel and ark"
   - "St. Mary's encouragement of the apostles"
-  - "Summer camp (Ketchoyan Lake)"
-  - "the apostles"
   - "The church nave as a vessel/ship"
   - "The Holy Spirit as comforter and strength"
-  - "The Upper Room (Vernatun)"
 ---
-[Armenian sermon]
-
 Ուրեմն, այս առիթով մենք մեր տոների միջոցով առիթներ ունեցել ենք և ունենք վերաապրել այն կարևոր պահերը, որոնք նշում ենք մեր եկեղեցո տոմարով, ինչպես Պայծառակերպության տոնը, ինչպես նաև այսօր։ Եվ վերաապրելու պիտի հասկանանք և պիտի տեսնենք՝ ինչ տեղի ունեցած է առաքյալներու աչքերով, իրենք ինչ ակնտես եղել են։
 
 Սուրբ Աստվածածնի վերափոխման տոնի համար, այո՛, չկա Աստվածաշնչին մեջ գտնված վկայություններ, որովհետև տեղի ունեցած է Աստվածաշնչի և Ավետարանի բոլոր արձանագրված դեպքերից հետո։ Սակայն մեր ավանդության մեջ շատ հստակորեն գրանցված է, որ այսպես եղավ։ Առաքյալները, որոնք աշխարհի չորս կողմեն ցրված էին, եկել են և միավորվեցան Սուրբ քաղաքին մեջ՝ Երուսաղեմը։ Հավաքվեցան այնտեղ, որովհետև Սուրբ Հոգին կանչած է առաքյալները, ովքեր կատարում էին Հիսուսի կամքը՝ քարոզելով Ավետարանը բոլոր ազգերին։ Բայց վերադարձան, որովհետև Սուրբ Հոգին տեղյակացուց նրանց, որ մի կարևոր բան պիտի պատահեր, և նա էր Սուրբ Մարիամ Աստվածածնին մահն էր։ Եկան և վերադարձան Վերնատունը, և այնտեղ հանդիպեցան Սուրբ Մարիամ Աստվածածինը։
@@ -48,8 +36,6 @@ tags:
 Այսպես ասել են ցավով և վշտով առաքյալները Սուրբ Մարիամին։ Բայց Սուրբ Մարիամը ո՞նց պատասխանեց։ Այսպես պատասխանեց, ասեց, որ․ «Դուք ստացել եք Սուրբ Հոգին՝ Մխիթարիչը, դուք ստացել եք Հիսուսի կողմից խրկված ուժը, Հոգին, որ դուք պետք ունեք ամեն ինչին դիմանալու, իսկ նաև նույնիսկ իմ մահը։ Եվ ինչպես Հիսուս ձեզ հանձնարարություն տվեց, ինչպես Հիսուս ձեզ առաքելություն տվեց, ես ձեզ հավատում եմ, որ նույնիսկ առանց ինձի, արդյոք մասնավորաբար առանց ինձի պիտի կարողանաք շարունակել ձեր առաքելությունը Սուրբ Հոգիով»։ Ուրեմն քաջ եղեք,- ասեց։
 
 Վերջին անգամ քաջալերացրեց առաքյալները Սուրբ Մարիամը, որովհետև միշտ ներկա էր, և նրա գործը այդ էր, որովհետև իր խոնարհությամբ և իր խոր հավատքով կարողացավ բոլորին ներշնչել, երբ որ ծանր զգում էին։ Ուրեմն այսպես իրենք ներշնչվեցան, մխիթարվեցան և հրաժեշտ տվեցին Սուրբ Մարիամին մինչև որ մահացավ։ Բայց երբ որ իրենք վերադարձան նրա թաղմանին, ի վերջո, և տեսան, որ դատարկ էր, իրենք հասկացել են, որ Հիսուս ուրիշ ծրագիր ունեցավ, որովհետև այդքան սիրեց նրա մայրը։ Աստվածածինը, Թեոթոքոսը այդքան յուրահատուկ էր, որ ինքը մասնավոր պարգև մը տվավ իրեն, որ ինքը վերափոխվի երկինք մարմնով, հոգիով։ Սա եզակի նվեր է, որ միայն Սուրբ Մարիամը ստացել է։ Եվ այս նվերը խոստումն է կամ խոստման մի մասն է, նշան մըն է, որ հարությունը ոչ միայն Հիսուսի համար է, հարությունը մեզի համար է, որովհետև Սուրբ Մարիամ Աստվածածինը մեզանից էր։ Այո՛, ամենալավ սուրբն էր, ամենասուրբ անձնավորությունն էր մարդկության պատմության մեջ, բայց մարդ էր։ Ի վերջո, ինքը հարություն առավ խոստովանելու, վկայելու, որ հարությունն ալ մեր ապագայի մեջ է։ Այն մարդկանց համար, որոնք հավատարիմ և խոնարհ են եղել իրենց հոգևոր կյանքի մեջը։ Ուրեմն այսօր պետք է նույնպես քաջալերացվենք, մխիթարվենք մեր դժվարությունների մեջ, ճգնաժամերի մեջ, մեր հավատքի տկարության մեջ, որովհետև Սուրբ Մարիամն ասում է, որ դուք ստացել եք Սուրբ Հոգին։ Սուրբ Հոգին ձեր մեջն է։ Աստծո նպատակն է, ծրագիր է, որ դուք դիմանաք մինչև որ վերադառնաք իրեն։
-
-[English sermon]
 
 I was recently at camp. There's so many kids that are here from summer camp. They either have joined us from Los Angeles or from our own parish and other kids that have been with us in the past there. I love our summer camp program. We've got so many blessings there and so many facilities to enjoy. We've got a basketball court, which is awesome, except for when it's 125 degrees and it feels like you're baking on it. We've got an arts and crafts center, which is so much fun. We've got this beautiful amphitheater for our campfires and other programs and an arbor which we gather in to pray together, to learn Armenian dancing together, to do Badarak together. There's so many wonderful things out there.
 

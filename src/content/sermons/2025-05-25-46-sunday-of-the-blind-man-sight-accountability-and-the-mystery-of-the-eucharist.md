@@ -16,36 +16,22 @@ sourceVideoTitle: "May 25, 2025 - Divine Liturgy"
 tags:
   - "accountability to truth"
   - "angels and heavenly worship"
-  - "Antioch"
-  - "Armenia"
   - "Armenian liturgical uniqueness"
-  - "Azerbaijan"
   - "evangelization and responsibility"
-  - "Georgia"
-  - "Isaiah"
   - "Isaiah 6 (Sanctus, angels worshiping)"
-  - "Jerusalem"
-  - "Jesus Christ"
-  - "John (author of Revelation)"
   - "John 10 (sheep recognizing the shepherd's voice)"
   - "John 9 (healing of the man born blind)"
   - "John 9:39 (\"For judgment I have come into the world...\")"
-  - "Judea"
-  - "Linda Lester"
   - "liturgical theology of the Eucharist"
   - "Palm Sunday passages (\"Blessed is he who comes in the name of the Lord\")"
-  - "Pharisees"
   - "Revelation (angels gathered around the Lord)"
   - "sacraments as mystery (khorhurt/mysterion)"
   - "Second Coming of Christ"
   - "spiritual blindness and sight"
-  - "St. Mesrop Mashtots"
   - "the Sanctus hymn (Soorp Soorp)"
 ---
-[Armenian sermon]
 Ուրեմն Ավետարանը կըսե, որ կսկսինք այս օրվա ընթերցումը, որ Հիսուս կըսե․ «Եկավ կուրերուն տեսողություն տալու»։
 
-[English sermon]
 In the Gospel it says, at the beginning of today's Gospel reading from the Gospel of John, Christ says, "For judgment I have come into the world, that those who do not see may see, and that those who see may become blind." And that second part of that statement on behalf of Jesus Christ is one that makes us think. What does that mean that He came to take away the sight of those who can see? That's fascinating.
 
 To provide some context to this passage, up until this moment in time, Christ has been performing many healings throughout Judea, and recently He's performed the healing of a blind man on the Sabbath. Whenever He did anything on the Sabbath, it really upset the religious leadership at the time, because He was standing as a person who was becoming increasingly an authority on spiritual matters amongst the people, working miracles, and of course proclaiming His role as the Messiah. And so when He does things on the Sabbath, they get upset because they say, "Oh, He says that He's a man of God, but He's breaking the commandments." What they don't know, of course, is that what Christ is doing is He's teaching us what the true meaning of Sabbath is. He's revivifying, resurrecting the meaning of the Sabbath, which we celebrate today here on this Sunday morning in the midst of the Divine Liturgy.

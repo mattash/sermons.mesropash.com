@@ -2,6 +2,8 @@ import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
+import { publicSermonText, publicTopicTags } from "./sermon-content.mjs";
+
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const contentDirectory = path.join(projectRoot, "src", "content", "sermons");
 const apiUrl = process.env.SERMON_ARCHIVE_API_URL ?? "https://sermon-archive.mesropash.com/api/v1/sermons";
@@ -43,7 +45,7 @@ function fileName(sermon) {
 }
 
 function safeMarkdownText(value) {
-  return requiredString(value, "text", "unknown")
+  return publicSermonText(requiredString(value, "text", "unknown"))
     .replace(/\r\n/g, "\n")
     .replace(/\r/g, "\n")
     .replace(/\u0000/g, "")
@@ -60,9 +62,7 @@ function markdownFor(sermon) {
   }
 
   const sourceVideo = sermon.sourceVideo ?? {};
-  const tags = Array.isArray(sermon.tags)
-    ? sermon.tags.map((tag) => optionalString(tag?.name)).filter(Boolean).sort((a, b) => a.localeCompare(b))
-    : [];
+  const tags = publicTopicTags(sermon.tags);
   const frontmatter = [
     "---",
     `archiveId: ${id}`,
@@ -184,4 +184,3 @@ main().catch((error) => {
   console.error(error instanceof Error ? error.message : error);
   process.exitCode = 1;
 });
-

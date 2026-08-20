@@ -14,22 +14,16 @@ sourceVideoId: "hNqnzZDIm_I"
 sourceVideoUrl: "https://www.youtube.com/watch?v=hNqnzZDIm_I"
 sourceVideoTitle: "March 30, 2025 - Divine Liturgy"
 tags:
-  - "Artsakh"
   - "God as perfect and merciful judge"
-  - "Gussig"
-  - "KZV"
   - "Lenten discipline and perseverance"
   - "Luke 16:1–13"
   - "Luke 18:1–8"
-  - "Mane"
   - "Matthew 6:25-30"
-  - "Mellie"
   - "negative exemplars in parables"
   - "persistence in prayer"
   - "Resurrection and new life"
   - "rhetorical pattern of 'from the stronger'"
   - "sacrifice"
-  - "San Francisco"
 ---
 Now I'm going to come back to why those two scenarios are somewhat similar and what that means for us. But we're here now in the fifth week of Lent. We're past the midpoint of Lent. We passed Mee Chink last week. And I want to take this opportunity to encourage you to double down on your Lenten promises, however it is that you are participating in Lent, and I hope that it is through serious reflection, fasting, and prayer. And I hope that you're using Fast and Pray, the tool which we built for you to help support that journey. It's not too late.
 

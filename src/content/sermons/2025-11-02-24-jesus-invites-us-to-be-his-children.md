@@ -18,19 +18,12 @@ tags:
   - "Church as community of mutual help"
   - "Cost of discipleship"
   - "Forgiveness"
-  - "Gevorg"
   - "Helping the poor"
-  - "Igor"
   - "Inheritance in God's family"
-  - "Lena"
   - "Loving one another"
   - "Obedience to Christ"
-  - "Rafi"
-  - "Sako"
   - "Simplicity of the Gospel"
-  - "Sophia"
 ---
-[English sermon]
 ...20 minutes, and then you ask for 20 more minutes. Meanwhile, dinner is frozen already. So mom says, "It's time for dinner." You say, "Just give me 20 minutes to finish my game." 20 minutes go by, and then you ask for 20 more. Man, dinner time is a rough one, right? Eat your food, sit down normal, those sorts of things. I think I got enough examples, Sophia, but I bet yours is really great. Last one. I can't say no to you. So for example, if you play a game and then your friend — hmm. That would definitely make them feel very frustrated and not respected.
 
 Now, let me ask you this. What if the richest person in the world came to you and said, "If I tell you to do this thing that I want you to do" — let's assume it's a good thing, too, for this example — "Okay, I want you to go and help this person, okay? I want you to go be with this person because they're sad. Okay? This friend of mine is really sad. Can you please go sit with that person and just... you don't even have to say anything. Just go spend time with them. And if you do that, you can be my inheritor. Whatever I have, I'm gonna give it to you. You can be the richest person in the world. Okay? I've got $10 billion, and if you do what I tell you to do, then I'm gonna put you in my will, and you can have whatever I have." Would you guys listen to that person? Yes. No. No? Yes. Why no? I would. Yeah. No. Definitely. Definitely. Why not? No, I would not listen. Why, Rafi? I think I would listen to him. Ah, you would do the right thing one way or the other, right? Yeah. With the right thing — no. Me too. Would you do it, would you do it if it cost you something? Yes. Depending. What would it cost? I don't want it. Huh? What would it cost? Let's see. What would it cost? It would cost you time. Okay. That's okay if it costs you time. What if it costs you money? And it costs you something — um, I would say one. Yeah. Like one dollar. I don't mind. You don't mind? I would say one. So you would not spend the money you have in order to one day get $10 billion? No. Oh, yeah. Definitely. Okay. "It's all about strategy," says Lena. It's all about strategy.
@@ -43,5 +36,4 @@ Can somebody think of a time... let's think of something that maybe we can remem
 
 So guys, here's the lesson I want you to remember from the passage today, which is that Jesus every day is inviting us to be his children, part of his family in the most intimate way possible. And that's the thing that we want to be. We want to be part of his family because being part of his family is a huge blessing and it brings wonderful things into our lives now and especially in the future. And all we have to do is learn about the things that he's telling us to do and do our best to do them. Even though sometimes we can't do it as well as we think we should, we just have to try our best. Okay? And God will honor his part of the deal. God bless you guys.
 
-[Armenian sermon]
 Իսկ ալ այս մեր հավատքի ամենախորք մասերը ավելի հասկանալի են մեր երեխաների համար, քան մեզ երբեմն, որովհետև շատ պարզ ձևով խոսում է մեր Տերը երբեմն, և մոր մենք մտածում ենք, որ Աստվածաշունչը, Ավետարանը անհասկանալի է, անկարելի է մեզի համար արգելու, ըստ այդմ ապրելու։ Պիտի հիշենք, որ ժամանակ առ ժամանակ Հիսուս կհայտնե ամենապարզ ձևով՝ ինչպես կարելի է իր ճանապարհով քայլել։ Պիտի լսենք իր խոսքը և պիտի կատարենք զայն։ Եվ եթե չենք հասկանար՝ ինչպես կարող ենք կատարել, պարզապես պետք է այս հարցումները հայտնենք իրար։ Տեր Հայր, ես չեմ հասկանար՝ ինչպես Հիսուս սպասում է, որ սենց անեմ, որ ես, օրինակի համար, ներեմ եղբորս, և որ ինձի համար աններելի մի բան կատարեց։ Պիտի ներենք։ Շատ պարզ է։ Ավետարանը ասում է, որ պիտի ներենք։ Հարց չկա, եթե պետք է կամ ոչ։ Պետք է։ Բայց կատարման մեջ դժվարություններ կան։ Դա չի նշանակեր, որ կարող ենք պատճառաբանել։ Ընդհակառակը, ինչպես մեր սիրելի երեխաները հասկացան, պետք է ձևը գտնենք։ Դա կամ մնաց մեզ, բայց այդ օր համար իրարու պետք է օգնենք։ Եկեղեցվո պաշտոնը մեր կյանքի է ներս, և գործը այդ է՝ իրարու օգնել, որ իրարում են ժամանակի մենք իրականացնենք մեր քրիստոնեական կոչումը։ Ի փառս Ամենասուրբ Երրորդության՝ Անուն Հոր և Որդվո և Հոգվույն Սրբո, ամեն։

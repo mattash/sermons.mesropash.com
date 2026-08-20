@@ -19,16 +19,11 @@ tags:
   - "Goodwill and love"
   - "Having enough in God’s eyes"
   - "Holy Muron"
-  - "Jesus Christ"
   - "Luke 21:1–4"
-  - "Saint John Chrysostom"
   - "Salvation by divine grace"
-  - "The Temple"
   - "The widow’s offering"
   - "The work of the Holy Spirit"
 ---
-[Armenian sermon]
-
 Եկեղեցիին կ’ըսենք. «Ժողովուրդ ջան, ձեր երկու լուման տուէք եկեղեցիին»։ «Երկու լուման, երկու լուման». այս դարձուածքը կ’ըսենք։ Ատիկա ուրկէ՞ն կու գայ։ Այսօր կը հանդիպինք այդ ասելիքին. այսօրուան Աւետարանէն է՝ Ղուկասու Աւետարանէն։
 
 Յիսուս կը դիտէր, երբ մարդիկ տաճարին մէջ կու գային։ Երկու մարդ եկած էին. մէկը այրի տիկին մըն էր, միւսը՝ հարուստ մարդ մը։ Երկուքն ալ եկած էին տաճարին իրենց նուէրները ներկայացնելու։ Այրի կինը իր ունեցած ամբողջը տուաւ, որ քիչ էր։ Հարուստ մարդը եկաւ եւ իր հարստութենէն շատ մեծ նուէր տուաւ տաճարին։
@@ -40,8 +35,6 @@ tags:
 Երբ Ոսկեբերանին մեկնութիւնը կը կարդամ այս կարճ պատմութեան մասին՝ նոյն հասկացողութեամբ, բայց ուրիշ ձեւով, քիչ մը այսպէս դարձնելով՝ յանկարծ կը հասկնամ, թէ Յիսուս իսկապէս ինչ կը փորձէ մեզի ըսել. ինչ որ ունիս կեանքիդ մէջ, բաւական է, որ երկինք հասնիս։
 
 Պէտք չէ մտածես, որ բաւական չունիմ, կամ պակասի մէջ եմ, կամ աւելիի պէտք ունիմ մինչեւ որ պատրաստ ըլլամ՝ դառնալու այն մարդը, որ պէտք է ըլլամ, կամ ընդունելի ըլլամ։ Ինչ որ ունիս այս պահուն՝ կը բաւէ։ Բայց ինչպէ՞ս կրնանք իրականացնել սուրբ դառնալու մեր կարելիութիւնը։ Մեր բարի կամքն է, մեր բարի սիրտն է։ Երբ բարի կամքով եւ բարի սրտով պատրաստ ենք տալու մեր քիչ ունեցածէն, ատիկա կը բաւէ։ Եւ յաւիտենական կեանքը ձրիաբար կու գայ Աստուծոյ շնորհքով։
-
-[English sermon]
 
 The passage that we read today is beautiful and very simple. I’ve preached to children about it, and I think even children understand inherently what Jesus Christ is trying to say. It’s not complicated. He’s trying to define for us the nature of generosity. But it’s highlighted in the Gospel because we have to give it its due. We have to spend some time reflecting on and meditating on what generosity truly is in our lives.
 

@@ -19,20 +19,14 @@ tags:
   - "Freedom from shame"
   - "Humility and forgiveness"
   - "Identity in God"
-  - "Jesus Christ"
   - "Luke 15:11–32"
   - "Matthew 9:17"
   - "Repentance and responsibility"
   - "Sacramental life"
   - "Self-forgiveness"
-  - "The elder son"
   - "The Father’s restoring love"
   - "The prodigal son"
-  - "The prodigal son"
-  - "The prodigal son’s father"
 ---
-[English sermon]
-
 Who am I? And who are you? Who are we as a community?
 
 I’m sure all of us, at some point in our lives, have had the opportunity—if not once, then many times throughout the seasons of our lives—to look in the mirror and ask this question: Who am I?
