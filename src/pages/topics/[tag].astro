@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import SermonCard from "../../components/SermonCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { tagSlug } from "../../lib/tags";
+
+export async function getStaticPaths() {
+  const allSermons = await getCollection("sermons");
+  const tags = [...new Set(allSermons.flatMap((entry) => entry.data.tags))].sort((a, b) => a.localeCompare(b));
+
+  return tags.map((tag) => ({
+    params: { tag: tagSlug(tag) },
+    props: {
+      tag,
+      sermons: allSermons
+        .filter((entry) => entry.data.tags.includes(tag))
+        .sort((a, b) => b.data.sermonDate.localeCompare(a.data.sermonDate))
+    }
+  }));
+}
+
+const { tag, sermons } = Astro.props;
+const sermonLabel = sermons.length === 1 ? "sermon" : "sermons";
+---
+
+<BaseLayout title={`${tag} | Sermon Topics | Fr. Mesrop Ash`} description={`Sermons about ${tag}.`}>
+  <section class="mx-auto max-w-5xl px-6 pb-12 pt-14 sm:px-8 sm:pt-20">
+    <a class="text-sm font-semibold text-pine underline decoration-gold decoration-2" href="/">← All sermons</a>
+    <p class="mt-10 text-sm font-semibold tracking-[0.18em] text-gold uppercase">Sermon topic</p>
+    <h1 class="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-pine sm:text-5xl">{tag}</h1>
+    <p class="mt-5 text-sm text-ink/60">{sermons.length} {sermonLabel} with this topic</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 sm:px-8">
+    {sermons.map((entry) => <SermonCard entry={entry} />)}
+  </section>
+</BaseLayout>
