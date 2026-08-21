@@ -2,6 +2,7 @@
 import { getCollection, render } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { formatSermonDate, videoStartUrl } from "../../lib/sermons";
+import { tagUrl } from "../../lib/tags";
 
 export async function getStaticPaths() {
   const sermons = await getCollection("sermons");
@@ -46,7 +47,16 @@ const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
       <section class="mt-12 border-t border-pine/15 pt-6">
         <h2 class="text-sm font-semibold tracking-wide text-pine uppercase">Topics</h2>
         <ul class="mt-3 flex flex-wrap gap-2 p-0">
-          {sermon.tags.map((tag) => <li class="list-none rounded-full bg-pine/8 px-3 py-1 text-sm text-pine">{tag}</li>)}
+          {sermon.tags.map((tag) => (
+            <li class="list-none">
+              <a
+                class="block rounded-full bg-pine/8 px-3 py-1 text-sm text-pine no-underline transition hover:bg-pine/15 hover:underline focus:outline-none focus:ring-2 focus:ring-gold"
+                href={tagUrl(tag)}
+              >
+                {tag}
+              </a>
+            </li>
+          ))}
         </ul>
       </section>
     )}
@@ -71,4 +81,3 @@ const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
     text-decoration: underline;
   }
 </style>
-

@@ -18,12 +18,36 @@ const sermons = (await getCollection("sermons")).sort((a, b) =>
       A growing collection of finalized sermons by Fr. Mesrop Ash and guest preachers at St. John Armenian Church.
     </p>
     <p class="mt-6 text-sm text-ink/60">{sermons.length} finalized sermons</p>
+
+    {sermons.length > 0 && (
+      <div class="mt-8 max-w-2xl">
+        <label class="text-sm font-semibold text-pine" for="sermon-search">Search sermons</label>
+        <input
+          class="mt-2 block w-full rounded-sm border border-pine/30 bg-white px-4 py-3 text-base text-ink shadow-sm outline-none placeholder:text-ink/50 focus:border-pine focus:ring-2 focus:ring-gold/50"
+          id="sermon-search"
+          name="search"
+          type="search"
+          placeholder="Search by title, topic, Scripture, or preacher"
+          autocomplete="off"
+          aria-controls="sermon-list"
+          aria-describedby="sermon-search-status"
+        />
+        <p class="mt-2 text-sm text-ink/60" id="sermon-search-status" aria-live="polite">
+          Showing all {sermons.length} sermons
+        </p>
+      </div>
+    )}
   </section>
 
   <section class="mx-auto max-w-5xl px-6 sm:px-8">
     {sermons.length > 0 ? (
       <div>
-        {sermons.map((entry) => <SermonCard entry={entry} />)}
+        <div id="sermon-list" data-sermon-list>
+          {sermons.map((entry) => <SermonCard entry={entry} />)}
+        </div>
+        <p class="mt-8 rounded-sm border border-pine/15 bg-white/60 p-6 text-ink/70" data-search-empty hidden>
+          No sermons match that search. Try a different word or phrase.
+        </p>
       </div>
     ) : (
       <p class="rounded-sm border border-pine/15 bg-white/60 p-6 text-ink/70">
@@ -33,3 +57,33 @@ const sermons = (await getCollection("sermons")).sort((a, b) =>
   </section>
 </BaseLayout>
 
+<script>
+  const searchInput = document.querySelector<HTMLInputElement>("#sermon-search");
+  const sermonCards = [...document.querySelectorAll<HTMLElement>("[data-sermon-card]")];
+  const searchStatus = document.querySelector<HTMLElement>("#sermon-search-status");
+  const emptyState = document.querySelector<HTMLElement>("[data-search-empty]");
+
+  if (searchInput && searchStatus && emptyState) {
+    const total = sermonCards.length;
+
+    const updateResults = () => {
+      const query = searchInput.value.trim();
+      const terms = query.toLocaleLowerCase().split(/\s+/).filter(Boolean);
+      let visibleCount = 0;
+
+      sermonCards.forEach((card) => {
+        const searchableText = card.dataset.sermonSearch ?? "";
+        const matches = terms.every((term) => searchableText.includes(term));
+        card.hidden = !matches;
+        if (matches) visibleCount += 1;
+      });
+
+      emptyState.hidden = visibleCount > 0;
+      searchStatus.textContent = query
+        ? `${visibleCount} ${visibleCount === 1 ? "sermon" : "sermons"} matching “${query}”`
+        : `Showing all ${total} sermons`;
+    };
+
+    searchInput.addEventListener("input", updateResults);
+  }
+</script>

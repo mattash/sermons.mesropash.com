@@ -10,15 +10,31 @@ interface Props {
       preacher: string;
       theme: string | null;
       scriptureReference: string | null;
+      liturgicalDay: string | null;
+      sermonType: string | null;
+      tags: string[];
     };
   };
 }
 
 const { entry } = Astro.props;
 const { sermonDate, title, preacher, theme, scriptureReference } = entry.data;
+const searchableText = [
+  sermonDate,
+  title,
+  preacher,
+  theme,
+  scriptureReference,
+  entry.data.liturgicalDay,
+  entry.data.sermonType,
+  ...entry.data.tags
+]
+  .filter(Boolean)
+  .join(" ")
+  .toLocaleLowerCase();
 ---
 
-<article class="border-b border-pine/15 py-8 first:pt-0">
+<article class="border-b border-pine/15 py-8 first:pt-0" data-sermon-card data-sermon-search={searchableText}>
   <p class="text-sm font-semibold tracking-wide text-gold">{formatSermonDate(sermonDate)}</p>
   <h2 class="mt-2 text-2xl font-semibold leading-tight text-pine sm:text-3xl">
     <a class="no-underline hover:underline" href={`/sermons/${entry.id}/`}>{title}</a>
@@ -27,4 +43,3 @@ const { sermonDate, title, preacher, theme, scriptureReference } = entry.data;
   {theme && <p class="mt-3 max-w-3xl leading-7 text-ink/80">{theme}</p>}
   {scriptureReference && <p class="mt-3 text-sm italic text-ink/65">{scriptureReference}</p>}
 </article>
-
