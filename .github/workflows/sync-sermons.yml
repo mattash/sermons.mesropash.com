@@ -12,7 +12,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     env:
-      SERMON_ARCHIVE_API_URL: https://sermon-archive.mesropash.com/api/v1/sermons
+      SERMON_ARCHIVE_API_URL: https://sermons.mesropash.com/api/v1/sermons
     steps:
       - uses: actions/checkout@v5
 

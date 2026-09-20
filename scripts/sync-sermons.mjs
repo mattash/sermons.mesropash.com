@@ -6,7 +6,7 @@ import { publicSermonText, publicTopicTags } from "./sermon-content.mjs";
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const contentDirectory = path.join(projectRoot, "src", "content", "sermons");
-const apiUrl = process.env.SERMON_ARCHIVE_API_URL ?? "https://sermon-archive.mesropash.com/api/v1/sermons";
+const apiUrl = process.env.SERMON_ARCHIVE_API_URL ?? "https://sermons.mesropash.com/api/v1/sermons";
 const checkOnly = process.argv.includes("--check");
 
 function requiredString(value, field, sermonId) {
