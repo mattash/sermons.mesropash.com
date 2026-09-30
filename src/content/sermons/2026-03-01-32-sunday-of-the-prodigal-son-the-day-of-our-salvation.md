@@ -22,7 +22,7 @@ tags:
   - "Lent"
   - "Luke 15:11–32"
   - "Parable of the Prodigal Son"
-  - "repentance"
+  - "Repentance"
   - "Responsibility"
   - "salvation"
 ---

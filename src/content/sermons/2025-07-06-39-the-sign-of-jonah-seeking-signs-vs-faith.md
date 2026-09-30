@@ -18,7 +18,7 @@ tags:
   - "human weakness and doubt"
   - "Matthew 12:38-40"
   - "parental love as analogy for divine love"
-  - "repentance"
+  - "Repentance"
   - "resurrection"
   - "the sign of Jonah"
   - "trust in God's love"

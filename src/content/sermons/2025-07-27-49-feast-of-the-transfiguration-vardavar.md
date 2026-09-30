@@ -23,7 +23,7 @@ tags:
   - "Matthew 17:1-9"
   - "Peter's confession and the rock of the church"
   - "Rejecting sin while loving the sinner"
-  - "repentance"
+  - "Repentance"
   - "salvation"
   - "Strengthening of the disciples"
   - "Transfiguration"

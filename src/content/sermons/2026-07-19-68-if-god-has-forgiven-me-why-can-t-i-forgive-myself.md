@@ -22,7 +22,7 @@ tags:
   - "Mercy"
   - "Psalm 103:12"
   - "Renewal"
-  - "repentance"
+  - "Repentance"
   - "Self-forgiveness"
   - "transformation"
 ---

@@ -21,7 +21,7 @@ tags:
   - "living in the present moment"
   - "Matthew 24"
   - "parable of the fig tree"
-  - "repentance"
+  - "Repentance"
   - "Second Coming of Christ"
   - "spiritual preparation"
   - "wisdom and foolishness of the cross"

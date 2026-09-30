@@ -22,7 +22,7 @@ tags:
   - "John 1:1-14"
   - "Luke 13:1-9"
   - "Parenting and discipline as analogy for God's love"
-  - "repentance"
+  - "Repentance"
   - "Thanksgiving and gratitude"
   - "The fig tree parable"
 ---

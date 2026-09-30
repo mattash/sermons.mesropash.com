@@ -20,7 +20,7 @@ tags:
   - "judgment"
   - "paradise and hell"
   - "Red Sunday"
-  - "repentance"
+  - "Repentance"
   - "resurrection"
   - "saints and martyrs"
   - "sin"

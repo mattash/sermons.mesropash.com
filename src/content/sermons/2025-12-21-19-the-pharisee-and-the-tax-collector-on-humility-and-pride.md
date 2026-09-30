@@ -20,7 +20,7 @@ tags:
   - "Luke 18:9-14"
   - "prayer"
   - "pride"
-  - "repentance"
+  - "Repentance"
   - "self-exaltation"
   - "St. Abgar the King"
 ---
