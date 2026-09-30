@@ -22,7 +22,7 @@ tags:
   - "Humility"
   - "Luke 9:44-50"
   - "overcoming persecution and trauma"
-  - "spiritual maturity"
+  - "Spiritual maturity"
   - "unity among Christians"
   - "vainglory and covetousness"
 ---
