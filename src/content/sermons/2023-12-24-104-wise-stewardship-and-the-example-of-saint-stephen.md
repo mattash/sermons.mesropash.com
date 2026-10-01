@@ -19,7 +19,7 @@ tags:
   - "Christian generosity"
   - "Love of God and neighbor"
   - "Luke 19:11–27"
-  - "Matthew 22:37–39"
+  - "Matthew 22:37-39"
   - "Saint Stephen’s martyrdom and example"
   - "Service to others"
   - "Stewardship of God’s gifts"
