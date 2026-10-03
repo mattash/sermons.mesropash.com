@@ -15,7 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=tL0vXq_aQyM"
 sourceVideoTitle: "April 26, 2026 - Divine Liturgy Red Sunday"
 tags:
   - "Armenian Genocide martyrs"
-  - "good and evil"
+  - "Good and evil"
   - "John 5:19-29"
   - "judgment"
   - "paradise and hell"
