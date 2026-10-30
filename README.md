@@ -27,3 +27,9 @@ npm run build
 
 Use `SERMON_ARCHIVE_API_URL` to point a local sync at another compatible API endpoint.
 
+## Archive browsing
+
+The homepage and `/page/2/`, `/page/3/`, etc. are static pages with 12 sermons each, newest first. Every sermon remains reachable without JavaScript. Search loads `/search.json` on demand and searches metadata across the entire archive; its results are also paginated. Search URLs preserve the query and result page, for example `/?q=prayer&page=2`.
+
+Run `npm test`, `npm run check`, and `npm run build` before publishing changes. The topic-discovery proposal in [docs/topic-discovery.md](docs/topic-discovery.md) describes a separate, future improvement; model-based classification and recommendations are not enabled by pagination.
+

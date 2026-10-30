@@ -1,0 +1,73 @@
+---
+import type { CollectionEntry } from "astro:content";
+import SermonCard from "./SermonCard.astro";
+import ArchivePagination from "./ArchivePagination.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { paginate } from "../lib/archive";
+
+interface Props {
+  sermons: CollectionEntry<"sermons">[];
+  page?: number;
+}
+
+const { sermons, page = 1 } = Astro.props;
+const result = paginate(sermons, page);
+---
+
+<BaseLayout title={page > 1 ? `Page ${page} | Sermons | Fr. Mesrop Ash` : undefined}>
+  <section class="mx-auto max-w-5xl px-6 pb-12 pt-16 sm:px-8 sm:pt-24">
+    <p class="text-sm font-semibold tracking-[0.18em] text-gold uppercase">Sermon Archive</p>
+    <h1 class="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-pine sm:text-6xl">
+      Homilies for reflection, prayer, and return.
+    </h1>
+    <p class="mt-6 max-w-2xl text-lg leading-8 text-ink/75">
+      A growing collection of finalized sermons by Fr. Mesrop Ash and guest preachers at St. John Armenian Church.
+    </p>
+    <p class="mt-6 text-sm text-ink/60">{sermons.length} finalized sermons</p>
+
+    {sermons.length > 0 && (
+      <form class="mt-8 max-w-2xl" action="/" method="get" role="search" data-sermon-search-form>
+        <label class="text-sm font-semibold text-pine" for="sermon-search">Search sermons</label>
+        <div class="mt-2 flex gap-2">
+          <input
+            class="block min-w-0 flex-1 rounded-sm border border-pine/30 bg-white px-4 py-3 text-base text-ink shadow-sm outline-none placeholder:text-ink/50 focus:border-pine focus:ring-2 focus:ring-gold/50"
+            id="sermon-search"
+            name="q"
+            type="search"
+            placeholder="Search by title, topic, Scripture, or preacher"
+            autocomplete="off"
+            aria-controls="sermon-list"
+            aria-describedby="sermon-search-status"
+          />
+          <button class="rounded-sm bg-pine px-4 py-3 text-sm font-semibold text-white focus:outline-none focus:ring-2 focus:ring-gold" type="submit">Search</button>
+        </div>
+        <p class="mt-2 text-sm text-ink/60" id="sermon-search-status" role="status" aria-live="polite">
+          Showing {result.start}–{result.end} of {result.total} sermons · Page {result.page} of {result.totalPages}
+        </p>
+        <noscript><p class="mt-2 text-sm text-ink/60">Enable JavaScript to search the whole archive. You can browse every sermon using the page links below.</p></noscript>
+      </form>
+    )}
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 sm:px-8" aria-label="Sermons">
+    {sermons.length > 0 ? (
+      <div data-sermon-archive>
+        <div id="sermon-list" tabindex="-1" class="focus:outline-none" data-sermon-list>
+          {result.items.map((entry) => <SermonCard entry={entry} />)}
+        </div>
+        <p class="mt-8 rounded-sm border border-pine/15 bg-white/60 p-6 text-ink/70" data-search-empty hidden>
+          No sermons match that search. Try a different word or phrase.
+        </p>
+        <ArchivePagination page={result.page} totalPages={result.totalPages} />
+      </div>
+    ) : (
+      <p class="rounded-sm border border-pine/15 bg-white/60 p-6 text-ink/70">
+        Finalized sermons will appear here soon.
+      </p>
+    )}
+  </section>
+</BaseLayout>
+
+<script>
+  import "../scripts/archive-search";
+</script>

@@ -1,0 +1,18 @@
+---
+import { getCollection } from "astro:content";
+import SermonArchive from "../../components/SermonArchive.astro";
+import { PAGE_SIZE, sortSermons } from "../../lib/archive";
+
+export async function getStaticPaths() {
+  const sermons = sortSermons(await getCollection("sermons"));
+  const totalPages = Math.ceil(sermons.length / PAGE_SIZE);
+  return Array.from({ length: Math.max(0, totalPages - 1) }, (_, index) => ({
+    params: { page: String(index + 2) },
+    props: { sermons, page: index + 2 }
+  }));
+}
+
+const { sermons, page } = Astro.props;
+---
+
+<SermonArchive sermons={sermons} page={page} />
