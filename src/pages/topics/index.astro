@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { topicRoutes } from "../../lib/discovery-data";
+
+const topics = topicRoutes(await getCollection("sermons")).filter((topic) => topic.canonical).sort((a, b) => a.title.localeCompare(b.title));
+---
+
+<BaseLayout title="Browse Sermons by Topic | Fr. Mesrop Ash" description="Find sermons on forgiveness, prayer, faith, spiritual growth, and other shared themes.">
+  <section class="mx-auto max-w-5xl px-6 pb-12 pt-14 sm:px-8 sm:pt-20">
+    <a class="text-sm font-semibold text-pine underline decoration-gold decoration-2" href="/">← All sermons</a>
+    <p class="mt-10 text-sm font-semibold tracking-[0.18em] text-gold uppercase">Explore the archive</p>
+    <h1 class="mt-4 text-4xl font-semibold leading-tight text-pine sm:text-5xl">Browse by topic</h1>
+    <p class="mt-6 max-w-2xl text-lg leading-8 text-ink/75">Follow a shared theme across sermons, and find another reflection for the questions on your heart.</p>
+    <ul class="mt-10 grid gap-4 p-0 sm:grid-cols-2">
+      {topics.map((topic) => (
+        <li class="list-none">
+          <a class="block h-full rounded-sm border border-pine/20 bg-white/55 p-6 text-pine no-underline transition hover:border-pine/50 hover:bg-pine/5 focus:outline-none focus:ring-2 focus:ring-gold" href={`/topics/${topic.slug}/`}>
+            <h2 class="text-xl font-semibold">{topic.title}</h2>
+            <p class="mt-2 text-base leading-7 text-ink/75">{topic.description}</p>
+            <p class="mt-3 text-sm text-ink/60">{topic.sermons.length} {topic.sermons.length === 1 ? "sermon" : "sermons"} →</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+    {topics.length === 0 && <p class="mt-10 text-ink/70">Topics will appear as sermons are cataloged.</p>}
+  </section>
+</BaseLayout>

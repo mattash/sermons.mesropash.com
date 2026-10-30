@@ -4,16 +4,18 @@ import { archivePageUrl } from "../lib/archive";
 interface Props {
   page: number;
   totalPages: number;
+  basePath?: string;
 }
 
-const { page, totalPages } = Astro.props;
+const { page, totalPages, basePath } = Astro.props;
+const pageUrl = (number: number) => basePath ? (number > 1 ? `${basePath}page/${number}/` : basePath) : archivePageUrl(number);
 const linkClass = "inline-flex min-h-11 min-w-11 items-center justify-center rounded-sm border border-pine/25 px-3 py-2 text-sm text-pine no-underline hover:bg-pine/8 focus:outline-none focus:ring-2 focus:ring-gold aria-[current=page]:bg-pine aria-[current=page]:text-white";
 ---
 
 <nav class="mt-8 flex flex-wrap items-center gap-2" aria-label="Sermon pages" data-pagination data-page-link-class={linkClass} hidden={totalPages <= 1}>
-  {page > 1 && <a class={linkClass} href={archivePageUrl(page - 1)} rel="prev">← Previous</a>}
+  {page > 1 && <a class={linkClass} href={pageUrl(page - 1)} rel="prev">← Previous</a>}
   {Array.from({ length: totalPages }, (_, index) => index + 1).map((number) => (
-    <a class={linkClass} href={archivePageUrl(number)} aria-label={`Page ${number}`} aria-current={number === page ? "page" : undefined}>{number}</a>
+    <a class={linkClass} href={pageUrl(number)} aria-label={`Page ${number}`} aria-current={number === page ? "page" : undefined}>{number}</a>
   ))}
-  {page < totalPages && <a class={linkClass} href={archivePageUrl(page + 1)} rel="next">Next →</a>}
+  {page < totalPages && <a class={linkClass} href={pageUrl(page + 1)} rel="next">Next →</a>}
 </nav>

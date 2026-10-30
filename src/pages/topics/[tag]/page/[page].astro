@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+import TopicArchive from "../../../../components/TopicArchive.astro";
+import { topicRoutes } from "../../../../lib/discovery-data";
+import { PAGE_SIZE } from "../../../../lib/archive";
+
+export async function getStaticPaths() {
+  return topicRoutes(await getCollection("sermons")).flatMap((topic) =>
+    Array.from({ length: Math.max(0, Math.ceil(topic.sermons.length / PAGE_SIZE) - 1) }, (_, index) => ({
+      params: { tag: topic.slug, page: String(index + 2) }, props: { topic, page: index + 2 }
+    }))
+  );
+}
+const { topic, page } = Astro.props;
+---
+<TopicArchive topic={topic} page={page} />

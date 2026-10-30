@@ -1,18 +1,33 @@
 ---
-import { getCollection, render } from "astro:content";
+import { getCollection, render, type CollectionEntry } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { formatSermonDate, videoStartUrl } from "../../lib/sermons";
 import { tagUrl } from "../../lib/tags";
+import { assignedTopics, getDiscovery } from "../../lib/discovery-data";
+import type { DiscoveryRecord } from "../../lib/discovery-core";
+import { TOPICS, type TopicId } from "../../lib/topic-taxonomy";
+
+interface Props {
+  entry: CollectionEntry<"sermons">;
+  discovery: DiscoveryRecord | null;
+  related: { entry: CollectionEntry<"sermons">; sharedTopics: TopicId[] }[];
+}
 
 export async function getStaticPaths() {
   const sermons = await getCollection("sermons");
+  const discovery = getDiscovery(sermons);
+  const byId = new Map(sermons.map((entry) => [entry.data.archiveId, entry]));
   return sermons.map((entry) => ({
     params: { slug: entry.id },
-    props: { entry }
+    props: {
+      entry, discovery: discovery.get(entry.data.archiveId) ?? null,
+      related: (discovery.get(entry.data.archiveId)?.related ?? []).map((item) => ({ entry: byId.get(item.archiveId)!, sharedTopics: item.sharedTopics }))
+    }
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, discovery, related } = Astro.props;
+const topics = assignedTopics(discovery);
 const { Content } = await render(entry);
 const sermon = entry.data;
 const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
@@ -43,22 +58,48 @@ const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
       <Content />
     </div>
 
-    {sermon.tags.length > 0 && (
+    {topics.length > 0 && (
       <section class="mt-12 border-t border-pine/15 pt-6">
         <h2 class="text-sm font-semibold tracking-wide text-pine uppercase">Topics</h2>
         <ul class="mt-3 flex flex-wrap gap-2 p-0">
-          {sermon.tags.map((tag) => (
+          {topics.map((topic) => (
             <li class="list-none">
               <a
                 class="block rounded-full bg-pine/8 px-3 py-1 text-sm text-pine no-underline transition hover:bg-pine/15 hover:underline focus:outline-none focus:ring-2 focus:ring-gold"
-                href={tagUrl(tag)}
+                href={`/topics/${topic.id}/`}
               >
-                {tag}
+                {topic.label}
               </a>
             </li>
           ))}
         </ul>
       </section>
+    )}
+
+    {related.length > 0 && (
+      <section class="mt-12 border-t border-pine/15 pt-8" aria-labelledby="similar-sermons-heading">
+        <h2 class="text-2xl font-semibold text-pine" id="similar-sermons-heading">Explore similar sermons</h2>
+        <p class="mt-3 leading-7 text-ink/70">Continue reflecting on the central themes of this sermon.</p>
+        <ul class="mt-6 space-y-4 p-0">
+          {related.map(({ entry: other, sharedTopics }) => (
+            <li class="list-none rounded-sm border border-pine/20 bg-white/55 p-5">
+              <p class="text-sm text-gold">{formatSermonDate(other.data.sermonDate)}</p>
+              <h3 class="mt-2 text-xl font-semibold leading-snug text-pine"><a class="hover:underline focus:outline-none focus:ring-2 focus:ring-gold" href={`/sermons/${other.id}/`}>{other.data.title}</a></h3>
+              <p class="mt-2 text-sm text-ink/65">{other.data.preacher}</p>
+              <p class="mt-3 text-sm text-pine">Shared themes: {sharedTopics.slice(0, 3).map((id) => TOPICS.find((topic) => topic.id === id)!.label).join(" · ")}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {sermon.tags.length > 0 && (
+      <details class="mt-10 border-t border-pine/15 pt-5 text-sm text-ink/65">
+        <summary class="cursor-pointer py-2 text-pine focus:outline-none focus:ring-2 focus:ring-gold">More search keywords & Scripture</summary>
+        <ul class="mt-3 flex flex-wrap gap-2 p-0">
+          {sermon.tags.map((tag) => <li class="list-none"><a class="block rounded-full bg-pine/8 px-3 py-1 text-pine hover:underline" href={tagUrl(tag)}>{tag}</a></li>)}
+        </ul>
+      </details>
     )}
   </article>
 </BaseLayout>

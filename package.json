@@ -13,7 +13,8 @@
     "check": "astro check",
     "test": "node --experimental-strip-types --test tests/**/*.test.mjs",
     "sync:sermons": "node scripts/sync-sermons.mjs",
-    "sync:check": "node scripts/sync-sermons.mjs --check"
+    "sync:check": "node scripts/sync-sermons.mjs --check",
+    "discovery:refresh": "node --experimental-strip-types scripts/refresh-discovery.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "yaml": "^2.9.1"
   }
 }

@@ -1,0 +1,28 @@
+---
+import type { CollectionEntry } from "astro:content";
+import ArchivePagination from "./ArchivePagination.astro";
+import SermonCard from "./SermonCard.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { paginate } from "../lib/archive";
+
+interface Props {
+  topic: { slug: string; title: string; description: string; canonical: boolean; sermons: CollectionEntry<"sermons">[] };
+  page?: number;
+}
+const { topic, page = 1 } = Astro.props;
+const result = paginate(topic.sermons, page);
+---
+
+<BaseLayout title={`${topic.title}${page > 1 ? ` · Page ${page}` : ""} | Sermon Topics | Fr. Mesrop Ash`} description={topic.description}>
+  <section class="mx-auto max-w-5xl px-6 pb-12 pt-14 sm:px-8 sm:pt-20">
+    <a class="text-sm font-semibold text-pine underline decoration-gold decoration-2" href="/topics/">← Browse topics</a>
+    <p class="mt-10 text-sm font-semibold tracking-[0.18em] text-gold uppercase">{topic.canonical ? "Sermon topic" : "Search keyword"}</p>
+    <h1 class="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-pine sm:text-5xl">{topic.title}</h1>
+    <p class="mt-5 max-w-2xl text-lg leading-8 text-ink/75">{topic.description}</p>
+    <p class="mt-5 text-sm text-ink/60">Showing {result.start}–{result.end} of {result.total} {result.total === 1 ? "sermon" : "sermons"}</p>
+  </section>
+  <section class="mx-auto max-w-5xl px-6 sm:px-8" aria-label="Sermons">
+    {result.items.map((entry) => <SermonCard entry={entry} />)}
+    <ArchivePagination page={result.page} totalPages={result.totalPages} basePath={`/topics/${topic.slug}/`} />
+  </section>
+</BaseLayout>

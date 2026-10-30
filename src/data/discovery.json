@@ -1,0 +1,3188 @@
+{
+  "schemaVersion": 1,
+  "taxonomyVersion": "1",
+  "promptVersion": "1",
+  "model": "@cf/cloudflare/clef",
+  "generatedAt": "2026-10-30T17:57:44.812Z",
+  "sermons": {
+    "3": {
+      "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
+      "topics": [
+        {
+          "id": "discernment",
+          "score": 2.9076
+        },
+        {
+          "id": "healing-and-restoration",
+          "score": 2.6577
+        },
+        {
+          "id": "humility",
+          "score": 2.2061
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 5,
+          "contentHash": "09c690b0ac13734c77cedb8f96300b6ef4c1fc96fa337d7edb66c9667d5c9546",
+          "score": 2.6304499999999997,
+          "sharedTopics": [
+            "discernment",
+            "healing-and-restoration"
+          ]
+        },
+        {
+          "archiveId": 57,
+          "contentHash": "d18f32c319e9301eb70f93f74697e9f37c8676188c213f14b1e5f1ee232b56e0",
+          "score": 2.490675,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 46,
+          "contentHash": "34f51951ae10f4eba6f896ae01deea464193748a31f759ef2882e63c1354c8c4",
+          "score": 2.1948,
+          "sharedTopics": [
+            "discernment"
+          ]
+        },
+        {
+          "archiveId": 19,
+          "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+          "score": 2.1611000000000002,
+          "sharedTopics": [
+            "humility"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "contentHash": "34bfbba52ad25cbe19e6cc1c9c5d00fd74df54171cab9713b7fc31764e50634c",
+      "topics": [
+        {
+          "id": "holy-spirit",
+          "score": 2.6634
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.2177
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "5": {
+      "contentHash": "09c690b0ac13734c77cedb8f96300b6ef4c1fc96fa337d7edb66c9667d5c9546",
+      "topics": [
+        {
+          "id": "healing-and-restoration",
+          "score": 2.8273
+        },
+        {
+          "id": "discernment",
+          "score": 2.7145
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 3,
+          "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
+          "score": 2.6304499999999997,
+          "sharedTopics": [
+            "healing-and-restoration",
+            "discernment"
+          ]
+        },
+        {
+          "archiveId": 46,
+          "contentHash": "34f51951ae10f4eba6f896ae01deea464193748a31f759ef2882e63c1354c8c4",
+          "score": 2.4690250000000002,
+          "sharedTopics": [
+            "discernment"
+          ]
+        },
+        {
+          "archiveId": 51,
+          "contentHash": "907d0c0240ea4786386837173a20dfcf7aaa3d9131b719663ce86ea1945e5562",
+          "score": 2.2795,
+          "sharedTopics": [
+            "discernment"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
+      "topics": [
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.6136
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.2111
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 110,
+          "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
+          "score": 2.167125,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        },
+        {
+          "archiveId": 47,
+          "contentHash": "1a50b06f7bec2cba8c4d0bc57f97cbb80769e2f1b4e8c5f3f13308946a800836",
+          "score": 2.119275,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "contentHash": "5c3834c9906b4dfbabb27cb01619fad2afafdf11347b72014d4f7fed24b25c93",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.8402
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 10,
+          "contentHash": "c9f42265e064c56b9f78efe9d2141986de8937481830c1290e4432c81379d419",
+          "score": 2.1818999999999997,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        },
+        {
+          "archiveId": 55,
+          "contentHash": "b4116e756dc5a30d9a4357e2377697af2b9032ccddde49372ac2aab270813c97",
+          "score": 2.065525,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "contentHash": "d8b9e6fec0c67d60bfe1a925abe292d748bccceb34a529f40626067d4f3f0739",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.7944
+        },
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.6038
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.4712
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.3075
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 95,
+          "contentHash": "fa4e778180d0783c4436dcaa62592ebe1a7047ead8a4a9d14254dc5eb5cb601b",
+          "score": 2.076975,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        }
+      ]
+    },
+    "10": {
+      "contentHash": "c9f42265e064c56b9f78efe9d2141986de8937481830c1290e4432c81379d419",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.9212
+        },
+        {
+          "id": "healing-and-restoration",
+          "score": 2.4536
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 8,
+          "contentHash": "5c3834c9906b4dfbabb27cb01619fad2afafdf11347b72014d4f7fed24b25c93",
+          "score": 2.1818999999999997,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        },
+        {
+          "archiveId": 33,
+          "contentHash": "dfc6a6a3ab509e02e2790de8f54f36ffd5a120e8d050ac52f6262d6e5150c3f0",
+          "score": 2.036525,
+          "sharedTopics": [
+            "resurrection",
+            "healing-and-restoration"
+          ]
+        },
+        {
+          "archiveId": 91,
+          "contentHash": "a358a639f3a1f2bc618cb37546f5a7fb409aa6d43f5a0102b0b5209950eeacb5",
+          "score": 2.0177,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        }
+      ]
+    },
+    "11": {
+      "contentHash": "50ced361e50a56982cd66e67cb4e3e407328615c68a6de52bfcff3afe26c455c",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.8824
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.2272
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.1197
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 10,
+          "contentHash": "c9f42265e064c56b9f78efe9d2141986de8937481830c1290e4432c81379d419",
+          "score": 2.12425,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        }
+      ]
+    },
+    "12": {
+      "contentHash": "4fbc879ecc5e12151982dd7f51ab65c115b87522d2935bb75a44c2ee47fbbbe2",
+      "topics": [
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.6218
+        },
+        {
+          "id": "humility",
+          "score": 2.1172
+        },
+        {
+          "id": "service",
+          "score": 2.0637
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.0296
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 58,
+          "contentHash": "8408e3b75e8c0cd5cdd2679c258cc3fc2a50227150be2cd8a6e3096891b42202",
+          "score": 2.388525,
+          "sharedTopics": [
+            "eucharist-and-worship"
+          ]
+        },
+        {
+          "archiveId": 103,
+          "contentHash": "960db824c65bb2a2c2ab87fce4d26074c113a2f1170eab61faba58fc94a4d20f",
+          "score": 2.0427999999999997,
+          "sharedTopics": [
+            "eucharist-and-worship",
+            "humility"
+          ]
+        }
+      ]
+    },
+    "13": {
+      "contentHash": "cd839bf37c26e50b106111723fd75f0e1fb78cbc53a28339f99ed2e9b2bc2455",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.332
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 71,
+          "contentHash": "99e579d81c537b6212d4b9d6949615b4173223ac371b235180ab264bbed572c8",
+          "score": 2.6244750000000003,
+          "sharedTopics": [
+            "faith-and-trust"
+          ]
+        }
+      ]
+    },
+    "14": {
+      "contentHash": "e2fae518b67703c5375aa3b3199bdbce2c45f63c0af7b94534f7a7ac214314ca",
+      "topics": [
+        {
+          "id": "hope-in-suffering",
+          "score": 2.7107
+        },
+        {
+          "id": "peace-and-anxiety",
+          "score": 2.3729
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.1836
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 100,
+          "contentHash": "ac65816a9435dcbad207906bd22c64bf4b9e210726fee31ba8e41353c5e674ac",
+          "score": 2.7366,
+          "sharedTopics": [
+            "hope-in-suffering",
+            "peace-and-anxiety",
+            "faith-and-trust"
+          ]
+        },
+        {
+          "archiveId": 16,
+          "contentHash": "06d371bcb7b14cd4f483090388ee2a32163b2ba51d1ab420babd135abd6a5fad",
+          "score": 2.536525,
+          "sharedTopics": [
+            "hope-in-suffering"
+          ]
+        },
+        {
+          "archiveId": 33,
+          "contentHash": "dfc6a6a3ab509e02e2790de8f54f36ffd5a120e8d050ac52f6262d6e5150c3f0",
+          "score": 2.2998250000000002,
+          "sharedTopics": [
+            "hope-in-suffering",
+            "faith-and-trust"
+          ]
+        }
+      ]
+    },
+    "15": {
+      "contentHash": "5675cb0e7a447c4a64366b8e5ad9e31c2b1d6854ba6c03c23765e9dd05586485",
+      "topics": [],
+      "topicSource": "clef",
+      "related": []
+    },
+    "16": {
+      "contentHash": "06d371bcb7b14cd4f483090388ee2a32163b2ba51d1ab420babd135abd6a5fad",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.7467
+        },
+        {
+          "id": "hope-in-suffering",
+          "score": 2.0374
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 14,
+          "contentHash": "e2fae518b67703c5375aa3b3199bdbce2c45f63c0af7b94534f7a7ac214314ca",
+          "score": 2.536525,
+          "sharedTopics": [
+            "hope-in-suffering"
+          ]
+        },
+        {
+          "archiveId": 118,
+          "contentHash": "2dfae3e66536f2eec296c128706f0608540e6bae5b263266c4e1c72293814e29",
+          "score": 2.3702,
+          "sharedTopics": [
+            "hope-in-suffering"
+          ]
+        },
+        {
+          "archiveId": 33,
+          "contentHash": "dfc6a6a3ab509e02e2790de8f54f36ffd5a120e8d050ac52f6262d6e5150c3f0",
+          "score": 2.2317,
+          "sharedTopics": [
+            "resurrection",
+            "hope-in-suffering"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "contentHash": "9c9763a54a1311a277280804f07ff6a1fb21c8d23bfcc454d941c9291b5d4603",
+      "topics": [
+        {
+          "id": "baptism",
+          "score": 2.9042
+        },
+        {
+          "id": "incarnation",
+          "score": 2.5119
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 66,
+          "contentHash": "a0ef92ba70d900bfaa86dc9e4c263f543e11a384fd317394b7561d0f7ef4ed19",
+          "score": 2.523025,
+          "sharedTopics": [
+            "baptism",
+            "incarnation"
+          ]
+        },
+        {
+          "archiveId": 65,
+          "contentHash": "e62279e7efdfd653ae8a18b2eb25f7f6c27f687145c802643c8762ea880b6450",
+          "score": 2.016025,
+          "sharedTopics": [
+            "baptism",
+            "incarnation"
+          ]
+        }
+      ]
+    },
+    "18": {
+      "contentHash": "8df844fb17a9d629bc55bb731ad346fc016efac658f39764b7927df96666b605",
+      "topics": [
+        {
+          "id": "incarnation",
+          "score": 2.8857
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.1648
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "19": {
+      "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+      "topics": [
+        {
+          "id": "humility",
+          "score": 2.9241
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.0336
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 57,
+          "contentHash": "d18f32c319e9301eb70f93f74697e9f37c8676188c213f14b1e5f1ee232b56e0",
+          "score": 2.585,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 20,
+          "contentHash": "6ff9e064b18a99565f8ae1d0db0224bbdd3c4e6155405682f21ae2490f4cc80e",
+          "score": 2.361675,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 23,
+          "contentHash": "967893095bdae01bcbff0771d9e55e0b819e15ad3f041b5167cc0c050c2bda24",
+          "score": 2.295725,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 37,
+          "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
+          "score": 2.2188,
+          "sharedTopics": [
+            "humility",
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "20": {
+      "contentHash": "6ff9e064b18a99565f8ae1d0db0224bbdd3c4e6155405682f21ae2490f4cc80e",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.6278
+        },
+        {
+          "id": "humility",
+          "score": 2.5803
+        },
+        {
+          "id": "service",
+          "score": 2.2677
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 19,
+          "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+          "score": 2.361675,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 57,
+          "contentHash": "d18f32c319e9301eb70f93f74697e9f37c8676188c213f14b1e5f1ee232b56e0",
+          "score": 2.086075,
+          "sharedTopics": [
+            "humility"
+          ]
+        }
+      ]
+    },
+    "21": {
+      "contentHash": "990d346eec6e2686bd2f6676cc0c1778a7592f54f42d120307f670d231356856",
+      "topics": [
+        {
+          "id": "repentance",
+          "score": 2.8709
+        },
+        {
+          "id": "gratitude",
+          "score": 2.2678
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.0762
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 74,
+          "contentHash": "296b4ab1ab2a5fd466c66ee450d16629fa1e2051e63c97c04c330f8a3dcdb9f3",
+          "score": 2.492625,
+          "sharedTopics": [
+            "repentance",
+            "love-and-mercy"
+          ]
+        },
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.3983,
+          "sharedTopics": [
+            "repentance"
+          ]
+        },
+        {
+          "archiveId": 119,
+          "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+          "score": 2.2751,
+          "sharedTopics": [
+            "repentance"
+          ]
+        },
+        {
+          "archiveId": 68,
+          "contentHash": "722e89b5f8bf15cf5530c460ae54166efb7e158b56f060dc683ff078388fa136",
+          "score": 2.11985,
+          "sharedTopics": [
+            "repentance",
+            "love-and-mercy"
+          ]
+        }
+      ]
+    },
+    "22": {
+      "contentHash": "e0791595e6ee659a9944be2f88ad6642c24f6f2f4c1a7612d5ea350dd82dea0b",
+      "topics": [
+        {
+          "id": "peace-and-anxiety",
+          "score": 2.9065
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 100,
+          "contentHash": "ac65816a9435dcbad207906bd22c64bf4b9e210726fee31ba8e41353c5e674ac",
+          "score": 2.56815,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        },
+        {
+          "archiveId": 28,
+          "contentHash": "4ec51a02baf0fb7dd7fa504754e004b095c19dc7ca8594455603cc0513b28ef3",
+          "score": 2.491625,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        }
+      ]
+    },
+    "23": {
+      "contentHash": "967893095bdae01bcbff0771d9e55e0b819e15ad3f041b5167cc0c050c2bda24",
+      "topics": [
+        {
+          "id": "humility",
+          "score": 2.6216
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.4248
+        },
+        {
+          "id": "family-and-children",
+          "score": 2.1215
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 19,
+          "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+          "score": 2.295725,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 103,
+          "contentHash": "960db824c65bb2a2c2ab87fce4d26074c113a2f1170eab61faba58fc94a4d20f",
+          "score": 2.077875,
+          "sharedTopics": [
+            "humility",
+            "spiritual-growth"
+          ]
+        }
+      ]
+    },
+    "24": {
+      "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
+      "topics": [
+        {
+          "id": "discipleship",
+          "score": 2.8018
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 61,
+          "contentHash": "fc8fc786f91271f77f9ebf728667d9e88c8cffaaf374d8b5be73ea1341277485",
+          "score": 2.25875,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        },
+        {
+          "archiveId": 64,
+          "contentHash": "851888c42067fd64c05992f128246d8f03d2f2dea5dff4053c7331387b4ffa0b",
+          "score": 2.0114,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        }
+      ]
+    },
+    "25": {
+      "contentHash": "749b9356389592740a5e33fc66e4f56f546ff3eebe05526c34788e4d6674f583",
+      "topics": [
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.5222
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.1869
+        },
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.0189
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 28,
+          "contentHash": "4ec51a02baf0fb7dd7fa504754e004b095c19dc7ca8594455603cc0513b28ef3",
+          "score": 2.5269999999999997,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 116,
+          "contentHash": "7c35cbb9ff91a23ef5e75b196016a1fbad9d698d14fa73460f990ac53fb8a6af",
+          "score": 2.1587750000000003,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 82,
+          "contentHash": "43255889ceacc95ea1b688af469dd124af1b352a535671d2bd952f9812dee7e6",
+          "score": 2.143875,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        }
+      ]
+    },
+    "27": {
+      "contentHash": "898e3d2af6b564411c1c441c5a730d3e9a6d91ef2cd99db5ed7917dc988ffc69",
+      "topics": [
+        {
+          "id": "discipleship",
+          "score": 2.1569
+        },
+        {
+          "id": "family-and-children",
+          "score": 2.1061
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 69,
+          "contentHash": "26f1ff3547530f11836e89ec4a1149b97c57aafb36e5979ad7105bb21507ad7c",
+          "score": 2.5161000000000002,
+          "sharedTopics": [
+            "family-and-children"
+          ]
+        }
+      ]
+    },
+    "28": {
+      "contentHash": "4ec51a02baf0fb7dd7fa504754e004b095c19dc7ca8594455603cc0513b28ef3",
+      "topics": [
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.8251
+        },
+        {
+          "id": "peace-and-anxiety",
+          "score": 2.7305
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 25,
+          "contentHash": "749b9356389592740a5e33fc66e4f56f546ff3eebe05526c34788e4d6674f583",
+          "score": 2.5269999999999997,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 22,
+          "contentHash": "e0791595e6ee659a9944be2f88ad6642c24f6f2f4c1a7612d5ea350dd82dea0b",
+          "score": 2.491625,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        },
+        {
+          "archiveId": 116,
+          "contentHash": "7c35cbb9ff91a23ef5e75b196016a1fbad9d698d14fa73460f990ac53fb8a6af",
+          "score": 2.3713,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 100,
+          "contentHash": "ac65816a9435dcbad207906bd22c64bf4b9e210726fee31ba8e41353c5e674ac",
+          "score": 2.1915250000000004,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        }
+      ]
+    },
+    "29": {
+      "contentHash": "737fbae6b5a4cc6313e1b07b41f49b4f18fa0e8b6673d830ad538014454fb4be",
+      "topics": [
+        {
+          "id": "prayer",
+          "score": 2.7228
+        },
+        {
+          "id": "repentance",
+          "score": 2.2202
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.0891
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 72,
+          "contentHash": "500c1254418d4fb6746c8bff6d79dc6dba0199478a4db2eba1b49e3c6b3ff7e8",
+          "score": 2.5156,
+          "sharedTopics": [
+            "prayer"
+          ]
+        },
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.005775,
+          "sharedTopics": [
+            "repentance"
+          ]
+        }
+      ]
+    },
+    "30": {
+      "contentHash": "161304b307bad152e1457e239e2b45ec7149dfb2a42c897df92a6a3dff24562b",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.4211
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.1875
+        },
+        {
+          "id": "christ-revealed",
+          "score": 2.1056
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 45,
+          "contentHash": "5f43db0238cc31be81d24b1cbfa02966f47f84b1c6c7757428bcf60247866be9",
+          "score": 2.121225,
+          "sharedTopics": [
+            "eucharist-and-worship"
+          ]
+        }
+      ]
+    },
+    "32": {
+      "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+      "topics": [
+        {
+          "id": "repentance",
+          "score": 2.8795
+        },
+        {
+          "id": "forgiveness",
+          "score": 2.4164
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 74,
+          "contentHash": "296b4ab1ab2a5fd466c66ee450d16629fa1e2051e63c97c04c330f8a3dcdb9f3",
+          "score": 2.719275,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 119,
+          "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+          "score": 2.598025,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 68,
+          "contentHash": "722e89b5f8bf15cf5530c460ae54166efb7e158b56f060dc683ff078388fa136",
+          "score": 2.5488999999999997,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 97,
+          "contentHash": "9c5f851e420649eede2e73a2b89df46f556eb7a2078eb18fd74eefd3231d0b65",
+          "score": 2.548,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        }
+      ]
+    },
+    "33": {
+      "contentHash": "dfc6a6a3ab509e02e2790de8f54f36ffd5a120e8d050ac52f6262d6e5150c3f0",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.7354
+        },
+        {
+          "id": "hope-in-suffering",
+          "score": 2.6729
+        },
+        {
+          "id": "healing-and-restoration",
+          "score": 2.3153
+        },
+        {
+          "id": "resurrection",
+          "score": 2.1932
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 100,
+          "contentHash": "ac65816a9435dcbad207906bd22c64bf4b9e210726fee31ba8e41353c5e674ac",
+          "score": 2.316225,
+          "sharedTopics": [
+            "faith-and-trust",
+            "hope-in-suffering"
+          ]
+        },
+        {
+          "archiveId": 14,
+          "contentHash": "e2fae518b67703c5375aa3b3199bdbce2c45f63c0af7b94534f7a7ac214314ca",
+          "score": 2.2998250000000002,
+          "sharedTopics": [
+            "faith-and-trust",
+            "hope-in-suffering"
+          ]
+        },
+        {
+          "archiveId": 16,
+          "contentHash": "06d371bcb7b14cd4f483090388ee2a32163b2ba51d1ab420babd135abd6a5fad",
+          "score": 2.2317,
+          "sharedTopics": [
+            "hope-in-suffering",
+            "resurrection"
+          ]
+        },
+        {
+          "archiveId": 10,
+          "contentHash": "c9f42265e064c56b9f78efe9d2141986de8937481830c1290e4432c81379d419",
+          "score": 2.036525,
+          "sharedTopics": [
+            "healing-and-restoration",
+            "resurrection"
+          ]
+        }
+      ]
+    },
+    "34": {
+      "contentHash": "f281031c7647d36378d31e2df2855eb4c3be82c3de4d843943117bc2b0465968",
+      "topics": [
+        {
+          "id": "spiritual-growth",
+          "score": 2.6467
+        },
+        {
+          "id": "repentance",
+          "score": 2.2413
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 75,
+          "contentHash": "5815aaee11629c09aca8bb86098474945015b56222b2450b5e3a0330dba07e08",
+          "score": 2.4147,
+          "sharedTopics": [
+            "spiritual-growth"
+          ]
+        },
+        {
+          "archiveId": 119,
+          "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+          "score": 2.186375,
+          "sharedTopics": [
+            "repentance"
+          ]
+        },
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.161225,
+          "sharedTopics": [
+            "repentance"
+          ]
+        }
+      ]
+    },
+    "35": {
+      "contentHash": "301556f19f183fbafe30e3b0b5f6876520df6ea86eefa39bb7e1d3b3191eb03e",
+      "topics": [
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.8864
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.1945
+        },
+        {
+          "id": "discipleship",
+          "score": 2.1341
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 110,
+          "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
+          "score": 2.4293500000000003,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        },
+        {
+          "archiveId": 6,
+          "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
+          "score": 2.239175,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        },
+        {
+          "archiveId": 82,
+          "contentHash": "43255889ceacc95ea1b688af469dd124af1b352a535671d2bd952f9812dee7e6",
+          "score": 2.102,
+          "sharedTopics": [
+            "cross-and-sacrifice",
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "36": {
+      "contentHash": "c06288bb0d3d3b67be3d434bbfb6e848bd68a3da51fb99dd9e49dc3e4cfa6bfb",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.8029
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 102,
+          "contentHash": "a714b66d7cff1b5f2b4f9f2fcb0845875bad91ce3047a0e191b3722698b01186",
+          "score": 2.3658,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        },
+        {
+          "archiveId": 117,
+          "contentHash": "10dbc6d6ec43c0ea4a5ad5a7b30e0764bf0712e9cb44fbf32834697d86195298",
+          "score": 2.13345,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        },
+        {
+          "archiveId": 37,
+          "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
+          "score": 2.028375,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "37": {
+      "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.7305
+        },
+        {
+          "id": "humility",
+          "score": 2.5367
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 19,
+          "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+          "score": 2.2188,
+          "sharedTopics": [
+            "saints-and-tradition",
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 102,
+          "contentHash": "a714b66d7cff1b5f2b4f9f2fcb0845875bad91ce3047a0e191b3722698b01186",
+          "score": 2.0761749999999997,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        },
+        {
+          "archiveId": 57,
+          "contentHash": "d18f32c319e9301eb70f93f74697e9f37c8676188c213f14b1e5f1ee232b56e0",
+          "score": 2.062975,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 36,
+          "contentHash": "c06288bb0d3d3b67be3d434bbfb6e848bd68a3da51fb99dd9e49dc3e4cfa6bfb",
+          "score": 2.028375,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "38": {
+      "contentHash": "aaa9d999a273922c2beda7bd6ecc8d603c94a5f7063d1af33d66df9ca86d16f1",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.4758
+        },
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.4297
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.0603
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.0499
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "39": {
+      "contentHash": "300fedd4f619be41cb40c548ec2d27a793071346e66bf32d7205afde0ac8e755",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.6916
+        },
+        {
+          "id": "resurrection",
+          "score": 2.1952
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "41": {
+      "contentHash": "36820ebb55bf8032ec44e30a67faa249ea65725102f02f72b6cff40d0eddff26",
+      "topics": [
+        {
+          "id": "love-and-mercy",
+          "score": 2.7831
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.4308
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.1974
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "43": {
+      "contentHash": "1396a6fc052c4feb63381f5aba9fce675d0d89246ed040b2ab79ff53cecbe36b",
+      "topics": [
+        {
+          "id": "family-and-children",
+          "score": 2.3207
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.3094
+        },
+        {
+          "id": "fasting-and-discipline",
+          "score": 2.2932
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "44": {
+      "contentHash": "fe3fddc5014d9b49dcdea28403eab6a062b55753a9afcf32fced25a9114390dd",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.9169
+        },
+        {
+          "id": "holy-spirit",
+          "score": 2.1397
+        },
+        {
+          "id": "service",
+          "score": 2.0372
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "45": {
+      "contentHash": "5f43db0238cc31be81d24b1cbfa02966f47f84b1c6c7757428bcf60247866be9",
+      "topics": [
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.4249
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 30,
+          "contentHash": "161304b307bad152e1457e239e2b45ec7149dfb2a42c897df92a6a3dff24562b",
+          "score": 2.121225,
+          "sharedTopics": [
+            "eucharist-and-worship"
+          ]
+        }
+      ]
+    },
+    "46": {
+      "contentHash": "34f51951ae10f4eba6f896ae01deea464193748a31f759ef2882e63c1354c8c4",
+      "topics": [
+        {
+          "id": "discernment",
+          "score": 2.8608
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.6553
+        },
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.1111
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 5,
+          "contentHash": "09c690b0ac13734c77cedb8f96300b6ef4c1fc96fa337d7edb66c9667d5c9546",
+          "score": 2.4690250000000002,
+          "sharedTopics": [
+            "discernment"
+          ]
+        },
+        {
+          "archiveId": 95,
+          "contentHash": "fa4e778180d0783c4436dcaa62592ebe1a7047ead8a4a9d14254dc5eb5cb601b",
+          "score": 2.275575,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 3,
+          "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
+          "score": 2.1948,
+          "sharedTopics": [
+            "discernment"
+          ]
+        }
+      ]
+    },
+    "47": {
+      "contentHash": "1a50b06f7bec2cba8c4d0bc57f97cbb80769e2f1b4e8c5f3f13308946a800836",
+      "topics": [
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.6928
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 6,
+          "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
+          "score": 2.119275,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        },
+        {
+          "archiveId": 82,
+          "contentHash": "43255889ceacc95ea1b688af469dd124af1b352a535671d2bd952f9812dee7e6",
+          "score": 2.003975,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        }
+      ]
+    },
+    "48": {
+      "contentHash": "b28b90ec5bc0b1291a15ea66416533bc037b660a29ada65e6b05747a2fcf4c2d",
+      "topics": [
+        {
+          "id": "spiritual-growth",
+          "score": 2.5185
+        },
+        {
+          "id": "christ-revealed",
+          "score": 2.2501
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "49": {
+      "contentHash": "0fe74363a207719663676bcc5b9393fa3fb06e63b19beb3dceadc168953bbf54",
+      "topics": [
+        {
+          "id": "christ-revealed",
+          "score": 2.8426
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.5574
+        },
+        {
+          "id": "discipleship",
+          "score": 2.3267
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 50,
+          "contentHash": "9c9f36b58f6a3f350e796516514833ab978cc3bc6af646249954e7b3c76456ee",
+          "score": 2.387825,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 67,
+          "contentHash": "bcb0af4b2756a40270fb060d4dfdb5a5ad31ad79c369c776b0e3701aa345af75",
+          "score": 2.2590999999999997,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 84,
+          "contentHash": "a0fa246560c7745b94471660705ea12faaec86b36e690fc89594f394a4e6097f",
+          "score": 2.0787750000000003,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        }
+      ]
+    },
+    "50": {
+      "contentHash": "9c9f36b58f6a3f350e796516514833ab978cc3bc6af646249954e7b3c76456ee",
+      "topics": [
+        {
+          "id": "christ-revealed",
+          "score": 2.9046
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.0668
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 51,
+          "contentHash": "907d0c0240ea4786386837173a20dfcf7aaa3d9131b719663ce86ea1945e5562",
+          "score": 2.363625,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 67,
+          "contentHash": "bcb0af4b2756a40270fb060d4dfdb5a5ad31ad79c369c776b0e3701aa345af75",
+          "score": 2.3103249999999997,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 84,
+          "contentHash": "a0fa246560c7745b94471660705ea12faaec86b36e690fc89594f394a4e6097f",
+          "score": 2.09205,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        }
+      ]
+    },
+    "51": {
+      "contentHash": "907d0c0240ea4786386837173a20dfcf7aaa3d9131b719663ce86ea1945e5562",
+      "topics": [
+        {
+          "id": "discernment",
+          "score": 2.891
+        },
+        {
+          "id": "christ-revealed",
+          "score": 2.7575
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.6304
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 50,
+          "contentHash": "9c9f36b58f6a3f350e796516514833ab978cc3bc6af646249954e7b3c76456ee",
+          "score": 2.363625,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 67,
+          "contentHash": "bcb0af4b2756a40270fb060d4dfdb5a5ad31ad79c369c776b0e3701aa345af75",
+          "score": 2.3295,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 5,
+          "contentHash": "09c690b0ac13734c77cedb8f96300b6ef4c1fc96fa337d7edb66c9667d5c9546",
+          "score": 2.2795,
+          "sharedTopics": [
+            "discernment"
+          ]
+        },
+        {
+          "archiveId": 84,
+          "contentHash": "a0fa246560c7745b94471660705ea12faaec86b36e690fc89594f394a4e6097f",
+          "score": 2.019075,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        }
+      ]
+    },
+    "52": {
+      "contentHash": "6ebf6048c41bb472a9d2cf3d642de636cb53d463a5780daf0d2d81a177c05e9e",
+      "topics": [
+        {
+          "id": "love-and-mercy",
+          "score": 2.5441
+        },
+        {
+          "id": "family-and-children",
+          "score": 2.4261
+        },
+        {
+          "id": "stewardship",
+          "score": 2.0007
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 81,
+          "contentHash": "a2d087fa02916ebc5c0ec510c641949d927ed0ff9b1ff63a512411d7f5b9ea96",
+          "score": 2.126325,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 106,
+          "contentHash": "2d488576fb48d1ef38b1c4528f7732a542be35710caaa631223e7313b3b15ba4",
+          "score": 2.0713,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        }
+      ]
+    },
+    "53": {
+      "contentHash": "7223f2e0c463472b36b973e1272ceb6821fa101b73eb23bad396cccffdb58811",
+      "topics": [
+        {
+          "id": "christ-revealed",
+          "score": 2.0969
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "54": {
+      "contentHash": "b99b8a9b44bcb87b2e40629186bb3945285c5c406a4c8ba05ccfd8f07b2a6d4c",
+      "topics": [
+        {
+          "id": "love-and-mercy",
+          "score": 2.1105
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "55": {
+      "contentHash": "b4116e756dc5a30d9a4357e2377697af2b9032ccddde49372ac2aab270813c97",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.7021
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.6715
+        },
+        {
+          "id": "baptism",
+          "score": 2.4484
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 91,
+          "contentHash": "a358a639f3a1f2bc618cb37546f5a7fb409aa6d43f5a0102b0b5209950eeacb5",
+          "score": 2.070475,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        },
+        {
+          "archiveId": 8,
+          "contentHash": "5c3834c9906b4dfbabb27cb01619fad2afafdf11347b72014d4f7fed24b25c93",
+          "score": 2.065525,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        }
+      ]
+    },
+    "57": {
+      "contentHash": "d18f32c319e9301eb70f93f74697e9f37c8676188c213f14b1e5f1ee232b56e0",
+      "topics": [
+        {
+          "id": "humility",
+          "score": 2.8938
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 19,
+          "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+          "score": 2.585,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 3,
+          "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
+          "score": 2.490675,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 103,
+          "contentHash": "960db824c65bb2a2c2ab87fce4d26074c113a2f1170eab61faba58fc94a4d20f",
+          "score": 2.093075,
+          "sharedTopics": [
+            "humility"
+          ]
+        },
+        {
+          "archiveId": 20,
+          "contentHash": "6ff9e064b18a99565f8ae1d0db0224bbdd3c4e6155405682f21ae2490f4cc80e",
+          "score": 2.086075,
+          "sharedTopics": [
+            "humility"
+          ]
+        }
+      ]
+    },
+    "58": {
+      "contentHash": "8408e3b75e8c0cd5cdd2679c258cc3fc2a50227150be2cd8a6e3096891b42202",
+      "topics": [
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.9121
+        },
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.1727
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "59": {
+      "contentHash": "7b3d74a8b1bd0e20a0830ac72a2fb7e27962612724ebd489c67ca9819cc49bae",
+      "topics": [
+        {
+          "id": "fasting-and-discipline",
+          "score": 2.8404
+        },
+        {
+          "id": "humility",
+          "score": 2.3152
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.1141
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 98,
+          "contentHash": "ce8f0e750f117c06758658c79094740e1cec4d0ad0fc46526da6bff2a52348a9",
+          "score": 2.583975,
+          "sharedTopics": [
+            "fasting-and-discipline",
+            "spiritual-growth"
+          ]
+        },
+        {
+          "archiveId": 19,
+          "contentHash": "e0da362f551ece42f6d0ee2afe803d14015de37ba957169359ea5f2ef534a985",
+          "score": 2.35305,
+          "sharedTopics": [
+            "humility"
+          ]
+        }
+      ]
+    },
+    "60": {
+      "contentHash": "af578e8645ec7462016381f6271214d5c1251840c0a862b5d8565ee66865af95",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.8355
+        },
+        {
+          "id": "holy-spirit",
+          "score": 2.0906
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 61,
+          "contentHash": "fc8fc786f91271f77f9ebf728667d9e88c8cffaaf374d8b5be73ea1341277485",
+          "score": 2.639825,
+          "sharedTopics": [
+            "faith-and-trust"
+          ]
+        },
+        {
+          "archiveId": 70,
+          "contentHash": "9259e7849149c8dfccb8deecc862987d30b38b456175f364028ccd69b7ec535e",
+          "score": 2.3109,
+          "sharedTopics": [
+            "faith-and-trust",
+            "holy-spirit"
+          ]
+        },
+        {
+          "archiveId": 39,
+          "contentHash": "300fedd4f619be41cb40c548ec2d27a793071346e66bf32d7205afde0ac8e755",
+          "score": 2.1046,
+          "sharedTopics": [
+            "faith-and-trust"
+          ]
+        },
+        {
+          "archiveId": 71,
+          "contentHash": "99e579d81c537b6212d4b9d6949615b4173223ac371b235180ab264bbed572c8",
+          "score": 2.09045,
+          "sharedTopics": [
+            "faith-and-trust"
+          ]
+        }
+      ]
+    },
+    "61": {
+      "contentHash": "fc8fc786f91271f77f9ebf728667d9e88c8cffaaf374d8b5be73ea1341277485",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.815
+        },
+        {
+          "id": "discipleship",
+          "score": 2.1112
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 24,
+          "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
+          "score": 2.25875,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        }
+      ]
+    },
+    "62": {
+      "contentHash": "9a7d20a473ce8c4692e440cb65b12927ee95aba6d381123859f7bd7ac8e65e79",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.6132
+        },
+        {
+          "id": "fasting-and-discipline",
+          "score": 2.3581
+        },
+        {
+          "id": "christ-revealed",
+          "score": 2.1032
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "63": {
+      "contentHash": "f7eebb7e8f9fdb3a3b151920f00fd2a22712dab392f1a1e3d49bf7e216bce808",
+      "topics": [
+        {
+          "id": "love-and-mercy",
+          "score": 2.8641
+        },
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.7002
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "64": {
+      "contentHash": "851888c42067fd64c05992f128246d8f03d2f2dea5dff4053c7331387b4ffa0b",
+      "topics": [
+        {
+          "id": "discipleship",
+          "score": 2.137
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.0093
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 24,
+          "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
+          "score": 2.0114,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        }
+      ]
+    },
+    "65": {
+      "contentHash": "e62279e7efdfd653ae8a18b2eb25f7f6c27f687145c802643c8762ea880b6450",
+      "topics": [
+        {
+          "id": "incarnation",
+          "score": 2.8418
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.333
+        },
+        {
+          "id": "baptism",
+          "score": 2.0748
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 66,
+          "contentHash": "a0ef92ba70d900bfaa86dc9e4c263f543e11a384fd317394b7561d0f7ef4ed19",
+          "score": 2.082075,
+          "sharedTopics": [
+            "incarnation",
+            "baptism"
+          ]
+        },
+        {
+          "archiveId": 17,
+          "contentHash": "9c9763a54a1311a277280804f07ff6a1fb21c8d23bfcc454d941c9291b5d4603",
+          "score": 2.016025,
+          "sharedTopics": [
+            "incarnation",
+            "baptism"
+          ]
+        }
+      ]
+    },
+    "66": {
+      "contentHash": "a0ef92ba70d900bfaa86dc9e4c263f543e11a384fd317394b7561d0f7ef4ed19",
+      "topics": [
+        {
+          "id": "incarnation",
+          "score": 2.8383
+        },
+        {
+          "id": "baptism",
+          "score": 2.825
+        },
+        {
+          "id": "christ-revealed",
+          "score": 2.2512
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.0657
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 17,
+          "contentHash": "9c9763a54a1311a277280804f07ff6a1fb21c8d23bfcc454d941c9291b5d4603",
+          "score": 2.523025,
+          "sharedTopics": [
+            "incarnation",
+            "baptism"
+          ]
+        },
+        {
+          "archiveId": 65,
+          "contentHash": "e62279e7efdfd653ae8a18b2eb25f7f6c27f687145c802643c8762ea880b6450",
+          "score": 2.082075,
+          "sharedTopics": [
+            "incarnation",
+            "baptism"
+          ]
+        }
+      ]
+    },
+    "67": {
+      "contentHash": "bcb0af4b2756a40270fb060d4dfdb5a5ad31ad79c369c776b0e3701aa345af75",
+      "topics": [
+        {
+          "id": "christ-revealed",
+          "score": 2.8908
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 51,
+          "contentHash": "907d0c0240ea4786386837173a20dfcf7aaa3d9131b719663ce86ea1945e5562",
+          "score": 2.3295,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 50,
+          "contentHash": "9c9f36b58f6a3f350e796516514833ab978cc3bc6af646249954e7b3c76456ee",
+          "score": 2.3103249999999997,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 49,
+          "contentHash": "0fe74363a207719663676bcc5b9393fa3fb06e63b19beb3dceadc168953bbf54",
+          "score": 2.2590999999999997,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 84,
+          "contentHash": "a0fa246560c7745b94471660705ea12faaec86b36e690fc89594f394a4e6097f",
+          "score": 2.0016,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        }
+      ]
+    },
+    "68": {
+      "contentHash": "722e89b5f8bf15cf5530c460ae54166efb7e158b56f060dc683ff078388fa136",
+      "topics": [
+        {
+          "id": "forgiveness",
+          "score": 2.923
+        },
+        {
+          "id": "repentance",
+          "score": 2.7914
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.3553
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.0868
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 97,
+          "contentHash": "9c5f851e420649eede2e73a2b89df46f556eb7a2078eb18fd74eefd3231d0b65",
+          "score": 2.6441,
+          "sharedTopics": [
+            "forgiveness",
+            "repentance"
+          ]
+        },
+        {
+          "archiveId": 74,
+          "contentHash": "296b4ab1ab2a5fd466c66ee450d16629fa1e2051e63c97c04c330f8a3dcdb9f3",
+          "score": 2.553825,
+          "sharedTopics": [
+            "forgiveness",
+            "repentance",
+            "love-and-mercy"
+          ]
+        },
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.5488999999999997,
+          "sharedTopics": [
+            "forgiveness",
+            "repentance"
+          ]
+        },
+        {
+          "archiveId": 119,
+          "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+          "score": 2.4857500000000003,
+          "sharedTopics": [
+            "forgiveness",
+            "repentance"
+          ]
+        }
+      ]
+    },
+    "69": {
+      "contentHash": "26f1ff3547530f11836e89ec4a1149b97c57aafb36e5979ad7105bb21507ad7c",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.3726
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.3418
+        },
+        {
+          "id": "family-and-children",
+          "score": 2.2884
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 27,
+          "contentHash": "898e3d2af6b564411c1c441c5a730d3e9a6d91ef2cd99db5ed7917dc988ffc69",
+          "score": 2.5161000000000002,
+          "sharedTopics": [
+            "family-and-children"
+          ]
+        }
+      ]
+    },
+    "70": {
+      "contentHash": "9259e7849149c8dfccb8deecc862987d30b38b456175f364028ccd69b7ec535e",
+      "topics": [
+        {
+          "id": "holy-spirit",
+          "score": 2.9266
+        },
+        {
+          "id": "peace-and-anxiety",
+          "score": 2.4807
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.0617
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 60,
+          "contentHash": "af578e8645ec7462016381f6271214d5c1251840c0a862b5d8565ee66865af95",
+          "score": 2.3109,
+          "sharedTopics": [
+            "holy-spirit",
+            "faith-and-trust"
+          ]
+        }
+      ]
+    },
+    "71": {
+      "contentHash": "99e579d81c537b6212d4b9d6949615b4173223ac371b235180ab264bbed572c8",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.4156
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 13,
+          "contentHash": "cd839bf37c26e50b106111723fd75f0e1fb78cbc53a28339f99ed2e9b2bc2455",
+          "score": 2.6244750000000003,
+          "sharedTopics": [
+            "faith-and-trust"
+          ]
+        },
+        {
+          "archiveId": 60,
+          "contentHash": "af578e8645ec7462016381f6271214d5c1251840c0a862b5d8565ee66865af95",
+          "score": 2.09045,
+          "sharedTopics": [
+            "faith-and-trust"
+          ]
+        }
+      ]
+    },
+    "72": {
+      "contentHash": "500c1254418d4fb6746c8bff6d79dc6dba0199478a4db2eba1b49e3c6b3ff7e8",
+      "topics": [
+        {
+          "id": "prayer",
+          "score": 2.2066
+        },
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.0675
+        },
+        {
+          "id": "fasting-and-discipline",
+          "score": 2.0338
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 29,
+          "contentHash": "737fbae6b5a4cc6313e1b07b41f49b4f18fa0e8b6673d830ad538014454fb4be",
+          "score": 2.5156,
+          "sharedTopics": [
+            "prayer"
+          ]
+        },
+        {
+          "archiveId": 95,
+          "contentHash": "fa4e778180d0783c4436dcaa62592ebe1a7047ead8a4a9d14254dc5eb5cb601b",
+          "score": 2.09465,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        }
+      ]
+    },
+    "74": {
+      "contentHash": "296b4ab1ab2a5fd466c66ee450d16629fa1e2051e63c97c04c330f8a3dcdb9f3",
+      "topics": [
+        {
+          "id": "repentance",
+          "score": 2.8958
+        },
+        {
+          "id": "forgiveness",
+          "score": 2.7017
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.2139
+        },
+        {
+          "id": "healing-and-restoration",
+          "score": 2.0326
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.719275,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 119,
+          "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+          "score": 2.6264999999999996,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness",
+            "healing-and-restoration"
+          ]
+        },
+        {
+          "archiveId": 97,
+          "contentHash": "9c5f851e420649eede2e73a2b89df46f556eb7a2078eb18fd74eefd3231d0b65",
+          "score": 2.580025,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness",
+            "healing-and-restoration"
+          ]
+        },
+        {
+          "archiveId": 68,
+          "contentHash": "722e89b5f8bf15cf5530c460ae54166efb7e158b56f060dc683ff078388fa136",
+          "score": 2.553825,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness",
+            "love-and-mercy"
+          ]
+        }
+      ]
+    },
+    "75": {
+      "contentHash": "5815aaee11629c09aca8bb86098474945015b56222b2450b5e3a0330dba07e08",
+      "topics": [
+        {
+          "id": "love-and-mercy",
+          "score": 2.4652
+        },
+        {
+          "id": "family-and-children",
+          "score": 2.2559
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.127
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 34,
+          "contentHash": "f281031c7647d36378d31e2df2855eb4c3be82c3de4d843943117bc2b0465968",
+          "score": 2.4147,
+          "sharedTopics": [
+            "spiritual-growth"
+          ]
+        }
+      ]
+    },
+    "77": {
+      "contentHash": "3582975f18a500e3fe04464021b3dfac9af86f92313d2a74465384cd706cce17",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.3945
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.0819
+        },
+        {
+          "id": "stewardship",
+          "score": 2.0601
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 104,
+          "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
+          "score": 2.4658250000000006,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 106,
+          "contentHash": "2d488576fb48d1ef38b1c4528f7732a542be35710caaa631223e7313b3b15ba4",
+          "score": 2.2464250000000003,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        }
+      ]
+    },
+    "81": {
+      "contentHash": "a2d087fa02916ebc5c0ec510c641949d927ed0ff9b1ff63a512411d7f5b9ea96",
+      "topics": [
+        {
+          "id": "stewardship",
+          "score": 2.9098
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 106,
+          "contentHash": "2d488576fb48d1ef38b1c4528f7732a542be35710caaa631223e7313b3b15ba4",
+          "score": 2.6224999999999996,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 52,
+          "contentHash": "6ebf6048c41bb472a9d2cf3d642de636cb53d463a5780daf0d2d81a177c05e9e",
+          "score": 2.126325,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 104,
+          "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
+          "score": 2.094725,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        }
+      ]
+    },
+    "82": {
+      "contentHash": "43255889ceacc95ea1b688af469dd124af1b352a535671d2bd952f9812dee7e6",
+      "topics": [
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.3027
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.2652
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 110,
+          "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
+          "score": 2.117425,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        },
+        {
+          "archiveId": 35,
+          "contentHash": "301556f19f183fbafe30e3b0b5f6876520df6ea86eefa39bb7e1d3b3191eb03e",
+          "score": 2.102,
+          "sharedTopics": [
+            "cross-and-sacrifice",
+            "saints-and-tradition"
+          ]
+        },
+        {
+          "archiveId": 47,
+          "contentHash": "1a50b06f7bec2cba8c4d0bc57f97cbb80769e2f1b4e8c5f3f13308946a800836",
+          "score": 2.003975,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        }
+      ]
+    },
+    "83": {
+      "contentHash": "a4fd4fb73df8dea2f2845190ef2a8a4e819042a3e878cec66384336930c39f99",
+      "topics": [
+        {
+          "id": "forgiveness",
+          "score": 2.934
+        },
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.7928
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.015375,
+          "sharedTopics": [
+            "forgiveness"
+          ]
+        }
+      ]
+    },
+    "84": {
+      "contentHash": "a0fa246560c7745b94471660705ea12faaec86b36e690fc89594f394a4e6097f",
+      "topics": [
+        {
+          "id": "christ-revealed",
+          "score": 2.7779
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 50,
+          "contentHash": "9c9f36b58f6a3f350e796516514833ab978cc3bc6af646249954e7b3c76456ee",
+          "score": 2.09205,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 49,
+          "contentHash": "0fe74363a207719663676bcc5b9393fa3fb06e63b19beb3dceadc168953bbf54",
+          "score": 2.0787750000000003,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 51,
+          "contentHash": "907d0c0240ea4786386837173a20dfcf7aaa3d9131b719663ce86ea1945e5562",
+          "score": 2.019075,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        },
+        {
+          "archiveId": 67,
+          "contentHash": "bcb0af4b2756a40270fb060d4dfdb5a5ad31ad79c369c776b0e3701aa345af75",
+          "score": 2.0016,
+          "sharedTopics": [
+            "christ-revealed"
+          ]
+        }
+      ]
+    },
+    "85": {
+      "contentHash": "24b226c5c2d78bd114ff99ff44295b455bdb8c411a2aab563b4d4bd875dc481c",
+      "topics": [
+        {
+          "id": "healing-and-restoration",
+          "score": 2.6048
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.4649
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 111,
+          "contentHash": "e17456100bda9ba1dc59e07d6390c211b1d98adf73ea0269d8be93629e250352",
+          "score": 2.595575,
+          "sharedTopics": [
+            "healing-and-restoration"
+          ]
+        }
+      ]
+    },
+    "88": {
+      "contentHash": "5e1ed7183b5fae3c964554e88fd80fd617e3e28ec4ed949201c7725aa4e9fea2",
+      "topics": [
+        {
+          "id": "discernment",
+          "score": 2.472
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "91": {
+      "contentHash": "a358a639f3a1f2bc618cb37546f5a7fb409aa6d43f5a0102b0b5209950eeacb5",
+      "topics": [
+        {
+          "id": "resurrection",
+          "score": 2.5722
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 55,
+          "contentHash": "b4116e756dc5a30d9a4357e2377697af2b9032ccddde49372ac2aab270813c97",
+          "score": 2.070475,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        },
+        {
+          "archiveId": 10,
+          "contentHash": "c9f42265e064c56b9f78efe9d2141986de8937481830c1290e4432c81379d419",
+          "score": 2.0177,
+          "sharedTopics": [
+            "resurrection"
+          ]
+        }
+      ]
+    },
+    "93": {
+      "contentHash": "b46653cea96aaf77b501ca9ac8af7c1226f4d41e576c5cb385c03fe6c1ad7c0d",
+      "topics": [
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.5198
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "95": {
+      "contentHash": "fa4e778180d0783c4436dcaa62592ebe1a7047ead8a4a9d14254dc5eb5cb601b",
+      "topics": [
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.9002
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 46,
+          "contentHash": "34f51951ae10f4eba6f896ae01deea464193748a31f759ef2882e63c1354c8c4",
+          "score": 2.275575,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 28,
+          "contentHash": "4ec51a02baf0fb7dd7fa504754e004b095c19dc7ca8594455603cc0513b28ef3",
+          "score": 2.172525,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 72,
+          "contentHash": "500c1254418d4fb6746c8bff6d79dc6dba0199478a4db2eba1b49e3c6b3ff7e8",
+          "score": 2.09465,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 9,
+          "contentHash": "d8b9e6fec0c67d60bfe1a925abe292d748bccceb34a529f40626067d4f3f0739",
+          "score": 2.076975,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        }
+      ]
+    },
+    "97": {
+      "contentHash": "9c5f851e420649eede2e73a2b89df46f556eb7a2078eb18fd74eefd3231d0b65",
+      "topics": [
+        {
+          "id": "healing-and-restoration",
+          "score": 2.8748
+        },
+        {
+          "id": "repentance",
+          "score": 2.4924
+        },
+        {
+          "id": "forgiveness",
+          "score": 2.3134
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 68,
+          "contentHash": "722e89b5f8bf15cf5530c460ae54166efb7e158b56f060dc683ff078388fa136",
+          "score": 2.6441,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 74,
+          "contentHash": "296b4ab1ab2a5fd466c66ee450d16629fa1e2051e63c97c04c330f8a3dcdb9f3",
+          "score": 2.580025,
+          "sharedTopics": [
+            "healing-and-restoration",
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.548,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 119,
+          "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+          "score": 2.36655,
+          "sharedTopics": [
+            "healing-and-restoration",
+            "repentance",
+            "forgiveness"
+          ]
+        }
+      ]
+    },
+    "98": {
+      "contentHash": "ce8f0e750f117c06758658c79094740e1cec4d0ad0fc46526da6bff2a52348a9",
+      "topics": [
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.3033
+        },
+        {
+          "id": "fasting-and-discipline",
+          "score": 2.1361
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.1045
+        },
+        {
+          "id": "prayer",
+          "score": 2.0821
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 59,
+          "contentHash": "7b3d74a8b1bd0e20a0830ac72a2fb7e27962612724ebd489c67ca9819cc49bae",
+          "score": 2.583975,
+          "sharedTopics": [
+            "fasting-and-discipline",
+            "spiritual-growth"
+          ]
+        }
+      ]
+    },
+    "99": {
+      "contentHash": "f91e86688843318b9135cb96cbb4339d382874e719b44a135dbe3ae95e090127",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.9201
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.2356
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "100": {
+      "contentHash": "ac65816a9435dcbad207906bd22c64bf4b9e210726fee31ba8e41353c5e674ac",
+      "topics": [
+        {
+          "id": "peace-and-anxiety",
+          "score": 2.9056
+        },
+        {
+          "id": "hope-in-suffering",
+          "score": 2.1386
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.0022
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 14,
+          "contentHash": "e2fae518b67703c5375aa3b3199bdbce2c45f63c0af7b94534f7a7ac214314ca",
+          "score": 2.7366,
+          "sharedTopics": [
+            "peace-and-anxiety",
+            "hope-in-suffering",
+            "faith-and-trust"
+          ]
+        },
+        {
+          "archiveId": 22,
+          "contentHash": "e0791595e6ee659a9944be2f88ad6642c24f6f2f4c1a7612d5ea350dd82dea0b",
+          "score": 2.56815,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        },
+        {
+          "archiveId": 33,
+          "contentHash": "dfc6a6a3ab509e02e2790de8f54f36ffd5a120e8d050ac52f6262d6e5150c3f0",
+          "score": 2.316225,
+          "sharedTopics": [
+            "hope-in-suffering",
+            "faith-and-trust"
+          ]
+        },
+        {
+          "archiveId": 28,
+          "contentHash": "4ec51a02baf0fb7dd7fa504754e004b095c19dc7ca8594455603cc0513b28ef3",
+          "score": 2.1915250000000004,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        }
+      ]
+    },
+    "102": {
+      "contentHash": "a714b66d7cff1b5f2b4f9f2fcb0845875bad91ce3047a0e191b3722698b01186",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.6592
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 36,
+          "contentHash": "c06288bb0d3d3b67be3d434bbfb6e848bd68a3da51fb99dd9e49dc3e4cfa6bfb",
+          "score": 2.3658,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        },
+        {
+          "archiveId": 37,
+          "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
+          "score": 2.0761749999999997,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "103": {
+      "contentHash": "960db824c65bb2a2c2ab87fce4d26074c113a2f1170eab61faba58fc94a4d20f",
+      "topics": [
+        {
+          "id": "discernment",
+          "score": 2.8343
+        },
+        {
+          "id": "humility",
+          "score": 2.8234
+        },
+        {
+          "id": "spiritual-growth",
+          "score": 2.35
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.2409
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 23,
+          "contentHash": "967893095bdae01bcbff0771d9e55e0b819e15ad3f041b5167cc0c050c2bda24",
+          "score": 2.077875,
+          "sharedTopics": [
+            "humility",
+            "spiritual-growth"
+          ]
+        },
+        {
+          "archiveId": 12,
+          "contentHash": "4fbc879ecc5e12151982dd7f51ab65c115b87522d2935bb75a44c2ee47fbbbe2",
+          "score": 2.0427999999999997,
+          "sharedTopics": [
+            "humility",
+            "eucharist-and-worship"
+          ]
+        }
+      ]
+    },
+    "104": {
+      "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
+      "topics": [
+        {
+          "id": "stewardship",
+          "score": 2.8983
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.4306
+        },
+        {
+          "id": "service",
+          "score": 2.2108
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 106,
+          "contentHash": "2d488576fb48d1ef38b1c4528f7732a542be35710caaa631223e7313b3b15ba4",
+          "score": 2.598025,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 77,
+          "contentHash": "3582975f18a500e3fe04464021b3dfac9af86f92313d2a74465384cd706cce17",
+          "score": 2.4658250000000006,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 124,
+          "contentHash": "0172006f3a040bcb0d0ea09848f8e6a631a70abba1bf6ccabd5175b4370262ad",
+          "score": 2.2313,
+          "sharedTopics": [
+            "stewardship",
+            "service"
+          ]
+        },
+        {
+          "archiveId": 81,
+          "contentHash": "a2d087fa02916ebc5c0ec510c641949d927ed0ff9b1ff63a512411d7f5b9ea96",
+          "score": 2.094725,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        }
+      ]
+    },
+    "105": {
+      "contentHash": "f709f345b5dd0b15355c5abafa55684d75778228620f6bf67b14eaab67e2c66d",
+      "topics": [
+        {
+          "id": "service",
+          "score": 2.0405
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "106": {
+      "contentHash": "2d488576fb48d1ef38b1c4528f7732a542be35710caaa631223e7313b3b15ba4",
+      "topics": [
+        {
+          "id": "stewardship",
+          "score": 2.9186
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 81,
+          "contentHash": "a2d087fa02916ebc5c0ec510c641949d927ed0ff9b1ff63a512411d7f5b9ea96",
+          "score": 2.6224999999999996,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 104,
+          "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
+          "score": 2.598025,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 77,
+          "contentHash": "3582975f18a500e3fe04464021b3dfac9af86f92313d2a74465384cd706cce17",
+          "score": 2.2464250000000003,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 52,
+          "contentHash": "6ebf6048c41bb472a9d2cf3d642de636cb53d463a5780daf0d2d81a177c05e9e",
+          "score": 2.0713,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        }
+      ]
+    },
+    "107": {
+      "contentHash": "04531d2b2b4da00152e80f450cd6b13bfa1ad93346785c891738c8115fe16f0b",
+      "topics": [],
+      "topicSource": "clef",
+      "related": []
+    },
+    "109": {
+      "contentHash": "154d692f3723631c60c57ab9383178fe2684166f35fed69a0a622b5a784ea30a",
+      "topics": [
+        {
+          "id": "love-and-mercy",
+          "score": 2.6059
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.1653
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "110": {
+      "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
+      "topics": [
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.8891
+        },
+        {
+          "id": "hope-in-suffering",
+          "score": 2.0388
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 6,
+          "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
+          "score": 2.167125,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        },
+        {
+          "archiveId": 82,
+          "contentHash": "43255889ceacc95ea1b688af469dd124af1b352a535671d2bd952f9812dee7e6",
+          "score": 2.117425,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        }
+      ]
+    },
+    "111": {
+      "contentHash": "e17456100bda9ba1dc59e07d6390c211b1d98adf73ea0269d8be93629e250352",
+      "topics": [
+        {
+          "id": "healing-and-restoration",
+          "score": 2.1505
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.0141
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 85,
+          "contentHash": "24b226c5c2d78bd114ff99ff44295b455bdb8c411a2aab563b4d4bd875dc481c",
+          "score": 2.595575,
+          "sharedTopics": [
+            "healing-and-restoration"
+          ]
+        }
+      ]
+    },
+    "114": {
+      "contentHash": "fa208e17e87cac362211eb724cbe35e548e47e0a5842c285db55598bb3df0bfd",
+      "topics": [
+        {
+          "id": "faith-and-trust",
+          "score": 2.7744
+        },
+        {
+          "id": "church-and-community",
+          "score": 2.5434
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.1125
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "115": {
+      "contentHash": "266e671b17dffa0cbb250925f561e6eed74b77b305a40ab5cadbbf823d881a06",
+      "topics": [],
+      "topicSource": "clef",
+      "related": []
+    },
+    "116": {
+      "contentHash": "7c35cbb9ff91a23ef5e75b196016a1fbad9d698d14fa73460f990ac53fb8a6af",
+      "topics": [
+        {
+          "id": "judgment-and-eternity",
+          "score": 2.2172
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 28,
+          "contentHash": "4ec51a02baf0fb7dd7fa504754e004b095c19dc7ca8594455603cc0513b28ef3",
+          "score": 2.3713,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        },
+        {
+          "archiveId": 25,
+          "contentHash": "749b9356389592740a5e33fc66e4f56f546ff3eebe05526c34788e4d6674f583",
+          "score": 2.1587750000000003,
+          "sharedTopics": [
+            "judgment-and-eternity"
+          ]
+        }
+      ]
+    },
+    "117": {
+      "contentHash": "10dbc6d6ec43c0ea4a5ad5a7b30e0764bf0712e9cb44fbf32834697d86195298",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.3311
+        },
+        {
+          "id": "eucharist-and-worship",
+          "score": 2.2767
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 36,
+          "contentHash": "c06288bb0d3d3b67be3d434bbfb6e848bd68a3da51fb99dd9e49dc3e4cfa6bfb",
+          "score": 2.13345,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "118": {
+      "contentHash": "2dfae3e66536f2eec296c128706f0608540e6bae5b263266c4e1c72293814e29",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.7569
+        },
+        {
+          "id": "hope-in-suffering",
+          "score": 2.7045
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 16,
+          "contentHash": "06d371bcb7b14cd4f483090388ee2a32163b2ba51d1ab420babd135abd6a5fad",
+          "score": 2.3702,
+          "sharedTopics": [
+            "hope-in-suffering"
+          ]
+        },
+        {
+          "archiveId": 37,
+          "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
+          "score": 2.244675,
+          "sharedTopics": [
+            "saints-and-tradition"
+          ]
+        }
+      ]
+    },
+    "119": {
+      "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
+      "topics": [
+        {
+          "id": "repentance",
+          "score": 2.9002
+        },
+        {
+          "id": "forgiveness",
+          "score": 2.8445
+        },
+        {
+          "id": "healing-and-restoration",
+          "score": 2.8027
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 74,
+          "contentHash": "296b4ab1ab2a5fd466c66ee450d16629fa1e2051e63c97c04c330f8a3dcdb9f3",
+          "score": 2.6264999999999996,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness",
+            "healing-and-restoration"
+          ]
+        },
+        {
+          "archiveId": 83,
+          "contentHash": "a4fd4fb73df8dea2f2845190ef2a8a4e819042a3e878cec66384336930c39f99",
+          "score": 2.6088249999999995,
+          "sharedTopics": [
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 32,
+          "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
+          "score": 2.598025,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        },
+        {
+          "archiveId": 68,
+          "contentHash": "722e89b5f8bf15cf5530c460ae54166efb7e158b56f060dc683ff078388fa136",
+          "score": 2.4857500000000003,
+          "sharedTopics": [
+            "repentance",
+            "forgiveness"
+          ]
+        }
+      ]
+    },
+    "120": {
+      "contentHash": "558b7eedfef0bd648406f36673b43e1dec2ac2cfbe73e6a55681d601641c61e8",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.5568
+        },
+        {
+          "id": "healing-and-restoration",
+          "score": 2.304
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "121": {
+      "contentHash": "9490ee01c283133c15412e661530885b231afdadf66cc81dda97692de9301b54",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.8337
+        },
+        {
+          "id": "saints-and-tradition",
+          "score": 2.3036
+        },
+        {
+          "id": "faith-and-trust",
+          "score": 2.2036
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
+    },
+    "124": {
+      "contentHash": "0172006f3a040bcb0d0ea09848f8e6a631a70abba1bf6ccabd5175b4370262ad",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.7913
+        },
+        {
+          "id": "cross-and-sacrifice",
+          "score": 2.7578
+        },
+        {
+          "id": "stewardship",
+          "score": 2.6763
+        },
+        {
+          "id": "service",
+          "score": 2.2528
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 104,
+          "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
+          "score": 2.2313,
+          "sharedTopics": [
+            "stewardship",
+            "service"
+          ]
+        },
+        {
+          "archiveId": 6,
+          "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
+          "score": 2.05095,
+          "sharedTopics": [
+            "cross-and-sacrifice"
+          ]
+        }
+      ]
+    }
+  }
+}

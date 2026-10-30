@@ -1,40 +1,46 @@
-# Topic discovery proposal
+# Sermon topic discovery with Clef
 
-Status: proposal, October 30, 2026. No model calls, topic reassignment, or recommendation feature are enabled yet.
+The public archive uses Cloudflare's `@cf/cloudflare/clef` decision model to assign a fixed vocabulary of 27 topics and compare sermons on similar subjects. Results are saved in `src/data/discovery.json`, keyed by immutable archive IDs. The generated sermon Markdown and the private archive's reviewed text remain the source content.
 
-## The current problem
+## How it works
 
-The 98 published sermons have 935 distinct topic and Scripture labels; 870 labels appear on just one sermon. Exact matching treats capitalization, punctuation, and differently worded versions of the same idea as different topics. A freely generated keyword is useful search material but a poor browsing category.
+1. Read each approved, published transcript in full. Ask an independent ordinal question for each topic: absent, passing mention, substantial, or central. Keep up to four substantial topics, based on the score and the combined probability of the substantial/central outcomes. An uncertain sermon can have no assignment.
+2. Shortlist up to eight other sermons using shared canonical topics and transcript TF-IDF similarity. General Christian vocabulary is excluded from the lexical weighting. Exclude self and duplicate source videos.
+3. Ask Clef to compare each candidate pair's central teaching and pastoral concern. Save up to four sufficiently related results, ordered by the combined score. A common preacher or feast alone is insufficient. Show shared topic labels as the explanation. Do not force matches to fill a quota.
+4. Serve static topic pages and related-sermon links. Visitors do not cause model calls. Keep the original generated tags as searchable keywords and preserve their existing URLs.
 
-Generated Markdown is a publication artifact. Persist canonical topic assignments in the private archive and export them; do not manually retag this repository's sermon files.
+Model responses are checkpointed in the ignored `.cache/clef-responses.json`. Cache keys include the model ID, prompt version, complete state and questions. Definition changes invalidate the corresponding decisions. Changed transcripts cannot retain old assignments or recommendations: build-time fingerprints cover the title, summary, and transcript. Withdrawn sermons, duplicate source videos, and broken target references are filtered from rendered recommendations.
 
-## Stable topics
+The hosted API exposes a model ID rather than immutable model weights. Use `--force` for a deliberate fresh evaluation after a hosted model change. `TAXONOMY_VERSION` and `DISCOVERY_PROMPT_VERSION` version the application conventions. The public artifact records those versions, the model ID, and its generation time; the local cache preserves probability distributions and evaluation times.
 
-Start with approximately 20–30 topics, each with a stable ID, display label, definition, and aliases. Examples include forgiveness, repentance, humility, prayer, faith and trust, love and mercy, suffering and hope, resurrection, the cross, the Holy Spirit, the Eucharist, stewardship, service, family, and life in the Church. Distinguish their definitions so related categories remain useful.
+## Local refresh
 
-Keep Scripture passages and liturgical occasions as separate facets. Normalize book names, chapter/verse ranges, and feast-name aliases instead of mixing them into the topical vocabulary. Preserve the old generated labels as search keywords and retain existing topic URLs while introducing canonical ones.
+The 1Password-managed mount is outside the checkout at `/Users/mattash/.config/sermon-archive/clef.env`. The client consumes only `CLOUDFLARE_WORKERSAI_API_KEY` and `CLOUDFLARE_WORKERSAI_ACCOUNT_ID`; it does not source the complete Environment into the process or copy its values into another file.
 
-Use Jev or Clef to assess each approved transcript against the fixed definitions. Ask an independent question for each topic: “Is this a central subject that this sermon meaningfully develops, rather than a passing reference?” Use a boolean probability or an ordinal rubric for absent / mentioned / secondary / central. A single mutually exclusive Choice would prevent a sermon from having several themes.
+```bash
+npm run sync:sermons
+npm run discovery:refresh -- --credential-file "$HOME/.config/sermon-archive/clef.env"
+npm test
+npm run check
+npm run build
+```
 
-Choose a small number of strong topics, normally 2–4, using thresholds calibrated against reviewed examples. Allow no confident match. Save transcript hash, taxonomy version, model version, prompt version, raw scores, and selected topic IDs. Curator corrections should override model suggestions. Recompute when the transcript or taxonomy changes, rather than generating tags during page requests.
+A small sample uses `--ids 68,74,22,100` and writes `.cache/clef-sample.json`, never the production artifact. `--classify-only` also writes only a sample. `--concurrency` defaults to 3 and is capped at 5; `--max-requests` bounds the run. Failed requests retry within a fixed budget. Valid results are checkpointed so an interrupted run resumes without repeating successful inference. A failed refresh leaves the published artifact intact. Inputs that exceed the conservative context budget fail instead of silently truncating a transcript.
 
-## Similar sermons
+## Curator corrections
 
-Add 3–5 related-sermon links to each sermon page, with shared topic labels explaining the connection. Use the actual sermon text as the basis for comparisons, not just its existing generated tags.
+Edit `src/data/topic-overrides.json` to override an assignment with stable topic IDs, then refresh. For example, `{"68": ["forgiveness", "repentance"]}` replaces sermon 68's automatic topics. An empty array deliberately removes its assignments. Overrides are validated, preserved across refreshes, and marked `curator` in the artifact. Changing an override also rebuilds candidate relationships; relatedness still requires Clef's judgment.
 
-For the current archive, shortlist candidates using topic profiles and transcript keyword relevance. Have the decision model compare the shortlist with the source sermon using separate questions for shared central teaching and shared pastoral concern. A common preacher, generic Christian language, or the same feast alone should not qualify a match. Exclude the sermon itself and duplicate versions of the same sermon.
+Edit definitions and aliases in `src/lib/topic-taxonomy.ts` to improve the vocabulary. Keep existing IDs stable. Scripture and feast names remain searchable independently of these topical categories.
 
-Compute and cache those links during publication. Persist results outside the generated Markdown and key them by immutable archive IDs and content/model/taxonomy versions. Validate referenced IDs against the published collection so withdrawn sermons cannot leave broken links. Serving the recommendations then needs no model request or public API key. Preserve the last valid output if the model is unavailable; do not silently present keyword matches as model-judged recommendations.
+## Hourly publishing
 
-Embeddings can improve the candidate shortlist if evaluation shows missed connections. A vector database is unnecessary for 98 sermons. Introduce query-time model ranking separately if natural-language search later becomes a requirement.
+The existing GitHub Action syncs finalized sermons and can refresh discovery using repository secrets named `CLOUDFLARE_WORKERSAI_API_KEY` and `CLOUDFLARE_WORKERSAI_ACCOUNT_ID`. Only the Clef refresh step receives them. No credential is required in Vercel or the browser. GitHub Actions caches only model responses, which contain public-sermon judgments, never credentials. A new runner may make a first full inference pass; later runs reuse cached decisions.
 
-## Choosing a model
+If credentials are absent, the Action preserves the last discovery artifact. If Cloudflare fails, it still publishes valid sermon content and preserves the last good artifact. Newly added or revised sermons receive recommendations after a successful refresh; withdrawn or stale references disappear immediately at build time. The Action runs tests, type checks, and a static build before committing changes.
 
-Compare Jev and Clef-flash on the same small set of sermons and candidate pairs before choosing. Review approximately 20 seed sermons, covering overlapping themes, different feasts, Armenian-specific theology, and bilingual text. Judge whether each of the first three suggestions is useful, and inspect false matches and omitted topics. Tune thresholds on one set and check them on held-out examples. General vendor benchmarks do not establish quality for this archive.
+## Evaluation and limits
 
-Relevant primary documentation:
+The first pass was reviewed against concrete sermon cases: forgiveness and the Prodigal Son, anxiety and peace, humility, stewardship, and the Transfiguration. A vocabulary gap around Christ's glory was corrected before publication. These checks support an initial release, not a claim of exhaustive theological or bilingual accuracy. Curator overrides provide a durable correction mechanism.
 
-- [TypeSafe structured decisions](https://docs.typesafe.ai/introduction)
-- [TypeSafe reranking pattern](https://docs.typesafe.ai/cookbooks/rerank_typesafe)
-- [Cloudflare Clef model](https://huggingface.co/Cloudflare/clef)
-- [Cloudflare Clef family update](https://blog.cloudflare.com/clef-faster-cheaper-multimodal/)
+Primary references: [Clef API](https://developers.cloudflare.com/workers-ai/models/clef/), [model card](https://huggingface.co/Cloudflare/clef), and [pricing](https://developers.cloudflare.com/workers-ai/platform/pricing/).

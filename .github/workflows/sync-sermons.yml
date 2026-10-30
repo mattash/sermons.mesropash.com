@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sermon-archive-sync
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -24,9 +28,28 @@ jobs:
       - run: npm ci
       - run: npm run sync:sermons
 
-      - name: Commit changed Markdown
+      - name: Restore Clef decision cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/clef-responses.json
+          key: sermon-clef-v1-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            sermon-clef-v1-${{ runner.os }}-
+
+      - name: Refresh sermon topics and similar sermons
+        continue-on-error: true
+        env:
+          CLOUDFLARE_WORKERSAI_API_KEY: ${{ secrets.CLOUDFLARE_WORKERSAI_API_KEY }}
+          CLOUDFLARE_WORKERSAI_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_WORKERSAI_ACCOUNT_ID }}
+        run: npm run discovery:refresh -- --if-credentials
+
+      - run: npm test
+      - run: npm run check
+      - run: npm run build
+
+      - name: Commit published sermons and discovery data
         run: |
-          git add src/content/sermons
+          git add src/content/sermons src/data/discovery.json
           if git diff --cached --quiet; then
             exit 0
           fi
