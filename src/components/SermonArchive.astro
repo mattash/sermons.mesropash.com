@@ -4,6 +4,9 @@ import SermonCard from "./SermonCard.astro";
 import ArchivePagination from "./ArchivePagination.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { paginate } from "../lib/archive";
+import { createSearchDocuments, filterOptions, MAX_QUERY_LENGTH } from "../lib/search";
+import { getDiscovery } from "../lib/discovery-data";
+import { TOPICS } from "../lib/topic-taxonomy";
 
 interface Props {
   sermons: CollectionEntry<"sermons">[];
@@ -12,6 +15,12 @@ interface Props {
 
 const { sermons, page = 1 } = Astro.props;
 const result = paginate(sermons, page);
+const discovery = getDiscovery(sermons);
+const documents = createSearchDocuments(sermons, new Map([...discovery].map(([id, record]) => [id, record.topics.map(({ id }) => id)])));
+const options = filterOptions(documents);
+const activeTopics = TOPICS.filter(({ id }) => documents.some((doc) => doc.topics.includes(id)));
+const shortcuts = ["forgiveness", "prayer", "peace-and-anxiety", "hope-in-suffering", "faith-and-trust", "repentance"]
+  .flatMap((id) => activeTopics.find((topic) => topic.id === id) ?? []);
 ---
 
 <BaseLayout title={page > 1 ? `Page ${page} | Sermons | Fr. Mesrop Ash` : undefined}>
@@ -26,27 +35,83 @@ const result = paginate(sermons, page);
     <p class="mt-6 text-sm text-ink/60">{sermons.length} finalized sermons</p>
 
     {sermons.length > 0 && (
-      <form class="mt-8 max-w-2xl" action="/" method="get" role="search" data-sermon-search-form>
-        <label class="text-sm font-semibold text-pine" for="sermon-search">Search sermons</label>
-        <div class="mt-2 flex gap-2">
+      <form class="mt-8" action="/" method="get" role="search" data-sermon-search-form>
+        <label class="text-sm font-semibold text-pine" for="sermon-search">Search by topic, Scripture, or a question</label>
+        <div class="mt-2 flex max-w-3xl gap-2">
           <input
             class="block min-w-0 flex-1 rounded-sm border border-pine/30 bg-white px-4 py-3 text-base text-ink shadow-sm outline-none placeholder:text-ink/50 focus:border-pine focus:ring-2 focus:ring-gold/50"
             id="sermon-search"
             name="q"
             type="search"
-            placeholder="Search by title, topic, Scripture, or preacher"
+            placeholder="How can I learn to forgive?"
             autocomplete="off"
+            maxlength={MAX_QUERY_LENGTH}
             aria-controls="sermon-list"
             aria-describedby="sermon-search-status"
           />
           <button class="rounded-sm bg-pine px-4 py-3 text-sm font-semibold text-white focus:outline-none focus:ring-2 focus:ring-gold" type="submit">Search</button>
         </div>
+        <div class="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-ink/70" data-search-examples>
+          <span>Try:</span>
+          {["Finding peace when I’m afraid", "Why is prayer difficult?", "Matthew 5"].map((question) => (
+            <button class="text-left text-pine underline decoration-pine/30 underline-offset-4 hover:decoration-pine focus:outline-none focus:ring-2 focus:ring-gold" type="button" data-search-question={question}>{question}</button>
+          ))}
+        </div>
+        <details class="mt-6 rounded-sm border border-pine/20 bg-white/55" data-search-filters>
+          <summary class="cursor-pointer px-4 py-3 text-sm font-semibold text-pine focus:outline-none focus:ring-2 focus:ring-gold">Filter sermons <span class="font-normal text-ink/65" data-filter-count></span></summary>
+          <div class="grid gap-4 border-t border-pine/15 p-4 sm:grid-cols-2 lg:grid-cols-3">
+            <label class="text-sm text-pine" for="filter-book">Scripture book
+              <select id="filter-book" name="book" data-filter="book" class="archive-filter">
+                <option value="">All books</option>
+                {options.books.map(({ id, label }) => <option value={id}>{label}</option>)}
+              </select>
+            </label>
+            <label class="text-sm text-pine" for="filter-chapter">Chapter <span class="text-ink/60">(optional)</span>
+              <input id="filter-chapter" name="chapter" data-filter="chapter" class="archive-filter" type="number" min="1" max="150" placeholder="Choose a book first" disabled />
+            </label>
+            <label class="text-sm text-pine" for="filter-season">Feast or season
+              <select id="filter-season" name="season" data-filter="season" class="archive-filter">
+                <option value="">All feasts & seasons</option>
+                {options.seasons.map(({ id, label }) => <option value={id}>{label}</option>)}
+              </select>
+            </label>
+            <label class="text-sm text-pine" for="filter-year">Year
+              <select id="filter-year" name="year" data-filter="year" class="archive-filter">
+                <option value="">All years</option>
+                {options.years.map((year) => <option value={year}>{year}</option>)}
+              </select>
+            </label>
+            <label class="text-sm text-pine" for="filter-preacher">Preacher
+              <select id="filter-preacher" name="preacher" data-filter="preacher" class="archive-filter">
+                <option value="">All preachers</option>
+                {options.preachers.map((preacher) => <option value={preacher}>{preacher}</option>)}
+              </select>
+            </label>
+            <label class="text-sm text-pine" for="filter-topic">Topic
+              <select id="filter-topic" name="topic" data-filter="topic" class="archive-filter">
+                <option value="">All topics</option>
+                {activeTopics.map(({ id, label }) => <option value={id}>{label}</option>)}
+              </select>
+            </label>
+            <p class="text-xs leading-5 text-ink/60 sm:col-span-2 lg:col-span-3">Scripture filters use the references recorded with each sermon. Feast and season groups follow its recorded liturgical day.</p>
+          </div>
+        </details>
+        <button class="mt-3 text-sm text-pine underline underline-offset-4 focus:outline-none focus:ring-2 focus:ring-gold" type="button" data-search-reset hidden>Clear search & filters</button>
         <p class="mt-2 text-sm text-ink/60" id="sermon-search-status" role="status" aria-live="polite">
           Showing {result.start}–{result.end} of {result.total} sermons · Page {result.page} of {result.totalPages}
         </p>
-        <noscript><p class="mt-2 text-sm text-ink/60">Enable JavaScript to search the whole archive. You can browse every sermon using the page links below.</p></noscript>
+        <noscript><p class="mt-2 text-sm text-ink/60">Enable JavaScript to search and filter the whole archive. You can browse topics and every sermon using the links below.</p></noscript>
       </form>
     )}
+    <nav class="mt-7 border-t border-pine/15 pt-5" aria-label="Explore sermon topics">
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        <p class="text-sm font-semibold text-pine">Explore a topic</p>
+        <a class="text-sm text-pine underline underline-offset-4 focus:outline-none focus:ring-2 focus:ring-gold" href="/topics/">Browse all topics →</a>
+      </div>
+      <ul class="mt-3 flex flex-wrap gap-2 p-0">
+        {shortcuts.map((topic) => <li class="list-none"><a class="block rounded-full border border-pine/20 bg-white/60 px-3 py-2 text-sm text-pine transition hover:border-pine hover:bg-pine/5 focus:outline-none focus:ring-2 focus:ring-gold" href={`/topics/${topic.id}/`}>{topic.label}</a></li>)}
+      </ul>
+    </nav>
   </section>
 
   <section class="mx-auto max-w-5xl px-6 sm:px-8" aria-label="Sermons">
@@ -56,7 +121,7 @@ const result = paginate(sermons, page);
           {result.items.map((entry) => <SermonCard entry={entry} />)}
         </div>
         <p class="mt-8 rounded-sm border border-pine/15 bg-white/60 p-6 text-ink/70" data-search-empty hidden>
-          No sermons match that search. Try a different word or phrase.
+          No sermons match this search and these filters. Try a broader question or clear a filter.
         </p>
         <ArchivePagination page={result.page} totalPages={result.totalPages} />
       </div>
@@ -67,6 +132,12 @@ const result = paginate(sermons, page);
     )}
   </section>
 </BaseLayout>
+
+<style>
+  .archive-filter { display: block; margin-top: .4rem; width: 100%; min-width: 0; border: 1px solid color-mix(in srgb, var(--color-pine) 30%, transparent); border-radius: 2px; background: white; padding: .7rem .65rem; color: var(--color-ink); font-size: 1rem; }
+  .archive-filter:focus { outline: 2px solid var(--color-gold); outline-offset: 2px; }
+  .archive-filter:disabled { opacity: .55; }
+</style>
 
 <script>
   import "../scripts/archive-search";

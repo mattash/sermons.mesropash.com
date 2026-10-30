@@ -1,6 +1,12 @@
 {
   "framework": "astro",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "functions": {
+    "api/search.ts": {
+      "maxDuration": 30,
+      "includeFiles": "src/{content/sermons/*.md,data/discovery.json}"
+    }
+  }
 }
 

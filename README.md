@@ -1,6 +1,6 @@
 # sermons.mesropash.com
 
-The public, static sermon archive for Fr. Mesrop Ash.
+The public sermon archive for Fr. Mesrop Ash: static pages with one server-side search endpoint.
 
 ## Publishing workflow
 
@@ -29,7 +29,11 @@ Use `SERMON_ARCHIVE_API_URL` to point a local sync at another compatible API end
 
 ## Archive browsing
 
-The homepage and `/page/2/`, `/page/3/`, etc. are static pages with 12 sermons each, newest first. Every sermon remains reachable without JavaScript. Search loads `/search.json` on demand and searches metadata across the entire archive; its results are also paginated. Search URLs preserve the query and result page, for example `/?q=prayer&page=2`.
+The homepage and `/page/2/`, `/page/3/`, etc. are static pages with 12 sermons each, newest first. Every sermon remains reachable without JavaScript. The homepage links to six starting topics and the complete topic index.
+
+Search loads published transcripts from `/search.json` on demand. It ranks transcript matches locally, and submitting a question calls `/api/search` to find related ideas with Clef. Results show excerpts from the source text. Scripture book/chapter, feast or season, year, preacher, and topic filters work together, with or without a question. Search URLs preserve the query, filters, and page, for example `/?book=matthew&chapter=5&year=2025`.
+
+The live Clef endpoint needs the two Cloudflare variables in the Vercel **production runtime**. Without them, transcript search and all filters still work. `astro dev` and `astro preview` serve the static site; the root `api/search.ts` function runs on Vercel. See [docs/search.md](docs/search.md) for architecture, deployment, evaluation, and limits.
 
 Run `npm test`, `npm run check`, and `npm run build` before publishing changes. Clef assigns a stable topic vocabulary and compares full transcripts to produce cached related-sermon links. Browse them at `/topics/`. Setup, refresh commands, curator overrides, and the hourly publishing behavior are documented in [docs/topic-discovery.md](docs/topic-discovery.md).
 

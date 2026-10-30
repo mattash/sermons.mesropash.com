@@ -7,7 +7,7 @@ The public archive uses Cloudflare's `@cf/cloudflare/clef` decision model to ass
 1. Read each approved, published transcript in full. Ask an independent ordinal question for each topic: absent, passing mention, substantial, or central. Keep up to four substantial topics, based on the score and the combined probability of the substantial/central outcomes. An uncertain sermon can have no assignment.
 2. Shortlist up to eight other sermons using shared canonical topics and transcript TF-IDF similarity. General Christian vocabulary is excluded from the lexical weighting. Exclude self and duplicate source videos.
 3. Ask Clef to compare each candidate pair's central teaching and pastoral concern. Save up to four sufficiently related results, ordered by the combined score. A common preacher or feast alone is insufficient. Show shared topic labels as the explanation. Do not force matches to fill a quota.
-4. Serve static topic pages and related-sermon links. Visitors do not cause model calls. Keep the original generated tags as searchable keywords and preserve their existing URLs.
+4. Serve static topic pages and related-sermon links. Browsing those features does not cause model calls. Keep the original generated tags as searchable keywords and preserve their existing URLs. The separate question-search feature is described in [search.md](search.md).
 
 Model responses are checkpointed in the ignored `.cache/clef-responses.json`. Cache keys include the model ID, prompt version, complete state and questions. Definition changes invalidate the corresponding decisions. Changed transcripts cannot retain old assignments or recommendations: build-time fingerprints cover the title, summary, and transcript. Withdrawn sermons, duplicate source videos, and broken target references are filtered from rendered recommendations.
 
@@ -35,7 +35,7 @@ Edit definitions and aliases in `src/lib/topic-taxonomy.ts` to improve the vocab
 
 ## Hourly publishing
 
-The existing GitHub Action syncs finalized sermons and can refresh discovery using repository secrets named `CLOUDFLARE_WORKERSAI_API_KEY` and `CLOUDFLARE_WORKERSAI_ACCOUNT_ID`. Only the Clef refresh step receives them. No credential is required in Vercel or the browser. GitHub Actions caches only model responses, which contain public-sermon judgments, never credentials. A new runner may make a first full inference pass; later runs reuse cached decisions.
+The existing GitHub Action syncs finalized sermons and can refresh discovery using repository secrets named `CLOUDFLARE_WORKERSAI_API_KEY` and `CLOUDFLARE_WORKERSAI_ACCOUNT_ID`. Only the Clef refresh step receives them. This build-time discovery does not require credentials in Vercel or the browser; live question search separately needs server-only Vercel credentials. GitHub Actions caches only model responses, which contain public-sermon judgments, never credentials. A new runner may make a first full inference pass; later runs reuse cached decisions.
 
 If credentials are absent, the Action preserves the last discovery artifact. If Cloudflare fails, it still publishes valid sermon content and preserves the last good artifact. Newly added or revised sermons receive recommendations after a successful refresh; withdrawn or stale references disappear immediately at build time. The Action runs tests, type checks, and a static build before committing changes.
 
