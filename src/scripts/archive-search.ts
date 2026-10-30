@@ -1,7 +1,6 @@
 import { paginate } from "../lib/archive";
-import { EMPTY_FILTERS, MAX_QUERY_LENGTH, filterDocuments, hasFilters, rankDocuments, readFilters, searchUrl, type ArchiveFilters, type SearchDocument, type SearchHit, type SearchResult } from "../lib/search";
+import { EMPTY_FILTERS, MAX_QUERY_LENGTH, filterDocuments, hasFilters, needsSemanticSearch, rankDocuments, readFilters, searchUrl, type ArchiveFilters, type SearchDocument, type SearchHit, type SearchResult } from "../lib/search";
 import { formatSermonDate } from "../lib/sermons";
-import { parseScripture } from "../lib/scripture";
 
 function initializeSearch() {
   const form = document.querySelector<HTMLFormElement>("[data-sermon-search-form]");
@@ -114,7 +113,7 @@ function initializeSearch() {
       const cached = results.get(key);
       const fallback: SearchResult = query ? { hits: rankDocuments(docs, query), mode: "transcript" } : { hits: docs.map(({ id }) => ({ id, excerpt: "", score: 0 })), mode: "browse" };
       render(cached ?? fallback, docs, query, filters, requestedPage, focusResults);
-      if (!query || cached || !useClef || !docs.length || parseScripture(query, true).length) return;
+      if (!query || cached || !useClef || !docs.length || !needsSemanticSearch(docs, query)) return;
       submit!.disabled = true;
       submit!.textContent = "Searching…";
       list!.setAttribute("aria-busy", "true");

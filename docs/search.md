@@ -16,7 +16,7 @@ This two-stage search is bounded: it can miss a relevant sermon outside the shor
 
 ## Scripture, calendar, and preacher normalization
 
-`src/lib/scripture.ts` recognizes canonical book names, common English abbreviations, numbered epistles, chapters, verse ranges, cross-chapter ranges, and numeric continuations. “Matt. 5” matches recorded Matthew 5 passages. “Beatitudes” as a query also searches Matthew 5:1–12 and Luke 6:20–26. A book-only source allusion is not enough to assert a specific chapter. Source metadata is never changed or filled in from the query alias. Scripture queries are resolved locally without paid model calls.
+`src/lib/scripture.ts` recognizes canonical book names, common English abbreviations, numbered epistles, chapters, verse ranges, cross-chapter ranges, and numeric continuations. “Matt. 5” matches recorded Matthew 5 passages. “Beatitudes” as a query also searches Matthew 5:1–12 and Luke 6:20–26. A book-only source allusion is not enough to assert a specific chapter. Source metadata is never changed or filled in from the query alias. Scripture, preacher-name, and date queries are resolved locally without paid model calls and retain all matching archive results.
 
 Calendar groups use only the recorded liturgical-day field. They include surrounding/preparatory Sundays where the metadata says so. Lenten “Sunday of the Advent” is not grouped with Hisnag; Second Palm Sunday is grouped with Ascension rather than Holy Week. These are browsing groups rather than a calculated Armenian calendar.
 

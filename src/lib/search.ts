@@ -111,6 +111,13 @@ export function queryTopics(query: string): string[] {
   })).map(({ id }) => id);
 }
 
+export function needsSemanticSearch(documents: SearchDocument[], query: string): boolean {
+  if (parseScripture(query, true).length || /^\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(query.trim())) return false;
+  const name = normalize(query).replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+  if (name.length >= 3 && documents.some((doc) => normalize(doc.preacherKey).replace(/[^\p{L}\p{N}]+/gu, " ").includes(name))) return false;
+  return true;
+}
+
 export function passageCandidates(doc: SearchDocument, query: string, topicIds: string[] = [], max = 3): string[] {
   const words = new Set(terms([query, ...TOPICS.filter(({ id }) => topicIds.includes(id)).map((topic) => `${topic.label} ${topic.aliases.join(" ")}`)].join(" ")));
   return doc.passages.map((text, index) => { const tokens = terms(text); return { text, index, score: tokens.reduce((sum, word) => sum + (words.has(word) ? 1 : 0), 0) / Math.sqrt(Math.max(tokens.length, 20)) }; })
@@ -134,7 +141,7 @@ const prepared = new WeakMap<SearchDocument, { fields: { counts: Map<string, num
 function prepare(doc: SearchDocument) {
   const cached = prepared.get(doc);
   if (cached) return cached;
-  const sources: [string, number][] = [[doc.data.title, 6], [doc.data.theme ?? "", 3], [doc.data.tags.join(" "), 1.2], [doc.data.preacher, 2], [doc.data.liturgicalDay ?? "", 2], [doc.passages.join(" "), 1]];
+  const sources: [string, number][] = [[doc.data.title, 6], [doc.data.theme ?? "", 3], [doc.data.tags.join(" "), 1.2], [doc.data.preacher, 2], [doc.data.sermonDate, 4], [doc.data.scriptureReference ?? "", 2], [doc.data.liturgicalDay ?? "", 2], [doc.data.sermonType ?? "", 1], [doc.passages.join(" "), 1]];
   const all = new Set<string>();
   const fields = sources.map(([text, boost]) => {
     const counts = new Map<string, number>();

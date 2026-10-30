@@ -117,6 +117,15 @@ test('explicit Scripture queries bypass paid inference', async () => {
   assert.equal(result.mode, 'transcript');
 });
 
+test('preacher and date searches retain all matching sermons without semantic truncation', async () => {
+  const corpus = docs(Array.from({length:20}, (_,i)=>source(i+1,{preacher:'Fr. Mesrop Ash'})));
+  for (const query of ['Mesrop', 'Fr. Mesrop Ash', '2026', '2026-01-01']) {
+    const result=await semanticSearch(corpus,query,EMPTY_FILTERS,async()=>{throw new Error('Must not call provider');});
+    assert.equal(result.hits.length,20);
+    assert.equal(result.mode,'transcript');
+  }
+});
+
 const request = (body, headers = {}) => new Request('https://sermons.mesropash.com/api/search', { method: 'POST', headers: { 'Content-Type': 'application/json', ...headers }, body: typeof body==='string' ? body : JSON.stringify(body) });
 test('public handler rejects malformed, oversized and cross-site requests before provider work', async () => {
   let calls = 0;
