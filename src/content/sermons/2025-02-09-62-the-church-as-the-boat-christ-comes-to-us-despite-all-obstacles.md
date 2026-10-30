@@ -2,7 +2,7 @@
 archiveId: 62
 sermonDate: "2025-02-09"
 title: "The Church as the Boat: Christ Comes to Us Despite All Obstacles"
-preacher: "Not explicitly identified in transcript"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The Armenian sermon introduces the upcoming Fast of the Catechumens (Առաջավորաց պահք), encouraging the faithful to observe it as preparation for Great Lent, and emphasizes the three pillars of spiritual life: prayer, Scripture reading, and fasting. The English sermon reflects on Christ walking on water from the Gospel of John, exploring how this miracle reveals Christ's authority over the physical and spiritual worlds, his bringing of peace, and the prefiguration of the church as a boat. The preacher connects the disciples' boat to the church nave, emphasizing that all belong in the church regardless of background or struggles, and that Christ comes to us despite all obstacles, overcoming loneliness and isolation."
 scriptureReference: "John 6:16-21; John 2:1-11"

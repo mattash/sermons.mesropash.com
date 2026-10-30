@@ -2,7 +2,7 @@
 archiveId: 69
 sermonDate: "2026-07-26"
 title: "Summer Camp Witness and Christ's Teaching on Divorce"
-preacher: "Unidentified (likely parish priest of St. John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "English (with preceding Armenian sermon fragment largely unintelligible)"
 theme: "The preacher shares his experience as chaplain at the Western Diocese summer camp, where children asked direct and challenging questions about homosexuality, evolution, sin, and abortion. He explains that the church's teachings must be grounded in love and community support rather than worldly laws, using the abortion discussion as an example. He then connects this to the day's Gospel reading about Christ's teaching on divorce, emphasizing that Christ calls believers to view commitments through the lens of sacrificial love rather than legal loopholes, while acknowledging that the church must be a supportive community for couples facing marital difficulties."
 scriptureReference: "John 1:1-14; Matthew 19:3-9 (implied, Pharisees questioning Jesus about divorce); Jeremiah 31:33 (I will write my law upon your heart)"

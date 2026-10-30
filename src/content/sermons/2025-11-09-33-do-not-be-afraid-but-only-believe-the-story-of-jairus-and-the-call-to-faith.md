@@ -2,7 +2,7 @@
 archiveId: 33
 sermonDate: "2025-11-09"
 title: "Do Not Be Afraid, But Only Believe: The Story of Jairus and the Call to Faith"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English (bilingual)"
 theme: "A bilingual homily on the Gospel story of Jairus, whose daughter was healed by Christ. The preacher draws parallels between Jairus's despair, the valley of dry bones in Ezekiel, and Saint Paul's teaching that the departed are \"asleep\" rather than dead. The sermon challenges listeners to choose faith over cynicism when confronting death and hopelessness in all areas of life. The preacher connects this message to the remembrance of the 44-day war, calling the Armenian nation to remain faithful and trust Christ to restore what has been lost."
 scriptureReference: "Mark 5:21-43 (Jairus's daughter); Ezekiel 37 (valley of dry bones); 1 Thessalonians 4:13-14 (those who are asleep); John 14:6 (I am the way, the truth, and the life)"

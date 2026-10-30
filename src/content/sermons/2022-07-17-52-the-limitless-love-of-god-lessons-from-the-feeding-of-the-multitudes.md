@@ -2,7 +2,7 @@
 archiveId: 52
 sermonDate: "2022-07-17"
 title: "The Limitless Love of God: Lessons from the Feeding of the Multitudes"
-preacher: "Unidentified parish priest"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "The preacher reflects on translating a children's funeral service from the Armenian Mashtots (ritual book), which leads to a meditation on Christ's special relationship with children. Drawing on the Gospel story of the feeding of the five thousand, the preacher highlights that it was a child who offered the loaves and fish to Christ. Children, unlike adults, do not understand limitations—they naturally grasp the limitlessness of God's love. The sermon calls adults to adopt a childlike outlook, bringing whatever meager gifts they have to Christ and trusting Him to make them enough, thereby participating in God's infinite, boundless love."
 scriptureReference: "Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17; John 6:1-14; Mark 10:14; Matthew 19:14"

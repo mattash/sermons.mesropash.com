@@ -2,7 +2,7 @@
 archiveId: 75
 sermonDate: "2025-03-09"
 title: "God’s Loving Discipline and the Expulsion from Paradise"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using parenthood as an analogy, the preacher explains divine discipline as an expression of perfect love. Adam and Eve’s expulsion from Paradise was not an angry or arbitrary punishment, but God’s protection against their becoming immortal while trapped in a fallen condition. Christians should therefore receive consequences, correction, and hardship with humility, recognizing them as possible opportunities for repentance, growth, and theosis."
 scriptureReference: "Genesis 2–3; Matthew 6:9–13; Matthew 5:48"

@@ -2,7 +2,7 @@
 archiveId: 24
 sermonDate: "2025-11-02"
 title: "Jesus Invites Us to Be His Children"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "A children's sermon using relatable examples (video games, dinner time, a hypothetical billionaire's offer) to illustrate that Jesus invites us to be his children and inherit everything. The preacher explains that Jesus, as creator of all, offers us the greatest deal: do what he says and be part of God's family. Children suggest examples of Jesus' commands—avoiding sin, helping the poor, loving one another—and the preacher emphasizes obedience without excuses, even when it costs us something. A brief Armenian reflection follows, reinforcing that the Gospel's deepest truths are often simplest, and that the Church's role is to help one another live out our Christian calling."
 scriptureReference: null

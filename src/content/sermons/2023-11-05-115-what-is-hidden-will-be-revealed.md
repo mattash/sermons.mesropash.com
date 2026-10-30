@@ -2,7 +2,7 @@
 archiveId: 115
 sermonDate: "2023-11-05"
 title: "What Is Hidden Will Be Revealed"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "Using childhood stories and conversation with the Sunday school children, the preacher explains Jesus’ teaching that everything hidden will eventually be revealed. A guilty desire to conceal wrongdoing can alert the conscience, while God-given faith, gifts, talents, and blessings should be brought into the light and shared for God’s glory."
 scriptureReference: "Luke 8:16–17"

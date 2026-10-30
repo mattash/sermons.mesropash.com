@@ -2,7 +2,7 @@
 archiveId: 27
 sermonDate: "2025-09-21"
 title: "Faithfulness as Christ's Bride: Independence Day and the Call to Loyalty"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On Armenian Independence Day, the preacher draws on the Gospel reading about the Pharisees questioning Jesus on divorce and Saint Paul's second letter to the Corinthians, where Paul describes the church as an immaculate bride espoused to Christ. The sermon explores the theme of faithfulness and loyalty—both in human marriage and in the spiritual marriage between Christ and his church. The preacher applies this call to faithfulness to the Armenian nation, urging the faithful to examine their loyalty to God as the source of national well-being, especially amid current difficulties, and to live as a faithful bride to Christ within their parish community."
 scriptureReference: "Mark (Gospel reading on divorce and the Pharisees' challenge); 2 Corinthians (Paul espousing the church as immaculate bride to Christ)"

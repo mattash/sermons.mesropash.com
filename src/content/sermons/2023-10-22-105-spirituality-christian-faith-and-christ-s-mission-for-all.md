@@ -2,7 +2,7 @@
 archiveId: 105
 sermonDate: "2023-10-22"
 title: "Spirituality, Christian Faith, and Christ’s Mission for All"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Western Armenian and English"
 theme: "The preacher presents the Gospel as God’s enduring love letter and spiritual medicine, then interprets Jesus’ proclamation in the Nazareth synagogue. He contrasts a spirituality shaped by personal preferences with Christian faith, which submits to Christ’s example and recognizes that the Messiah came for all humanity. Christians are called to serve others, worship together, value their sacred spaces, and continue Christ’s work of healing, liberation, and consolation through the Church."
 scriptureReference: "Luke 4:1–13; Luke 4:16–30; Isaiah 61:1–2"

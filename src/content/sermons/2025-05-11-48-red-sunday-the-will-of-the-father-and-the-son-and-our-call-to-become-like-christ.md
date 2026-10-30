@@ -2,7 +2,7 @@
 archiveId: 48
 sermonDate: "2025-05-11"
 title: "Red Sunday: The Will of the Father and the Son, and Our Call to Become Like Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On Red Sunday, the preacher reflects on the martyrs of the early church and the Armenian Genocide, then examines the Gospel of John passage also used in the Armenian burial rite. He explains that Christ's statement 'the Son can do nothing of himself' is not a limitation but a revelation of his shared essence and will with the Father in the Holy Trinity. Drawing on the church fathers, he teaches that Christians are called to theosis — growing in alignment with God's will through the Holy Spirit. He connects this to the hope of bodily resurrection expressed in Christian burial, and ties the message to Mother's Day by encouraging parents to model a life aligned with God's will for their children."
 scriptureReference: "John 5 (Gospel reading for Red Sunday / burial rite); John 1:1-14 (Prologue, read as the Gospel); Acts (referenced regarding St. Stephen and early martyrs)"

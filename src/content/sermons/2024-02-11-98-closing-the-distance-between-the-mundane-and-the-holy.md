@@ -2,7 +2,7 @@
 archiveId: 98
 sermonDate: "2024-02-11"
 title: "Closing the Distance Between the Mundane and the Holy"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "On Poon Paregentan, the preacher explains the Armenian Church’s closing of the altar curtain as a biblical and spiritual sign of the distance between the mundane and the holy. Lent calls Christians to close that distance through sincere, intimate prayer, honest self-revelation before God, and the protection of what is holy from corrupting influences."
 scriptureReference: "Matthew 6:5–13; Exodus 25–30 (tabernacle, Ark of the Covenant, and priestly vestments)"

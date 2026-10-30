@@ -2,7 +2,7 @@
 archiveId: 97
 sermonDate: "2024-02-25"
 title: "Who Am I? The Prodigal Son and Emotional Healing"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English; an apparent Armenian section is unrecoverable"
 theme: "Using the parable of the prodigal son, the preacher explores the question “Who am I?” and presents repentance as a path toward emotional and spiritual healing. Like the prodigal, Christians are called to acknowledge their condition, accept responsibility, seek trustworthy guidance, approach God humbly, receive forgiveness, and refuse to let past shame define their future."
 scriptureReference: "Luke 15:11–32; Matthew 9:17"

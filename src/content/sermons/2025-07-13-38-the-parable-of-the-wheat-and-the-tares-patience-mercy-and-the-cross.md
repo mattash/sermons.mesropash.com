@@ -2,7 +2,7 @@
 archiveId: 38
 sermonDate: "2025-07-13"
 title: "The Parable of the Wheat and the Tares: Patience, Mercy, and the Cross"
-preacher: "Father Avetis"
+preacher: "Fr. Avedis Abovian"
 language: "Armenian and English"
 theme: "The preacher expounds the Parable of the Wheat and the Tares (Matthew 13), addressing the problem of evil and God's merciful patience. Drawing on St. John Chrysostom and St. Augustine, he explains the parable as a call to trust Christ's perfect judgment rather than condemning others. He then presents St. Macrina's interior reading, St. Gregory of Nyssa's interpretation about worldly distractions versus virtue, and St. Nerses Shnorhali's teaching that the Holy Cross itself is the winnowing fan that separates the faithful from the faithless."
 scriptureReference: "Matthew 13 (Parable of the Wheat and the Tares)"

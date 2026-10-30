@@ -2,7 +2,7 @@
 archiveId: 37
 sermonDate: "2025-08-17"
 title: "Feast of the Assumption Homily"
-preacher: "Unidentified parish priest"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Feast of the Assumption, the preacher delivers a bilingual homily. In Armenian, he recounts the apostolic tradition of St. Mary's dormition and Assumption — how the apostles were miraculously gathered to Jerusalem, their tearful farewell with St. Mary, her final encouragement to them through the Holy Spirit, and the discovery of her empty tomb as a sign of Christ's unique gift of bodily assumption. In English, he uses a personal story about his daughter in a canoe at summer camp to introduce St. Gregory of Datev's teaching on St. Mary as a blessed vessel or ship whose mast is her humility. He connects this to the Beatitudes' call to be poor in spirit and to the architectural symbolism of the church nave as a vessel carrying the faithful to Christ through St. Mary's intercession."
 scriptureReference: "Matthew 5:3 (Beatitudes – poor in spirit, referenced in English sermon); John 15:1-8 (Gospel of the day – I am the true vine, read liturgically but not expounded in sermon)"

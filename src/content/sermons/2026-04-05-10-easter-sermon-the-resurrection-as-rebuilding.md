@@ -2,7 +2,7 @@
 archiveId: 10
 sermonDate: "2026-04-05"
 title: "Easter Sermon: The Resurrection as Rebuilding"
-preacher: "Unidentified"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher delivers a bilingual Easter homily. In the Armenian sermon, he recounts a camp encounter with a young person troubled by the story of Noah's Ark and God's justice, using it to illustrate that God's mercy and human accountability coexist, and that the Resurrection is God entering into the consequences of sin rather than leaving humanity to them. In the English sermon, he traces the Lenten journey from Eden's expulsion through Ezekiel's dry bones to Christ's temple saying in John's Gospel, arguing that the Resurrection is not merely proof or sentiment but the cosmic moment when God began rebuilding the broken architecture of creation. He invites the faithful to bring their personal ruins—resentment, failure, spiritual fatigue—to the risen Christ, who builds a new humanity through baptism, repentance, the Eucharist, forgiveness, and pious living, making believers living stones in a spiritual house."
 scriptureReference: "Genesis 6-9 (Noah's Ark and the flood); Ezekiel 37 (valley of dry bones); John 2:19 (destroy this temple and raise it in three days); 1 Peter 2:5 (living stones being built as a spiritual house); John 3:16 (paraphrased in Armenian sermon)"

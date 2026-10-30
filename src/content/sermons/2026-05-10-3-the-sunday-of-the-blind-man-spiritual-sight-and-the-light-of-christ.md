@@ -2,7 +2,7 @@
 archiveId: 3
 sermonDate: "2026-05-10"
 title: "The Sunday of the Blind Man: Spiritual Sight and the Light of Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "The preacher reflects on the Gospel account of Jesus healing the blind man, drawing a distinction between physical blindness and spiritual blindness. While the blind man recognized his need and came to Christ for healing, the Pharisees—though physically sighted—were spiritually blind and could not recognize their own need. Christ is the light that illuminates the soul, and true healing begins with the humility of admitting our dependence on Him. The sermon connects this theme to Mother's Day, praising mothers who guide their children into the light with patience and love, even when those children cannot yet perceive it."
 scriptureReference: "John 9 (healing of the man born blind)"

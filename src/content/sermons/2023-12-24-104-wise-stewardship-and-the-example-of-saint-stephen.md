@@ -2,7 +2,7 @@
 archiveId: 104
 sermonDate: "2023-12-24"
 title: "Wise Stewardship and the Example of Saint Stephen"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using the parable of the entrusted money and the witness of Saint Stephen, the preacher teaches that life, time, abilities, possessions, and opportunities are gifts held in trust from God. Christians are called to use those gifts boldly for others, serve the Church and their neighbors, and live according to God’s will rather than fearfully keeping what they have for themselves."
 scriptureReference: "Luke 19:11–27; Acts 6–7; Matthew 22:37–39"

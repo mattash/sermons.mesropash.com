@@ -2,7 +2,7 @@
 archiveId: 57
 sermonDate: "2025-04-19"
 title: "Easter Eve Homily: The Humility to Accept Help"
-preacher: "Unidentified priest of St. John Armenian Church"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "On Easter Eve, the priest shares a pastoral story about a lost elderly Armenian man found on a train who needed help from multiple strangers to find his way home. The man's stubbornness and inability to help himself becomes a parable for the Easter season: just as this man had to humble himself to accept the help of others, we too must set aside our pride and accept God's help — for no amount of worldly success or capability can bring us to the Kingdom of Heaven. Christ's sacrifice on the cross was something he did for us that we could not do for ourselves, and we must be humble enough to receive that gift."
 scriptureReference: null

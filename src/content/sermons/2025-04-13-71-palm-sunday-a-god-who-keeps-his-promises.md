@@ -2,7 +2,7 @@
 archiveId: 71
 sermonDate: "2025-04-13"
 title: "Palm Sunday: A God Who Keeps His Promises"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "On Palm Sunday, the preacher illustrates God's faithfulness through a personal childhood story about trust and follow-through, then connects it to the fulfillment of God's promises across generations. He highlights Zechariah's prophecy fulfilled in Christ's entry into Jerusalem, explains the meaning of 'Hosanna' as a plea for salvation, and reveals that Jesus' name (Yeshua) means 'He who saves,' showing that even the people's cry was a fulfillment of God's promise."
 scriptureReference: "Zechariah (prophecy of the Messiah's entry); Palm Sunday Gospel narrative"

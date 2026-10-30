@@ -2,7 +2,7 @@
 archiveId: 5
 sermonDate: "2026-05-09"
 title: "Homily on the Healing of the Man Born Blind (John 9)"
-preacher: "Father Artsakh"
+preacher: "Fr. Artsakh Bedoyan"
 language: "English (with Armenian liturgical portions)"
 theme: "Father Artsakh delivers a homily on John 9 (the healing of the man born blind) at a concelebrated Divine Liturgy uniting Oriental Orthodox churches. He highlights three points: Jesus descending to the human condition to restore creation, the Sabbath controversy illustrating mercy over sacrifice, and the danger of spiritual blindness — praying that leaders everywhere may receive spiritual vision and work toward peace."
 scriptureReference: "John 9; Isaiah (mercy and not sacrifice)"

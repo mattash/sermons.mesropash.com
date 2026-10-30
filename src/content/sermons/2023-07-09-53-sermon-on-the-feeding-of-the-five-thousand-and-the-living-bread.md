@@ -2,7 +2,7 @@
 archiveId: 53
 sermonDate: "2023-07-09"
 title: "Sermon on the Feeding of the Five Thousand and the Living Bread"
-preacher: "Unidentified (likely parish priest)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian"
 theme: "The preacher reflects on the Gospel account of the feeding of the five thousand with five loaves and two fish, emphasizing that Jesus' miracles are real and continue in our lives today. He shares a parable about a preacher who used a trivial story about a donkey's shadow to illustrate how people are often more interested in meaningless tales than in the eternal truths of God's word. The sermon concludes by urging the faithful to receive Christ as the living bread and living water, and to open their hearts to God's presence."
 scriptureReference: "John 6 (Bread of Life discourse); Feeding of the 5000 (Gospel account)"

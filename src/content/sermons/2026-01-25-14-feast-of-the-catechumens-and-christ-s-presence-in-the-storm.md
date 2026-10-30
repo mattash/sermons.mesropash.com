@@ -2,7 +2,7 @@
 archiveId: 14
 sermonDate: "2026-01-25"
 title: "Feast of the Catechumens and Christ's Presence in the Storm"
-preacher: "Unidentified parish priest of St. John Armenian Church"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "The preacher teaches about the Feast of the Catechumens, a uniquely Armenian pre-Lenten fast established by Saint Gregory the Illuminator, noting the absence of assigned Bible readings during that week and connecting it to the early Armenian Church's reliance on Church tradition and doctrine. He then reflects on the Gospel account of Christ walking on the water (John 6), drawing on recent Gospel readings (Lazarus, Cana) to show that Christ does not prevent all suffering but reveals Himself in the midst of tribulation, saying 'Do not be afraid, for it is I.' He shares a personal pastoral encounter with a grieving family and his own experience of loss to illustrate the human cry 'Where is God?' and points to Christ as the medicine and peace in our pain."
 scriptureReference: "John 6:15-21; John 11 (Lazarus, referenced); John 2 (Wedding at Cana, referenced)"

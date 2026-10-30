@@ -2,7 +2,7 @@
 archiveId: 13
 sermonDate: "2026-03-29"
 title: "Palm Sunday Sermon: Hosanna in the Streets and God Keeps His Promises"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On Palm Sunday, the preacher delivers an Armenian-language message about how the liturgical cry 'Hosanna' was brought out of the temple into the streets at Jesus' triumphal entry, urging the faithful to carry that same faith and hope into daily life. An English children's message uses a spring break analogy to teach about the importance of keeping promises, connecting it to God's faithfulness in fulfilling the prophetic promise of Jesus' entry into Jerusalem centuries in advance. The core message: God always keeps his promises, and his people should do likewise."
 scriptureReference: "Matthew 21:1-11; Zechariah 9:9"

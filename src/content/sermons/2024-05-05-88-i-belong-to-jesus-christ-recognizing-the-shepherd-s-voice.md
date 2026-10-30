@@ -2,7 +2,7 @@
 archiveId: 88
 sermonDate: "2024-05-05"
 title: "I Belong to Jesus Christ: Recognizing the Shepherd’s Voice"
-preacher: "Der Mesrop"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "Using the story of becoming separated from his parents at Disneyland, Der Mesrop teaches the children that Jesus is the shepherd who calls his sheep by name. Christians learn to recognize Christ’s voice through Sunday school, worship, and the life of faith, remembering that they belong to Jesus and can return to him whenever they become lost."
 scriptureReference: "John 10:3-4; John 10:14; John 10:27"

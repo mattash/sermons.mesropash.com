@@ -2,7 +2,7 @@
 archiveId: 81
 sermonDate: "2024-10-13"
 title: "Whatever You Have Right Now Is Enough"
-preacher: "Not identified in the transcript"
+preacher: "Fr. Mesrop Ash"
 language: "Western Armenian and English"
 theme: "Using the widow’s two mites, the preacher explains that generosity is measured relative to what a person possesses and by the goodwill and love with which the gift is offered. Drawing on Saint John Chrysostom, he assures the congregation that what they possess right now is enough for God’s saving work; eternal life is received through divine grace rather than worldly abundance or success."
 scriptureReference: "Luke 21:1–4"

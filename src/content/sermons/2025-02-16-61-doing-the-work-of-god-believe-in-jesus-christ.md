@@ -2,7 +2,7 @@
 archiveId: 61
 sermonDate: "2025-02-16"
 title: "Doing the Work of God: Believe in Jesus Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher addresses the question from John's Gospel: \"What must we do to do the work of God?\" Christ's answer is simple—believe in him. The sermon explores the relationship between faith and action, emphasizing that belief must be continuous and must flow into works, while works without belief are empty. The preacher reviews the recent liturgical week (Fast of the Catechumens, Diarantarad, St. Sarkis) and calls the congregation to renew their faith through fasting and active participation, culminating in the call to come to Christ as the bread of life."
 scriptureReference: "John 6:28-29; John 6:35; John 6:1-14; John 6:16-21; John 1:1-14; Exodus 16 (manna in the wilderness)"

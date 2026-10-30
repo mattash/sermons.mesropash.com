@@ -2,7 +2,7 @@
 archiveId: 118
 sermonDate: "2023-08-13"
 title: "Patience, Prayer, and Hope: The Example of St. Mary"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Feast of the Assumption, the preacher presents St. Mary as the supreme example of faithful patience amid suffering. Drawing on family life and the blockade of Artsakh, he distinguishes Christian patience from passive acceptance of injustice and urges practical aid, prayer, trust in God, and perseverance through Christ."
 scriptureReference: "Matthew 5:5; Philippians 4:13"

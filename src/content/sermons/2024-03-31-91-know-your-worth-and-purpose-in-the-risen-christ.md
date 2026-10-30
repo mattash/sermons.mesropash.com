@@ -2,7 +2,7 @@
 archiveId: 91
 sermonDate: "2024-03-31"
 title: "Know Your Worth and Purpose in the Risen Christ"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Christ’s resurrection reveals the divine worth and purpose of every human life. Because God paid the ultimate price through his only-begotten Son, Christians must know their value, resist selling themselves cheaply to sin or worldly validation, seek Christ’s healing, and live confidently toward their God-given destination."
 scriptureReference: "John 8:25, 32; Genesis 39:7-12; Matthew 26:14-16; 1 Corinthians 6:20; John 18:11; John 3:16"

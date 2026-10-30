@@ -2,7 +2,7 @@
 archiveId: 45
 sermonDate: "2025-05-29"
 title: "Feast of the Ascension Sermon"
-preacher: "Unidentified parish priest (St. John Armenian Church, San Francisco)"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "On the Feast of the Ascension, the preacher reflects on his young son Sion's literal question \"Where's Jesus?\" and uses it to explore the meaning of the Ascension. He recalls visiting the Rock of Ascension on the Mount of Olives in Jerusalem, reflects on the Great Commission from Matthew and the Ascension account in Acts, and emphasizes that Christ did not leave but is beyond our sight yet present among us — most profoundly in the Eucharist. He encourages the faithful to celebrate the Divine Liturgy even on a weekday, because the Ascension calls the Church to obey Christ's commandments and perceive his presence in their midst."
 scriptureReference: "Matthew 28:16-20; Acts 1:6-11"

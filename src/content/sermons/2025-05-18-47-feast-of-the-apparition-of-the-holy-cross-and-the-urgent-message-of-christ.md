@@ -2,7 +2,7 @@
 archiveId: 47
 sermonDate: "2025-05-18"
 title: "Feast of the Apparition of the Holy Cross and the Urgent Message of Christ"
-preacher: "Unidentified parish priest (St. John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher delivers a dual-language homily. In Armenian, he reflects on the early church's debate over circumcision and the Mosaic law, emphasizing that the apostles chose baptism as the new sign of covenant and that Christians are heirs of the Old Testament understood through Christ's teaching. In English, prompted by a silver alert interrupting the singing of the Lord's Prayer during the liturgy, he draws a parallel to the Feast of the Apparition of the Holy Cross (351 AD), when the cross appeared over Jerusalem demanding everyone's attention. He urges the faithful not to ignore Christ's urgent call to receive the gift of salvation through His sacrifice on the cross."
 scriptureReference: "John 1:1-14 (Gospel reading referenced); Acts 15 (Council of Jerusalem, alluded to in Armenian sermon)"

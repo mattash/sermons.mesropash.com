@@ -2,7 +2,7 @@
 archiveId: 116
 sermonDate: "2023-10-29"
 title: "Facing East: The Sanctuary as a Living Expression of Faith"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using Christ’s teaching that the Son of Man will come like lightning from east to west, the preacher explains why Armenian churches face east and how their architecture embodies the Gospel. The sanctuary’s orientation, the letter Է, the baptismal font, and the nav all prepare worshipers to encounter Christ through baptism, the Eucharist, and readiness for his promised return."
 scriptureReference: "Matthew 24:27-36; Matthew 22:37-39; Matthew 21:12-13; Matthew 25:1-13; Exodus 3:13-14"

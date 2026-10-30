@@ -2,7 +2,7 @@
 archiveId: 17
 sermonDate: "2026-01-06"
 title: "Theophany Sermon: Returning to Our Baptism"
-preacher: "Ter Mesrop"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the feast of Theophany, the preacher reflects on the baptism of Christ as equal in importance to His birth in Armenian tradition. Drawing on personal anecdotes about navigating in darkness—his mother's stormy drive and his own experience learning to drive in Los Angeles and finding orientation through Sutro Tower in San Francisco—he illustrates how baptism serves as the spiritual compass that always guides us back to Christ. Just as Jesus submitted to baptism to fulfill all righteousness, our own baptism is the central moment of our spiritual life, the place where the Father declared us His beloved children, and the anchor to which we must always return."
 scriptureReference: "Matthew 3:13-17; John 8:12"

@@ -2,7 +2,7 @@
 archiveId: 28
 sermonDate: "2026-03-22"
 title: "Sunday of the Advent (Գալստյան Կիրակի) – Preparing for the Second Coming of Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the last Sunday of Great Lent before Palm Sunday (Գալստյան կիրակի / Sunday of the Advent), the preacher reflects on the Second Coming of Christ as the central teaching that should order the Church's liturgical and spiritual life. In the Armenian homily, he recounts how even devoted parishioners were surprised to learn that the funeral rite is ultimately a preparation for Christ's return, and emphasizes that Christians are called to live in hope, not fear, as they await that day. In the English homily, he uses the analogy of a draining iPad battery to explain anxiety—the awareness that time is running out—and presents the Holy Gospel as the source that recharges, stabilizes, and resolves our future. He connects this to the approaching Holy Week, urging the faithful to enter it with the mindset that the liturgical celebrations are not merely remembrances of the past but promises of what Christ will fulfill at his return."
 scriptureReference: "Matthew 21:9 (implied — Hosanna, Blessed is he who comes in the name of the Lord)"

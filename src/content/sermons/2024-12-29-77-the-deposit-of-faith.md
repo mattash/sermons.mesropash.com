@@ -2,7 +2,7 @@
 archiveId: 77
 sermonDate: "2024-12-29"
 title: "The Deposit of Faith"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Approaching the new year can intensify sadness and disappointment over apparent failures or insufficient spiritual progress. Interpreting the parable of the entrusted money in Luke 19, the preacher reassures worshippers that sincere prayer, participation in the Divine Liturgy, and even a small “deposit” of faith will grow by the grace of the Holy Spirit."
 scriptureReference: "Luke 19:11–27"

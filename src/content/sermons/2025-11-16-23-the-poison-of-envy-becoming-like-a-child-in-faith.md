@@ -2,7 +2,7 @@
 archiveId: 23
 sermonDate: "2025-11-16"
 title: "The Poison of Envy: Becoming Like a Child in Faith"
-preacher: "Not explicitly named in transcript"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English (bilingual)"
 theme: "The preacher expounds on Luke 9, where Jesus predicts his passion, the disciples argue about who is greatest, Christ brings a child forward as a model of spiritual innocence and contentment, and the disciples resent an outsider casting out demons in Jesus' name. The sermon warns against envy, comparison, and vainglory—especially envy toward fellow Christians—and calls the faithful to cultivate childlike contentment, humility, and gratitude for others' gifts, celebrating God's grace wherever it appears."
 scriptureReference: "Luke 9:44-50"

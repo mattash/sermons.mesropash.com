@@ -2,7 +2,7 @@
 archiveId: 39
 sermonDate: "2025-07-06"
 title: "The Sign of Jonah: Seeking Signs vs. Faith"
-preacher: "Der Hayr (unidentified parish priest, St. John's)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher delivers a bilingual homily on the Gospel reading from Matthew, where Jesus is challenged by opponents demanding a sign. In Armenian, he explains that people seek signs from God during difficulties, but Jesus rebukes this demand and offers only the sign of Jonah—prefiguring his resurrection. In English, he illustrates the point with a family analogy about his son Sion and fireworks, drawing a parallel between parental love that asks for trust without full understanding and Christ's call to faith without constant signs. Christ rebukes the wicked generation that demands signs, offering only the sign of Jonah (three days in the whale) as the sole sign needed: the resurrection."
 scriptureReference: "Matthew 12:38-40"

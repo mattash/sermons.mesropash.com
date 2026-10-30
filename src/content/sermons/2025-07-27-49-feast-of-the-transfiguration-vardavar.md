@@ -2,7 +2,7 @@
 archiveId: 49
 sermonDate: "2025-07-27"
 title: "Feast of the Transfiguration (Vardavar)"
-preacher: "Parish priest (name not specified in transcript)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Feast of the Transfiguration (Vardavar), the preacher delivers a bilingual homily exploring the events leading up to the Transfiguration on Mount Tabor. Beginning with Peter's confession of Christ as the Son of God and Jesus's declaration that upon this faith he will build his church, the sermon examines Peter's subsequent rejection of Christ's prediction of his crucifixion and Jesus's sharp rebuke — \"Get behind me, Satan.\" The preacher explains that Jesus was not rejecting Peter himself but the doubt and evil in his heart, drawing a pastoral lesson: we must love the person while rejecting the sin within them. The Transfiguration, six days later, is presented as Christ revealing his divine light to strengthen his disciples for the difficult path ahead, and as a continuing revelation to all believers that the same divine light dwells within us, sustaining us through our own struggles and doubts."
 scriptureReference: "Matthew 17:1-9; Matthew 16:13-20; Matthew 16:21-23; John (referenced regarding light)"

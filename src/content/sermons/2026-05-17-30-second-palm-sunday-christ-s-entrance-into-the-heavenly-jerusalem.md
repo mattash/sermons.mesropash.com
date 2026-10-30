@@ -2,7 +2,7 @@
 archiveId: 30
 sermonDate: "2026-05-17"
 title: "Second Palm Sunday: Christ's Entrance into the Heavenly Jerusalem"
-preacher: "Unidentified priest"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English (bilingual)"
 theme: "The preacher explains the feast of Second Palm Sunday, unique to the Armenian Church, which falls on the Sunday after the Ascension. Drawing on the tradition of St. Gregory the Illuminator's angelic visitation in Khor Virap, the sermon connects Christ's entrance into the earthly Jerusalem (the first Palm Sunday) with his entrance into the heavenly Jerusalem (the second Palm Sunday). Using Hebrews 9 and Psalm 24, and the commentary of St. Gregory of Datev, the preacher shows how the Greater Entrance in the Divine Liturgy reenacts Christ's triumphant return to heaven, uniting heaven and earth in worship."
 scriptureReference: "Hebrews 9:24-28; Psalm 24:7-10; John 1:1-14; Matthew 28:19-20 (Great Commission, referenced)"

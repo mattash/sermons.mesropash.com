@@ -2,7 +2,7 @@
 archiveId: 51
 sermonDate: "2023-07-16"
 title: "Feast of the Transfiguration (Vardavar) – Cultivating Spiritual Sight"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Feast of the Transfiguration (Vardavar), the preacher delivers a bilingual homily explaining that Christ himself did not change on Mount Tabor — rather, the disciples' perception was transformed by God's grace, allowing them to glimpse spiritual truth. The Armenian sermon emphasizes that transfiguration is continuous and that Christians are called to cultivate spiritual sight in daily life, including through the Divine Liturgy. The English sermon retells a parable of a father and two sons hiking to a vista, illustrating that God's presence is with us all along, not only at mountaintop moments. Both sermons urge the faithful to develop awareness of God's presence beneath the surface of everyday experience."
 scriptureReference: "Matthew 17:1-9; Mark 9:2-10; Luke 9:28-36; Hebrews 13:8"

@@ -2,7 +2,7 @@
 archiveId: 124
 sermonDate: "2026-10-25"
 title: "Stewards of God’s House at the Foot of the Cross"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "On the Feast of the Discovery of the Holy Cross, the preacher presents Christ’s self-giving on the cross as the foundation of the Church and the source of Christian belonging. Drawing on the image of the faithful household steward, he invites parishioners to understand themselves as Dndes—stewards entrusted with St. John—who worship, pray, serve, and give according to their means."
 scriptureReference: "1 Corinthians 1:23–24; Wisdom of Solomon 14:1–2; Matthew 24:30–31; Matthew 24:45; Luke 12:42; Matthew 13:44–46"

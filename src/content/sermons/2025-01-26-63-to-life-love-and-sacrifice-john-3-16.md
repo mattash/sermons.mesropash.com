@@ -2,7 +2,7 @@
 archiveId: 63
 sermonDate: "2025-01-26"
 title: "To Life: Love and Sacrifice (John 3:16)"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher reflects on the Armenian toast \"genats\" (to life), connecting it to John 3:16. Being alive is not the same as truly living; real life comes through love expressed by sacrifice, as God demonstrated by giving His only begotten Son. Christians are called to show love through sacrifice, especially as they prepare for Great Lent."
 scriptureReference: "John 3:16"

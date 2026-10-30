@@ -2,7 +2,7 @@
 archiveId: 34
 sermonDate: "2026-02-22"
 title: "Sunday of the Expulsion – Called to Perfection"
-preacher: "Unidentified (parish priest of St. John)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Sunday of the Expulsion (second Sunday of Great Lent), the preacher delivers a bilingual homily. In Armenian, he reflects on the Isaiah reading where God is disappointed with Israel for trusting political powers over divine providence, draws a parallel to the Armenian national church, and warns that the pains of this world are consequences of sin beginning with Adam and Eve's expulsion—yet Christ has opened the door of hope. In English, he explores the day's Gospel reading from the Sermon on the Mount, focusing on Christ's call to perfection through the antitheses. Using an anecdote about a reluctant young confessor who insisted he was \"a good guy,\" the preacher explains that Christ's hyperbolic commandments show us we can never simply be \"good enough\"—we must continually strive to emulate Christ, hold ourselves to His standard, and use this Lenten season to repent and heal."
 scriptureReference: "Isaiah (prophetic reading for the day); Romans (epistle reading); Matthew 5 (Sermon on the Mount, antitheses, \"be perfect as your heavenly Father is perfect\"); Genesis (Adam and Eve, expulsion from paradise)"

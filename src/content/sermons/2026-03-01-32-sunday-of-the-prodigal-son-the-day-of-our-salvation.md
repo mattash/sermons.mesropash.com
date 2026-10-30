@@ -2,7 +2,7 @@
 archiveId: 32
 sermonDate: "2026-03-01"
 title: "Sunday of the Prodigal Son: The Day of Our Salvation"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "On the Sunday of the Prodigal Son during Lent, the preacher delivers a children's homily retelling Jesus' parable of the prodigal son, emphasizing themes of greed, wastefulness, repentance, confession, and the father's unconditional forgiveness. The preacher then addresses the adults in Armenian, drawing on St. Paul's letter to the Corinthians to stress that this very moment is the day of salvation, and concludes in English by urging the congregation to humble themselves and turn to God, whose forgiveness is always at hand."
 scriptureReference: "Luke 15:11-32; 2 Corinthians 6:2"

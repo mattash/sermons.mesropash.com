@@ -2,7 +2,7 @@
 archiveId: 64
 sermonDate: "2025-01-19"
 title: "The Wedding at Cana: Christ's First Miracle and Our Participation"
-preacher: "Unidentified priest (Saint John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher delivers a bilingual homily on the Wedding at Cana (Christ's first miracle). In Armenian, he warns against using Jesus' presence at social gatherings as justification for excessive drinking, emphasizes that what belongs to God must be the best, and illustrates this with the communion bread (nshkar) as an example of offering our best to God. In English, he explores why Jesus initially said \"no\" to Saint Mary's request, drawing three lessons: Christ is not bound by prophecy or time (per Saint Cyril), Christ works through intercession (establishing Mary's role as intercessor), and Mary's instruction to the servants—\"Do whatever he asks\"—teaches that our participation is required for God's miracles."
 scriptureReference: "John 2:1-11; John 1:1-14"

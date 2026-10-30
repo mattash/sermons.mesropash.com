@@ -2,7 +2,7 @@
 archiveId: 102
 sermonDate: "2026-08-23"
 title: "My Soul Magnifies the Lord"
-preacher: "Parish priest (name not identified in the transcript)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Reflecting on Mary’s Magnificat, the preacher teaches that the soul’s true center is not the self, its fears, desires, or struggles, but the throne of God. Mary and Elizabeth exemplify loving support, while Mary’s faith shows how believers can make room for Christ and become temples of the Holy Spirit."
 scriptureReference: "Luke 1:39-56; 1 Corinthians 6:19-20"

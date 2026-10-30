@@ -2,7 +2,7 @@
 archiveId: 107
 sermonDate: "2023-10-08"
 title: "By What Authority? Holy Authority in a Fallen World"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Western Armenian and English"
 theme: "The preacher contrasts authority grounded in force, money, social influence, or institutional agreement with holy authority bestowed by God. Through Christ’s cleansing of the Temple and his response to those questioning him, the homily teaches that sincere questions of faith deserve serious engagement, while malicious challenges intended to weaken faith need not be honored. The Armenian section applies this distinction pastorally to the displacement of the Armenians of Artsakh; the English section illustrates it first through parental responsibility and then through Christ’s eternal priesthood."
 scriptureReference: "Mark 11:15–19; Mark 11:27–33"

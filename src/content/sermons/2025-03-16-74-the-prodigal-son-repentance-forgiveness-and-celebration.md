@@ -2,7 +2,7 @@
 archiveId: 74
 sermonDate: "2025-03-16"
 title: "The Prodigal Son: Repentance, Forgiveness, and Celebration"
-preacher: "Not identified in the provided transcript"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Reflecting on the parable of the prodigal son, the preacher presents repentance as recognizing one’s departure from God’s will and taking concrete action to return. The father’s unconditional restoration of the son reveals the breadth of divine mercy, while the older brother warns against resenting mercy shown to others. The homily concludes by calling the Church to celebrate whenever anyone who was lost is found and restored by God."
 scriptureReference: "Luke 15 (Parable of the Prodigal Son)"

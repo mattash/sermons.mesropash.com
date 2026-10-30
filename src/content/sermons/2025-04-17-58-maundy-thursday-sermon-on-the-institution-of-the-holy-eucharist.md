@@ -2,7 +2,7 @@
 archiveId: 58
 sermonDate: "2025-04-17"
 title: "Maundy Thursday Sermon on the Institution of the Holy Eucharist"
-preacher: "Der Karapet Telfayan"
+preacher: "Fr. Garabed Telfeyan"
 language: "English (with Armenian phrases)"
 theme: "On Maundy Thursday, guest celebrant Der Karapet Telfayan delivers a homily on the institution of the Holy Eucharist, tracing how Jesus transformed the Passover meal—commemorating Israel's deliverance from Egypt—into the sacrament of Holy Badarak, delivering all humanity from sin and death through His body and blood. He explains the symbolism of the Passover lamb, the unleavened bread, and the blood on the doorposts, showing how Christ changed these into His own body and blood. He emphasizes that God is not a distant authoritarian figure but a loving Father who gives Himself to us, and calls the congregation to love one another and cherish their church community."
 scriptureReference: "John 1:1-14; Exodus (Passover narrative, deliverance from Egypt)"

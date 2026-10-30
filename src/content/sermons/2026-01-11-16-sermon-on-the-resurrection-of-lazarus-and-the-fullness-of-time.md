@@ -2,7 +2,7 @@
 archiveId: 16
 sermonDate: "2026-01-11"
 title: "Sermon on the Resurrection of Lazarus and the Fullness of Time"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Within the octave of Theophany, the preacher reflects on the Gospel reading of Lazarus's death and resurrection (John 11), highlighting Christ's striking statement that he was glad he was not present to heal Lazarus before he died. The sermon connects this to God's timing—prayers may go unanswered in the moment not because they are contrary to God's will, but because God waits for the fullness of time to reveal His glory. The preacher also draws on the Nativity-period reading of the Holy Family's flight to Egypt as refugees, reminding the congregation that we too live as refugees in this world, awaiting our true home in the kingdom of heaven."
 scriptureReference: "John 11:1-43; Matthew 2:13-18 (implied — Herod's massacre and flight to Egypt)"

@@ -2,7 +2,7 @@
 archiveId: 72
 sermonDate: "2025-03-30"
 title: "Fifth Sunday of Lent: The Sunday of the Judge"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "On the fifth Sunday of Lent (Sunday of the Judge), the preacher encourages the congregation to persevere in their Lenten disciplines even if they have stumbled, then expounds the parable of the unjust judge and the widow. He draws two lessons: persistence in prayer and confidence in Christ as the perfect judge. He connects this to the previous Sunday's parable of the unjust steward, identifying the rhetorical pattern of arguing 'from the stronger' — if even flawed people do good things, how much more will God, who is perfect, act for our benefit. He illustrates this with examples from Matthew 6, parental love, and human sacrifice, culminating in God's sacrifice of his Son and the promise of resurrection."
 scriptureReference: "Luke 18:1-8; Luke 16:1-13; Matthew 6:25-30"

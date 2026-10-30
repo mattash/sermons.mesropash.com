@@ -2,7 +2,7 @@
 archiveId: 22
 sermonDate: "2025-11-23"
 title: "On Anxiety, Covetousness, and Spiritual Nourishment (Luke 12)"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English (bilingual sermon)"
 theme: "The preacher delivers a bilingual sermon on Luke 12, addressing the universal experience of fear and anxiety. In the Armenian portion, he uses the analogy of a hospitalized patient who has lost their appetite but must eat to recover, comparing this to our spiritual need for the church, scripture, and communion when we are spiritually sick with fear and anxiety. He reframes anxiety as a holy sign—the Holy Spirit calling us back to God. In the English portion, he examines the parable of the two brothers disputing inheritance, Christ's surprising refusal to adjudicate, and connects this to Christ's teaching on anxiety: the root of our anxiety is covetousness and the inability to be satisfied with what we have. Contentment, not accumulation, is the prerequisite for freedom from fear."
 scriptureReference: "Luke 12:13-31"

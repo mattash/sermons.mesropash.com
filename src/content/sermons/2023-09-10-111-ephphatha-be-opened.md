@@ -2,7 +2,7 @@
 archiveId: 111
 sermonDate: "2023-09-10"
 title: "Ephphatha: Be Opened"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Reflecting on Christ’s command “Ephphatha”—“Be opened”—to the deaf and mute man, the preacher presents healing as both restoration and a call to self-expression. Through his own story of overcoming childhood anxiety about public speaking, he urges Christians to move beyond their comfort zones, share their God-given gifts and enter more fully into communion with the body of Christ."
 scriptureReference: "Mark 7:31–37"

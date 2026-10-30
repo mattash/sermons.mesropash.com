@@ -2,7 +2,7 @@
 archiveId: 41
 sermonDate: "2025-06-29"
 title: "Mercy Over Sacrifice: Compassion in Church Life and the Church's Moral Duty"
-preacher: "Der Mesrop (Der Hayk)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher reflects on the Gospel of Matthew passage where Jesus declares 'I desire mercy, not sacrifice,' explaining the Orthodox concept of economia and the need for compassion, patience, and tolerance toward believers at different stages of spiritual growth. He then addresses the recent detainment of two senior Armenian bishops by the Armenian government, affirming their moral integrity and the church's duty to speak to the moral state of the nation. Drawing on the example of Saint Nerses the Great—who called King Arshak II to moral accountability and was martyred for doing so—the preacher argues that the church has always had a prophetic responsibility to uphold moral standards, even when it creates tension with the state. He calls the faithful to prayer, fasting, and unity."
 scriptureReference: "Matthew 12:1-8; Hosea 6:6 (referenced via 'I desire mercy, not sacrifice')"

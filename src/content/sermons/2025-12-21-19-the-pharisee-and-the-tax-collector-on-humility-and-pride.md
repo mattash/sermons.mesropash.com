@@ -2,7 +2,7 @@
 archiveId: 19
 sermonDate: "2025-12-21"
 title: "The Pharisee and the Tax Collector: On Humility and Pride"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "The preacher reflects on Luke 18:9-14, the parable of the Pharisee and the tax collector, warning that pride can nullify even our God-pleasing works. He encourages cultivating humility through prayer for those we might consider beneath us. He then recounts the story of St. Abgar the King of Edessa, the first Christian king, who humbled himself before Christ by writing a letter seeking healing, and connects Abgar's humility to the Gospel's call that those who humble themselves will be exalted."
 scriptureReference: "Luke 18:9-14"

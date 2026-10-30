@@ -2,7 +2,7 @@
 archiveId: 12
 sermonDate: "2026-04-02"
 title: "Holy Thursday Homily: Washing of the Feet and Partaking of Christ"
-preacher: "Father Garabed Telfayan"
+preacher: "Fr. Garabed Telfeyan"
 language: "English"
 theme: "On Holy Thursday, the preacher reflects on the Last Supper, the washing of the feet, and the institution of Holy Communion. He explains how Christ, the creator of the universe, humbled himself to wash his disciples' feet, and how believers are called to partake of Christ not only through the sacrament of communion but also through the mind (hearing the Word) and the heart (love and compassion). He connects Christ's \"unless\" statements to the foundations of church sacraments and urges self-examination against betrayal."
 scriptureReference: "John 1:1-14; John 13:1-17; John 6:35; John 14:6; Matthew 6:9-13"

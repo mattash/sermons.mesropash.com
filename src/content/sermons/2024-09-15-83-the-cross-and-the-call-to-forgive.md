@@ -2,7 +2,7 @@
 archiveId: 83
 sermonDate: "2024-09-15"
 title: "The Cross and the Call to Forgive"
-preacher: "Not identified in the transcript"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Feast of the Exaltation of the Holy Cross, the preacher contrasts childhood grudges with the serious resentments adults justify. Christ’s forgiveness from the cross is presented as the foundation of Christian mercy, healing, redemption, and eternal life. Christians are therefore called to carry their own cross by forgiving and seeking forgiveness, even in extreme circumstances."
 scriptureReference: "Luke 23:34; Matthew 6:12; Matthew 16:24"

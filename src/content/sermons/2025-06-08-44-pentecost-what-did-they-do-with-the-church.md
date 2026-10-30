@@ -2,7 +2,7 @@
 archiveId: 44
 sermonDate: "2025-06-08"
 title: "Pentecost: What Did They Do with the Church?"
-preacher: "Der Sarkis (guest celebrant, archpriest of the Western Diocese)"
+preacher: "Fr. Sarkis Petoyan"
 language: "English"
 theme: "On the Feast of Pentecost, Der Sarkis reflects on what the apostles did with the church Christ entrusted to them, drawing from Acts 2 and Matthew 28. He identifies five characteristics of the early church — it was a learning/teaching church, a church of fellowship, a church where things happened, a sharing church, and a happy church — and calls the congregation to embody these same qualities today, unchanged from the original apostolic model. He also laments the loss of Armenian faithful in America and challenges the community to move beyond ethnic pride toward active evangelism and service."
 scriptureReference: "Acts 2:42-47; Matthew 28:16-20; Psalm 100; John 1:1-14 (Gospel reading, referenced in passing)"

@@ -2,7 +2,7 @@
 archiveId: 54
 sermonDate: "2025-08-03"
 title: "The Lost Sheep: Being Found by Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the first Sunday after the Feast of the Transfiguration, the preacher shares two personal stories of being lost—one from his childhood at Disneyland and one about his young son getting separated in Japantown—to illustrate Christ's parable of the good shepherd seeking the one lost sheep. He connects these experiences to Matthew's Gospel, emphasizing that Christians cannot be indifferent to the lost and vulnerable. He then traces three Gospel examples of Christ seeking the lost: Zacchaeus, the Samaritan woman at the well, and Peter after his denial. The sermon concludes with the invitation that Christ's question to Peter—\"Do you love me?\"—is the same invitation offered to each of us to be found and restored to the flock."
 scriptureReference: "Matthew 18:12-14; Matthew 18:6; Luke 19:1-10; John 4:1-42; John 21:15-17; Matthew 16:16-18"

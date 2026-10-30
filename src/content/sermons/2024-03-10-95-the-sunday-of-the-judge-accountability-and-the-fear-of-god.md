@@ -2,7 +2,7 @@
 archiveId: 95
 sermonDate: "2024-03-10"
 title: "The Sunday of the Judge: Accountability and the Fear of God"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using Der Grigor Grigoryan’s decision to serve families of children with Down syndrome in Armenia as an example, the preacher explains that fear of God means accepting personal responsibility before Christ, the merciful but perfectly just Judge."
 scriptureReference: "Luke 18:1–8; 2 Timothy 2:15; Psalm 111:10; Proverbs 9:10"

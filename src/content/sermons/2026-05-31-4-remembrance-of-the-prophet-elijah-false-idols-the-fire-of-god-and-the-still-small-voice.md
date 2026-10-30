@@ -2,7 +2,7 @@
 archiveId: 4
 sermonDate: "2026-05-31"
 title: "Remembrance of the Prophet Elijah: False Idols, the Fire of God, and the Still Small Voice"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Sunday commemorating the Prophet Elijah, the preacher connects Pentecost and the descent of the Holy Spirit as fire with Elijah's showdown on Mount Carmel, where God's fire consumed the sacrifice. The homily warns against modern false idols—social media, wealth, status—and calls the faithful to root them out through confession and devotion. A children's message recounts Elijah hearing God not in the storm or wind, but in the still small voice, teaching that God is encountered in quietness and peace."
 scriptureReference: "1 Kings 18 (Elijah on Mount Carmel); 1 Kings 19 (Elijah hears God in the still small voice); Acts 2 (Pentecost); Matthew 6:24 (No one can serve two masters)"

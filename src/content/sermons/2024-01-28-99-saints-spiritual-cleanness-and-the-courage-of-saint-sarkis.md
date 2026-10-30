@@ -2,7 +2,7 @@
 archiveId: 99
 sermonDate: "2024-01-28"
 title: "Saints, Spiritual Cleanness, and the Courage of Saint Sarkis"
-preacher: "Unidentified parish priest"
+preacher: "Fr. Mesrop Ash"
 language: "English with Armenian terms"
 theme: "Addressing the Sunday school children, the preacher explains Armenian customs of blessing, the meaning of church icons, and what makes a person a saint. Using baptismal cleansing and the Armenian relationship between “surp” and “srpel,” he describes saints as people with spiritually clean souls who remain faithful through hardship. Saint Sarkis is presented as a courageous Christian warrior, protector of youth, enduring hero, and heavenly intercessor who prays that believers may be brave, strong, and trusting in God."
 scriptureReference: "Jesus’ baptism in the Jordan; The crucifixion and resurrection of Jesus; The Good Shepherd"

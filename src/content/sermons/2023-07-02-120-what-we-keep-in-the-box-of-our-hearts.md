@@ -2,7 +2,7 @@
 archiveId: 120
 sermonDate: "2023-07-02"
 title: "What We Keep in the Box of Our Hearts"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using Christ’s parable of the wheat and weeds and the feast commemorating the discovery of Saint Mary’s chest, the preacher urges the faithful to preserve their encounters with holiness and seek God’s healing. The heart should hold the gifts of the Holy Spirit rather than anger, resentment, impatience, and unforgiveness, while trusting God’s patient and merciful justice."
 scriptureReference: "Matthew 13:24–30; Matthew 13:36–43"

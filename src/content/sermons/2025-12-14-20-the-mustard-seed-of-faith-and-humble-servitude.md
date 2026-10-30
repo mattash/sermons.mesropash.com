@@ -2,7 +2,7 @@
 archiveId: 20
 sermonDate: "2025-12-14"
 title: "The Mustard Seed of Faith and Humble Servitude"
-preacher: "Unidentified (Der Hayr of St. John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "At the midpoint of Advent, the preacher delivers a bilingual homily on Luke 17:1-10. In the Armenian sermon, he focuses on Christ's command to forgive and the disciples' plea to increase their faith, explaining that faith need not be great in size but must be sincere and true—like a mustard seed—and that all church life flows from that small, genuine core of faith. In the English sermon, he warns active church members against being a negative influence on newcomers whose faith is fragile, cautions against cultivating pride in one's service, and calls the faithful to humble servitude modeled on Christ, who washed feet and forgave repeatedly."
 scriptureReference: "Luke 17:1-10"

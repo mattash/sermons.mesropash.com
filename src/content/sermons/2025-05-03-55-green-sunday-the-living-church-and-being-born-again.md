@@ -2,7 +2,7 @@
 archiveId: 55
 sermonDate: "2025-05-03"
 title: "Green Sunday: The Living Church and Being Born Again"
-preacher: "Substitute priest (unnamed; visiting from outside the parish)"
+preacher: "Fr. Vazken Movsesian"
 language: "English and Armenian"
 theme: "A visiting substitute priest delivers a Green Sunday (Askharamadran) homily on the celebration of the Church. In English, he explains that the Church predates the Bible, traces apostolic succession through St. Thaddeus to the Armenian Catholicos, and calls Armenian Christians to live as the 'original family' of Christ by speaking out against injustice and caring for the marginalized. In Armenian, he reflects on John 3 and the encounter between Jesus and Nicodemus, explaining the meaning of being 'born again' through baptism, the Church as mother, and Armenians as the 'new Israel'—God's people—not by ethnicity but by sacramental rebirth."
 scriptureReference: "John 3:1-21 (Nicodemus, being born again/from above); Matthew 16:18 (\"On this rock I will build my church\")"

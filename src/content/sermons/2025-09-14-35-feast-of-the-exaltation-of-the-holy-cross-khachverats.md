@@ -2,7 +2,7 @@
 archiveId: 35
 sermonDate: "2025-09-14"
 title: "Feast of the Exaltation of the Holy Cross (Khachverats)"
-preacher: "Der Mesrop"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Feast of the Exaltation of the Holy Cross (Khachverats), Der Mesrop delivers an Armenian homily recounting Saint Helena's discovery of the True Cross in Jerusalem and calling the faithful to find the cross in their daily lives through mercy, love, and sacrifice. He then gives an interactive English address to Sunday school children, explaining what 'exaltation' means, retelling the story of Saint Helena finding the cross in a field of wild basil, and inviting the children to find the cross in their homes, church, and acts of love and sacrifice."
 scriptureReference: "John 1:1-14; Matthew 16:24; Matthew 13:45-46; Matthew 7:7"

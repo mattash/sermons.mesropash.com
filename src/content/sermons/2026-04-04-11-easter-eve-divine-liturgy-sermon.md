@@ -2,7 +2,7 @@
 archiveId: 11
 sermonDate: "2026-04-04"
 title: "Easter Eve Divine Liturgy Sermon"
-preacher: "Parish priest (not named in transcript)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On Easter Eve, the preacher reflects on the various reactions people had when encountering the resurrected Christ — joy, curiosity, and doubt. Drawing on the Armenian word 'yermodutyun' (being of two minds) from the Gospel of Matthew, he explores why some doubted even in the presence of the risen Lord, suggesting that accepting the full truth of Christ's teachings means accepting accountability for living a life of sacrifice, virtue, love, and forgiveness. He encourages the congregation that while this life is challenging, they are not alone — the church as the body of Christ supports them, and together they can live the resurrected life."
 scriptureReference: "Matthew 28 (resurrection and Ascension account); Romans 6:4 (referenced in pontifical message: 'As Christ was raised from the dead by the glory of the Father, so we too may walk in newness of life')"

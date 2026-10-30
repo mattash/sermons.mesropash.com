@@ -2,7 +2,7 @@
 archiveId: 46
 sermonDate: "2025-05-25"
 title: "Sunday of the Blind Man: Sight, Accountability, and the Mystery of the Eucharist"
-preacher: "Unidentified parish priest of St. John Armenian Church"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "The preacher reflects on the Gospel of John's account of the man born blind, focusing on Christ's statement that He came so the blind may see and those who see may become blind. He explores the accountability that comes with spiritual sight, connecting it to the concept of mysterion (sacrament) in the early church and the evangelical mission of St. Mesrop Mashtots. The sermon transitions into a catechetical teaching on the Sanctus hymn (Soorp Soorp), explaining its biblical origins in Isaiah and Revelation, its universal liturgical character, and its uniquely Armenian features, including direct address to Christ and emphasis on His second coming."
 scriptureReference: "John 9 (healing of the man born blind); John 9:39 (\"For judgment I have come into the world...\"); Isaiah 6 (Sanctus, angels worshiping); Revelation (angels gathered around the Lord); Palm Sunday passages (\"Blessed is he who comes in the name of the Lord\"); John 10 (sheep recognizing the shepherd's voice)"

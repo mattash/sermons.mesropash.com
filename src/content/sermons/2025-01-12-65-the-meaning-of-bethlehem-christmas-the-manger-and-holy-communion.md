@@ -2,7 +2,7 @@
 archiveId: 65
 sermonDate: "2025-01-12"
 title: "The Meaning of Bethlehem: Christmas, the Manger, and Holy Communion"
-preacher: "Unidentified parish priest (Saint John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the seventh day of the Octave of Nativity, the preacher delivers a children's sermon and a concluding adult reflection. The children's sermon explains the Blessing of the Water, baptism, and the Nativity story: Jesus born in Bethlehem (\"house of bread\"), laid in a manger (an animal feeding trough), connecting the incarnation to Holy Communion—Christ born to feed and nourish us. The concluding message draws a parallel between the Holy Family's displacement and uncertainty and those currently displaced by wildfires in Los Angeles and by conditions in Armenia, praying that God's hope sustain them until restoration."
 scriptureReference: "Luke (Nativity narrative, referenced as the day's Gospel reading)"

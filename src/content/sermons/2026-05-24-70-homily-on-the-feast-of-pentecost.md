@@ -2,7 +2,7 @@
 archiveId: 70
 sermonDate: "2026-05-24"
 title: "Homily on the Feast of Pentecost"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "A Pentecost homily reflecting on the descent of the Holy Spirit upon the apostles, the transformation of the fearful disciples into fearless preachers, and the continuing work of the Holy Spirit in bringing peace, hope, and renewal to believers in a troubled world."
 scriptureReference: "John 14:26; John 14:27"

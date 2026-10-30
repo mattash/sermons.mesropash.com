@@ -2,7 +2,7 @@
 archiveId: 82
 sermonDate: "2024-09-29"
 title: "The Holy Cross of Varak and Nearness to Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Western Armenian and English"
 theme: "On the Feast of the Holy Cross of Varak, the preacher recounts the discovery of a relic of the True Cross on Mount Varak and connects it with Holy Muron as a tangible link between Armenian Christians and Jesus Christ. The Cross, Holy Muron, Scripture, and the Holy Spirit are presented as gifts that draw believers into a close relationship with Christ and prepare them for his promised return."
 scriptureReference: "Matthew 24:30; Exodus (alluded to through the tradition of Holy Muron)"

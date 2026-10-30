@@ -2,7 +2,7 @@
 archiveId: 117
 sermonDate: "2023-08-20"
 title: "The Ministry of Presence and the Sacred Gift of Song"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Drawing on Saint Mary’s visit to Saint Elizabeth, the homily presents compassionate presence as a holy ministry: Christians may not be able to solve another person’s troubles, but they can sit, listen, comfort, and bring Christ into that person’s midst. It then describes sacred song as a creative response to the Holy Spirit and urges the congregation to participate actively in the music of the Divine Liturgy, even if only by humming along."
 scriptureReference: "Luke 1:39-56; 1 Samuel 2:1-10"

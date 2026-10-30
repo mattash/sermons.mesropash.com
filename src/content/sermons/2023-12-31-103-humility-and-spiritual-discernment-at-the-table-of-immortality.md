@@ -2,7 +2,7 @@
 archiveId: 103
 sermonDate: "2023-12-31"
 title: "Humility and Spiritual Discernment at the Table of Immortality"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Reflecting on Luke 22:24–30 at the close of the year, the preacher contrasts worldly power with Christlike humility and explains the apostles’ promised authority as moral discernment formed through accountability and service. The congregation is urged to make spiritual growth a New Year’s resolution by setting goals, acting, assessing their fruits, and changing course when necessary. The pomegranate is then interpreted as a symbol of Christ’s kingship and sacrifice, the unity of the Church, and gratitude for every day of the coming year."
 scriptureReference: "Luke 22:24-30; John 13:1-17"

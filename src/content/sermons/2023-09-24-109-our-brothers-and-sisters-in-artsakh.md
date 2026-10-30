@@ -2,7 +2,7 @@
 archiveId: 109
 sermonDate: "2023-09-24"
 title: "Our Brothers and Sisters in Artsakh"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English with a brief Armenian opening"
 theme: "In a participatory children’s homily, the preacher explains that Christians and Armenians belong to families extending far beyond their own households. Because the people of Artsakh are brothers and sisters suffering war, deprivation, displacement, and the loss of their homes, love calls the faithful to empathy, prayer, personal faithfulness, and whatever practical help they can offer."
 scriptureReference: "Matthew 12:48–50"

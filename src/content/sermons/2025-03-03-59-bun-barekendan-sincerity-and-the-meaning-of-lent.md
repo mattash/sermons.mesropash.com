@@ -2,7 +2,7 @@
 archiveId: 59
 sermonDate: "2025-03-03"
 title: "Bun Barekendan: Sincerity and the Meaning of Lent"
-preacher: "Parish priest (unnamed in transcript)"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian"
 theme: "On Bun Barekendan (the Sunday of Good Living before Great Lent), the preacher delivers a children's sermon explaining the meaning of Poon Paregantain and why fasting during Lent makes us spiritually stronger, followed by an adult sermon in Armenian and English on the Gospel of Matthew's teaching against hypocrisy. The adult sermon explores the etymology of sincerity (without wax) as presenting ourselves honestly with our cracks and imperfections before God, inviting him to restore us rather than covering our brokenness with artificial means."
 scriptureReference: "Matthew 6 (Sermon on the Mount — almsgiving, prayer, fasting, Lord's Prayer)"

@@ -2,7 +2,7 @@
 archiveId: 8
 sermonDate: "2026-04-12"
 title: "New Sunday (Nor Giragi / Krknazadik): The Day Everything Was Made New"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On New Sunday (Nor Giragi / Krknazadik), the first Sunday after Holy Resurrection, the preacher explores the etymological and theological meanings of the day's names in Armenian and English. He explains how 'Krknazadik' (Double Easter) recalls the Passover (Pesach) theme of being set apart from death, now fulfilled in Christ's resurrection. He then traces the origins of 'Giragi' (from Greek Kyrie, Lord's day) and 'Mia Shahpat' (first of the week), showing that Sunday is not merely the first of seven days but the 'eighth day'—the beginning of a new creation through the resurrection, calling believers to put away the old and embrace new life."
 scriptureReference: null

@@ -2,7 +2,7 @@
 archiveId: 15
 sermonDate: "2026-02-08"
 title: "Rivers of Living Water: Thirst, Fulfillment, and the Approach of Great Lent"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "The preacher interprets John 7:37–44, where Jesus cries out during the Feast of Tabernacles (Sukkot) about rivers of living water. He explains the Jewish festival context—the priest drawing water from the Well of Siloam as thanksgiving for God's providence—and shows how Christ transforms this into a promise of spiritual overabundance. Connecting last week's theme of hunger (bread of life) with this week's theme of thirst, he calls the congregation to prepare for Great Lent by cultivating spiritual hunger and thirst, trusting that Christ's love, forgiveness, and mercy will always be more than enough."
 scriptureReference: "John 7:37–44; John 6 (bread of life, referenced); John 2 (wedding at Cana, referenced)"

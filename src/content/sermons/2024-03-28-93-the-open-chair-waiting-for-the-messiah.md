@@ -2,7 +2,7 @@
 archiveId: 93
 sermonDate: "2024-03-28"
 title: "The Open Chair: Waiting for the Messiah"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "On Maundy Thursday, the preacher presents the Last Supper as a Passover meal filled with expectation. The traditional empty chair for Elijah becomes an image of the Church’s joyful waiting for Christ’s return and of the place awaiting every worshipper within the gathered Christian community."
 scriptureReference: "Matthew 26:17–30; Mark 14:12–26; Luke 22:7–23; Malachi 4:5–6; 1 Corinthians 16:22"

@@ -2,7 +2,7 @@
 archiveId: 60
 sermonDate: "2025-02-23"
 title: "Rivers of Living Water: Faith and Trust in Christ"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher reflects on John 7:37-38, where Christ says 'If anyone is thirsty, let him come to me and drink,' and promises that rivers of living water will flow from the believer's belly. The Armenian portion emphasizes faith as the foundation of all spiritual and eternal life, without which nothing is possible. The English sermon uses the Hoover Dam as an analogy for latent power, explains that the 'belly' refers to the soul's dwelling place, and identifies the living water as the Holy Spirit received at baptism. The preacher connects this to the upcoming Great Lent as a time to cultivate and exercise faith, and cites St. Vartan Mamigonian's trust in Christ at the Battle of Avarayr as the supreme example of faith in action."
 scriptureReference: "John 7:37-38; John 7:39"

@@ -2,7 +2,7 @@
 archiveId: 21
 sermonDate: "2025-11-30"
 title: "The God of Second Chances: The Fig Tree and Our Call to Repentance"
-preacher: "Unidentified parish priest (St. John Armenian Church, San Francisco)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Thanksgiving weekend, the preacher reflects on God as a God of second chances, using the parable of the barren fig tree from Luke 13. He shares a personal family story about disciplining children to illustrate how love requires eventual consequences, then connects this to God's patience with humanity. Christ, the merciful gardener, offers His own body and blood as nourishment (compost) so that we — the fig tree — can bear the fruit of repentance. The preacher warns that God's chances, while many, are finite, and encourages the faithful to use the gift of confession to change before time runs out."
 scriptureReference: "Luke 13:1-9; John 1:1-14"

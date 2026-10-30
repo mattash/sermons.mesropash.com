@@ -2,7 +2,7 @@
 archiveId: 6
 sermonDate: "2026-05-03"
 title: "Feast of the Appearance of the Holy Cross – Children's Sermon"
-preacher: "Unidentified priest (likely parish priest of St. John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "English and Armenian (mixed)"
 theme: "On the Feast of the Appearance of the Holy Cross, the preacher delivers a children's sermon recounting St. Cyril of Jerusalem's letter to the emperor about a miraculous shining cross that appeared over Jerusalem around 1700 years ago. The sermon explains the historical context of theological disputes about the Holy Trinity, describes the miraculous event, and connects it to the meaning of the cross today: that God loves us. Announcements are also made about an upcoming Pan-Oriental Orthodox Divine Liturgy and a Mother's Day brunch."
 scriptureReference: "John 1:1-14"

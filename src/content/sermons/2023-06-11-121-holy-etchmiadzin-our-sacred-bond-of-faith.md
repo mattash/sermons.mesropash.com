@@ -2,7 +2,7 @@
 archiveId: 121
 sermonDate: "2023-06-11"
 title: "Holy Etchmiadzin: Our Sacred Bond of Faith"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the feast of the Catholicon of Holy Etchmiadzin, the preacher explains the national and apostolic character of the Armenian Church and presents Etchmiadzin as the spiritual center uniting Armenians across generations and throughout the world. Drawing on a personal visit and the discovery of a pre-Christian altar beneath the cathedral, he portrays Armenian religious history as a journey from searching toward the truth revealed in Christ, urging continued loyalty to the Church’s apostolic faith and unity in Christ."
 scriptureReference: "John 10:30; Matthew 9:17; Mark 2:22; Luke 5:37–38"

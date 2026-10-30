@@ -2,7 +2,7 @@
 archiveId: 43
 sermonDate: "2025-06-15"
 title: "Father's Day and the Remembrance of Elijah"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On Father's Day and the Remembrance of Elijah, the preacher delivers two sermons. In Armenian, he reflects on the role of fathers, noting that the Church is our mother and the Bible is our father—the greatest educational means for Christian life. In English, he explains the unique Elysian Fast (Fast of Elijah) following Pentecost, its seasonal and cultural significance, and its connection to the Holy Spirit. He then unpacks the Gospel reading about Christ referencing Elijah's mission to the widow of Zarephath, showing how Elijah's life prefigures Christ. The sermon calls the faithful to recognize that welcoming God into our lives brings expectations and obligations, but also sustaining blessings."
 scriptureReference: "Luke 4:25-26; James 5:16-17; John 1:1-18"

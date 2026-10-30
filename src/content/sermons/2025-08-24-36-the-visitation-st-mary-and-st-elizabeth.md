@@ -2,7 +2,7 @@
 archiveId: 36
 sermonDate: "2025-08-24"
 title: "The Visitation: St. Mary and St. Elizabeth"
-preacher: "Unidentified parish priest (St. John Armenian Church)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On the Sunday after the Feast of the Assumption, the preacher reflects on the Visitation — St. Mary's journey to her cousin St. Elizabeth after the Annunciation. Drawing on the Church Fathers, the sermon highlights how the unborn St. John the Baptist prophesied by leaping in Elizabeth's womb, enabling Elizabeth to recognize Mary as the Mother of God before a word was spoken. The preacher connects Mary's Magnificat to the Armenian Church's daily Medz Atsutsayn hymns and draws a pastoral application: in milestone moments of life, we should turn to trusted, faithful companions rather than isolating ourselves, following Mary's example of humility and communal support."
 scriptureReference: "Luke 1:39-56 (Visitation and Magnificat, referenced thematically); John 1:1-14 (Gospel reading preceding the sermon)"

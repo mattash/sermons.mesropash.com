@@ -2,7 +2,7 @@
 archiveId: 25
 sermonDate: "2025-10-26"
 title: "The Foolishness of the Cross and the Parable of the Fig Tree"
-preacher: "Unidentified priest (likely parish pastor)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "The preacher delivers a bilingual homily. In Armenian, he reflects on St. Paul's first letter to the Corinthians, noting that the world's wisdom cannot comprehend the preaching of the crucified Christ, and that believers may feel 'foolish' in the eyes of the world—a reality that has persisted for two thousand years. In English, he expounds on Christ's eschatological teaching in Matthew's Gospel about the second coming, emphasizing the Armenian Church's profession of awaiting Christ's return from cradle to grave (including burial practices that reject cremation). Using the parable of the fig tree, he encourages the faithful to live fully in the present season of spiritual preparation—through sacraments, scripture, relationships, and repentance—trusting that God will bring fruitfulness in His time."
 scriptureReference: "1 Corinthians 1; Matthew 24"

@@ -2,7 +2,7 @@
 archiveId: 29
 sermonDate: "2026-03-15"
 title: "Persisting in Prayer and Leaving Justice to God"
-preacher: "Priest of St. John Armenian Church (unnamed in transcript)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On this Sunday of Great Lent, the preacher interprets the parables of the unjust judge and the Pharisee and tax collector. Both Armenian and English sermons emphasize that persistent prayer and leaving justice to God go hand in hand with the Lenten call to examine one's own sins rather than judging others. True fairness belongs to God alone ('Vengeance is mine'); our task is to remain faithful in prayer and humble repentance."
 scriptureReference: "Luke 18:1-8 (Parable of the widow and the unjust judge); Luke 18:9-14 (Parable of the Pharisee and the tax collector); Luke 17 (Judgment at the Second Coming, referenced); John 12:24 ('Unless a grain of wheat falls into the earth and dies' - referenced in requiem)"

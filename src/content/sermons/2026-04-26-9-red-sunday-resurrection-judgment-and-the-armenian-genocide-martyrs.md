@@ -2,7 +2,7 @@
 archiveId: 9
 sermonDate: "2026-04-26"
 title: "Red Sunday: Resurrection, Judgment, and the Armenian Genocide Martyrs"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "On Red Sunday, the preacher reflects on Christ's words about resurrection and condemnation from John 5, explaining that resurrection awaits all but the question is whether we are raised to life or condemnation. Using a child's question about paradise and hell, he describes paradise as the peace of belonging to God and hell as the eternal awareness of being unworthy of that peace. He connects this to the Armenian Genocide martyrs, remembered as saints rather than victims, calling the faithful to emulate their willingness to sacrifice everything for the kingdom and to live lives of continual repentance and return to Christ."
 scriptureReference: "John 5:19-29"

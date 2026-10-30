@@ -2,7 +2,7 @@
 archiveId: 50
 sermonDate: "2024-07-07"
 title: "Feast of the Transfiguration (Vardavar)"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "A bilingual homily for the Feast of the Transfiguration (Vardavar). The preacher recounts the events on Mount Tabor where Jesus was transfigured before Peter, James, and John, appearing in dazzling light alongside Moses (representing the Law) and Elijah (representing prophecy). The sermon explores the divine light as spiritual perception (citing St. John Chrysostom), the clothing of light as representing the Church which must be worn by Christ (citing St. Augustine), and the importance of encountering God in community, reflecting the perfect community of the Holy Trinity."
 scriptureReference: "Matthew 17:1-9; Mark 9:2-10; Luke 9:28-36; John 1:1-14; Genesis 1:3"

@@ -2,7 +2,7 @@
 archiveId: 85
 sermonDate: "2024-09-08"
 title: "Ephphatha: Be Opened"
-preacher: "Unknown preacher"
+preacher: "Fr. Mesrop Ash"
 language: "Western Armenian and English"
 theme: "Drawing on Jesus’ healing of a deaf and mute man and on his own reluctant beginning as an altar server, the preacher interprets “Ephphatha—Be opened” as Christ’s continuing invitation in the Divine Liturgy. Christ’s compassionate touch opens believers to God’s will, commandments, healing, service, and the proclamation of the Gospel, while assuring the isolated that they are known and loved."
 scriptureReference: "Mark 7:31–37"

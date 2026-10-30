@@ -2,7 +2,7 @@
 archiveId: 114
 sermonDate: "2023-11-12"
 title: "Faith Deepened in Believing Community"
-preacher: "Rev. Fr. Mesrop Ash"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using Christ’s raising of the ruler’s daughter, the preacher teaches that shared, mature faith deepens communal prayer and receptivity to the Holy Spirit. The faith of the paralytic’s friends and the dismissal of catechumens from the Eucharistic portion of the Divine Liturgy illustrate how believers strengthen one another and should prepare themselves to encounter Christ."
 scriptureReference: "Luke 8:49–56; Mark 2:1–12; Proverbs 27:17"

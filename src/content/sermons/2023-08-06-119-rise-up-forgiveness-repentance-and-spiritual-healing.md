@@ -2,7 +2,7 @@
 archiveId: 119
 sermonDate: "2023-08-06"
 title: "Rise Up: Forgiveness, Repentance, and Spiritual Healing"
-preacher: "Unknown parish priest (Der Hayr)"
+preacher: "Fr. Mesrop Ash"
 language: "Armenian and English"
 theme: "Using Christ’s healing of the paralytic, the homily teaches that complete restoration begins with forgiveness and the healing of the soul. Genuine repentance requires recognizing even the sins to which we are blind, confessing them honestly, and becoming willing to change. Saint Mary is presented as the foremost example of a life conformed to God’s will in preparation for her approaching feast."
 scriptureReference: "Mark 2:1–12"

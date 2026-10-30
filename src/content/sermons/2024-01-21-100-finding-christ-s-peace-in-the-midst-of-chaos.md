@@ -2,7 +2,7 @@
 archiveId: 100
 sermonDate: "2024-01-21"
 title: "Finding Christ’s Peace in the Midst of Chaos"
-preacher: "Not identified in the provided transcript"
+preacher: "Fr. Mesrop Ash"
 language: "English"
 theme: "Using Ivan Aivazovsky’s turbulent seascapes as an image for life’s anxieties, the preacher compares their small points of refuge to Christ’s presence with the frightened disciples on the Sea of Galilee. Believers are urged to focus upon Christ as their enduring source of peace when circumstances feel chaotic and beyond their control."
 scriptureReference: "John 6:16–21"
