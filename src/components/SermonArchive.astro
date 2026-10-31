@@ -24,18 +24,15 @@ const shortcuts = ["forgiveness", "prayer", "peace-and-anxiety", "hope-in-suffer
 ---
 
 <BaseLayout title={page > 1 ? `Page ${page} | Sermons | Fr. Mesrop Ash` : undefined}>
-  <section class="mx-auto max-w-5xl px-6 pb-12 pt-16 sm:px-8 sm:pt-24">
-    <p class="text-sm font-semibold tracking-[0.18em] text-gold uppercase">Sermon Archive</p>
-    <h1 class="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-pine sm:text-6xl">
-      Homilies for reflection, prayer, and return.
-    </h1>
-    <p class="mt-6 max-w-2xl text-lg leading-8 text-ink/75">
+  <section class="mx-auto max-w-5xl px-6 pb-12 pt-8 sm:px-8 sm:pt-10">
+    <h1 class="text-sm font-semibold tracking-[0.18em] text-gold uppercase">Sermon Archive</h1>
+    <p class="mt-3 max-w-2xl text-base leading-7 text-ink/75">
       A growing collection of finalized sermons by Fr. Mesrop Ash and guest preachers at St. John Armenian Church.
     </p>
-    <p class="mt-6 text-sm text-ink/60">{sermons.length} finalized sermons</p>
+    <p class="mt-3 text-sm text-ink/60">{sermons.length} finalized sermons</p>
 
     {sermons.length > 0 && (
-      <form class="mt-8" action="/" method="get" role="search" data-sermon-search-form>
+      <form class="mt-6" action="/" method="get" role="search" data-sermon-search-form>
         <label class="text-sm font-semibold text-pine" for="sermon-search">Search by topic, Scripture, or a question</label>
         <div class="mt-2 flex max-w-3xl gap-2">
           <input
