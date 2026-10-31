@@ -1,6 +1,10 @@
 ---
-import { getCollection, render, type CollectionEntry } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import SermonNavigator from "../../components/SermonNavigator.astro";
+import { prepareSermon } from "../../lib/sermon-passages";
+import { currentNavigator, type NavigatorPoint, type NavigatorArtifact } from "../../lib/sermon-navigator";
+import navigatorArtifact from "../../data/navigators.json";
 import { formatSermonDate, videoStartUrl } from "../../lib/sermons";
 import { tagUrl } from "../../lib/tags";
 import { assignedTopics, getDiscovery } from "../../lib/discovery-data";
@@ -10,6 +14,8 @@ import { TOPICS, type TopicId } from "../../lib/topic-taxonomy";
 interface Props {
   entry: CollectionEntry<"sermons">;
   discovery: DiscoveryRecord | null;
+  html: string;
+  points: NavigatorPoint[];
   related: { entry: CollectionEntry<"sermons">; sharedTopics: TopicId[] }[];
 }
 
@@ -17,26 +23,31 @@ export async function getStaticPaths() {
   const sermons = await getCollection("sermons");
   const discovery = getDiscovery(sermons);
   const byId = new Map(sermons.map((entry) => [entry.data.archiveId, entry]));
-  return sermons.map((entry) => ({
+  return Promise.all(sermons.map(async (entry) => {
+    const prepared = await prepareSermon(entry.body ?? "");
+    return {
     params: { slug: entry.id },
     props: {
       entry, discovery: discovery.get(entry.data.archiveId) ?? null,
+      html: prepared.html,
+      points: currentNavigator(entry, prepared.passages, navigatorArtifact as NavigatorArtifact),
       related: (discovery.get(entry.data.archiveId)?.related ?? []).map((item) => ({ entry: byId.get(item.archiveId)!, sharedTopics: item.sharedTopics }))
     }
+  };
   }));
 }
 
-const { entry, discovery, related } = Astro.props;
+const { entry, discovery, related, html, points } = Astro.props;
 const topics = assignedTopics(discovery);
-const { Content } = await render(entry);
 const sermon = entry.data;
 const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
 ---
 
 <BaseLayout title={`${sermon.title} | Sermons | Fr. Mesrop Ash`} description={sermon.theme ?? sermon.title}>
-  <article class="mx-auto max-w-3xl px-6 pb-12 pt-14 sm:px-8 sm:pt-20">
+  <article class:list={["site-shell sermon-page", { "without-navigator": points.length === 0 }]}>
+    <header class="sermon-heading">
     <a class="text-sm font-semibold text-pine underline decoration-gold decoration-2" href="/">← All sermons</a>
-    <p class="mt-10 text-sm font-semibold tracking-wide text-gold">{formatSermonDate(sermon.sermonDate)}</p>
+    <p class="mt-10 text-sm font-semibold tracking-wide text-gold-ink">{formatSermonDate(sermon.sermonDate)}</p>
     <h1 class="mt-3 text-4xl font-semibold leading-tight text-pine sm:text-5xl">{sermon.title}</h1>
     <p class="mt-5 text-lg text-ink/75">{sermon.preacher}</p>
     {sermon.scriptureReference && <p class="mt-3 text-sm italic text-ink/65">{sermon.scriptureReference}</p>}
@@ -54,10 +65,10 @@ const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
       Watch on YouTube
     </a>
 
-    <div class="sermon-text mt-12 text-[1.08rem] leading-8 text-ink/90">
-      <Content />
-    </div>
-
+    </header>
+    <SermonNavigator points={points} />
+    <div class="sermon-text" set:html={html} />
+    <div class="sermon-followup">
     {topics.length > 0 && (
       <section class="mt-12 border-t border-pine/15 pt-6">
         <h2 class="text-sm font-semibold tracking-wide text-pine uppercase">Topics</h2>
@@ -101,6 +112,7 @@ const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
         </ul>
       </details>
     )}
+    </div>
   </article>
 </BaseLayout>
 

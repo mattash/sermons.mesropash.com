@@ -31,9 +31,13 @@ jobs:
       - name: Restore Clef decision cache
         uses: actions/cache@v4
         with:
-          path: .cache/clef-responses.json
-          key: sermon-clef-v1-${{ runner.os }}-${{ github.run_id }}
+          path: |
+            .cache/clef-responses.json
+            .cache/navigator-responses.json
+            .cache/navigator-progress.json
+          key: sermon-discovery-v2-${{ runner.os }}-${{ github.run_id }}
           restore-keys: |
+            sermon-discovery-v2-${{ runner.os }}-
             sermon-clef-v1-${{ runner.os }}-
 
       - name: Refresh sermon topics and similar sermons
@@ -43,13 +47,20 @@ jobs:
           CLOUDFLARE_WORKERSAI_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_WORKERSAI_ACCOUNT_ID }}
         run: npm run discovery:refresh -- --if-credentials
 
+      - name: Refresh sermon key-point navigators
+        continue-on-error: true
+        env:
+          CLOUDFLARE_WORKERSAI_API_KEY: ${{ secrets.CLOUDFLARE_WORKERSAI_API_KEY }}
+          CLOUDFLARE_WORKERSAI_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_WORKERSAI_ACCOUNT_ID }}
+        run: npm run navigators:refresh -- --if-credentials
+
       - run: npm test
       - run: npm run check
       - run: npm run build
 
       - name: Commit published sermons and discovery data
         run: |
-          git add src/content/sermons src/data/discovery.json
+          git add src/content/sermons src/data/discovery.json src/data/navigators.json
           if git diff --cached --quiet; then
             exit 0
           fi

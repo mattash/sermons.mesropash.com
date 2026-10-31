@@ -3,10 +3,10 @@ import { parseEnv } from "node:util";
 
 export const CLEF_MODEL = "@cf/cloudflare/clef";
 
-export async function createClefClient(credentialFile) {
+export async function createClefClient(credentialFile, suppliedValues) {
   // Consume only the Cloudflare fields. Never copy the mounted Environment into
   // process.env, a child process, logs, or an artifact.
-  const values = credentialFile ? parseEnv(await readFile(credentialFile, "utf8")) : process.env;
+  const values = suppliedValues ?? (credentialFile ? parseEnv(await readFile(credentialFile, "utf8")) : process.env);
   const token = values.CLOUDFLARE_WORKERSAI_API_KEY;
   const account = values.CLOUDFLARE_WORKERSAI_ACCOUNT_ID;
   if (!token || !account) throw new Error("Cloudflare Workers AI credential variables are missing.");

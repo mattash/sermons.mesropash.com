@@ -5,8 +5,8 @@ The public sermon archive for Fr. Mesrop Ash: static pages with one server-side 
 ## Publishing workflow
 
 1. The private sermon archive is the source of truth. Only records with both `status=reviewed` and `review_status=reviewed` are published by its public API.
-2. This repository's GitHub Action runs hourly (and can be run manually), fetches that API, converts every finalized sermon to `src/content/sermons/*.md`, and refreshes Clef discovery when its credentials are configured.
-3. Changed Markdown and discovery data are committed automatically. Vercel deploys that commit to `https://sermons.mesropash.com`.
+2. This repository's GitHub Action runs hourly (and can be run manually), fetches that API, converts every finalized sermon to `src/content/sermons/*.md`, and refreshes Clef discovery and sermon navigators when their credentials are configured.
+3. Changed Markdown, discovery data, and navigator data are committed automatically. Vercel deploys that commit to `https://sermons.mesropash.com`.
 
 The Markdown is generated. Edit sermon content in the archive, not in this repository.
 
@@ -37,3 +37,6 @@ The live Clef endpoint needs the two Cloudflare variables in the Vercel **produc
 
 Run `npm test`, `npm run check`, and `npm run build` before publishing changes. Clef assigns a stable topic vocabulary and compares full transcripts to produce cached related-sermon links. Browse them at `/topics/`. Setup, refresh commands, curator overrides, and the hourly publishing behavior are documented in [docs/topic-discovery.md](docs/topic-discovery.md).
 
+## Sermon navigation
+
+Every sermon has an **At a glance** menu with three to six concise key teachings linked to their exact source passages. It stays beside the text on desktop and becomes an expandable menu above the text on smaller screens. Outlines are generated during publishing and checked with Clef; browsing them makes no model calls. See [docs/sermon-navigator.md](docs/sermon-navigator.md) for generation and maintenance.

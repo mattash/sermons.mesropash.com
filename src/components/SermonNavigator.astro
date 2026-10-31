@@ -1,0 +1,57 @@
+---
+import Icon from "./Icon.astro";
+import type { NavigatorPoint } from "../lib/sermon-navigator";
+interface Props { points: NavigatorPoint[] }
+const { points } = Astro.props;
+---
+{points.length >= 3 && (
+  <aside class="sermon-navigator" aria-labelledby="sermon-navigator-heading" data-sermon-navigator>
+    <details open data-navigator-details>
+      <summary><h2 id="sermon-navigator-heading">At a glance</h2><Icon name="chevron-right" /></summary>
+      <nav aria-label="Sermon key points">
+        <ol>
+          {points.map((point) => <li><a href={"#" + point.passageId} data-navigator-link>{point.text}</a></li>)}
+        </ol>
+      </nav>
+    </details>
+  </aside>
+)}
+<script>
+  const navigator = document.querySelector<HTMLElement>("[data-sermon-navigator]");
+  const details = navigator?.querySelector<HTMLDetailsElement>("[data-navigator-details]");
+  const links = [...navigator?.querySelectorAll<HTMLAnchorElement>("[data-navigator-link]") ?? []];
+  const media = window.matchMedia("(min-width: 1024px)");
+  if (details && links.length) {
+    details.open = media.matches;
+    media.addEventListener("change", () => { details.open = media.matches; });
+    const targets = links.map((link) => document.getElementById(link.hash.slice(1)));
+    let pending = false;
+    const update = () => {
+      pending = false;
+      let current = 0;
+      for (let index = 0; index < targets.length; index++) {
+        if ((targets[index]?.getBoundingClientRect().top ?? Infinity) <= 32) current = index;
+      }
+      if (scrollY + innerHeight >= document.documentElement.scrollHeight - 2) current = links.length - 1;
+      links.forEach((link, index) => {
+        if (index === current) link.setAttribute("aria-current", "location");
+        else link.removeAttribute("aria-current");
+      });
+    };
+    const schedule = () => { if (!pending) { pending = true; requestAnimationFrame(update); } };
+    navigator!.addEventListener("click", (event) => {
+      const link = (event.target as Element).closest<HTMLAnchorElement>("[data-navigator-link]");
+      if (!link || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return;
+      if (!media.matches) details.open = false;
+      const target = document.getElementById(link.hash.slice(1));
+      requestAnimationFrame(() => { target?.focus({ preventScroll: true }); schedule(); });
+    });
+    window.addEventListener("scroll", schedule, { passive: true });
+    window.addEventListener("resize", schedule);
+    window.addEventListener("hashchange", schedule);
+    if (/^#passage-[a-f0-9]{16}(?:-\d+)?$/.test(location.hash)) {
+      requestAnimationFrame(() => { document.getElementById(location.hash.slice(1))?.scrollIntoView({ block: "start", behavior: "auto" }); schedule(); });
+    }
+    schedule();
+  }
+</script>

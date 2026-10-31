@@ -1,0 +1,2128 @@
+{
+  "schemaVersion": 1,
+  "promptVersion": "1",
+  "passageVersion": "1",
+  "generationModel": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "verificationModel": "@cf/cloudflare/clef",
+  "generatedAt": "2026-10-31T01:50:59.501Z",
+  "sermons": {
+    "3": {
+      "contentHash": "35a1157903cf22049b5bc11b63be02fae66f2e5fa52af77d20e81e9a7b2a668e",
+      "points": [
+        {
+          "text": "Jesus heals the blind man.",
+          "passageId": "passage-ebc9ea1a57435da4"
+        },
+        {
+          "text": "Spiritual blindness prevents understanding reality.",
+          "passageId": "passage-71a4fe557dfe3946"
+        },
+        {
+          "text": "True sight requires seeing with the heart.",
+          "passageId": "passage-8320caa04ab318b7"
+        },
+        {
+          "text": "Admitting spiritual blindness is the first step to healing.",
+          "passageId": "passage-f25da03f9310e8b3"
+        }
+      ]
+    },
+    "4": {
+      "contentHash": "f8200854cc373a2fdcd2835e66430d4352054a679383862cc3b0a8b5e5a01d82",
+      "points": [
+        {
+          "text": "God's power is represented by fire.",
+          "passageId": "passage-b2c064c2ba72e378"
+        },
+        {
+          "text": "Elijah proved God's power by calling down fire.",
+          "passageId": "passage-f1e370926f8a6e6a"
+        },
+        {
+          "text": "We must not settle for false idols.",
+          "passageId": "passage-38c5b30fdfde8cdc"
+        },
+        {
+          "text": "The Holy Spirit brings God's presence to us.",
+          "passageId": "passage-a8cebba4badacd51"
+        },
+        {
+          "text": "God speaks to us in stillness and peace.",
+          "passageId": "passage-b38954a75267b7dc"
+        }
+      ]
+    },
+    "5": {
+      "contentHash": "6cbb5acd4c82787dea2c6792856f8c3562fdbd0e7dda6886a3ffe41184cd17a4",
+      "points": [
+        {
+          "text": "Jesus heals a man born blind.",
+          "passageId": "passage-f2d033d399b4e00a"
+        },
+        {
+          "text": "Jesus fulfills the law with grace and healing.",
+          "passageId": "passage-3ffbd7e68fcc7e9d"
+        },
+        {
+          "text": "Spiritual blindness is the most dangerous type of blindness.",
+          "passageId": "passage-7f53e9d8246df25c"
+        }
+      ]
+    },
+    "6": {
+      "contentHash": "a6afbf60e4e694251f8ead2fa95e2819e13bde076dca10b7f4693c125a9f8e9f",
+      "points": [
+        {
+          "text": "St. Cyril wrote to the emperor about the cross appearing in the sky.",
+          "passageId": "passage-c56756146b4e38b7"
+        },
+        {
+          "text": "God loves us because Jesus was crucified on the cross.",
+          "passageId": "passage-675e64659151f47f"
+        },
+        {
+          "text": "The cross reminds us that God loves us.",
+          "passageId": "passage-e4e5275423d11dc9"
+        }
+      ]
+    },
+    "8": {
+      "contentHash": "03b3b47b0aab3ee7d6f6772a8066ff6eaf76773f730e4483db65a42bf5e26f9f",
+      "points": [
+        {
+          "text": "Easter continues every Sunday and every day for the church's saints.",
+          "passageId": "passage-8ca646b5c27b8900"
+        },
+        {
+          "text": "The word 'Easter' reminds us of the Hebrew word 'Pasakh'.",
+          "passageId": "passage-08479e802125f879"
+        },
+        {
+          "text": "We are saved from death by Jesus' blood today.",
+          "passageId": "passage-399529e8d8c022c6"
+        },
+        {
+          "text": "Sunday is a new thing, the first day of the week, and the beginning of a new cycle.",
+          "passageId": "passage-f8893583291c8a6c"
+        },
+        {
+          "text": "Everything was made new again through Jesus Christ's resurrection.",
+          "passageId": "passage-fec91e482f925a56"
+        }
+      ]
+    },
+    "9": {
+      "contentHash": "e10a098aaa69517e3a1800d0e8ecce8517e389694de6408651e8605a71c470a8",
+      "points": [
+        {
+          "text": "Jesus speaks clearly about resurrection.",
+          "passageId": "passage-f585107a344154be"
+        },
+        {
+          "text": "We must remember the martyrs who died for their faith.",
+          "passageId": "passage-cf34196ab648ba05"
+        },
+        {
+          "text": "Our goal is to become like Christ.",
+          "passageId": "passage-efaa462a41cf71fc"
+        }
+      ]
+    },
+    "10": {
+      "contentHash": "4929aa2cb2e5badac6d28d47c896de6a12c4936ea5d0423cfedf9a5a2fb1764e",
+      "points": [
+        {
+          "text": "God rebuilds the world through Christ's resurrection.",
+          "passageId": "passage-7df82ed94bc43b21"
+        },
+        {
+          "text": "Christ's resurrection is a new creation for all.",
+          "passageId": "passage-05dc71175a8fb14a"
+        },
+        {
+          "text": "The resurrection rebuilds what sin has broken within us.",
+          "passageId": "passage-3c99b5df2906b2de"
+        },
+        {
+          "text": "The resurrection is an ongoing reality in our lives.",
+          "passageId": "passage-e8189cd08a145023"
+        }
+      ]
+    },
+    "11": {
+      "contentHash": "4df48d3dc7882b69286780e96d55a267b5a7441b782e98821becc15512cdb30d",
+      "points": [
+        {
+          "text": "People react differently to Christ.",
+          "passageId": "passage-04e5937849736de3"
+        },
+        {
+          "text": "We must apply Christ's teachings.",
+          "passageId": "passage-9345adc8d3cd9517"
+        },
+        {
+          "text": "New life requires sacrifice and virtue.",
+          "passageId": "passage-1cdc028d95516b2a"
+        },
+        {
+          "text": "Christ is risen from the dead.",
+          "passageId": "passage-88c4b71b5b646d9a"
+        }
+      ]
+    },
+    "12": {
+      "contentHash": "1e411bb86d93b100d3adb321bef017a29563cabb8e1a8792a2b939b482aa992d",
+      "points": [
+        {
+          "text": "Christ gave his body and blood.",
+          "passageId": "passage-0a3382b23087c101"
+        },
+        {
+          "text": "We eat the Messiah by believing.",
+          "passageId": "passage-5a70498750e237fe"
+        },
+        {
+          "text": "Christ washed his disciples' feet.",
+          "passageId": "passage-6cf0c83f546c2f96"
+        },
+        {
+          "text": "Christians must examine themselves.",
+          "passageId": "passage-30d6e3ec8aac5101"
+        }
+      ]
+    },
+    "13": {
+      "contentHash": "b650b7bf73d87c2c02ca242beac52286ad60bce1401a438b30c695a72a888c7d",
+      "points": [
+        {
+          "text": "Hosanna means save us.",
+          "passageId": "passage-ef7a46fbd2f90974"
+        },
+        {
+          "text": "Faith should be felt outside temple.",
+          "passageId": "passage-5c3af34f77a816c6"
+        },
+        {
+          "text": "God keeps his promises.",
+          "passageId": "passage-5e019d868cd74ec5"
+        },
+        {
+          "text": "Jesus always keeps promises.",
+          "passageId": "passage-bc5714312c19ad0d"
+        }
+      ]
+    },
+    "14": {
+      "contentHash": "8920ad0852b5462fbcd438a26704201c9103ef540742b9e17718e0c46332a3f9",
+      "points": [
+        {
+          "text": "Christ reveals Himself in turmoil.",
+          "passageId": "passage-937c4b28ca49b1ca"
+        },
+        {
+          "text": "Our Savior doesn't prevent difficulties.",
+          "passageId": "passage-9a07053101e78dd6"
+        },
+        {
+          "text": "Christ is the medicine for pain.",
+          "passageId": "passage-d4d257fbcf43548f"
+        }
+      ]
+    },
+    "15": {
+      "contentHash": "2147855d6772e5d48f0ffd0411eb1dfb6dd2f046afc721c79c0b86d57bcc9c17",
+      "points": [
+        {
+          "text": "God provides for our essential needs.",
+          "passageId": "passage-2ba3d16837264b0f"
+        },
+        {
+          "text": "Christ fulfills our deeper spiritual thirst.",
+          "passageId": "passage-6f7f9140c62c615e"
+        },
+        {
+          "text": "Christ's love and forgiveness are always enough.",
+          "passageId": "passage-55ff83bf9832fe66"
+        },
+        {
+          "text": "Spiritual disciplines help us appreciate Christ's provision.",
+          "passageId": "passage-a0c2f0f43c06addf"
+        }
+      ]
+    },
+    "16": {
+      "contentHash": "81a8c4bce1d33c5326e3dc834f2cc42665d9c37211dae11cb1abfd5a60552272",
+      "points": [
+        {
+          "text": "Jesus was not present when Lazarus died.",
+          "passageId": "passage-7d6cdc7726f8445b"
+        },
+        {
+          "text": "Christ responds to Lazarus' death with a striking phrase.",
+          "passageId": "passage-1957543e54c3eaf4"
+        },
+        {
+          "text": "There are times when prayers are not immediately answered.",
+          "passageId": "passage-c2f0dd9cf62742a3"
+        },
+        {
+          "text": "God's will is done in the fullness of time.",
+          "passageId": "passage-a4b568476d4812cd"
+        },
+        {
+          "text": "Christ's power is revealed in the fullness of time.",
+          "passageId": "passage-e357fd53124a4f2e"
+        }
+      ]
+    },
+    "17": {
+      "contentHash": "0b1aa43b17aba0338e1eef59c976740b1439e3db1d83d6301932e91afe015247",
+      "points": [
+        {
+          "text": "We must return to our baptism.",
+          "passageId": "passage-e1b62fe2e6a9ac07"
+        },
+        {
+          "text": "Jesus' baptism is crucial for all Christianity.",
+          "passageId": "passage-9b6e668d56728b5b"
+        },
+        {
+          "text": "We have a place to return to find our way home.",
+          "passageId": "passage-3d6a8b4089db7e46"
+        },
+        {
+          "text": "Baptism is a central spiritual moment.",
+          "passageId": "passage-4784ced50d1b982e"
+        }
+      ]
+    },
+    "18": {
+      "contentHash": "78180ef234aad2d951eabeb85056678ed821a0f817a0fc89fd32f96413bd46b2",
+      "points": [
+        {
+          "text": "Christ's birth reveals God's boundless love.",
+          "passageId": "passage-9ee31596e2222a2e"
+        },
+        {
+          "text": "Prepare for the feast through prayer and fasting.",
+          "passageId": "passage-252320581ec43964"
+        },
+        {
+          "text": "Forbearance is key in relationships and family life.",
+          "passageId": "passage-e3af9afa821b7ebc"
+        }
+      ]
+    },
+    "19": {
+      "contentHash": "c66cd03caf597c109d8f38ae1fb89c51ffed9255de5de35e326061bedd4d51f0",
+      "points": [
+        {
+          "text": "Christ warns against self-exaltation.",
+          "passageId": "passage-736628e130235438"
+        },
+        {
+          "text": "Humility exalts believers.",
+          "passageId": "passage-69b4451c5e584862"
+        },
+        {
+          "text": "Pride voids good works.",
+          "passageId": "passage-b40af5e16ad98ae2"
+        },
+        {
+          "text": "Prayer shapes the soul.",
+          "passageId": "passage-cb967d95cad47356"
+        },
+        {
+          "text": "Kings humble themselves before God.",
+          "passageId": "passage-5f7cf64e833871b2"
+        }
+      ]
+    },
+    "20": {
+      "contentHash": "c4988cd0cf8a4f62116046530f3745cf373386f08349d0ddec0b3fb88d3fc2d0",
+      "points": [
+        {
+          "text": "Faith is like a mustard seed.",
+          "passageId": "passage-39ee934d10fe3216"
+        },
+        {
+          "text": "God wants true and sincere faith.",
+          "passageId": "passage-da979d7a8a2a4dc8"
+        },
+        {
+          "text": "Our faith should be lived out daily.",
+          "passageId": "passage-13e3ec3b6ff5d22c"
+        },
+        {
+          "text": "We should be careful not to influence others negatively.",
+          "passageId": "passage-28ae73e3cda8d3f3"
+        },
+        {
+          "text": "We should humble ourselves before God.",
+          "passageId": "passage-a27e70b6827bff55"
+        }
+      ]
+    },
+    "21": {
+      "contentHash": "e0dfca78c8fd0426a5799cde1bdbcfc8d34ad5f52e20f12ae299238df74d89de",
+      "points": [
+        {
+          "text": "We should be thankful for God's second chances.",
+          "passageId": "passage-e14385f61a3f8f13"
+        },
+        {
+          "text": "Our chances to repent and change are finite.",
+          "passageId": "passage-f9c6920550667461"
+        },
+        {
+          "text": "Christ's sacrifice nourishes us to bear fruit.",
+          "passageId": "passage-fcbce719f63c1db8"
+        }
+      ]
+    },
+    "22": {
+      "contentHash": "bdb2d2c4b3ba27d3fe382ddb6fe8a9f6992cb08dbc63693dad67288595801e0d",
+      "points": [
+        {
+          "text": "We all experience anxiety in life.",
+          "passageId": "passage-5cd25c986935e92d"
+        },
+        {
+          "text": "We need spiritual nourishment when we are anxious.",
+          "passageId": "passage-af56446744157bac"
+        },
+        {
+          "text": "Christ teaches us to be satisfied with what we have.",
+          "passageId": "passage-95d59ad6c7a768a1"
+        }
+      ]
+    },
+    "23": {
+      "contentHash": "ba52a2f5eaa5847161d41330b0a1ef937738f0c725f437708f331c7a049f8ae9",
+      "points": [
+        {
+          "text": "Christ teaches humility through a child.",
+          "passageId": "passage-43041a605f7a8891"
+        },
+        {
+          "text": "Comparison steals joy.",
+          "passageId": "passage-e565ffdf9621e36d"
+        },
+        {
+          "text": "Envy destroys peace and joy.",
+          "passageId": "passage-88aa3cc8ac20371d"
+        },
+        {
+          "text": "God judges individually.",
+          "passageId": "passage-66aa5c5d6084cd94"
+        },
+        {
+          "text": "Celebrate others' gifts.",
+          "passageId": "passage-825c1645f5aa2670"
+        }
+      ]
+    },
+    "24": {
+      "contentHash": "14623e60deb2c3c65ff74de0a90d6b0ad539292b5c99b79b0f19b1a1d5b3f0dd",
+      "points": [
+        {
+          "text": "We must do what Jesus tells us to do.",
+          "passageId": "passage-38b5f7ba28d1e8c5"
+        },
+        {
+          "text": "We should help the poor.",
+          "passageId": "passage-1abc7a86707e488c"
+        },
+        {
+          "text": "Jesus said to love each other.",
+          "passageId": "passage-cb1cdede400176f5"
+        },
+        {
+          "text": "Jesus invites us to be his children.",
+          "passageId": "passage-d2df30e757bdd49a"
+        }
+      ]
+    },
+    "25": {
+      "contentHash": "48fcf56a25c3cca6a3742e0b9d881698e92bc59b9ae1f5a6c907cb312baa29c0",
+      "points": [
+        {
+          "text": "God made the world's wisdom foolish.",
+          "passageId": "passage-39ab10d7b450300a"
+        },
+        {
+          "text": "We are fools in this world.",
+          "passageId": "passage-0ac0ca6960a56a45"
+        },
+        {
+          "text": "Only God knows the date of Christ's coming.",
+          "passageId": "passage-36a04661b2d5c24a"
+        }
+      ]
+    },
+    "27": {
+      "contentHash": "7a0195c043b3b69eac51db1c5d04708d32a26a90c028e070a52abee3b3125be7",
+      "points": [
+        {
+          "text": "Faithfulness is crucial in our relationships.",
+          "passageId": "passage-3787e96b87d34c9b"
+        },
+        {
+          "text": "Christ calls us to perfection like God.",
+          "passageId": "passage-c6ab19091ff785ef"
+        },
+        {
+          "text": "We are Christ's bride, his immaculate church.",
+          "passageId": "passage-336b6393bfe08624"
+        },
+        {
+          "text": "We must remain loyal to Christ.",
+          "passageId": "passage-437345d1c1e07e9a"
+        }
+      ]
+    },
+    "28": {
+      "contentHash": "aa58c89018a846f426a8d8f5d197a9c093186a3b073fe7db2624e23d02147011",
+      "points": [
+        {
+          "text": "Jesus' second coming is the most important fact for humanity.",
+          "passageId": "passage-e403c6fe37c6e436"
+        },
+        {
+          "text": "We must prepare for Jesus' second coming.",
+          "passageId": "passage-73663868d409220a"
+        },
+        {
+          "text": "Jesus' return will bring justice and peace.",
+          "passageId": "passage-348a245e0f5540ce"
+        },
+        {
+          "text": "Faith in Jesus' return alleviates anxiety and fear.",
+          "passageId": "passage-9322d3572ee4c425"
+        },
+        {
+          "text": "We must reconnect with the promise of Jesus' return.",
+          "passageId": "passage-75e1b74122574e4d"
+        }
+      ]
+    },
+    "29": {
+      "contentHash": "364c8dcddcac6947fdfb8137e687244ee276bfae84c2d609f854411f1c46048b",
+      "points": [
+        {
+          "text": "Persistence in prayer is important.",
+          "passageId": "passage-29fcca2819cc7d76"
+        },
+        {
+          "text": "We must focus on our own shortcomings and sins.",
+          "passageId": "passage-e0c14d83744a0097"
+        },
+        {
+          "text": "We should stop worrying about what everybody else is doing.",
+          "passageId": "passage-caf868dcecc31774"
+        },
+        {
+          "text": "God will decide what is justified and what is not justified.",
+          "passageId": "passage-2a181eb78332ad20"
+        }
+      ]
+    },
+    "30": {
+      "contentHash": "0e9b8ca3bf8355e0922def0556a4c24023065c5db8f263ac6cf846b0aab389df",
+      "points": [
+        {
+          "text": "Christ enters heavenly Jerusalem.",
+          "passageId": "passage-681c200d36a7235e"
+        },
+        {
+          "text": "Heaven and earth unite in liturgy.",
+          "passageId": "passage-1b83987495619228"
+        },
+        {
+          "text": "We participate in heavenly worship.",
+          "passageId": "passage-93a8a34a1c92ae84"
+        }
+      ]
+    },
+    "32": {
+      "contentHash": "bf655b56997a519be1c621dbebf13226b982eb17b27f3c612617adf43463035d",
+      "points": [
+        {
+          "text": "Confession is admitting wrongdoing and taking responsibility.",
+          "passageId": "passage-97c4cc77f2a8fc71"
+        },
+        {
+          "text": "We must be brave and faithful to accept salvation.",
+          "passageId": "passage-a28593fdb4c59460"
+        },
+        {
+          "text": "Our salvation is available to us now if we humble ourselves.",
+          "passageId": "passage-39d491a03d6c7aad"
+        }
+      ]
+    },
+    "33": {
+      "contentHash": "6e019a7505d0616327b0fe4cd75817477ad6d74a87d92bfb11b353271c29b815",
+      "points": [
+        {
+          "text": "Christ presents Himself as a healer of mind, body, and soul.",
+          "passageId": "passage-b5c7ea12c7c1709e"
+        },
+        {
+          "text": "Christ says, 'Do not be afraid, but only believe.'",
+          "passageId": "passage-ae16e829d4d02f5d"
+        },
+        {
+          "text": "We pray for those who are asleep, not the dead.",
+          "passageId": "passage-b8705a601ed79470"
+        },
+        {
+          "text": "We must remain faithful to Christ to bring life to what was dead.",
+          "passageId": "passage-da999bf8e46a1099"
+        }
+      ]
+    },
+    "34": {
+      "contentHash": "ea79dbea26ea519bcbe9596c039f807b5331d5f7dc3fa4470aadaaeb759a814f",
+      "points": [
+        {
+          "text": "God is disappointed with His people.",
+          "passageId": "passage-8609ddbf4fb931f8"
+        },
+        {
+          "text": "We are responsible as a nation to be faithful to God.",
+          "passageId": "passage-707ae9f1d9345162"
+        },
+        {
+          "text": "Our current life is a struggle because of sin.",
+          "passageId": "passage-c4b4fae587977baa"
+        },
+        {
+          "text": "Jesus gives us hope to overcome our struggles.",
+          "passageId": "passage-0e72a0fde046b884"
+        },
+        {
+          "text": "We are called to be perfect like our Father in heaven.",
+          "passageId": "passage-27d0286de6a5a764"
+        }
+      ]
+    },
+    "35": {
+      "contentHash": "068da4c6fa5703cbee0f980dcea3558daa5fd758b22763d3629bfd0b2213ef1d",
+      "points": [
+        {
+          "text": "Saint Helena found the true cross in Jerusalem.",
+          "passageId": "passage-78d40686b375eb77"
+        },
+        {
+          "text": "The cross brings joy, life, and energy to our lives.",
+          "passageId": "passage-7bcac805abea2299"
+        },
+        {
+          "text": "We can find the cross in our daily lives by loving and serving others.",
+          "passageId": "passage-8c4445158a86f4d0"
+        },
+        {
+          "text": "We must be willing to sacrifice for others to find the cross.",
+          "passageId": "passage-153e7fa48584b437"
+        }
+      ]
+    },
+    "36": {
+      "contentHash": "e14762c64d001874944f4f8eb9b0275b551c64ddb4bf076cb0782ae7887f6f66",
+      "points": [
+        {
+          "text": "Saint John moved in Elizabeth's womb when Saint Mary arrived.",
+          "passageId": "passage-6c3dcfd8062ae22f"
+        },
+        {
+          "text": "Saint Mary's soul magnifies the Lord.",
+          "passageId": "passage-688205fe9226ae72"
+        },
+        {
+          "text": "We should turn to trusted people in our lives during milestone moments.",
+          "passageId": "passage-47101223eb0ff01c"
+        }
+      ]
+    },
+    "37": {
+      "contentHash": "3744e27bd78c72bf32e7a25eabdefc997c110601ef2ae6774302ae4932569c3d",
+      "points": [
+        {
+          "text": "Apostles reunite in Jerusalem for Mary's death.",
+          "passageId": "passage-51ef361b85fb777e"
+        },
+        {
+          "text": "Mary comforts apostles before her death.",
+          "passageId": "passage-d961998e4385b93c"
+        },
+        {
+          "text": "Mary's humility is the gold standard of being poor in spirit.",
+          "passageId": "passage-f82ffd60f7ccda76"
+        },
+        {
+          "text": "St. Mary's intercession helps us reach our destination safely.",
+          "passageId": "passage-64a9b9c0896f1aaa"
+        },
+        {
+          "text": "The church is the vessel bringing us to Christ.",
+          "passageId": "passage-bc8f200ed819b58b"
+        }
+      ]
+    },
+    "38": {
+      "contentHash": "45e9f52c889bb2748d38850a8f34815af6dc8e10501887da6a8d569236d4e364",
+      "points": [
+        {
+          "text": "Christ will separate the good from the evil at the time of judgment.",
+          "passageId": "passage-a7ce904f198f6ad1"
+        },
+        {
+          "text": "We must be patient and trust God's mercy and judgment.",
+          "passageId": "passage-334ac79f8daed921"
+        },
+        {
+          "text": "We must submit to Christ's authority and trust in His perfect judgment.",
+          "passageId": "passage-ac4bf6d7398fcabf"
+        },
+        {
+          "text": "The cross separates the wheat from the chaff, symbolizing salvation.",
+          "passageId": "passage-254f228f0e13acf2"
+        }
+      ]
+    },
+    "39": {
+      "contentHash": "f3a55f3f6ec44621cc3dd6bf9ada6648cc27fbc214a207f39ae335c2688a06d0",
+      "points": [
+        {
+          "text": "Jesus provides the sign of Jonah as proof.",
+          "passageId": "passage-edeafde113c1460f"
+        },
+        {
+          "text": "The sign of Jonah is the only sign needed.",
+          "passageId": "passage-2a2aa6fa08ffd040"
+        },
+        {
+          "text": "People demand signs due to weakness of faith.",
+          "passageId": "passage-1a4af6c022d97bb4"
+        },
+        {
+          "text": "Jesus rebukes those demanding signs.",
+          "passageId": "passage-34bf3bc8311a434c"
+        }
+      ]
+    },
+    "41": {
+      "contentHash": "f5d2890542683bdc306cc3ebc965a90bca6297d4a78922c30547d50ea117dfbd",
+      "points": [
+        {
+          "text": "Jesus desires mercy not sacrifice.",
+          "passageId": "passage-f4b1633685de3bf4"
+        },
+        {
+          "text": "Compassion is the number one priority for Christians.",
+          "passageId": "passage-95761cd6e0f2804d"
+        },
+        {
+          "text": "The church has a moral duty to speak to the reality of daily life.",
+          "passageId": "passage-9205cf1313c424ab"
+        }
+      ]
+    },
+    "43": {
+      "contentHash": "94c2acf6e7ae349c34752ca3551c9ec9b376a8ab66c8a92a4efc72706ceed201",
+      "points": [
+        {
+          "text": "A good father serves his family selflessly and sacrificially.",
+          "passageId": "passage-597e17f1344e00d3"
+        },
+        {
+          "text": "The Bible is a great teacher and guide for fathers and all Christians.",
+          "passageId": "passage-e1aadbce8fb26fef"
+        },
+        {
+          "text": "Fasting and prayer can help create space for the Holy Spirit in our lives.",
+          "passageId": "passage-678fc494e9bf825f"
+        }
+      ]
+    },
+    "44": {
+      "contentHash": "83a0d85a55b916527562a12f11337dea311d57363970a5db1e0323783ab9d116",
+      "points": [
+        {
+          "text": "The church is supposed to be unchanged.",
+          "passageId": "passage-025eeaa3c872c6df"
+        },
+        {
+          "text": "The early church was a learning church.",
+          "passageId": "passage-01f9d782070391cb"
+        },
+        {
+          "text": "The church was a church of fellowship.",
+          "passageId": "passage-0339ce398c869e8e"
+        },
+        {
+          "text": "The church was a sharing church.",
+          "passageId": "passage-1209567fda9ceba3"
+        },
+        {
+          "text": "The church was a happy church.",
+          "passageId": "passage-95094bdba50010ef"
+        }
+      ]
+    },
+    "45": {
+      "contentHash": "229f311465bbc6e21b733e01b948ede2c08ff42e0662819ac6814df3f4624219",
+      "points": [
+        {
+          "text": "Christ ascended to heaven to fulfill his purpose.",
+          "passageId": "passage-a1c6c64a3860776f"
+        },
+        {
+          "text": "Jesus is with us until the end of the age.",
+          "passageId": "passage-71737cb7994b0a5a"
+        },
+        {
+          "text": "Jesus is beyond our sight, but not beyond perception.",
+          "passageId": "passage-6de0d9b5f105f7dc"
+        }
+      ]
+    },
+    "46": {
+      "contentHash": "c2a566827c30fb1a30dbf9c68d5349f7f025b93ba4eec8539eb060c226e368b2",
+      "points": [
+        {
+          "text": "Christ came to give sight to the blind and take it away from those who see.",
+          "passageId": "passage-b0ab1b16c53d78f3"
+        },
+        {
+          "text": "Knowing the truth holds us accountable for our actions.",
+          "passageId": "passage-e0f70a16e942f0d1"
+        },
+        {
+          "text": "The church supports us in bearing the burden of knowing the truth.",
+          "passageId": "passage-9852bd76167ad2ed"
+        },
+        {
+          "text": "We must live according to the truth that has been revealed to us.",
+          "passageId": "passage-452574334083d243"
+        }
+      ]
+    },
+    "47": {
+      "contentHash": "fc47f0c6245cd8752de069921499dc8945b14ddc1f1645d85fe75f0a0977588f",
+      "points": [
+        {
+          "text": "The Holy Cross appeared to everyone in Jerusalem.",
+          "passageId": "passage-020ac4a0dbddec70"
+        },
+        {
+          "text": "This message is urgent and important.",
+          "passageId": "passage-325fb379c4acfcc8"
+        },
+        {
+          "text": "Christ is calling us to receive His gift.",
+          "passageId": "passage-f50056cd59a30010"
+        },
+        {
+          "text": "Christ died on the cross for our sins.",
+          "passageId": "passage-ee232bff742b6d16"
+        }
+      ]
+    },
+    "48": {
+      "contentHash": "0fc55ba8963a044b5eb4c1832a9ac0193d9692412e21ddc49ede3f5643b01ad4",
+      "points": [
+        {
+          "text": "Christ can do nothing without God's will.",
+          "passageId": "passage-5da3dfc2b39b42c5"
+        },
+        {
+          "text": "The Son's will is the same as the Father's will.",
+          "passageId": "passage-b94bf8d153f200ee"
+        },
+        {
+          "text": "The resurrection is a promise to Christ's flock.",
+          "passageId": "passage-48d28a19d6d08d30"
+        },
+        {
+          "text": "Bodily burial expresses hope for bodily resurrection.",
+          "passageId": "passage-fc4b05fb935a999e"
+        },
+        {
+          "text": "Christians should strive to become like Christ.",
+          "passageId": "passage-b3e6c4a1478dbecf"
+        }
+      ]
+    },
+    "49": {
+      "contentHash": "54d1a1d9bf2490846f4f65555140041d394fe3f98189975f892e5e1c1f55ebdd",
+      "points": [
+        {
+          "text": "Jesus reveals his true self to his disciples.",
+          "passageId": "passage-76404e7e7e4c4fd6"
+        },
+        {
+          "text": "Jesus will give us what we need to overcome doubt and arrive at salvation.",
+          "passageId": "passage-5bee417dff6976cc"
+        },
+        {
+          "text": "Faith helps overcome temptation and doubt.",
+          "passageId": "passage-2dcc8ad136f84041"
+        }
+      ]
+    },
+    "50": {
+      "contentHash": "00bfef70ed2d27f550f3f58d9a731d8fd08559ac6c942dd0c2d3788c2b671753",
+      "points": [
+        {
+          "text": "Jesus brings three disciples to Mount Tabor to rest.",
+          "passageId": "passage-c8d3d0ff77ab4bea"
+        },
+        {
+          "text": "Moses and Elijah appear with Jesus on Mount Tabor.",
+          "passageId": "passage-995af97a8aa4253c"
+        },
+        {
+          "text": "Jesus is the key to salvation, opening the door to God.",
+          "passageId": "passage-72e6feff86892aa3"
+        },
+        {
+          "text": "The Holy Trinity works together for human salvation.",
+          "passageId": "passage-be24dc5dd8565817"
+        },
+        {
+          "text": "Experiencing God happens in community with others.",
+          "passageId": "passage-f3fb2ad1d6d78cbe"
+        }
+      ]
+    },
+    "51": {
+      "contentHash": "453434b70ce27bf1c571c0c9df4a80e5a84fcfbb2af1ed5c2e1b1e5bed5e07e0",
+      "points": [
+        {
+          "text": "The disciples' sight changed, not Christ.",
+          "passageId": "passage-d2e539068d9f201e"
+        },
+        {
+          "text": "We must cultivate spiritual sight to see truth.",
+          "passageId": "passage-d33ad20e6b0b3351"
+        },
+        {
+          "text": "Spiritual truth illuminates the path to God.",
+          "passageId": "passage-b13cc3dc59f1d39c"
+        }
+      ]
+    },
+    "52": {
+      "contentHash": "2d618af2290ec1ad965e69bab101ce6ab1d2cbe7931061b0c132e4cfa3a24527",
+      "points": [
+        {
+          "text": "We must be like a child to enter the kingdom of heaven.",
+          "passageId": "passage-7f13ce3f40ffeceb"
+        },
+        {
+          "text": "Children understand God's limitless nature intuitively.",
+          "passageId": "passage-8f34cfc2b833c7a0"
+        },
+        {
+          "text": "We need to bring our limited things to Christ and say, 'Make this enough'.",
+          "passageId": "passage-4891953a1e578387"
+        }
+      ]
+    },
+    "53": {
+      "contentHash": "123a953d4666ebb6dea36ce662daf1dd6f5bf173e677f480134f606f42b7913f",
+      "points": [
+        {
+          "text": "Jesus feeds five thousand people with five loaves of bread and two fish.",
+          "passageId": "passage-73e7cdcf98d212d2"
+        },
+        {
+          "text": "God works miracles constantly because He is present in our lives.",
+          "passageId": "passage-d371fb320aa5826b"
+        },
+        {
+          "text": "Jesus Christ is the living God who lives in us and guides us.",
+          "passageId": "passage-f0c1fad5f1478f38"
+        },
+        {
+          "text": "We must listen to the Lord's living words and live by them.",
+          "passageId": "passage-31301fe46399f6c0"
+        },
+        {
+          "text": "Jesus is the living bread and water that we need to live spiritually.",
+          "passageId": "passage-ee78bde68862ad59"
+        }
+      ]
+    },
+    "54": {
+      "contentHash": "b809360864a96df446c8956bfebb9160bd486450277e8f699eb41687f55df85c",
+      "points": [
+        {
+          "text": "We must be responsible for the vulnerable.",
+          "passageId": "passage-d6072fdcf9618d44"
+        },
+        {
+          "text": "Christ searches for the lost.",
+          "passageId": "passage-d10080acc825fa6a"
+        },
+        {
+          "text": "Christ brings the lost into the fold.",
+          "passageId": "passage-caa340a226dc6d05"
+        },
+        {
+          "text": "Christ invites us to be found with love.",
+          "passageId": "passage-0ad0166b6e4629ad"
+        }
+      ]
+    },
+    "55": {
+      "contentHash": "7402d89bcdf251362784df0e54a8fc4d97d2974d5f9532454f016f0d14b54927",
+      "points": [
+        {
+          "text": "Jesus established his church before the Bible.",
+          "passageId": "passage-0da7646d852693bb"
+        },
+        {
+          "text": "The church is the living body of Jesus Christ.",
+          "passageId": "passage-8b5ae7ac84c31d0c"
+        },
+        {
+          "text": "We are the new Israel, God's people.",
+          "passageId": "passage-97235e2bf023c426"
+        },
+        {
+          "text": "The church continues Jesus' mission.",
+          "passageId": "passage-edbcb5dc4eccd394"
+        }
+      ]
+    },
+    "57": {
+      "contentHash": "fea6a2d700210ecccc37c555d79f7fef3c6a278491a92d8cfac4eebc7f6b4f5a",
+      "points": [
+        {
+          "text": "We cannot be proud in this life.",
+          "passageId": "passage-d8bbdffc02a5c88c"
+        },
+        {
+          "text": "We must have humility to accept help.",
+          "passageId": "passage-af2b11a55d4cc488"
+        },
+        {
+          "text": "Christ did for us what we cannot do.",
+          "passageId": "passage-6aee3aaad1b7ed27"
+        },
+        {
+          "text": "We must put pride aside to receive gifts.",
+          "passageId": "passage-d861217f497800ec"
+        }
+      ]
+    },
+    "58": {
+      "contentHash": "1f94d1fdfa216b03c34bd42bcd19a39cb92bdeeed45ca0ed71410579e6002657",
+      "points": [
+        {
+          "text": "We are enslaved by lies.",
+          "passageId": "passage-737acd09d0d1ac99"
+        },
+        {
+          "text": "We are enslaved by sin.",
+          "passageId": "passage-f9b5ae3996d1ec1e"
+        },
+        {
+          "text": "Jesus changed the miracle of delivering the children of God from Egypt into the deliverance of all human beings from death.",
+          "passageId": "passage-7702dbe56f526ae2"
+        },
+        {
+          "text": "We must receive the body and blood of the lamb into us to dwell with God in eternal life.",
+          "passageId": "passage-ea7e9d2c8d6ce204"
+        }
+      ]
+    },
+    "59": {
+      "contentHash": "a62bca8d0487341dc3724d58d0430784f1aa2c5cfa29c4799901214e2614e743",
+      "points": [
+        {
+          "text": "Living every day like it's Poon Paregantain is not good for you.",
+          "passageId": "passage-fa011f558eac6b64"
+        },
+        {
+          "text": "We fast during Lent to become spiritually stronger.",
+          "passageId": "passage-35b32f13f79e02b7"
+        },
+        {
+          "text": "Christ asks us to be sincere during Lent.",
+          "passageId": "passage-74eeb570c092b490"
+        },
+        {
+          "text": "Being sincere means presenting ourselves with our imperfections.",
+          "passageId": "passage-8071fb1fab29ed75"
+        },
+        {
+          "text": "Sincerity begins with honesty about our imperfections.",
+          "passageId": "passage-09aef9e8d4cc8212"
+        }
+      ]
+    },
+    "60": {
+      "contentHash": "c8342da036f5b4f4165ca072b4b9f984791012eeeb38ed57d53977c3f6d99f81",
+      "points": [
+        {
+          "text": "Christ promises rivers of living water to those who trust Him.",
+          "passageId": "passage-bd0b7ad64c678b36"
+        },
+        {
+          "text": "Faith in Jesus Christ is necessary for spiritual growth.",
+          "passageId": "passage-58f18c462b9b2ef1"
+        },
+        {
+          "text": "The Holy Spirit is the river of living water that flows from believers.",
+          "passageId": "passage-c2af1a89da1aa1fd"
+        },
+        {
+          "text": "Saint Vartan Mamigonian's trust in Christ is an example to follow.",
+          "passageId": "passage-c909daa7e3ff1924"
+        }
+      ]
+    },
+    "61": {
+      "contentHash": "5a09b0753414765be7df40eb5dd8bb2ddb4b3e3c6d24f53aae94e8ac38fba796",
+      "points": [
+        {
+          "text": "Believe in Jesus Christ to do God's work.",
+          "passageId": "passage-303806b4823e2da4"
+        },
+        {
+          "text": "Action flows from belief in Jesus Christ.",
+          "passageId": "passage-478d455d7c4f808f"
+        },
+        {
+          "text": "Belief without action is unfulfilled.",
+          "passageId": "passage-1ad8b691b1be5433"
+        },
+        {
+          "text": "Come to Jesus Christ for spiritual nourishment.",
+          "passageId": "passage-113b03933a1cb4e8"
+        }
+      ]
+    },
+    "62": {
+      "contentHash": "5c51e1fc8205d5eb2a9879547e5003b8cea43dd83472dbe36a25f0385b0887e8",
+      "points": [
+        {
+          "text": "Christ brings peace and reassurance to his disciples.",
+          "passageId": "passage-1ac76feff3e75216"
+        },
+        {
+          "text": "The church is a vessel for spiritual transfer.",
+          "passageId": "passage-9ec96df68434e549"
+        },
+        {
+          "text": "Christ comes to us despite all obstacles.",
+          "passageId": "passage-0af8c326cfaf9d84"
+        },
+        {
+          "text": "Everyone belongs in the church.",
+          "passageId": "passage-46afcefcd421b687"
+        },
+        {
+          "text": "We all belong to Jesus Christ and each other.",
+          "passageId": "passage-170fd36c2eca166f"
+        }
+      ]
+    },
+    "63": {
+      "contentHash": "cde0c77f6818bf173a6a5d785046f525f7acc960fa5d1c1bc3edecb245e79e91",
+      "points": [
+        {
+          "text": "God gave His only begotten Son for life.",
+          "passageId": "passage-8a2abc172f3ec6cb"
+        },
+        {
+          "text": "We must sacrifice to show love.",
+          "passageId": "passage-5054302780edc395"
+        },
+        {
+          "text": "Being alive is not enough, we need spiritual life.",
+          "passageId": "passage-d852d1a36c6127b0"
+        },
+        {
+          "text": "Love is transferred by sacrifice.",
+          "passageId": "passage-16da4102d48f3d4c"
+        },
+        {
+          "text": "We should love like God loves, with sacrifice.",
+          "passageId": "passage-83b0430e42450943"
+        }
+      ]
+    },
+    "64": {
+      "contentHash": "cb3b8a6af56d62d2dbf7135af81bdcb6520afeb2f1b2f0a1df477c12ceb2687f",
+      "points": [
+        {
+          "text": "Christ is the perfect example of everything.",
+          "passageId": "passage-f67c54855e07cf1d"
+        },
+        {
+          "text": "Jesus Christ works in part through intercession.",
+          "passageId": "passage-151489f9a064d618"
+        },
+        {
+          "text": "Christ is the one who answers our prayers.",
+          "passageId": "passage-ec4bfbd1097a6357"
+        },
+        {
+          "text": "We have to follow his teachings.",
+          "passageId": "passage-9e8ff3e13deab7cd"
+        },
+        {
+          "text": "We have to do what he says of us.",
+          "passageId": "passage-31786e8ea9739fac"
+        }
+      ]
+    },
+    "65": {
+      "contentHash": "d6a97ab25b0e059ea828c382d8e0aa9d59f143fa3460e5884f4642cebcd37d51",
+      "points": [
+        {
+          "text": "We get baptized with water.",
+          "passageId": "passage-8edfeb25ddf9b1cf"
+        },
+        {
+          "text": "Jesus was born in Bethlehem.",
+          "passageId": "passage-c606d534259bc537"
+        },
+        {
+          "text": "Jesus was placed in a manger.",
+          "passageId": "passage-eb4dcbefc1f6c3d8"
+        },
+        {
+          "text": "We receive Holy Communion as bread.",
+          "passageId": "passage-1f7c0124266200ec"
+        },
+        {
+          "text": "Hope of God helps uncertain times.",
+          "passageId": "passage-8c0d83a3bb83ec1d"
+        }
+      ]
+    },
+    "66": {
+      "contentHash": "b4689d44d65ba1d55177cbd0b69ed6963fb5a4ae63bf072a792053ad76b38b8c",
+      "points": [
+        {
+          "text": "Christ's birth reconciles us with God.",
+          "passageId": "passage-6210de12b139c3a1"
+        },
+        {
+          "text": "Baptism gives us the keys to the kingdom of heaven.",
+          "passageId": "passage-880881ee9c4c6fe4"
+        },
+        {
+          "text": "Baptism is essential for Christians.",
+          "passageId": "passage-45a09909be7b5269"
+        }
+      ]
+    },
+    "67": {
+      "contentHash": "2147e12476715d683b9bd931b1b2cace8d0d2c5db17c2615d30a848a2efd2801",
+      "points": [
+        {
+          "text": "Jesus revealed his full self to disciples.",
+          "passageId": "passage-462f307cfe5b39cd"
+        },
+        {
+          "text": "Jesus showed them the part of himself they usually don't see.",
+          "passageId": "passage-cbc467ea83e24465"
+        },
+        {
+          "text": "God said, 'This is my beloved son, listen to him.'",
+          "passageId": "passage-4caca8b611ba924a"
+        },
+        {
+          "text": "We hear Jesus when we read the Bible and pray.",
+          "passageId": "passage-9ca326b06b3edd01"
+        },
+        {
+          "text": "Jesus' secret is that he is our Savior.",
+          "passageId": "passage-af738c8f23bc3ba3"
+        }
+      ]
+    },
+    "68": {
+      "contentHash": "6582eeed4efbfd920774d301fac881e136029f1f9ceb1aacc7dfcd3c0dd87146",
+      "points": [
+        {
+          "text": "God encounters us with mercy when we repent.",
+          "passageId": "passage-534d1ac02970195f"
+        },
+        {
+          "text": "Our forgiveness depends on God's faithfulness.",
+          "passageId": "passage-767125f128410f91"
+        },
+        {
+          "text": "God chooses not to remember our sins after repentance.",
+          "passageId": "passage-52b5c59bdb3c7d6c"
+        },
+        {
+          "text": "Repentance transforms us daily.",
+          "passageId": "passage-3c9eb54f67208d23"
+        },
+        {
+          "text": "We must forgive others as God forgave us.",
+          "passageId": "passage-b69db8ad9b8c0b3e"
+        }
+      ]
+    },
+    "69": {
+      "contentHash": "494ef25fcf1e9b2f87799e699dd08dd0a3de2c2f2da7d2852b348b0e23d6ff1a",
+      "points": [
+        {
+          "text": "The church considers all life sacred.",
+          "passageId": "passage-e8a104d3ac2bccfd"
+        },
+        {
+          "text": "Christ teaches about love, not laws.",
+          "passageId": "passage-4e61f1f9e171aaa1"
+        },
+        {
+          "text": "The church supports people in marital difficulties.",
+          "passageId": "passage-86fcc14722cc8592"
+        },
+        {
+          "text": "Christ died on the cross to show fulfillment of a promise.",
+          "passageId": "passage-3fc034d5bf28566e"
+        },
+        {
+          "text": "Christ calls us to community and support.",
+          "passageId": "passage-aa685a1c9701544d"
+        }
+      ]
+    },
+    "70": {
+      "contentHash": "00f6ce773e0e117fb8404b64482dba6ae974bc1338ef150569b741b30c201bcf",
+      "points": [
+        {
+          "text": "Christ sends the Holy Spirit to guide his disciples.",
+          "passageId": "passage-071b3bfce6c70fd7"
+        },
+        {
+          "text": "The Holy Spirit brings peace where there is worry.",
+          "passageId": "passage-69c34cf237ffa25c"
+        },
+        {
+          "text": "The Holy Spirit heals wounds and renews the soul.",
+          "passageId": "passage-1f4d5056651ac1b5"
+        }
+      ]
+    },
+    "71": {
+      "contentHash": "19d7f82c1a8ef165581f72ad69306dc0a66a6a86fd4941870fb89f0448e1cd32",
+      "points": [
+        {
+          "text": "God fulfills His promises.",
+          "passageId": "passage-1fc29b88c11a11ce"
+        },
+        {
+          "text": "Christ exemplifies a God who keeps His promises.",
+          "passageId": "passage-4cf8888f0c1e6835"
+        },
+        {
+          "text": "God keeps His promises in our daily lives.",
+          "passageId": "passage-112fbcfacb7d75b6"
+        },
+        {
+          "text": "Jesus' name means He who saves.",
+          "passageId": "passage-522e7c0f6dd21ff9"
+        },
+        {
+          "text": "God keeps His promises in the fullness of time.",
+          "passageId": "passage-51779b0f4f417193"
+        }
+      ]
+    },
+    "72": {
+      "contentHash": "5ede31286fcadc7805098d527c2f240c7fc2a92da83a1c81b47ea0ad1ee1b311",
+      "points": [
+        {
+          "text": "We must keep trying during Lent.",
+          "passageId": "passage-402268344ba0e99b"
+        },
+        {
+          "text": "Persistence is key in our prayer life.",
+          "passageId": "passage-3e01530d09f30bc2"
+        },
+        {
+          "text": "God loves us perfectly and knows everything about us.",
+          "passageId": "passage-f390d3c21d9911fb"
+        },
+        {
+          "text": "New life through resurrection is a thousand times better.",
+          "passageId": "passage-11742751d6737e83"
+        }
+      ]
+    },
+    "74": {
+      "contentHash": "34cf0887cc207b5e9a709e401f34e57ccacb5e18965ff4e74486871bb21d84f8",
+      "points": [
+        {
+          "text": "Sin is turning away from God's will for us.",
+          "passageId": "passage-eddea6dc7f7b1a1f"
+        },
+        {
+          "text": "Repentance is never too late for anybody.",
+          "passageId": "passage-fab709c541b4b09e"
+        },
+        {
+          "text": "God's forgiveness is available to everybody.",
+          "passageId": "passage-e3e60a9c3972cf13"
+        },
+        {
+          "text": "We are called to celebrate God's forgiveness.",
+          "passageId": "passage-463da80a3f42eb83"
+        }
+      ]
+    },
+    "75": {
+      "contentHash": "189e164b2efe10fd7b8ec86d2931a49af61b3649961e6af0bfbca6f1813a79e2",
+      "points": [
+        {
+          "text": "Sin is falling short of God's will.",
+          "passageId": "passage-68397bdbc39a2087"
+        },
+        {
+          "text": "God expels Adam and Eve for their sake.",
+          "passageId": "passage-8c0c8153b0ce0808"
+        },
+        {
+          "text": "God wants humans to become like Him.",
+          "passageId": "passage-2dbabb789c710206"
+        },
+        {
+          "text": "Discipline is done out of love.",
+          "passageId": "passage-5c85a475dc309e1d"
+        },
+        {
+          "text": "Consequences can help adults grow.",
+          "passageId": "passage-d3d5487f2513507b"
+        }
+      ]
+    },
+    "77": {
+      "contentHash": "5036b98f17998732708ffd1131c6e882b390af097c52dc9a76f8e11bb57339f5",
+      "points": [
+        {
+          "text": "God judges his people based on their efforts.",
+          "passageId": "passage-1a99d734bda88b78"
+        },
+        {
+          "text": "Making a deposit of faith leads to spiritual growth.",
+          "passageId": "passage-d3b744f27453bcbc"
+        },
+        {
+          "text": "Attending church is a deposit of faith.",
+          "passageId": "passage-2a576cc559e3eeff"
+        },
+        {
+          "text": "Having faith leads to receiving more from God.",
+          "passageId": "passage-84d7cf83202cebbb"
+        }
+      ]
+    },
+    "81": {
+      "contentHash": "0b43f06edbe548c74034620cceb7a33f92dc5223f44d9939ef4a2881ceb06115",
+      "points": [
+        {
+          "text": "Generosity is about giving what you can.",
+          "passageId": "passage-78bca03aa03b3bf3"
+        },
+        {
+          "text": "Goodwill and love make up the difference.",
+          "passageId": "passage-d78e60d7b81bb0ed"
+        },
+        {
+          "text": "You have enough in God's eyes.",
+          "passageId": "passage-83f68b72b536d73c"
+        }
+      ]
+    },
+    "82": {
+      "contentHash": "fdd88e6f8c4e6ec5e54616737bcb61c39e95a5b80273dca921cb35b9332f1dc4",
+      "points": [
+        {
+          "text": "The Holy Cross of Varak is a feast of remembrance.",
+          "passageId": "passage-665d928ee3a20c44"
+        },
+        {
+          "text": "Jesus' Cross was in the hands of the Armenian people.",
+          "passageId": "passage-2f1d249ba2a4148f"
+        },
+        {
+          "text": "Jesus will return and be with us.",
+          "passageId": "passage-b29f08408404447c"
+        },
+        {
+          "text": "The Cross and Holy Muron bring us closer to Jesus.",
+          "passageId": "passage-0d2d95e23722c1d1"
+        },
+        {
+          "text": "We are blessed by the Holy Cross and Holy Muron.",
+          "passageId": "passage-8a8bbf7de06c633b"
+        }
+      ]
+    },
+    "83": {
+      "contentHash": "0cadff49548a2fd2f55c4af0432823e0b97ddb1156ac946fa7f2b734c0fdaf5d",
+      "points": [
+        {
+          "text": "Christ's forgiveness gives us opportunity for eternity.",
+          "passageId": "passage-85aa27d039cbe316"
+        },
+        {
+          "text": "Christ forgave while being crucified for us.",
+          "passageId": "passage-8f3718d72459f7fc"
+        },
+        {
+          "text": "We must participate in forgiving and being forgiven.",
+          "passageId": "passage-0ab04d41e5200c8e"
+        },
+        {
+          "text": "Forgiveness is a difficult path to follow.",
+          "passageId": "passage-46655686c76bdacb"
+        }
+      ]
+    },
+    "84": {
+      "contentHash": "6dd5adb0a9c3bce5dcc366fd740de90fc7485fdc4aa866950595c61678564c8d",
+      "points": [
+        {
+          "text": "Christ was transformed into blinding light.",
+          "passageId": "passage-72e155d659c29436"
+        },
+        {
+          "text": "People loved darkness rather than light.",
+          "passageId": "passage-f1bcdbb62b826253"
+        },
+        {
+          "text": "God created us with free will.",
+          "passageId": "passage-eff554fc75171ccf"
+        },
+        {
+          "text": "We choose to be children of light.",
+          "passageId": "passage-21a052af7ff35cc1"
+        },
+        {
+          "text": "God gives us everlasting life through pure love.",
+          "passageId": "passage-af6be7ce39a39b8a"
+        }
+      ]
+    },
+    "85": {
+      "contentHash": "7d9528e8a9cc314f44695f8a34bd4ce5c2631d0e9f54b2e5ee8c29ab4c0cd42b",
+      "points": [
+        {
+          "text": "Jesus Christ heals a deaf and mute man.",
+          "passageId": "passage-05080b021726676d"
+        },
+        {
+          "text": "Christ's healing is a call to be opened to God's will.",
+          "passageId": "passage-84b2deb3ff551d59"
+        },
+        {
+          "text": "The Divine Liturgy is an experience of being opened up to God.",
+          "passageId": "passage-a7a56ebb6407f6ca"
+        },
+        {
+          "text": "Christ touches our hearts through his physical touch in the Divine Liturgy.",
+          "passageId": "passage-cfecf3ad847a912c"
+        },
+        {
+          "text": "We are called to share the glory of the Lord after receiving blessings.",
+          "passageId": "passage-62f1fd7d5b060d21"
+        }
+      ]
+    },
+    "88": {
+      "contentHash": "14ae4f3171fa78c5562121e53e7961dfad894814a9d08ea439869c6552222a67",
+      "points": [
+        {
+          "text": "Jesus calls our name when we are lost.",
+          "passageId": "passage-01b4c940833e4f04"
+        },
+        {
+          "text": "We can recognize Jesus' voice.",
+          "passageId": "passage-77ef949a02e3ba79"
+        },
+        {
+          "text": "We learn to recognize Jesus' voice in church.",
+          "passageId": "passage-251f7fa219d890b8"
+        },
+        {
+          "text": "We belong to Jesus Christ.",
+          "passageId": "passage-d333140683536576"
+        },
+        {
+          "text": "Making the sign of the cross reminds us we belong to Jesus.",
+          "passageId": "passage-74b56e93a8bd2252"
+        }
+      ]
+    },
+    "91": {
+      "contentHash": "aaabef01c74f0252f26dd4ad10016a6dc9c3d05f608e3816f36f737872ec5505",
+      "points": [
+        {
+          "text": "Christ is risen from the dead.",
+          "passageId": "passage-acf04e45cb9c1be3"
+        },
+        {
+          "text": "People are not perfect.",
+          "passageId": "passage-ed43b4133ebb04dc"
+        },
+        {
+          "text": "Knowing ourselves is about knowing our worth and purpose.",
+          "passageId": "passage-ab813eaef84f9007"
+        },
+        {
+          "text": "Our lives are worth the life of God's only-begotten Son.",
+          "passageId": "passage-4a7680009ecb1e73"
+        },
+        {
+          "text": "We must have assurance in knowing our life's destination.",
+          "passageId": "passage-3b191633567ca72d"
+        }
+      ]
+    },
+    "93": {
+      "contentHash": "c26d30b55a39e6c4cb83d7830cddf0fcaf039d5266097a897ab71fcddfa18f9f",
+      "points": [
+        {
+          "text": "The Last Supper was a necessary step before Christ's redemption.",
+          "passageId": "passage-fa71d1bca323a4eb"
+        },
+        {
+          "text": "A chair was kept for Elijah, symbolizing expectation of the Messiah.",
+          "passageId": "passage-7883183224fc4fed"
+        },
+        {
+          "text": "We participate in the Divine Liturgy with anticipation of what is to come.",
+          "passageId": "passage-8159f444b61266bb"
+        },
+        {
+          "text": "There is an open chair in our hearts, waiting for the Messiah's return.",
+          "passageId": "passage-d60fcc93ac389417"
+        },
+        {
+          "text": "Christ is going to return.",
+          "passageId": "passage-ac877197bc72ccc7"
+        }
+      ]
+    },
+    "95": {
+      "contentHash": "c6724840a5f5f0334ccbe734850e3f36c781000230d52c3f67d6fb0418db78e6",
+      "points": [
+        {
+          "text": "We are accountable to God for our actions.",
+          "passageId": "passage-7fde96a6d8b7f0b8"
+        },
+        {
+          "text": "We must be prepared to stand before God.",
+          "passageId": "passage-eeb9067b50a2ee62"
+        },
+        {
+          "text": "Our time is an opportunity to prepare for judgment.",
+          "passageId": "passage-f234721d7a3c7733"
+        },
+        {
+          "text": "The fear of God leads to wise choices.",
+          "passageId": "passage-39d0e120dbf259cf"
+        },
+        {
+          "text": "Christ is the just and merciful Judge.",
+          "passageId": "passage-55513bb8988d751c"
+        }
+      ]
+    },
+    "97": {
+      "contentHash": "1c5eb87ce8d64c15175e7ea04b8f9bdf9c15bf7d0c70f2f6261162da604c1182",
+      "points": [
+        {
+          "text": "The search for identity can cause crisis and chaos.",
+          "passageId": "passage-dad1e23e3381cbff"
+        },
+        {
+          "text": "The prodigal son's search for identity led to turmoil.",
+          "passageId": "passage-390a131a377f80f6"
+        },
+        {
+          "text": "Healing comes from acknowledging our fallen state.",
+          "passageId": "passage-477a502cf3221186"
+        },
+        {
+          "text": "Humility is key to healing and forgiveness.",
+          "passageId": "passage-18df0779401dc756"
+        }
+      ]
+    },
+    "98": {
+      "contentHash": "3572cd8b47dee2b9d69132902f4216182f80f64fbd6996782832a309bb5c709d",
+      "points": [
+        {
+          "text": "We close the curtain during Lent.",
+          "passageId": "passage-52bbde3c4f23eb77"
+        },
+        {
+          "text": "The curtain reminds us of separation between mundane and holy.",
+          "passageId": "passage-9abffa5acbbdbbd4"
+        },
+        {
+          "text": "Lent helps us close the distance between fallen and holy.",
+          "passageId": "passage-b7a99f7a00e48d26"
+        },
+        {
+          "text": "Jesus teaches us to pray sincerely and intimately.",
+          "passageId": "passage-eb199e5877aa1778"
+        },
+        {
+          "text": "Hypocrisy and spirituality are at odds with each other.",
+          "passageId": "passage-873edc371ece7007"
+        }
+      ]
+    },
+    "99": {
+      "contentHash": "b4ad12c74842909974b149770dc43ad1ac533040e3169529ff96b68ee72bf3e0",
+      "points": [
+        {
+          "text": "Saints trust God and help people.",
+          "passageId": "passage-7bcaa03a9ff95d5f"
+        },
+        {
+          "text": "Saints have very clean souls.",
+          "passageId": "passage-7ed775f8c78f5aa1"
+        },
+        {
+          "text": "Saint Sarkis is a hero for being brave.",
+          "passageId": "passage-ebef3a23bb547a5d"
+        },
+        {
+          "text": "Saints pray for us in heaven.",
+          "passageId": "passage-b924a3a2a6886f1f"
+        },
+        {
+          "text": "Saint Mary prays with us from heaven.",
+          "passageId": "passage-1c6372629f9999da"
+        }
+      ]
+    },
+    "100": {
+      "contentHash": "923d47d269b00146908a2de3f48f34691fbd31891ca772cdd6103baee6ecac76",
+      "points": [
+        {
+          "text": "Christ brings peace in chaotic times.",
+          "passageId": "passage-9ef616ea094c202f"
+        },
+        {
+          "text": "Fear arises from feeling out of control.",
+          "passageId": "passage-a9b13a51b4b9364c"
+        },
+        {
+          "text": "Jesus calms fear with his presence.",
+          "passageId": "passage-ce3e9b9889914175"
+        }
+      ]
+    },
+    "102": {
+      "contentHash": "82d547976474fc1ba301d9358fba092ffebd2b380176fe309b8e1afe2805cd1e",
+      "points": [
+        {
+          "text": "My soul magnifies the Lord.",
+          "passageId": "passage-7d7fe4a2af71c7d1"
+        },
+        {
+          "text": "God is at the center of her soul.",
+          "passageId": "passage-5ee211cd1d3625ff"
+        },
+        {
+          "text": "Our bodies are temples of the Holy Spirit.",
+          "passageId": "passage-8cbceec574825acf"
+        },
+        {
+          "text": "Believers conceive and give birth to the Word of God.",
+          "passageId": "passage-a498085eac5269e9"
+        },
+        {
+          "text": "We must reject worldly things from our souls.",
+          "passageId": "passage-efe0c77a6a6e8ac6"
+        }
+      ]
+    },
+    "103": {
+      "contentHash": "e9e8404a8fa4cf0c76466cd5397f5e752998d94a63ecd7800ecc64cd694c1196",
+      "points": [
+        {
+          "text": "Discernment helps judge right from wrong.",
+          "passageId": "passage-ea568ffae67716c9"
+        },
+        {
+          "text": "Christ judges hearts and intentions.",
+          "passageId": "passage-dde8648db2366fd6"
+        },
+        {
+          "text": "Christians must recommit to spiritual formation.",
+          "passageId": "passage-fb73854e43333105"
+        }
+      ]
+    },
+    "104": {
+      "contentHash": "411e8e7a7f11e31683e17b5e2dda84b98bdf0a5efe3d62b06ba52ad46f1ac424",
+      "points": [
+        {
+          "text": "God entrusts us with gifts to use wisely.",
+          "passageId": "passage-980a7082cde0f8b9"
+        },
+        {
+          "text": "Saint Stephen is an example of wise stewardship.",
+          "passageId": "passage-42d2335214baa2ae"
+        },
+        {
+          "text": "We must use our talents and blessings to serve God.",
+          "passageId": "passage-79a1851d0d5af1f9"
+        },
+        {
+          "text": "Our possessions are not ours, but given to us to use for God's glory.",
+          "passageId": "passage-60bd22d1ec329d14"
+        }
+      ]
+    },
+    "105": {
+      "contentHash": "52afbca5bf4590130c3de8bca02d09d0820fc03b2b8ee2ede2ab4e0a77b446c9",
+      "points": [
+        {
+          "text": "Jesus came to preach the Gospel to the poor.",
+          "passageId": "passage-4bbc51b53fd85b57"
+        },
+        {
+          "text": "The Gospel is for all humanity, not just a select group.",
+          "passageId": "passage-f6b90e6761bf2af3"
+        },
+        {
+          "text": "We must love and respect one another as brothers and sisters.",
+          "passageId": "passage-6907a4bcd261e953"
+        },
+        {
+          "text": "Jesus worshiped with people to teach us to worship together.",
+          "passageId": "passage-a5bc2fdf3c2023ac"
+        },
+        {
+          "text": "We should be grateful for opportunities to worship God together.",
+          "passageId": "passage-7ed05ed008911252"
+        }
+      ]
+    },
+    "106": {
+      "contentHash": "e9063733bc45042fbeb9130ed061ce8e6fd4b435d7b4c35ee408a4d78538b300",
+      "points": [
+        {
+          "text": "We should not compare or judge others in church.",
+          "passageId": "passage-cff0b1bdb9e25cdf"
+        },
+        {
+          "text": "Giving from what little we have is considered generous.",
+          "passageId": "passage-c88b3b4b3451c3f8"
+        },
+        {
+          "text": "Everything we have is a gift from God to be used responsibly.",
+          "passageId": "passage-26c92be9795986a9"
+        },
+        {
+          "text": "We must examine our motivations for keeping things for ourselves.",
+          "passageId": "passage-f40ebadf467041fc"
+        }
+      ]
+    },
+    "107": {
+      "contentHash": "531da8ca2484a6266f706b62bdc6557e3f0afaf748b53de4af0b8f827eb77e6c",
+      "points": [
+        {
+          "text": "Christ's authority was questioned by the priests.",
+          "passageId": "passage-873984cc6d770ec7"
+        },
+        {
+          "text": "Jesus is the head priest of the Christian Church.",
+          "passageId": "passage-729bf730f88ca068"
+        },
+        {
+          "text": "Jesus chose not to explain his authority to the priests.",
+          "passageId": "passage-dcd5eff652312cd6"
+        },
+        {
+          "text": "We don't have to justify our faith to those with malicious intent.",
+          "passageId": "passage-e1ef7f313e4e3b8c"
+        },
+        {
+          "text": "Our faith should not be defined by the fallen world around us.",
+          "passageId": "passage-10a5ec1c4ca6a303"
+        }
+      ]
+    },
+    "109": {
+      "contentHash": "640966889a64296eb314c9ba9f60fb2fec264ec9fc9bc16ac30d62442bd94a5a",
+      "points": [
+        {
+          "text": "We must be empathetic toward those in difficult times.",
+          "passageId": "passage-b0940c6bac5d4f17"
+        },
+        {
+          "text": "We have many brothers and sisters in Armenia and Artsakh.",
+          "passageId": "passage-b227d8577c828e1c"
+        },
+        {
+          "text": "Our brothers and sisters in Artsakh are losing their homes.",
+          "passageId": "passage-799b7b1d34412e1c"
+        },
+        {
+          "text": "We can pray for our brothers and sisters every day.",
+          "passageId": "passage-5d7145aea0455838"
+        },
+        {
+          "text": "We promise to help our brothers and sisters in need.",
+          "passageId": "passage-ca27ede1867a20f6"
+        }
+      ]
+    },
+    "110": {
+      "contentHash": "4c567832be77c9b3c1ac11cc57710452f9c2871d9d10d22044dc593f588618b0",
+      "points": [
+        {
+          "text": "We are a cross-bearing people.",
+          "passageId": "passage-5ba7a8e974e46a43"
+        },
+        {
+          "text": "The cross symbolizes triumph and hope.",
+          "passageId": "passage-516f4b3937a27195"
+        },
+        {
+          "text": "We must prioritize God above all.",
+          "passageId": "passage-874765703c482479"
+        }
+      ]
+    },
+    "111": {
+      "contentHash": "85ea226f36d7e1abfc62a586e4ae0178cd13b391f74ce3f0f77db596f4de379e",
+      "points": [
+        {
+          "text": "Jesus commands a deaf and mute man to be opened.",
+          "passageId": "passage-91e5b46fe9e7cdd3"
+        },
+        {
+          "text": "Creation expresses God's glory.",
+          "passageId": "passage-fb4cf03c20e3ac9d"
+        },
+        {
+          "text": "Christ invites us to open up.",
+          "passageId": "passage-92dbf9ec19084142"
+        },
+        {
+          "text": "Opening up is valuable for communion.",
+          "passageId": "passage-9efc0cb49980f353"
+        }
+      ]
+    },
+    "114": {
+      "contentHash": "5fd9ac2423f9bb8d0628d0a4ff66329b1403d58cecf8d3802dd449dec2c97a0e",
+      "points": [
+        {
+          "text": "Faith is crucial for spiritual experiences.",
+          "passageId": "passage-36639d53c18c0611"
+        },
+        {
+          "text": "Deep faith strengthens spiritual experiences.",
+          "passageId": "passage-503767f5afa23ee3"
+        },
+        {
+          "text": "Unity in faith is essential for spiritual growth.",
+          "passageId": "passage-4234dfb1e7ba6017"
+        }
+      ]
+    },
+    "115": {
+      "contentHash": "777b8144d7a0e44da674ab4428fdc918304549f223ea8777e11bc8bacdc20d5b",
+      "points": [
+        {
+          "text": "Everything hidden will be revealed.",
+          "passageId": "passage-7442506fa7619278"
+        },
+        {
+          "text": "God knows all things we do.",
+          "passageId": "passage-16faf9c9b27f2f6b"
+        },
+        {
+          "text": "Our conscience helps us know right from wrong.",
+          "passageId": "passage-42f03c143dc6f219"
+        },
+        {
+          "text": "We should not hide our gifts and talents.",
+          "passageId": "passage-c7539b7733ae9927"
+        }
+      ]
+    },
+    "116": {
+      "contentHash": "ca201390223eb03c5d1c605bad1dfbb961954b4cb79df9fcb9d8be024d0c5809",
+      "points": [
+        {
+          "text": "Christ will come from the east.",
+          "passageId": "passage-a522a9c1d923e25b"
+        },
+        {
+          "text": "We prepare to meet Jesus through worship.",
+          "passageId": "passage-9806108f048a7263"
+        },
+        {
+          "text": "The church is a living expression of faith.",
+          "passageId": "passage-13b1b0de847acebf"
+        },
+        {
+          "text": "Every Armenian church faces east.",
+          "passageId": "passage-bf190a268c43ac83"
+        },
+        {
+          "text": "Sanctuary elements echo spiritual sentiments.",
+          "passageId": "passage-b7fa6fabca563cf8"
+        }
+      ]
+    },
+    "117": {
+      "contentHash": "ead30cd3253e060c9d548875e51826efbc7c85abdf83b43ad49c1101a134874f",
+      "points": [
+        {
+          "text": "Visits are meaningful gestures in human lives.",
+          "passageId": "passage-11a749f8736769db"
+        },
+        {
+          "text": "Saint Mary's visit to Elizabeth is a role model for presence.",
+          "passageId": "passage-9b9ea2e45194a864"
+        },
+        {
+          "text": "Song is a creative outlet for the holy and divine.",
+          "passageId": "passage-22d1d0d4e23a83da"
+        },
+        {
+          "text": "Participating in song enhances the worship experience.",
+          "passageId": "passage-2510997463c39713"
+        }
+      ]
+    },
+    "118": {
+      "contentHash": "2b40624136ac03cf5cb815743ed7dd1cc49df206b5f3627770206ab585f8ff35",
+      "points": [
+        {
+          "text": "St. Mary's patience is an example to follow.",
+          "passageId": "passage-913a4e05d2a72545"
+        },
+        {
+          "text": "Patience is difficult in a demanding culture.",
+          "passageId": "passage-1dd70b4090e2310e"
+        },
+        {
+          "text": "We must trust God's plan amid suffering.",
+          "passageId": "passage-439ccc855cb7ed2c"
+        },
+        {
+          "text": "God guides us through suffering to fulfillment.",
+          "passageId": "passage-90dc38c6c9b105db"
+        }
+      ]
+    },
+    "119": {
+      "contentHash": "aee1f21425efa198c65178a347d3a633abe7240648fc867ab0a87a71ef636736",
+      "points": [
+        {
+          "text": "Jesus forgives sins first.",
+          "passageId": "passage-202b5d9faa207805"
+        },
+        {
+          "text": "Healing begins with the soul.",
+          "passageId": "passage-611eefdc5aba6f88"
+        },
+        {
+          "text": "Forgiveness restores us.",
+          "passageId": "passage-ee209ff2481c5f09"
+        },
+        {
+          "text": "Repentance brings spiritual freedom.",
+          "passageId": "passage-60c69ce1a64adc12"
+        }
+      ]
+    },
+    "120": {
+      "contentHash": "258431ca2fd6161f582d72bce4f6c6face29bb599927563510341a5a86e8039e",
+      "points": [
+        {
+          "text": "Saint Mary is our main intercessor to Jesus Christ.",
+          "passageId": "passage-99d688bfd641bcce"
+        },
+        {
+          "text": "We can access healing through faith and prayer.",
+          "passageId": "passage-69b94ab87e443bfa"
+        },
+        {
+          "text": "We must preserve what is holy in our lives.",
+          "passageId": "passage-71d0c5626a473601"
+        },
+        {
+          "text": "God's response to evil is measured and tolerant.",
+          "passageId": "passage-ec574093114d1eb7"
+        },
+        {
+          "text": "We should store holy gifts in our hearts.",
+          "passageId": "passage-1d6a26481a4f5579"
+        }
+      ]
+    },
+    "121": {
+      "contentHash": "f617c4757159b9e750e3c6eeca7be798ffb1c4424be7ec2490aa881070ef9d01",
+      "points": [
+        {
+          "text": "Holy Etchmiadzin is the oldest cathedral.",
+          "passageId": "passage-d141878e3ba1f7a4"
+        },
+        {
+          "text": "The Church serves the nation.",
+          "passageId": "passage-80bb55434d511276"
+        },
+        {
+          "text": "The Church remains one with Christ.",
+          "passageId": "passage-11931f2fdf7bd49d"
+        },
+        {
+          "text": "The apostolic component is important.",
+          "passageId": "passage-37f9426750861e8c"
+        }
+      ]
+    },
+    "124": {
+      "contentHash": "f5bcf315f4cb1f9c4957ee0c8042ee9869640f0ffddff2d6482f5fbd68c8da7f",
+      "points": [
+        {
+          "text": "Christ crucified is the power of God.",
+          "passageId": "passage-8041358aecc01b3b"
+        },
+        {
+          "text": "God saves through the cross.",
+          "passageId": "passage-b0dfc1d7f2b4fc6e"
+        },
+        {
+          "text": "Christ gathers us to himself.",
+          "passageId": "passage-8b9d9bb9db84ddca"
+        },
+        {
+          "text": "Faithfulness looks like caring for others.",
+          "passageId": "passage-d4665cfe76f1559b"
+        },
+        {
+          "text": "We are called to be stewards of God's house.",
+          "passageId": "passage-be92158e3d621e3a"
+        }
+      ]
+    }
+  }
+}
