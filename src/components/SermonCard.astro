@@ -1,36 +1,39 @@
 ---
-import { formatSermonDate } from "../lib/sermons";
-
+import Icon from "./Icon.astro";
+import { compactDate, scripturePreview, summaryPreview } from "../lib/archive-presentation";
 interface Props {
   entry: {
     id: string;
     data: {
-      sermonDate: string;
-      title: string;
-      preacher: string;
-      theme: string | null;
-      scriptureReference: string | null;
-      liturgicalDay: string | null;
-      sermonType: string | null;
-      tags: string[];
+      sermonDate: string; title: string; preacher: string; theme: string | null;
+      scriptureReference: string | null; liturgicalDay: string | null;
+      sermonType: string | null; tags: string[];
     };
   };
+  topics?: { id: string; label: string }[];
+  heading?: "h2" | "h3";
 }
-
-const { entry } = Astro.props;
+const { entry, topics = [], heading: Heading = "h2" } = Astro.props;
 const { sermonDate, title, preacher, theme, scriptureReference } = entry.data;
+const url = "/sermons/" + entry.id + "/";
 ---
-
-<article class="border-b border-pine/15 py-8 first:pt-0" data-sermon-card>
-  <p class="text-sm font-semibold tracking-wide text-gold" data-card-date>{formatSermonDate(sermonDate)}</p>
-  <h2 class="mt-2 text-2xl font-semibold leading-tight text-pine sm:text-3xl">
-    <a class="no-underline hover:underline" href={`/sermons/${entry.id}/`} data-card-title>{title}</a>
-  </h2>
-  <p class="mt-3 text-base text-ink/75" data-card-preacher>{preacher}</p>
-  <p class="mt-3 max-w-3xl leading-7 text-ink/80" data-card-theme hidden={!theme}>{theme}</p>
-  <p class="mt-3 text-sm italic text-ink/65" data-card-scripture hidden={!scriptureReference}>{scriptureReference}</p>
-  <div class="mt-4 border-l-2 border-gold/70 pl-4" data-card-excerpt hidden>
-    <p class="text-xs font-semibold tracking-wide text-pine">From the sermon</p>
-    <p class="mt-2 text-sm leading-6 text-ink/75" data-card-excerpt-text></p>
+<article class="sermon-card" data-sermon-card>
+  <time class="sermon-card-date" datetime={sermonDate} data-card-date>{compactDate(sermonDate)}</time>
+  <div class="sermon-card-content">
+    <Heading class="sermon-card-title"><a href={url} data-card-title>{title}</a></Heading>
+    <p class="sermon-card-metadata">
+      <span data-card-preacher>{preacher}</span>
+      <span aria-hidden="true" data-card-scripture-separator hidden={!scriptureReference}> · </span>
+      <span title={scriptureReference ?? undefined} data-card-scripture hidden={!scriptureReference}>{scripturePreview(scriptureReference)}</span>
+    </p>
+    <p class="sermon-card-summary" data-card-theme hidden={!theme}>{summaryPreview(theme)}</p>
+    <ul class="sermon-card-topics" data-card-topics hidden={!topics.length}>
+      {topics.slice(0, 2).map((topic) => <li><a href={"/topics/" + topic.id + "/"}>{topic.label}</a></li>)}
+    </ul>
+    <div class="sermon-card-excerpt" data-card-excerpt hidden>
+      <p class="sermon-card-excerpt-label">From the sermon</p>
+      <p data-card-excerpt-text></p>
+    </div>
   </div>
+  <a class="sermon-card-open" href={url} aria-label={"Read " + title} data-card-open><Icon name="chevron-right" /></a>
 </article>

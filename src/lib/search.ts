@@ -64,10 +64,11 @@ export function readFilters(params: URLSearchParams): ArchiveFilters {
   return Object.fromEntries(Object.keys(EMPTY_FILTERS).map((key) => [key, (params.get(key) ?? "").trim().slice(0, 100)])) as unknown as ArchiveFilters;
 }
 export function hasFilters(filters: ArchiveFilters): boolean { return Object.values(filters).some(Boolean); }
-export function searchUrl(page: number, query: string, filters: ArchiveFilters): string {
+export function searchUrl(page: number, query: string, filters: ArchiveFilters, sort = ""): string {
   const params = new URLSearchParams();
   if (query.trim()) params.set("q", query.trim().slice(0, MAX_QUERY_LENGTH));
   for (const [key, value] of Object.entries(filters)) if (value) params.set(key, value);
+  if (["newest", "oldest", "relevance"].includes(sort)) params.set("sort", sort);
   if (!params.size) return page > 1 ? `/page/${page}/` : "/";
   if (page > 1) params.set("page", String(page));
   return `/?${params}`;

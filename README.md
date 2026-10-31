@@ -29,7 +29,7 @@ Use `SERMON_ARCHIVE_API_URL` to point a local sync at another compatible API end
 
 ## Archive browsing
 
-The homepage and `/page/2/`, `/page/3/`, etc. are static pages with 12 sermons each, newest first. Every sermon remains reachable without JavaScript. The homepage links to six starting topics and the complete topic index.
+The homepage and `/page/2/`, `/page/3/`, etc. are static pages with 12 sermons each, newest first. Every sermon remains reachable without JavaScript. The homepage links to six starting topics and the complete topic index. Compact sermon rows use the recorded date, preacher, a Scripture preview, and up to two canonical topic links. Newest/oldest sorting works across the archive and preserves filters and pagination; query searches default to relevance.
 
 Search loads published transcripts from `/search.json` on demand. It ranks transcript matches locally, and submitting a question calls `/api/search` to find related ideas with Clef. Results show excerpts from the source text. Scripture book/chapter, feast or season, year, preacher, and topic filters work together, with or without a question. Search URLs preserve the query, filters, and page, for example `/?book=matthew&chapter=5&year=2025`.
 

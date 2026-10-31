@@ -1,44 +1,41 @@
 ---
 import "../styles/global.css";
-
-interface Props {
-  title?: string;
-  description?: string;
-}
-
+interface Props { title?: string; description?: string }
 const {
   title = "Sermons | Fr. Mesrop Ash",
   description = "An archive of homilies and sermons by Fr. Mesrop Ash."
 } = Astro.props;
+const topicsActive = Astro.url.pathname.startsWith("/topics");
 ---
-
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="data:," />
     <meta name="description" content={description} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
     <title>{title}</title>
   </head>
   <body class="bg-paper text-ink antialiased">
-    <header class="border-b border-pine/15">
-      <div class="mx-auto flex max-w-5xl items-center justify-between px-6 py-5 sm:px-8">
-        <a class="text-base font-semibold tracking-wide text-pine no-underline" href="/">Fr. Mesrop Ash</a>
-        <nav class="flex gap-4 text-sm text-pine" aria-label="Main navigation">
-          <a class="underline decoration-gold decoration-2" href="/">Archive</a>
-          <a class="underline decoration-gold decoration-2" href="/topics/">Topics</a>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="site-shell site-header-inner">
+        <div class="site-identity">
+          <a class="site-brand" href="/">Fr. Mesrop Ash</a>
+          <span class="site-descriptor">Sermon archive</span>
+        </div>
+        <nav class="site-navigation" aria-label="Main navigation">
+          <a class:list={[{ "is-active": !topicsActive }]} href="/" aria-current={Astro.url.pathname === "/" ? "page" : undefined}>Archive</a>
+          <a class:list={[{ "is-active": topicsActive }]} href="/topics/" aria-current={Astro.url.pathname === "/topics/" ? "page" : undefined}>Topics</a>
         </nav>
       </div>
     </header>
-    <main>
+    <main id="main-content">
       <slot />
     </main>
-    <footer class="mt-16 border-t border-pine/15">
-      <div class="mx-auto max-w-5xl px-6 py-8 text-sm text-ink/65 sm:px-8">
-        Sermons are published from the finalized St. John Armenian Church archive.
-      </div>
+    <footer class="site-footer">
+      <div class="site-shell">Sermons are published from the finalized St. John Armenian Church archive.</div>
     </footer>
   </body>
 </html>
-

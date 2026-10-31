@@ -1,0 +1,7 @@
+---
+import { icons } from "@iconify-json/feather";
+interface Props { name: "search" | "sliders" | "chevron-right"; class?: string }
+const { name, class: className } = Astro.props;
+const icon = icons.icons[name];
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox={"0 0 " + icons.width + " " + icons.height} width="24" height="24" class={className} aria-hidden="true" focusable="false"><Fragment set:html={icon.body} /></svg>
