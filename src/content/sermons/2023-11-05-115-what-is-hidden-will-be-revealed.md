@@ -14,6 +14,7 @@ sourceVideoId: "lHEpVKDtXuk"
 sourceVideoUrl: "https://www.youtube.com/watch?v=lHEpVKDtXuk"
 sourceVideoTitle: "November 5, 2023 - Divine Liturgy"
 tags:
+  - "Children's sermon"
   - "Conscience and temptation"
   - "Luke 8:16–17"
   - "Nothing is hidden from God"

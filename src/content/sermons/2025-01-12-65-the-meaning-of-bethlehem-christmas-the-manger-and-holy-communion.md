@@ -16,6 +16,7 @@ sourceVideoTitle: "January 12, 2025 - Divine Liturgy"
 tags:
   - "Baptism and the Blessing of Water"
   - "Bethlehem as the house of bread"
+  - "Children's sermon"
   - "Displacement and hope in God"
   - "Holy Communion as spiritual nourishment"
   - "Luke (Nativity narrative, referenced as the day's Gospel reading)"

@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=_Dnum007V8U"
 sourceVideoTitle: "November 2, 2025 - Divine Liturgy"
 tags:
   - "Avoiding excuses"
+  - "Children's sermon"
   - "Church as community of mutual help"
   - "Cost of discipleship"
   - "Forgiveness"

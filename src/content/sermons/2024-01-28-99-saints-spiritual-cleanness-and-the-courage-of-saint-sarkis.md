@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=e6rCseKcXtg"
 sourceVideoTitle: "January 28, 2024 - Diving Liturgy"
 tags:
   - "Armenian Church customs"
+  - "Children's sermon"
   - "Courage and Christian faithfulness"
   - "Icons and sacred imagery"
   - "Intercession of the saints"

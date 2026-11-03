@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=CFieH5xu6MM"
 sourceVideoTitle: "July 12, 2026 - Divine Liturgy for the Feast of Transfiguration"
 tags:
   - "Children's faith formation and summer camp"
+  - "Children's sermon"
   - "Christian community and continuity through the saints"
   - "Encountering Christ through Scripture and prayer"
   - "God the Father's testimony at the Transfiguration and at the Baptism"

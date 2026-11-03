@@ -16,6 +16,7 @@ sourceVideoTitle: "May 3, 2026 - Divine Liturgy + Feast of the Appearance of the
 tags:
   - "Appearance of the Holy Cross"
   - "Children's education"
+  - "Children's sermon"
   - "God's love"
   - "Holy Trinity"
   - "John 1:1-14"

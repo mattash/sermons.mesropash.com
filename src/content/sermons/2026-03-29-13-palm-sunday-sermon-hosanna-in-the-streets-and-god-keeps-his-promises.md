@@ -14,6 +14,7 @@ sourceVideoId: "3nOf01Fgr6w"
 sourceVideoUrl: "https://www.youtube.com/watch?v=3nOf01Fgr6w"
 sourceVideoTitle: "March 29, 2026 - Palm Sunday Divine Liturgy"
 tags:
+  - "Children's sermon"
   - "Faith in daily life"
   - "God's faithfulness and promises"
   - "Hosanna"

@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=TBu3en6KAa8"
 sourceVideoTitle: "March 1, 2026 - Divine Lenten Liturgy"
 tags:
   - "2 Corinthians 6:2"
+  - "Children's sermon"
   - "confession"
   - "Forgiveness"
   - "God's mercy"

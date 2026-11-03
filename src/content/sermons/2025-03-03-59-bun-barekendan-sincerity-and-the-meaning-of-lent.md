@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=SY7KHKPXruo"
 sourceVideoTitle: "March 3, 2025 - Divine Liturgy"
 tags:
   - "Bun Barekendan (Poon Paregantain)"
+  - "Children's sermon"
   - "Gratitude and appreciation"
   - "Honesty about imperfections"
   - "Lent and fasting"

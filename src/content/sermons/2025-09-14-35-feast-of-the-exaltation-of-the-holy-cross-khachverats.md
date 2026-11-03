@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=4Yoz_tp2PDI"
 sourceVideoTitle: "Feast of the Holy Cross Divine Liturgy - Sept. 14, 2025"
 tags:
   - "Children's Christian education"
+  - "Children's sermon"
   - "Exaltation of the Holy Cross"
   - "Faith and dedication"
   - "Finding the cross in daily life"

@@ -16,6 +16,7 @@ sourceVideoTitle: "May 5, 2024 - Divine Liturgy"
 tags:
   - "Being lost and found"
   - "Belonging to Jesus Christ"
+  - "Children's sermon"
   - "Christian formation"
   - "Jesus as the Good Shepherd"
   - "John 10:14"

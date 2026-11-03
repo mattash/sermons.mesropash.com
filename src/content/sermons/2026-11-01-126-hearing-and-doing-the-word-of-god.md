@@ -14,6 +14,7 @@ sourceVideoId: "R8AMv-xylIY"
 sourceVideoUrl: "https://www.youtube.com/watch?v=R8AMv-xylIY"
 sourceVideoTitle: "Divine Liturgy"
 tags:
+  - "Children's sermon"
   - "Ephesians 1:3–14"
   - "Forgiveness and love of neighbor"
   - "Grace, adoption, and baptism"

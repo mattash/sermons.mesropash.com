@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=AyiSA9t5Ib4"
 sourceVideoTitle: "Sept. 24, 2023 - Divine Liturgy"
 tags:
   - "Armenian identity and belonging"
+  - "Children's sermon"
   - "Christian family and solidarity"
   - "Empathy and kindness"
   - "Hope amid suffering"

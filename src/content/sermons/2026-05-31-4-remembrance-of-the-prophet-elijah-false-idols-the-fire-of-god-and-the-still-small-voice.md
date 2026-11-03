@@ -17,6 +17,7 @@ tags:
   - "1 Kings 18 (Elijah on Mount Carmel)"
   - "1 Kings 19 (Elijah hears God in the still small voice)"
   - "Acts 2 (Pentecost)"
+  - "Children's sermon"
   - "confession"
   - "Eucharist"
   - "false idols"
