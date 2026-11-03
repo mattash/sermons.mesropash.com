@@ -15,6 +15,7 @@ sourceVideoUrl: "https://www.youtube.com/watch?v=L7MmekRhVYo"
 sourceVideoTitle: "Divine Liturgy"
 tags:
   - "Avoiding difficult truths"
+  - "Children's sermon"
   - "Confession and openness to God"
   - "Following the Christian path"
   - "Honesty and truthfulness"
