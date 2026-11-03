@@ -3,7 +3,7 @@
   "taxonomyVersion": "1",
   "promptVersion": "1",
   "model": "@cf/cloudflare/clef",
-  "generatedAt": "2026-10-30T17:57:44.812Z",
+  "generatedAt": "2026-11-03T21:25:13.929Z",
   "sermons": {
     "3": {
       "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
@@ -694,6 +694,14 @@
       "topicSource": "clef",
       "related": [
         {
+          "archiveId": 126,
+          "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
+          "score": 2.636125,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        },
+        {
           "archiveId": 61,
           "contentHash": "fc8fc786f91271f77f9ebf728667d9e88c8cffaaf374d8b5be73ea1341277485",
           "score": 2.25875,
@@ -1061,14 +1069,6 @@
       ],
       "topicSource": "clef",
       "related": [
-        {
-          "archiveId": 110,
-          "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
-          "score": 2.4293500000000003,
-          "sharedTopics": [
-            "cross-and-sacrifice"
-          ]
-        },
         {
           "archiveId": 6,
           "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
@@ -1768,6 +1768,14 @@
           "archiveId": 24,
           "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
           "score": 2.25875,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        },
+        {
+          "archiveId": 126,
+          "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
+          "score": 2.16245,
           "sharedTopics": [
             "discipleship"
           ]
@@ -3166,6 +3174,15 @@
       "topicSource": "clef",
       "related": [
         {
+          "archiveId": 126,
+          "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
+          "score": 2.700525,
+          "sharedTopics": [
+            "church-and-community",
+            "service"
+          ]
+        },
+        {
           "archiveId": 104,
           "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
           "score": 2.2313,
@@ -3180,6 +3197,51 @@
           "score": 2.05095,
           "sharedTopics": [
             "cross-and-sacrifice"
+          ]
+        }
+      ]
+    },
+    "126": {
+      "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.583
+        },
+        {
+          "id": "discipleship",
+          "score": 2.5258
+        },
+        {
+          "id": "service",
+          "score": 2.1974
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 124,
+          "contentHash": "0172006f3a040bcb0d0ea09848f8e6a631a70abba1bf6ccabd5175b4370262ad",
+          "score": 2.700525,
+          "sharedTopics": [
+            "church-and-community",
+            "service"
+          ]
+        },
+        {
+          "archiveId": 24,
+          "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
+          "score": 2.636125,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        },
+        {
+          "archiveId": 61,
+          "contentHash": "fc8fc786f91271f77f9ebf728667d9e88c8cffaaf374d8b5be73ea1341277485",
+          "score": 2.16245,
+          "sharedTopics": [
+            "discipleship"
           ]
         }
       ]

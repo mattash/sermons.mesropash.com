@@ -4,7 +4,7 @@
   "passageVersion": "1",
   "generationModel": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "verificationModel": "@cf/cloudflare/clef",
-  "generatedAt": "2026-10-31T01:50:59.501Z",
+  "generatedAt": "2026-11-03T21:25:22.511Z",
   "sermons": {
     "3": {
       "contentHash": "35a1157903cf22049b5bc11b63be02fae66f2e5fa52af77d20e81e9a7b2a668e",
@@ -2121,6 +2121,23 @@
         {
           "text": "We are called to be stewards of God's house.",
           "passageId": "passage-be92158e3d621e3a"
+        }
+      ]
+    },
+    "126": {
+      "contentHash": "eda5b36a9827c08bc90839490738df56311fa1536456c62752bd06d0086f27be",
+      "points": [
+        {
+          "text": "Jesus considers those who hear and do God's Word as his family.",
+          "passageId": "passage-b8af744a42b7275a"
+        },
+        {
+          "text": "Hearing and responding to God's Word requires effort and action.",
+          "passageId": "passage-69a532c4d646255c"
+        },
+        {
+          "text": "We must put God's Word into practice in our daily lives.",
+          "passageId": "passage-79b92eb10fc57d64"
         }
       ]
     }
