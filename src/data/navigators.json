@@ -4,7 +4,7 @@
   "passageVersion": "1",
   "generationModel": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "verificationModel": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-03T21:25:22.511Z",
+  "generatedAt": "2026-11-03T22:47:14.865Z",
   "sermons": {
     "3": {
       "contentHash": "35a1157903cf22049b5bc11b63be02fae66f2e5fa52af77d20e81e9a7b2a668e",
@@ -2138,6 +2138,44 @@
         {
           "text": "We must put God's Word into practice in our daily lives.",
           "passageId": "passage-79b92eb10fc57d64"
+        }
+      ]
+    },
+    "127": {
+      "contentHash": "6365613d44c0c472fc2a97fd5153a7f215d5ffbcf3173800e9a3c0c2a6692188",
+      "points": [
+        {
+          "text": "Honesty helps us become better people.",
+          "passageId": "passage-5553aff907ae87a7"
+        },
+        {
+          "text": "Truth sets us free when we confess.",
+          "passageId": "passage-b05c7974c09bc5f6"
+        },
+        {
+          "text": "Christians must be truthful.",
+          "passageId": "passage-c580dd8c6c405a9b"
+        }
+      ]
+    },
+    "128": {
+      "contentHash": "b526993f3991568b7c703fb61cc36cfaf1fefdd5a9f2a41ca52672156cd41e1c",
+      "points": [
+        {
+          "text": "Christ frees captives and gives sight to the blind.",
+          "passageId": "passage-cdb1f320dae376ca"
+        },
+        {
+          "text": "Freedom in Christ liberates from the captivity of sin.",
+          "passageId": "passage-e6a27ea35eecc2e6"
+        },
+        {
+          "text": "True freedom is found in submission to God's will.",
+          "passageId": "passage-9efb382944a552cd"
+        },
+        {
+          "text": "Christians are called to willingly be bound by God's law of love.",
+          "passageId": "passage-471f08dd22ae3515"
         }
       ]
     }

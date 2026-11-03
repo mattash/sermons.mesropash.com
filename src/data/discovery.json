@@ -3,7 +3,7 @@
   "taxonomyVersion": "1",
   "promptVersion": "1",
   "model": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-03T21:25:13.929Z",
+  "generatedAt": "2026-11-03T22:47:05.639Z",
   "sermons": {
     "3": {
       "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
@@ -510,20 +510,20 @@
           ]
         },
         {
-          "archiveId": 23,
-          "contentHash": "967893095bdae01bcbff0771d9e55e0b819e15ad3f041b5167cc0c050c2bda24",
-          "score": 2.295725,
-          "sharedTopics": [
-            "humility"
-          ]
-        },
-        {
           "archiveId": 37,
           "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
           "score": 2.2188,
           "sharedTopics": [
             "humility",
             "saints-and-tradition"
+          ]
+        },
+        {
+          "archiveId": 3,
+          "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
+          "score": 2.1611000000000002,
+          "sharedTopics": [
+            "humility"
           ]
         }
       ]
@@ -2324,14 +2324,6 @@
       "topicSource": "clef",
       "related": [
         {
-          "archiveId": 110,
-          "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
-          "score": 2.117425,
-          "sharedTopics": [
-            "cross-and-sacrifice"
-          ]
-        },
-        {
           "archiveId": 35,
           "contentHash": "301556f19f183fbafe30e3b0b5f6876520df6ea86eefa39bb7e1d3b3191eb03e",
           "score": 2.102,
@@ -3050,14 +3042,6 @@
           "sharedTopics": [
             "hope-in-suffering"
           ]
-        },
-        {
-          "archiveId": 37,
-          "contentHash": "07b5fb063f81d65ce9fe4660548ccbd44200b07383287662b86065cb1e39a2ec",
-          "score": 2.244675,
-          "sharedTopics": [
-            "saints-and-tradition"
-          ]
         }
       ]
     },
@@ -3245,6 +3229,23 @@
           ]
         }
       ]
+    },
+    "127": {
+      "contentHash": "b84a71e04f57ed1d3deb636f850bfa60e66742484d076d12a22c9c7df5521091",
+      "topics": [],
+      "topicSource": "clef",
+      "related": []
+    },
+    "128": {
+      "contentHash": "022867bc890e2cdb9949b81f84f1707f5d8985dc7b5f8fb140823e38de90ffd2",
+      "topics": [
+        {
+          "id": "saints-and-tradition",
+          "score": 2.0248
+        }
+      ],
+      "topicSource": "clef",
+      "related": []
     }
   }
 }
