@@ -19,7 +19,7 @@ tags:
   - "God's faithfulness and promises"
   - "Hosanna"
   - "Hypocrisy vs. integrity"
-  - "Matthew 21:1-11"
+  - "Matthew 21:1–11"
   - "Palm Sunday"
   - "Prophecy fulfilled"
   - "Triumphal entry into Jerusalem"
