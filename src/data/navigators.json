@@ -4,7 +4,7 @@
   "passageVersion": "1",
   "generationModel": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "verificationModel": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-03T22:47:14.865Z",
+  "generatedAt": "2026-11-12T22:50:11.670Z",
   "sermons": {
     "3": {
       "contentHash": "35a1157903cf22049b5bc11b63be02fae66f2e5fa52af77d20e81e9a7b2a668e",
@@ -2176,6 +2176,23 @@
         {
           "text": "Christians are called to willingly be bound by God's law of love.",
           "passageId": "passage-471f08dd22ae3515"
+        }
+      ]
+    },
+    "134": {
+      "contentHash": "d17a83793ef1dae8037fa9471538b2f59ed64c7ed433fa6d8b18439f8c2639dd",
+      "points": [
+        {
+          "text": "Care continues after moments pass.",
+          "passageId": "passage-6ae1125e5a3dac1f"
+        },
+        {
+          "text": "Love seeks the good of others.",
+          "passageId": "passage-8c0d410ec96e53cb"
+        },
+        {
+          "text": "God's gift comes before our care.",
+          "passageId": "passage-0eb2b05c5b6c74bf"
         }
       ]
     }

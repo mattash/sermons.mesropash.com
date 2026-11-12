@@ -3,7 +3,7 @@
   "taxonomyVersion": "1",
   "promptVersion": "1",
   "model": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-03T22:47:05.639Z",
+  "generatedAt": "2026-11-12T22:50:04.498Z",
   "sermons": {
     "3": {
       "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
@@ -561,6 +561,14 @@
           "sharedTopics": [
             "humility"
           ]
+        },
+        {
+          "archiveId": 23,
+          "contentHash": "967893095bdae01bcbff0771d9e55e0b819e15ad3f041b5167cc0c050c2bda24",
+          "score": 2.0597000000000003,
+          "sharedTopics": [
+            "humility"
+          ]
         }
       ]
     },
@@ -697,6 +705,14 @@
           "archiveId": 126,
           "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
           "score": 2.636125,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        },
+        {
+          "archiveId": 134,
+          "contentHash": "8e0f0a566859f69b668f8ff948a1edf0f293619b499808aff216b1cd583c68c6",
+          "score": 2.288875,
           "sharedTopics": [
             "discipleship"
           ]
@@ -1434,9 +1450,9 @@
       "topicSource": "clef",
       "related": [
         {
-          "archiveId": 51,
-          "contentHash": "907d0c0240ea4786386837173a20dfcf7aaa3d9131b719663ce86ea1945e5562",
-          "score": 2.363625,
+          "archiveId": 49,
+          "contentHash": "0fe74363a207719663676bcc5b9393fa3fb06e63b19beb3dceadc168953bbf54",
+          "score": 2.387825,
           "sharedTopics": [
             "christ-revealed"
           ]
@@ -1768,14 +1784,6 @@
           "archiveId": 24,
           "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
           "score": 2.25875,
-          "sharedTopics": [
-            "discipleship"
-          ]
-        },
-        {
-          "archiveId": 126,
-          "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
-          "score": 2.16245,
           "sharedTopics": [
             "discipleship"
           ]
@@ -2886,7 +2894,17 @@
         }
       ],
       "topicSource": "clef",
-      "related": []
+      "related": [
+        {
+          "archiveId": 134,
+          "contentHash": "8e0f0a566859f69b668f8ff948a1edf0f293619b499808aff216b1cd583c68c6",
+          "score": 2.06655,
+          "sharedTopics": [
+            "love-and-mercy",
+            "church-and-community"
+          ]
+        }
+      ]
     },
     "110": {
       "contentHash": "161914ef09811be6fdf3113f2eceb3791f98936b0a96babcb11f605d4ec3d505",
@@ -3158,6 +3176,15 @@
       "topicSource": "clef",
       "related": [
         {
+          "archiveId": 134,
+          "contentHash": "8e0f0a566859f69b668f8ff948a1edf0f293619b499808aff216b1cd583c68c6",
+          "score": 2.7458250000000004,
+          "sharedTopics": [
+            "church-and-community",
+            "service"
+          ]
+        },
+        {
           "archiveId": 126,
           "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
           "score": 2.700525,
@@ -3173,14 +3200,6 @@
           "sharedTopics": [
             "stewardship",
             "service"
-          ]
-        },
-        {
-          "archiveId": 6,
-          "contentHash": "16bae9b0b4e6936b025cea0813e52c61fec85ef78679d8211539cda7574a49f1",
-          "score": 2.05095,
-          "sharedTopics": [
-            "cross-and-sacrifice"
           ]
         }
       ]
@@ -3203,6 +3222,16 @@
       ],
       "topicSource": "clef",
       "related": [
+        {
+          "archiveId": 134,
+          "contentHash": "8e0f0a566859f69b668f8ff948a1edf0f293619b499808aff216b1cd583c68c6",
+          "score": 2.7893,
+          "sharedTopics": [
+            "church-and-community",
+            "discipleship",
+            "service"
+          ]
+        },
         {
           "archiveId": 124,
           "contentHash": "0172006f3a040bcb0d0ea09848f8e6a631a70abba1bf6ccabd5175b4370262ad",
@@ -3246,6 +3275,66 @@
       ],
       "topicSource": "clef",
       "related": []
+    },
+    "134": {
+      "contentHash": "8e0f0a566859f69b668f8ff948a1edf0f293619b499808aff216b1cd583c68c6",
+      "topics": [
+        {
+          "id": "church-and-community",
+          "score": 2.7784
+        },
+        {
+          "id": "service",
+          "score": 2.4645
+        },
+        {
+          "id": "love-and-mercy",
+          "score": 2.2914
+        },
+        {
+          "id": "discipleship",
+          "score": 2.1457
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 126,
+          "contentHash": "d909ffd1f5a4dd59525e446f53ee38ca0b56755071702a72f0dc55527e70ff71",
+          "score": 2.7893,
+          "sharedTopics": [
+            "church-and-community",
+            "service",
+            "discipleship"
+          ]
+        },
+        {
+          "archiveId": 124,
+          "contentHash": "0172006f3a040bcb0d0ea09848f8e6a631a70abba1bf6ccabd5175b4370262ad",
+          "score": 2.7458250000000004,
+          "sharedTopics": [
+            "church-and-community",
+            "service"
+          ]
+        },
+        {
+          "archiveId": 24,
+          "contentHash": "5bd15bf168cd0dd37a267a7caaa3c68a345223257f09440b99e748ea26b5dcfb",
+          "score": 2.288875,
+          "sharedTopics": [
+            "discipleship"
+          ]
+        },
+        {
+          "archiveId": 109,
+          "contentHash": "154d692f3723631c60c57ab9383178fe2684166f35fed69a0a622b5a784ea30a",
+          "score": 2.06655,
+          "sharedTopics": [
+            "church-and-community",
+            "love-and-mercy"
+          ]
+        }
+      ]
     }
   }
 }
