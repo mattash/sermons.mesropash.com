@@ -20,7 +20,7 @@ tags:
   - "Children's sermon"
   - "confession"
   - "Eucharist"
-  - "false idols"
+  - "False idols"
   - "fire of God"
   - "first commandment"
   - "Holy Spirit"
