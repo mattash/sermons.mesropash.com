@@ -19,7 +19,7 @@ tags:
   - "Consequences of sin"
   - "End times and readiness"
   - "God's mercy and second chances"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Luke 13:1-9"
   - "Parenting and discipline as analogy for God's love"
   - "Repentance"

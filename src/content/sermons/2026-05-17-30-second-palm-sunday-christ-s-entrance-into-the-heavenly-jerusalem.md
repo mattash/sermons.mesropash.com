@@ -21,7 +21,7 @@ tags:
   - "Greater Entrance and Psalm 24"
   - "Heaven and earth united through sacrament"
   - "Hebrews 9:24-28"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Matthew 28:19-20 (Great Commission, referenced)"
   - "Prefiguration and fulfillment in Orthodox theology"
   - "Psalm 24:7-10"

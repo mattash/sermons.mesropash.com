@@ -20,7 +20,7 @@ tags:
   - "God's love for the lost"
   - "John 21:15-17"
   - "John 4:1-42"
-  - "Luke 19:1-10"
+  - "Luke 19:1–10"
   - "Matthew 16:16-18"
   - "Matthew 18:12-14"
   - "Matthew 18:6"

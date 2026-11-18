@@ -19,7 +19,7 @@ tags:
   - "Christian community and continuity through the saints"
   - "Encountering Christ through Scripture and prayer"
   - "God the Father's testimony at the Transfiguration and at the Baptism"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Listening to Jesus"
   - "Luke 9:28-36"
   - "Mark 9:2-10"

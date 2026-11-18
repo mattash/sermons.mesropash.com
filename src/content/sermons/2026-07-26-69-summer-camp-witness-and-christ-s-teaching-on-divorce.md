@@ -19,7 +19,7 @@ tags:
   - "Community support for struggling families"
   - "Honest questioning and faith formation"
   - "Jeremiah 31:33 (I will write my law upon your heart)"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Love versus legalism in Christian teaching"
   - "Matthew 19:3-9 (implied, Pharisees questioning Jesus about divorce)"
   - "Sacrificial love as the foundation of Christian commitment"

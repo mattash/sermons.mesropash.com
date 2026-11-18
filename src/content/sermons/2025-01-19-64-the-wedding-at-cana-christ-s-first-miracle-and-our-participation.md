@@ -18,7 +18,7 @@ tags:
   - "Christ's first miracle"
   - "Human participation in divine miracles"
   - "Intercession of Saint Mary"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "John 2:1-11"
   - "Obedience to Christ's teachings"
   - "Offering our best to God"

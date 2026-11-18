@@ -19,7 +19,7 @@ tags:
   - "Children's sermon"
   - "God's love"
   - "Holy Trinity"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Orthodox faith"
   - "Sign of the cross"
   - "St. Cyril of Jerusalem"

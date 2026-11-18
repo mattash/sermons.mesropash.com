@@ -19,7 +19,7 @@ tags:
   - "divine light"
   - "Genesis 1:3"
   - "Holy Trinity"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "law and prophecy"
   - "Luke 9:28-36"
   - "Mark 9:2-10"

@@ -19,7 +19,7 @@ tags:
   - "God as loving Father"
   - "Holy Thursday / Maundy Thursday"
   - "Institution of the Holy Eucharist"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Passover and deliverance from Egypt as foreshadowing"
   - "Sacrifice of Christ on the cross"
   - "Sin and enslavement vs. freedom in Christ"

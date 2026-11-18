@@ -20,7 +20,7 @@ tags:
   - "Holy Thursday"
   - "humility of Christ"
   - "Incarnation"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "John 13:1-17"
   - "John 14:6"
   - "John 6:35"

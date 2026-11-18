@@ -20,7 +20,7 @@ tags:
   - "Eucharist and spiritual nourishment"
   - "Exodus 16 (manna in the wilderness)"
   - "faith and works"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "John 6:1-14"
   - "John 6:16–21"
   - "John 6:28-29"

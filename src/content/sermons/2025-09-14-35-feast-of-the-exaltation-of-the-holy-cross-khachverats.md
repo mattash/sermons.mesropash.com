@@ -19,7 +19,7 @@ tags:
   - "Exaltation of the Holy Cross"
   - "Faith and dedication"
   - "Finding the cross in daily life"
-  - "John 1:1-14"
+  - "John 1:1–14"
   - "Khachkars as symbols of life and the cross"
   - "Matthew 13:45-46"
   - "Matthew 16:24"
