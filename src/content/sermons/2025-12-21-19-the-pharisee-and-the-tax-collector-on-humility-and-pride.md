@@ -17,7 +17,7 @@ tags:
   - "Christian living"
   - "good works"
   - "Humility"
-  - "Luke 18:9-14"
+  - "Luke 18:9–14"
   - "prayer"
   - "pride"
   - "Repentance"
