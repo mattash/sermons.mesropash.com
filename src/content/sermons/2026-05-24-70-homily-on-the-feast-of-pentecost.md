@@ -20,7 +20,7 @@ tags:
   - "Holy Spirit"
   - "John 14:26"
   - "John 14:27"
-  - "peace"
+  - "Peace"
   - "Pentecost"
   - "prayer"
   - "transformation"
