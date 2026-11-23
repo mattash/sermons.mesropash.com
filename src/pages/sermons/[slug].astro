@@ -40,7 +40,7 @@ export async function getStaticPaths() {
 const { entry, discovery, related, html, points } = Astro.props;
 const topics = assignedTopics(discovery);
 const sermon = entry.data;
-const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
+const videoUrl = sermon.sourceVideoUrl ? videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds) : null;
 ---
 
 <BaseLayout title={`${sermon.title} | Sermons | Fr. Mesrop Ash`} description={sermon.theme ?? sermon.title}>
@@ -56,14 +56,16 @@ const videoUrl = videoStartUrl(sermon.sourceVideoUrl, sermon.startSeconds);
       <p>{sermon.theme}</p>
     </div>
 
-    <a
-      class="mt-8 inline-flex rounded-sm bg-pine px-5 py-3 text-sm font-semibold text-white no-underline transition hover:bg-pine/90"
-      href={videoUrl}
-      target="_blank"
-      rel="noreferrer"
-    >
-      Watch on YouTube
-    </a>
+    {videoUrl && (
+      <a
+        class="mt-8 inline-flex rounded-sm bg-pine px-5 py-3 text-sm font-semibold text-white no-underline transition hover:bg-pine/90"
+        href={videoUrl}
+        target="_blank"
+        rel="noreferrer"
+      >
+        Watch on YouTube
+      </a>
+    )}
 
     </header>
     <SermonNavigator points={points} />

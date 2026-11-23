@@ -15,9 +15,9 @@ const sermons = defineCollection({
     sermonType: z.string().nullable(),
     startSeconds: z.number().nullable(),
     endSeconds: z.number().nullable(),
-    sourceVideoId: z.string(),
-    sourceVideoUrl: z.string().url(),
-    sourceVideoTitle: z.string(),
+    sourceVideoId: z.string().optional(),
+    sourceVideoUrl: z.string().url().optional(),
+    sourceVideoTitle: z.string().optional(),
     tags: z.array(z.string())
   })
 });
