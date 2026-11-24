@@ -4,7 +4,7 @@
   "passageVersion": "1",
   "generationModel": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "verificationModel": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-12T22:50:11.670Z",
+  "generatedAt": "2026-11-24T18:43:17.272Z",
   "sermons": {
     "3": {
       "contentHash": "35a1157903cf22049b5bc11b63be02fae66f2e5fa52af77d20e81e9a7b2a668e",
@@ -2193,6 +2193,31 @@
         {
           "text": "God's gift comes before our care.",
           "passageId": "passage-0eb2b05c5b6c74bf"
+        }
+      ]
+    },
+    "151": {
+      "contentHash": "e4e2ff13059e311d3aaa1be7e9632dbb7ea7bb4b517dffad713fd0abf5bc77fd",
+      "points": [
+        {
+          "text": "Christ asks us to receive others in His name.",
+          "passageId": "passage-3973a4651ef2e3c6"
+        },
+        {
+          "text": "Our worth is held by God.",
+          "passageId": "passage-516fa45f5b832cfc"
+        },
+        {
+          "text": "Care for the household continues after welcome.",
+          "passageId": "passage-06d14bfeb5bc4fa0"
+        },
+        {
+          "text": "We share responsibility for the same household.",
+          "passageId": "passage-6ebb906e4480e824"
+        },
+        {
+          "text": "Christ gives Himself to us in Badarak.",
+          "passageId": "passage-6f4b3d82e0a1360e"
         }
       ]
     }
