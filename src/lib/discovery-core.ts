@@ -8,7 +8,7 @@ export const MIN_TOPIC_SCORE = 2;
 export interface DiscoveryEntry {
   id: string;
   body?: string;
-  data: { archiveId: number; title: string; theme: string | null; sourceVideoId: string };
+  data: { archiveId: number; title: string; theme: string | null; sourceVideoId?: string };
 }
 export interface DecisionScore { score: number; confidence: number; substantialProbability: number }
 export type TopicScores = Record<TopicId, DecisionScore>;
@@ -111,7 +111,7 @@ export function buildCandidateLists(entries: DiscoveryEntry[], assignments: Map<
   return new Map(entries.map((source, index) => {
     const sourceTopics = new Set((assignments.get(source.data.archiveId) ?? []).map(({ id }) => id));
     const candidates = entries.flatMap((target, otherIndex) => {
-      if (source.data.archiveId === target.data.archiveId || source.data.sourceVideoId === target.data.sourceVideoId) return [];
+      if (source.data.archiveId === target.data.archiveId || (source.data.sourceVideoId !== undefined && source.data.sourceVideoId === target.data.sourceVideoId)) return [];
       const targetTopics = new Set((assignments.get(target.data.archiveId) ?? []).map(({ id }) => id));
       const shared = [...sourceTopics].filter((id) => targetTopics.has(id));
       if (!shared.length) return [];
@@ -137,7 +137,7 @@ export function currentDiscovery(entries: DiscoveryEntry[], artifact: DiscoveryA
     const topics = record.topics.filter(({ id, score }) => validTopics.has(id) && Number.isFinite(score) && score >= MIN_TOPIC_SCORE && score <= 3);
     const seen = new Set<number>();
     const related = record.related.flatMap((item) => {
-      if (item.archiveId === entry.data.archiveId || seen.has(item.archiveId) || videos.get(item.archiveId) === entry.data.sourceVideoId || item.contentHash !== hashes.get(item.archiveId) || !Number.isFinite(item.score) || item.score < 2 || item.score > 3) return [];
+      if (item.archiveId === entry.data.archiveId || seen.has(item.archiveId) || (entry.data.sourceVideoId !== undefined && videos.get(item.archiveId) === entry.data.sourceVideoId) || item.contentHash !== hashes.get(item.archiveId) || !Number.isFinite(item.score) || item.score < 2 || item.score > 3) return [];
       const target = artifact.sermons[String(item.archiveId)];
       const shared = item.sharedTopics.filter((id) => topics.some((topic) => topic.id === id) && target?.topics.some((topic) => topic.id === id));
       if (!shared.length) return [];

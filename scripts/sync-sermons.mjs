@@ -76,9 +76,13 @@ function markdownFor(sermon) {
     `sermonType: ${yaml(optionalString(sermon.sermonType))}`,
     `startSeconds: ${yaml(optionalNumber(sermon.startSeconds))}`,
     `endSeconds: ${yaml(optionalNumber(sermon.endSeconds))}`,
-    `sourceVideoId: ${yaml(requiredString(sourceVideo.id, "source video id", id))}`,
-    `sourceVideoUrl: ${yaml(requiredString(sourceVideo.url, "source video URL", id))}`,
-    `sourceVideoTitle: ${yaml(requiredString(sourceVideo.title, "source video title", id))}`,
+    ...(sermon.sourceVideo
+      ? [
+          `sourceVideoId: ${yaml(requiredString(sourceVideo.id, "source video id", id))}`,
+          `sourceVideoUrl: ${yaml(requiredString(sourceVideo.url, "source video URL", id))}`,
+          `sourceVideoTitle: ${yaml(requiredString(sourceVideo.title, "source video title", id))}`
+        ]
+      : []),
     "tags:"
   ];
 
