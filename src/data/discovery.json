@@ -3,7 +3,7 @@
   "taxonomyVersion": "1",
   "promptVersion": "1",
   "model": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-24T18:43:11.031Z",
+  "generatedAt": "2026-11-25T00:12:02.845Z",
   "sermons": {
     "3": {
       "contentHash": "f17722f3557e87c8b33fb346c26207dc5c6dc0cc2bf370461a4f5ea1672d76ef",
@@ -629,6 +629,14 @@
       "topicSource": "clef",
       "related": [
         {
+          "archiveId": 155,
+          "contentHash": "749cd76b6282923779f9a184bc003f4af66b8911db58bc7df2fa0f011f31e039",
+          "score": 2.7514,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        },
+        {
           "archiveId": 100,
           "contentHash": "ac65816a9435dcbad207906bd22c64bf4b9e210726fee31ba8e41353c5e674ac",
           "score": 2.56815,
@@ -1034,14 +1042,6 @@
       "topicSource": "clef",
       "related": [
         {
-          "archiveId": 75,
-          "contentHash": "5815aaee11629c09aca8bb86098474945015b56222b2450b5e3a0330dba07e08",
-          "score": 2.4147,
-          "sharedTopics": [
-            "spiritual-growth"
-          ]
-        },
-        {
           "archiveId": 119,
           "contentHash": "a28b14fc9933344c1d492a51d6852e7c2c5962d6532c4a9a70067da97a1fd1ab",
           "score": 2.186375,
@@ -1053,6 +1053,14 @@
           "archiveId": 32,
           "contentHash": "9c0e6c41e1360669231c94e625bae929e078d8f75f442a08edbf9514870a87d5",
           "score": 2.161225,
+          "sharedTopics": [
+            "repentance"
+          ]
+        },
+        {
+          "archiveId": 21,
+          "contentHash": "990d346eec6e2686bd2f6676cc0c1778a7592f54f42d120307f670d231356856",
+          "score": 2.0873,
           "sharedTopics": [
             "repentance"
           ]
@@ -2308,6 +2316,14 @@
           ]
         },
         {
+          "archiveId": 155,
+          "contentHash": "749cd76b6282923779f9a184bc003f4af66b8911db58bc7df2fa0f011f31e039",
+          "score": 2.587325,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
           "archiveId": 52,
           "contentHash": "6ebf6048c41bb472a9d2cf3d642de636cb53d463a5780daf0d2d81a177c05e9e",
           "score": 2.126325,
@@ -2866,17 +2882,17 @@
           ]
         },
         {
-          "archiveId": 77,
-          "contentHash": "3582975f18a500e3fe04464021b3dfac9af86f92313d2a74465384cd706cce17",
-          "score": 2.2464250000000003,
+          "archiveId": 155,
+          "contentHash": "749cd76b6282923779f9a184bc003f4af66b8911db58bc7df2fa0f011f31e039",
+          "score": 2.5294499999999998,
           "sharedTopics": [
             "stewardship"
           ]
         },
         {
-          "archiveId": 52,
-          "contentHash": "6ebf6048c41bb472a9d2cf3d642de636cb53d463a5780daf0d2d81a177c05e9e",
-          "score": 2.0713,
+          "archiveId": 77,
+          "contentHash": "3582975f18a500e3fe04464021b3dfac9af86f92313d2a74465384cd706cce17",
+          "score": 2.2464250000000003,
           "sharedTopics": [
             "stewardship"
           ]
@@ -3408,6 +3424,58 @@
             "church-and-community",
             "discipleship",
             "service"
+          ]
+        }
+      ]
+    },
+    "155": {
+      "contentHash": "749cd76b6282923779f9a184bc003f4af66b8911db58bc7df2fa0f011f31e039",
+      "topics": [
+        {
+          "id": "stewardship",
+          "score": 2.5631
+        },
+        {
+          "id": "gratitude",
+          "score": 2.5268
+        },
+        {
+          "id": "peace-and-anxiety",
+          "score": 2.3458
+        }
+      ],
+      "topicSource": "clef",
+      "related": [
+        {
+          "archiveId": 22,
+          "contentHash": "e0791595e6ee659a9944be2f88ad6642c24f6f2f4c1a7612d5ea350dd82dea0b",
+          "score": 2.7514,
+          "sharedTopics": [
+            "peace-and-anxiety"
+          ]
+        },
+        {
+          "archiveId": 81,
+          "contentHash": "a2d087fa02916ebc5c0ec510c641949d927ed0ff9b1ff63a512411d7f5b9ea96",
+          "score": 2.587325,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 106,
+          "contentHash": "2d488576fb48d1ef38b1c4528f7732a542be35710caaa631223e7313b3b15ba4",
+          "score": 2.5294499999999998,
+          "sharedTopics": [
+            "stewardship"
+          ]
+        },
+        {
+          "archiveId": 104,
+          "contentHash": "dc5fda2a89f449a1a3c76d9ade19ea32a515c4798c6fb82f77606df1a08d991d",
+          "score": 2.2676749999999997,
+          "sharedTopics": [
+            "stewardship"
           ]
         }
       ]

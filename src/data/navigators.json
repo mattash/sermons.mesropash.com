@@ -4,7 +4,7 @@
   "passageVersion": "1",
   "generationModel": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "verificationModel": "@cf/cloudflare/clef",
-  "generatedAt": "2026-11-24T18:43:17.272Z",
+  "generatedAt": "2026-11-25T00:12:12.930Z",
   "sermons": {
     "3": {
       "contentHash": "35a1157903cf22049b5bc11b63be02fae66f2e5fa52af77d20e81e9a7b2a668e",
@@ -2218,6 +2218,27 @@
         {
           "text": "Christ gives Himself to us in Badarak.",
           "passageId": "passage-6f4b3d82e0a1360e"
+        }
+      ]
+    },
+    "155": {
+      "contentHash": "4614bfa42b010a2b8ff0f700590851482e19a5aba18f4b404e63ab2d95a012ee",
+      "points": [
+        {
+          "text": "We worry about having enough.",
+          "passageId": "passage-e92bbf49ddd0871b"
+        },
+        {
+          "text": "Having more does not bring fulfillment.",
+          "passageId": "passage-2e3c0ced271065a2"
+        },
+        {
+          "text": "Christ teaches us to think about others.",
+          "passageId": "passage-86a6f469b44cfe38"
+        },
+        {
+          "text": "What we have is enough if we put priorities right.",
+          "passageId": "passage-7a6fed26f8179304"
         }
       ]
     }
